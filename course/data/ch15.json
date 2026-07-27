@@ -1,0 +1,342 @@
+{
+  "chapter": "CH15",
+  "title": "Introduction to venous thromboembolism and antithrombotic drugs",
+  "units": [
+    {
+      "id": "ch15-u1",
+      "type": "section",
+      "name": "Introduction: venous thromboembolism",
+      "ashsapPage": 177,
+      "assessment": "Can you say roughly how often VTE occurs, in whom the burden falls hardest, and separate low-risk, intermediate-risk and high-risk pulmonary embolism by the clinical, imaging and biomarker findings that define each band?",
+      "lesson": {
+        "title": "2020 ASSH Seminar 1: Venous Thromboembolism",
+        "channel": "Australian Students' Society of Haematology",
+        "url": "https://www.youtube.com/watch?v=qutgXasBqis",
+        "duration": "59:22",
+        "why": "A single hour-long haematology seminar that walks the whole VTE story end to end - burden, presentation, DVT versus PE, and how severity drives the initial treatment decision."
+      },
+      "drills": [
+        {
+          "name": "ASH guideline treatment recommendations",
+          "kind": "clinical",
+          "title": "Treatment | ASH Clinical Practice Guidelines on Venous Thromboembolism (VTE)",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=XLF6Gcxytd0",
+          "duration": "2:31"
+        },
+        {
+          "name": "The population burden of VTE",
+          "kind": "clinical",
+          "title": "Venous Thromboembolism: \"A Public Health Concern\"",
+          "channel": "Caprini Risk Score",
+          "url": "https://www.youtube.com/watch?v=4LHTbIQCyfM",
+          "duration": "47:13"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u2",
+      "type": "section",
+      "name": "The pathophysiology of venous thrombosis",
+      "ashsapPage": 177,
+      "assessment": "Can you name the three arms of Virchow's triad and give, for each, a concrete clinical setting that drives thrombus formation in the valve pocket of a deep vein rather than in an artery?",
+      "lesson": {
+        "title": "Overview of Thrombosis & Treatment",
+        "channel": "Med Ed with Andrew",
+        "url": "https://www.youtube.com/watch?v=mG9PJYc9GlY",
+        "duration": "24:35",
+        "why": "A clinician-level overview that builds venous thrombosis from stasis, endothelial injury and hypercoagulability before moving to treatment, which is exactly the arc of this section."
+      },
+      "drills": [
+        {
+          "name": "Thrombus formation animated",
+          "kind": "mechanism",
+          "title": "Venous Thromboembolism (VTE) Pathology",
+          "channel": "Thrombosis Adviser",
+          "url": "https://www.youtube.com/watch?v=gYm9MBZFaic",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u3",
+      "type": "section",
+      "name": "Diagnosis of VTE",
+      "ashsapPage": 178,
+      "assessment": "For a patient with suspected DVT or PE, can you state how pretest probability scoring, D-dimer and imaging fit together, and identify the combinations that let you safely stop without any imaging at all?",
+      "lesson": {
+        "title": "VTE Diagnosis in the Emergency Department",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=8W8NgOiXeDo",
+        "duration": "44:58",
+        "why": "A dedicated 45-minute talk on the diagnostic pathway as it is actually run - Wells scoring, age-adjusted D-dimer thresholds, and when to go to CTPA or compression ultrasound."
+      },
+      "drills": [
+        {
+          "name": "Diagnostic pitfalls and misconceptions",
+          "kind": "clinical",
+          "title": "Misconceptions in diagnosis of VTE - Prof Beverley Hunt OBE",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=5w8rrAdybTA",
+          "duration": "26:00"
+        },
+        {
+          "name": "ASH guideline diagnostic recommendations",
+          "kind": "clinical",
+          "title": "Diagnosing VTE | ASH Clinical Practice Guidelines on Venous Thromboembolism",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=g4xp5rJMLVw",
+          "duration": "1:42"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u4",
+      "type": "section",
+      "name": "Recurrent VTE despite anticoagulant treatment",
+      "ashsapPage": 179,
+      "assessment": "If a patient clots again while on therapeutic anticoagulation, can you work through the differential - adherence, absorption and dosing, occult malignancy, antiphospholipid antibodies, HIT - and say what you would change about the regimen?",
+      "lesson": {
+        "title": "ISTH Academy Presentation: Anticoagulant Therapy in the Treatment of Venous Thromboembolism",
+        "channel": "ISTH",
+        "url": "https://www.youtube.com/watch?v=e57DHU2HQKQ",
+        "duration": "24:42",
+        "why": "An ISTH Academy talk on anticoagulant therapy for VTE that frames treatment failure and how the choice of agent and intensity is revisited when a patient breaks through."
+      },
+      "drills": [
+        {
+          "name": "The exact bedside scenario",
+          "kind": "clinical",
+          "title": "In the Trenches: Recurrent DVT Despite Therapeutic Anticoagulation ",
+          "channel": "In the Trenches with David A. Cohen MD",
+          "url": "https://www.youtube.com/watch?v=lLzprVC_ahQ",
+          "duration": "5:50"
+        },
+        {
+          "name": "Quantifying recurrence risk",
+          "kind": "clinical",
+          "title": "Risk of Recurrent Venous Thromboembolism",
+          "channel": "American Journal of Medicine",
+          "url": "https://www.youtube.com/watch?v=vfz7sF31l2Y",
+          "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u5",
+      "type": "section",
+      "name": "Duration of anticoagulant therapy",
+      "ashsapPage": 180,
+      "assessment": "Can you decide whether a given VTE earns three months, extended or indefinite anticoagulation, and explain how provoked-versus-unprovoked status, the site of the clot and bleeding risk each push that decision?",
+      "lesson": {
+        "title": "Duration of Anticoagulation Treatment - Case Study",
+        "channel": "ThrombosisCanada",
+        "url": "https://www.youtube.com/watch?v=3bmpCtG77N8",
+        "duration": "25:51",
+        "why": "A case-based Thrombosis Canada session built specifically around the stop-or-continue decision, which is the whole content of this section."
+      },
+      "drills": [
+        {
+          "name": "VTE as a chronic disease",
+          "kind": "clinical",
+          "title": "VTE As A Chronic Illness: Extended Duration Anticoagulation",
+          "channel": "Vasculearn Network",
+          "url": "https://www.youtube.com/watch?v=irJTKGyiJ5c",
+          "duration": "21:28"
+        },
+        {
+          "name": "Reduced-intensity secondary prevention",
+          "kind": "trial",
+          "title": "Oral anticoagulants and antiplatelet drugs in the secondary prevention of venous thromboembolism",
+          "channel": "The BMJ",
+          "url": "https://www.youtube.com/watch?v=ND5kE5_37wM",
+          "duration": "6:35"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u6",
+      "type": "section",
+      "name": "Postthrombotic syndrome",
+      "ashsapPage": 181,
+      "assessment": "Can you describe how postthrombotic syndrome presents, how the Villalta score grades it, and what the randomized evidence actually shows for compression stockings and for catheter-directed thrombolysis as prevention?",
+      "lesson": {
+        "title": "Post thrombotic syndrome- Intervention",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=2v1J3QDJ9vM",
+        "duration": "32:23",
+        "why": "A Thrombosis UK session devoted to postthrombotic syndrome and the interventional options, rather than treating it as a footnote to DVT management."
+      },
+      "drills": [
+        {
+          "name": "Best-practice management review",
+          "kind": "clinical",
+          "title": "Post-Thrombotic Syndrome: Understanding the Effects and Implementing Best Practices for Treatment",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=Pt9D5fJ-HEo",
+          "duration": "1:28:59"
+        },
+        {
+          "name": "Recognising and grading PTS",
+          "kind": "clinical",
+          "title": "Understanding Post-thrombotic Syndrome",
+          "channel": "Vasculearn Network",
+          "url": "https://www.youtube.com/watch?v=DG0JOJ6Dl4g",
+          "duration": "22:03"
+        },
+        {
+          "name": "ATTRACT: does thrombolysis prevent PTS?",
+          "kind": "trial",
+          "title": "The ATTRACT Trial: Catheter Directed Thrombolysis for Proximal Deep Vein Thrombosis",
+          "channel": "FRCS Deepdive",
+          "url": "https://www.youtube.com/watch?v=6wOxDgMlRas",
+          "duration": "7:47"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u7",
+      "type": "section",
+      "name": "Antithrombotic drugs",
+      "ashsapPage": 182,
+      "assessment": "For each class of antithrombotic - factor Xa inhibitor DOAC, direct thrombin inhibitor, LMWH, fondaparinux, UFH - can you state its target, onset, renal handling, monitoring assay and the reversal strategy you would use in a bleeding patient?",
+      "lesson": {
+        "title": "What's New in Antithrombotic Treatment of VTE Disease: ACCP (CHEST) Guidelines Update 2021",
+        "channel": "Anticoagulation Forum",
+        "url": "https://www.youtube.com/watch?v=GxZXcRisoOI",
+        "duration": "56:26",
+        "why": "An Anticoagulation Forum review of the CHEST guideline update that goes agent by agent through the antithrombotics used in VTE and where each one belongs."
+      },
+      "drills": [
+        {
+          "name": "Contemporary anticoagulation update",
+          "kind": "clinical",
+          "title": "Updates in Anticoagulation",
+          "channel": "UCSF Department of Medicine",
+          "url": "https://www.youtube.com/watch?v=Rznl-GHZzV8",
+          "duration": "1:00:56"
+        },
+        {
+          "name": "The drugs demystified",
+          "kind": "clinical",
+          "title": "Anticoagulation for Venous Thromboembolism: Demystifying the Drugs",
+          "channel": "Vasculearn Network",
+          "url": "https://www.youtube.com/watch?v=EZdchEr52qs",
+          "duration": "1:08:33"
+        },
+        {
+          "name": "Pharmacology of antithrombotic agents",
+          "kind": "mechanism",
+          "title": "Antithrombotic agents",
+          "channel": "European Society of Cardiology",
+          "url": "https://www.youtube.com/watch?v=WJH7MLfAOpA",
+          "duration": "42:04"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u8",
+      "type": "section",
+      "name": "Vitamin K antagonists",
+      "ashsapPage": 184,
+      "assessment": "Can you explain why warfarin is not antithrombotic for several days, which vitamin K-dependent factors fall first and why that matters for skin necrosis, and how you would manage a supratherapeutic INR with and without bleeding?",
+      "lesson": {
+        "title": "Vitamin K antagonists",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=R-xabd7i1Fw",
+        "duration": "5:19",
+        "why": "A tight coagulation-focused explainer on how vitamin K antagonists work, what the INR is really measuring and where the pitfalls in monitoring sit."
+      },
+      "drills": [
+        {
+          "name": "Where VKAs still beat DOACs",
+          "kind": "trial",
+          "title": "Direct Oral Anticoagulants vs Vitamin-K Antagonists in Thrombotic Antiphospholipid Syndrome",
+          "channel": "Anticoagulation Forum",
+          "url": "https://www.youtube.com/watch?v=_q5PnNSFCGU",
+          "duration": "1:00:06"
+        },
+        {
+          "name": "Vitamin K intake and INR stability",
+          "kind": "clinical",
+          "title": "Warfarin and Vitamin K",
+          "channel": "Clinical Nutrition University",
+          "url": "https://www.youtube.com/watch?v=ApUCdTe4Qds",
+          "duration": "16:06"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u9",
+      "type": "section",
+      "name": "Management issues",
+      "ashsapPage": 186,
+      "assessment": "Can you plan anticoagulation around an invasive procedure, in severe renal impairment, and at the extremes of body weight, and say in which of those situations an anti-Xa level actually changes what you do?",
+      "lesson": {
+        "title": "Special Populations and Anticoagulation with Dr Jim Douketis",
+        "channel": "ThrombosisCanada",
+        "url": "https://www.youtube.com/watch?v=b5Po7eeRBbs",
+        "duration": "49:04",
+        "why": "Jim Douketis takes the special-population problems - renal failure, obesity, procedures, bleeding - that make up this section and gives a practical rule for each."
+      },
+      "drills": [
+        {
+          "name": "Interrupting and restarting around procedures",
+          "kind": "clinical",
+          "title": "Stopping and starting anticoagulation",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=MPLPpvkVrv0",
+          "duration": "19:44"
+        },
+        {
+          "name": "PAUSE: periprocedural DOAC management",
+          "kind": "trial",
+          "title": "PAUSE: perioperative management of AF patients receiving direct oral anticoagulants",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=TqaGUcKxR6U",
+          "duration": "6:40"
+        },
+        {
+          "name": "Anticoagulating in renal failure",
+          "kind": "clinical",
+          "title": "Anticoagulation and Renal Failure - Case Study",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=VBFrAqp2nRU",
+          "duration": "17:38"
+        },
+        {
+          "name": "Restarting after a bleed",
+          "kind": "clinical",
+          "title": "Restarting Anticoagulation after Bleeding: Whether, When and How - Weekly Research Conference",
+          "channel": "University of Ottawa Heart Institute",
+          "url": "https://www.youtube.com/watch?v=ENiercK0AgE",
+          "duration": "56:34"
+        }
+      ]
+    },
+    {
+      "id": "ch15-u10",
+      "type": "section",
+      "name": "Thrombolytic agents",
+      "ashsapPage": 187,
+      "assessment": "Can you state which patients with pulmonary embolism or iliofemoral DVT should receive systemic or catheter-directed thrombolysis, what the alternatives are when they cannot, and how large the major and intracranial bleeding risk is?",
+      "lesson": {
+        "title": "Management of Anticoagulation & Venous Thrombolysis (Ruth L. Bush, MD)",
+        "channel": "Houston Methodist DeBakey CV Education",
+        "url": "https://www.youtube.com/watch?v=pXDBWKLj3iY",
+        "duration": "17:03",
+        "why": "The only candidate that treats venous thrombolysis as a management decision for a specific patient rather than as a pharmacology list."
+      },
+      "drills": [
+        {
+          "name": "Fibrinolytic agents and their indications",
+          "kind": "mechanism",
+          "title": "Haematology Pharmacology (Thrombolytic Agents)",
+          "channel": "Dr. Deen Medical Lectures",
+          "url": "https://www.youtube.com/watch?v=WzPqSV_utEc",
+          "duration": "17:00"
+        }
+      ]
+    }
+  ]
+}

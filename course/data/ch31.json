@@ -1,0 +1,599 @@
+{
+  "chapter": "CH31",
+  "title": "Hematopoietic cell transplantation and cellular therapy 2: autologous transplantation",
+  "units": [
+    {
+      "id": "ch31-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 367,
+      "assessment": "Can you explain what an autologous transplant actually contributes to a cure — dose intensity rather than any immunological effect — and why the infused cells are called a rescue rather than a treatment?",
+      "lesson": {
+        "title": "Autologous Stem Cell Transplant: Timeline, Procedure, and Recovery",
+        "channel": "Moffitt Cancer Center",
+        "url": "https://www.youtube.com/watch?v=pgBXPJgX7-o",
+        "duration": "33:23",
+        "why": "An academic centre's walk-through of the autologous transplant timeline, from the decision to transplant through collection, high-dose therapy and recovery."
+      },
+      "drills": [
+        {
+          "name": "Where autologous sits next to allogeneic",
+          "kind": "clinical",
+          "title": "Stem Cell Transplant Basics",
+          "channel": "Aaron Goodman MD (\"Papa Heme\")",
+          "url": "https://www.youtube.com/watch?v=2f0PnCQTlWA",
+          "duration": "57:42"
+        },
+        {
+          "name": "When autologous transplant is considered in AML",
+          "kind": "clinical",
+          "title": "Indications for autologous stem cell transplantation in AML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=G0TUErr090g",
+          "duration": "1:23"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u2",
+      "type": "section",
+      "name": "Pretransplant testing",
+      "ashsapPage": 368,
+      "assessment": "Can you name the organ-function, infectious and disease-status tests that must be completed before an autologous transplant, and say which abnormal result would take a patient off the transplant path altogether?",
+      "lesson": {
+        "title": "BMT 101 Lecture for APPs - NPs, PAs, Fellows and Jr Faculty",
+        "channel": "ASTCT",
+        "url": "https://www.youtube.com/watch?v=tErA1DDX-gY",
+        "duration": "53:33",
+        "why": "The clearest structured account in the pool of the pretransplant work-up — organ function, serologies, disease restaging — pitched at fellows."
+      },
+      "drills": [
+        {
+          "name": "Cardiac assessment before transplant",
+          "kind": "clinical",
+          "title": "Cardiac Complications with Bone Marrow Transplant",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=rIc7ocIiNRs",
+          "duration": "59:22"
+        },
+        {
+          "name": "Infection screening and prophylaxis",
+          "kind": "clinical",
+          "title": "Preventing Infectious Complications Among Hematopoietic Stem Cell Transplant Patients -- Minh Ho, MD",
+          "channel": "IDPodcasts",
+          "url": "https://www.youtube.com/watch?v=CQ-sMw02jAI",
+          "duration": "36:51"
+        },
+        {
+          "name": "Disease status before transplant",
+          "kind": "clinical",
+          "title": "Impact of pre-transplant MRD status on disease outcomes in patients with multiple myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=WhJPuuh6e14",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u3",
+      "type": "section",
+      "name": "Stem cell mobilization and collection",
+      "ashsapPage": 368,
+      "assessment": "Can you state the minimum CD34-positive cell dose per kilogram needed for autologous rescue, and describe when you would add a CXCR4 antagonist or switch to chemomobilization after a poor first collection?",
+      "lesson": {
+        "title": "Stem Cell Mobilization: Molecular Biology and Serendipity",
+        "channel": "Yale Cancer Center",
+        "url": "https://www.youtube.com/watch?v=uIKNuQFJ8R0",
+        "duration": "26:41",
+        "why": "Traces mobilization from the biology of CXCR4–SDF-1 marrow retention through to the drugs that exploit it, which is what makes plerixafor and motixafortide make sense."
+      },
+      "drills": [
+        {
+          "name": "Chemomobilization for hard collectors",
+          "kind": "clinical",
+          "title": "Chemotherapy-based stem cell mobilization | Mohty",
+          "channel": "Tetsuzan Benny Ron",
+          "url": "https://www.youtube.com/watch?v=ZJSd_P9lHwc",
+          "duration": "16:21"
+        },
+        {
+          "name": "Plerixafor-containing regimens",
+          "kind": "clinical",
+          "title": "MM: stem cell mobilization regimens with and without plerixafor",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Kcloqq5k1mg",
+          "duration": "1:22"
+        },
+        {
+          "name": "Optimising the apheresis collection",
+          "kind": "clinical",
+          "title": "The optimization of stem cell collection in HSCT",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=VAutur1cCEU",
+          "duration": "6:06"
+        },
+        {
+          "name": "CD34 exhaustion and its consequences",
+          "kind": "mechanism",
+          "title": "The other stem cell in Myeloma: CD34+ mobilization, exhaustion, and SPMs",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=yscEsDxB4Es",
+          "duration": "18:11"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u4",
+      "type": "section",
+      "name": "High-dose chemotherapy regimens for autologous transplant",
+      "ashsapPage": 368,
+      "assessment": "Can you match the preparative regimen to the disease — melphalan alone, BEAM, a thiotepa-based regimen, carboplatin plus etoposide — and explain why the CNS lymphoma regimen has to be different from the others?",
+      "lesson": {
+        "title": "High-dose melphalan as a preparative regimen for autoHSCT in HL and NHL",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=ls6I1RpZx68",
+        "duration": "2:22",
+        "why": "Explains why high-dose melphalan is the backbone for plasma cell disease and how the lymphoma regimens differ from it."
+      },
+      "drills": [
+        {
+          "name": "BEAM and its variants",
+          "kind": "clinical",
+          "title": "Autologous stem cell transplantations: BEAM or BEAC?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=h0nyjuS6SH0",
+          "duration": "2:05"
+        },
+        {
+          "name": "High-dose therapy in myeloma",
+          "kind": "trial",
+          "title": "High dose chemotherapy plus transplant remains standard of care for multiple myeloma patients",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=ryVzCY8N8to",
+          "duration": "4:58"
+        },
+        {
+          "name": "High-dose therapy in mediastinal large B-cell lymphoma",
+          "kind": "clinical",
+          "title": "High-dose chemotherapy and autoSCT for R/R primary mediastinal large B-cell lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=VGzy_ZZDrbM",
+          "duration": "2:10"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u5",
+      "type": "section",
+      "name": "Day of stem cell infusion",
+      "ashsapPage": 369,
+      "assessment": "Can you describe what is actually infused on day zero, which of the infusion-day symptoms come from DMSO rather than from the cells themselves, and how those reactions are prevented and managed?",
+      "lesson": {
+        "title": "Outpatient Autologous Stem cell Transplantation for Myeloma",
+        "channel": "BCNZ",
+        "url": "https://www.youtube.com/watch?v=c5p1DdlPG_c",
+        "duration": "1:03:50",
+        "why": "A transplant service describing how the infusion day and the days immediately after it are run, including the outpatient model where day zero happens without admission."
+      },
+      "drills": [
+        {
+          "name": "The autologous timeline around day zero",
+          "kind": "clinical",
+          "title": "Autologous Stem Cell Transplant: Timeline, Procedure, and Recovery",
+          "channel": "Moffitt Cancer Center",
+          "url": "https://www.youtube.com/watch?v=pgBXPJgX7-o",
+          "duration": "33:23"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u6",
+      "type": "section",
+      "name": "Early toxicities of autologous transplant",
+      "ashsapPage": 369,
+      "assessment": "Can you list the toxicities expected in the first three weeks after high-dose chemotherapy — mucositis, neutropenic fever, engraftment syndrome — and say which of them need empiric antimicrobials rather than supportive care alone?",
+      "lesson": {
+        "title": "Post-HCT infectious complications",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=AgDgtACTkus",
+        "duration": "1:00:33",
+        "why": "The neutropenic window is what dominates the early autologous course, and this lecture covers the bacterial, fungal and viral problems of that window in order."
+      },
+      "drills": [
+        {
+          "name": "Sinusoidal obstruction syndrome",
+          "kind": "clinical",
+          "title": "IACH Webinar Series: Post-Transplant Complications: A Focus on Veno-Occlusive Disease (VOD)",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=vlqvjCS9Nt8",
+          "duration": "43:50"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u7",
+      "type": "section",
+      "name": "Late toxicities of autologous transplant",
+      "ashsapPage": 370,
+      "assessment": "Can you name the late consequences of autologous transplant, including therapy-related myeloid neoplasm and prolonged immune suppression, and say when revaccination and cancer screening should begin?",
+      "lesson": {
+        "title": "Secondary Cancers after Stem Cell Transplant",
+        "channel": "BMT InfoNet",
+        "url": "https://www.youtube.com/watch?v=Ct5_OakA8yM",
+        "duration": "58:20",
+        "why": "Therapy-related myeloid neoplasm is the defining late toxicity of autologous transplant, and this session covers its risk factors, latency and surveillance."
+      },
+      "drills": [
+        {
+          "name": "Late effects seen after transplant generally",
+          "kind": "clinical",
+          "title": "Late Complications After Allogeneic Transplant: Diagnosis & Treatment",
+          "channel": "ASTCT",
+          "url": "https://www.youtube.com/watch?v=k5HROyBpW2s",
+          "duration": "47:07"
+        },
+        {
+          "name": "Stem cell exhaustion and second malignancy",
+          "kind": "mechanism",
+          "title": "The other stem cell in Myeloma: CD34+ mobilization, exhaustion, and SPMs",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=yscEsDxB4Es",
+          "duration": "18:11"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u8",
+      "type": "section",
+      "name": "Multiple myeloma",
+      "ashsapPage": 370,
+      "assessment": "Can you defend or attack upfront autologous transplant in myeloma using the progression-free versus overall survival evidence, and say which patients gain the most from it and what maintenance should follow?",
+      "lesson": {
+        "title": "Minimal Residual Disease After Autologous Stem-Cell Transplant for Patients With Myeloma",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=cz2zZm_H8ug",
+        "duration": "50:30",
+        "why": "Frames transplant in myeloma around the outcome that actually drives current practice — depth of response and measurable residual disease after high-dose melphalan."
+      },
+      "drills": [
+        {
+          "name": "The transplant question summarised",
+          "kind": "trial",
+          "title": "Autologous Stem Cell Transplant in Multiple Myeloma",
+          "channel": "Mayo Proceedings",
+          "url": "https://www.youtube.com/watch?v=IrlJtMq8Smc",
+          "duration": "3:16"
+        },
+        {
+          "name": "How long should maintenance run",
+          "kind": "clinical",
+          "title": "Debate: Myeloma maintenance post-transplant - Indefinite",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=zTpxUti0QLo",
+          "duration": "12:32"
+        },
+        {
+          "name": "Induction and maintenance around transplant",
+          "kind": "clinical",
+          "title": "Autologous transplant advances: induction and maintenance",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=CZ_TZCOPcPY",
+          "duration": "4:13"
+        },
+        {
+          "name": "Where allogeneic transplant still fits",
+          "kind": "clinical",
+          "title": "When is allogeneic transplant the right answer for MM?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=1dmP24sW3Rg",
+          "duration": "4:13"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u9",
+      "type": "section",
+      "name": "Light chain amyloidosis and POEMS syndrome",
+      "ashsapPage": 371,
+      "assessment": "Can you state which light chain amyloidosis patients are fit enough for high-dose melphalan, what cardiac findings exclude them, and how transplant fits into the treatment of POEMS syndrome?",
+      "lesson": {
+        "title": "AL Amyloidosis Treatment Including Stem Cell Transplantation",
+        "channel": "Mayo Clinic",
+        "url": "https://www.youtube.com/watch?v=f6kSzKge8qU",
+        "duration": "18:46",
+        "why": "Directly addresses eligibility for high-dose melphalan and transplant in AL amyloidosis and the organ-function limits that decide it."
+      },
+      "drills": [
+        {
+          "name": "Contemporary AL amyloidosis management",
+          "kind": "clinical",
+          "title": "Current perspectives on management of AL amyloidosis",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=ILcENenOL-k",
+          "duration": "49:28"
+        },
+        {
+          "name": "Osteosclerotic myeloma and POEMS",
+          "kind": "clinical",
+          "title": "6 6 osteosclerotic myeloma POEMS HCD heavy chain disease",
+          "channel": "Medical Haematology",
+          "url": "https://www.youtube.com/watch?v=qkvC48HS3ng",
+          "duration": "4:06"
+        },
+        {
+          "name": "Modern systemic therapy in AL",
+          "kind": "clinical",
+          "title": "Insights into the management of systemic AL amyloidosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=iiBEC5yHVUQ",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u10",
+      "type": "section",
+      "name": "Diffuse large B-cell lymphoma",
+      "ashsapPage": 371,
+      "assessment": "For a large B-cell lymphoma relapsing within twelve months of chemoimmunotherapy, can you argue whether salvage chemotherapy followed by autologous transplant or CD19 CAR T-cell therapy is the better second-line choice?",
+      "lesson": {
+        "title": "Role of CD19 CAR T Cells in Second Line Large B Cell Lymphoma",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=EU5NReOPLcI",
+        "duration": "55:58",
+        "why": "Autologous transplant in relapsed large B-cell lymphoma can no longer be taught without the second-line CAR T-cell trials, and this session sets the two options against each other."
+      },
+      "drills": [
+        {
+          "name": "Choosing therapy at relapse",
+          "kind": "clinical",
+          "title": "Selecting the right treatment for relapsed diffuse large B-cell lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=xxjh1ndn0RY",
+          "duration": "2:06"
+        },
+        {
+          "name": "Transplant in primary mediastinal disease",
+          "kind": "clinical",
+          "title": "High-dose chemotherapy and autoSCT for R/R primary mediastinal large B-cell lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=VGzy_ZZDrbM",
+          "duration": "2:10"
+        },
+        {
+          "name": "Mobilization after lymphoma therapy",
+          "kind": "clinical",
+          "title": "Advances in autologous treatment and mobilization in lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Lu2xbk_7UUM",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u11",
+      "type": "section",
+      "name": "Follicular lymphoma",
+      "ashsapPage": 372,
+      "assessment": "Can you identify which follicular lymphoma patients — for instance those progressing within two years of chemoimmunotherapy — might still be offered autologous transplant, and name what now competes with it?",
+      "lesson": {
+        "title": "DEBATE: Follicular lymphoma patient with early progression - Autologous stem cell transplant",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=-3fOUDQAnmo",
+        "duration": "16:20",
+        "why": "A structured argument for autologous transplant in the early-progression follicular patient, which is the only setting where the question is still live."
+      },
+      "drills": [
+        {
+          "name": "Transplant options in follicular lymphoma",
+          "kind": "clinical",
+          "title": "Stem Cell Transplantation in Follicular Lymphoma",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=UWWdhiVxOQ0",
+          "duration": "5:04"
+        },
+        {
+          "name": "Autologous versus allogeneic in follicular disease",
+          "kind": "clinical",
+          "title": "Allogeneic & Autologous Stem Cell Transplant for Follicular Lymphoma | Yasmina Serroukh, MD | #ASH24",
+          "channel": "HealthTree Foundation for Blood Cancers and HealthTree Foundation for Lymphoma",
+          "url": "https://www.youtube.com/watch?v=jHPDnOclOT0",
+          "duration": "5:06"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u12",
+      "type": "section",
+      "name": "Mantle cell lymphoma",
+      "ashsapPage": 372,
+      "assessment": "Can you say whether autologous transplant still belongs in first remission for a young mantle cell lymphoma patient, and what measurable residual disease and BTK inhibitors have done to that decision?",
+      "lesson": {
+        "title": "How I approach the initial treatment of mantle cell lymphoma",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=u-S7PcHRJto",
+        "duration": "21:13",
+        "why": "Lays out the whole first-line mantle cell algorithm, which is where the consolidation-transplant decision actually gets made."
+      },
+      "drills": [
+        {
+          "name": "The case for upfront transplant",
+          "kind": "clinical",
+          "title": "Debate: Should Younger Patients with Mantle Cell Lymphoma Receive Upfront Autologous SCT? - Yes",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=jCsoXGTyDAM",
+          "duration": "11:11"
+        },
+        {
+          "name": "The case against upfront transplant",
+          "kind": "clinical",
+          "title": "Debate: Should Younger Patients with Mantle Cell Lymphoma Receive Upfront Autologous SCT? - No",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=z8_ec2bVONk",
+          "duration": "17:40"
+        },
+        {
+          "name": "Is transplant still the best option",
+          "kind": "clinical",
+          "title": "Is Autologous Stem Cell Transplantation the Best Option for Mantle Cell Lymphoma?",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=3QBL0pDtxIA",
+          "duration": "8:23"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u13",
+      "type": "section",
+      "name": "Primary CNS lymphoma",
+      "ashsapPage": 372,
+      "assessment": "Can you explain why thiotepa-based conditioning is chosen for consolidation in primary CNS lymphoma, and compare that strategy against reduced-dose whole-brain radiotherapy?",
+      "lesson": {
+        "title": "First-line Treatment of Primary Central Nervous System Lymphoma (PCNSL) (EHA2024)",
+        "channel": "European Hematology Association",
+        "url": "https://www.youtube.com/watch?v=WzNgpya9NBs",
+        "duration": "18:22",
+        "why": "A recent congress lecture on first-line primary CNS lymphoma that reaches the consolidation decision and the role of thiotepa-based high-dose therapy."
+      },
+      "drills": [
+        {
+          "name": "Transplant versus whole-brain radiotherapy",
+          "kind": "trial",
+          "title": "Comparing consolidation options in CNS lymphoma: autoSCT & reduced-dose whole-brain radiation",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=YaWw-ETe0HE",
+          "duration": "4:01"
+        },
+        {
+          "name": "Practical updates in PCNSL",
+          "kind": "clinical",
+          "title": "Updates in Primary Central Nervous System Lymphoma (PCNSL)",
+          "channel": "Lymphoma Australia",
+          "url": "https://www.youtube.com/watch?v=L4xmDOIduwA",
+          "duration": "48:19"
+        },
+        {
+          "name": "How CNS lymphoma presents and is worked up",
+          "kind": "clinical",
+          "title": "Dr. Nayak on CNS Lymphoma | Dana-Farber Cancer Institute",
+          "channel": "Dana-Farber Cancer Institute",
+          "url": "https://www.youtube.com/watch?v=U0TJ9WPxZB0",
+          "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u14",
+      "type": "section",
+      "name": "Hodgkin lymphoma",
+      "ashsapPage": 372,
+      "assessment": "Can you outline when autologous transplant is still indicated in relapsed Hodgkin lymphoma now that brentuximab and checkpoint blockade exist, and what post-transplant maintenance high-risk patients are offered?",
+      "lesson": {
+        "title": "Provider Connections: Dr. Stephen Ansell on Relapsed/Refractory Hodgkin Lymphoma",
+        "channel": "Mayo Clinic",
+        "url": "https://www.youtube.com/watch?v=Y5MYWEY6SAY",
+        "duration": "8:22",
+        "why": "A clinician-directed briefing on relapsed and refractory Hodgkin lymphoma that places autologous transplant among the current salvage options."
+      },
+      "drills": [
+        {
+          "name": "Is transplant still needed at relapse",
+          "kind": "clinical",
+          "title": "Is autologous transplant still needed in relapsed Hodgkin lymphoma?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=JCveGGRG3RE",
+          "duration": "3:44"
+        },
+        {
+          "name": "Consolidation after autologous transplant",
+          "kind": "clinical",
+          "title": "Hodgkin lymphoma remission prolongation: post-ASCT strategies",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=0fhPgwuqbDI",
+          "duration": "3:12"
+        },
+        {
+          "name": "Relapse after transplant: novel agents",
+          "kind": "clinical",
+          "title": "Debate: Hodgkin lymphoma patient who relapses after autologous SCT - Serial novel agents",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=8aURa1IFBKo",
+          "duration": "12:11"
+        },
+        {
+          "name": "Relapse after transplant: allogeneic",
+          "kind": "clinical",
+          "title": "Debate: Hodgkin lymphoma patient who relapses after autologous SCT - Allogeneic SCT",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=rz5yFRXUzS0",
+          "duration": "13:03"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u15",
+      "type": "section",
+      "name": "Autoimmune diseases",
+      "ashsapPage": 372,
+      "assessment": "Can you name the autoimmune diseases in which autologous transplant has randomised evidence, explain the immune-reset rationale, and state the treatment-related mortality a candidate should be quoted?",
+      "lesson": {
+        "title": "What's new in hematopoietic stem cell transplantation for autoimmune disease",
+        "channel": "UWDeptMedicine",
+        "url": "https://www.youtube.com/watch?v=xG5gmxg1QJA",
+        "duration": "55:10",
+        "why": "An academic update covering the diseases, the immune-reset rationale and the outcomes that define transplant for autoimmune disease."
+      },
+      "drills": [
+        {
+          "name": "European experience across autoimmune disease",
+          "kind": "clinical",
+          "title": "Autologous hematopoietic stem cell transplantation in autoimmune diseases",
+          "channel": "Filière de santé FAI²R",
+          "url": "https://www.youtube.com/watch?v=L4xtqTBDNKc",
+          "duration": "32:44"
+        },
+        {
+          "name": "Transplant in multiple sclerosis",
+          "kind": "clinical",
+          "title": "Autologous Hematopoietic Stem Cell Transplantation in MS and other Autoimmune Neurological Diseases",
+          "channel": "UW Medicine Neurosciences Institute",
+          "url": "https://www.youtube.com/watch?v=6Bp7ZNrsDLE",
+          "duration": "59:36"
+        }
+      ]
+    },
+    {
+      "id": "ch31-u16",
+      "type": "section",
+      "name": "Germ cell tumors",
+      "ashsapPage": 373,
+      "assessment": "Can you say how many cycles of high-dose carboplatin and etoposide make up standard salvage for relapsed germ cell tumour, and which relapsed patients should go straight to high-dose therapy rather than conventional salvage?",
+      "lesson": {
+        "url": null,
+        "note": "Re-searched on the regimens and eponyms rather than the section title — high-dose carboplatin and etoposide, the TI-CE regimen, Indiana high-dose salvage, autologous rescue for relapsed germ cell tumour. The second pass returned a Dana-Farber patient explainer on testicular cancer treatment, a 2014 patient symposium and an ovarian cancer animation. Salvage high-dose chemotherapy with autologous rescue in germ cell tumours is simply not taught on YouTube at the level a fellow needs; read the chapter and the TI-CE and TIGER reports instead."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch31-u17",
+      "type": "section",
+      "name": "Pediatric solid tumors",
+      "ashsapPage": 373,
+      "assessment": "Can you explain why consolidation for high-risk neuroblastoma uses one or two sequential autologous transplants, and say what the graft contributes given that these are chemosensitive solid tumours?",
+      "lesson": {
+        "url": null,
+        "note": "Re-searched on tandem autologous transplant, the Children's Oncology Group ANBL0532 trial and high-risk neuroblastoma consolidation. The only on-topic result is a short journal summary of the tandem-versus-single transplant trial, attached below as supplementary. Everything else returned was haploidentical transplant, CAR-T or fundraising appeals, so no lecture here covers autologous consolidation for paediatric solid tumours as a whole."
+      },
+      "drills": [
+        {
+          "name": "Tandem versus single autologous transplant in high-risk neuroblastoma",
+          "kind": "trial",
+          "title": "Julie R. Park, Susan G. Kreissman, Wendy B. London, et alt.",
+          "channel": "Oncoletter",
+          "url": "https://www.youtube.com/watch?v=EwqErWXIffc",
+          "duration": "5:44"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+// app.js — 載入課程資料、渲染、互動與進度追蹤
+import { mountIcons, icon } from "./icons.js";
+import {
+  renderChapter, renderStance, renderHome, setDrillEvidence, setConfig, esc,
+} from "./render.js";
+import { renderMusclePanel, syncMuscleChips, applyFilters as runFilters } from "./filters.js";
+import {
+  buildPlaylist, renderPlaylist, play, stop, fitFrame, watchFrame, initResizer, setLanguages,
+} from "./player.js";
+import { bindKeys, listen as ytListen } from "./keys.js";
+import * as discuss from "./discuss.js";
+
+const $ = (sel, root = document) => root.querySelector(sel);
+const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
+
+const STORE = {
+  done: "bc:done",
+  theme: "bc:theme",
+  open: "bc:open",
+  tab: "bc:tab",
+  playing: "bc:playing",
+  wide: "bc:wide",
+  listW: "bc:listW",
+};
+
+/** playlist 的 url -> index，讓課程內容的影片連結能導向站內播放 */
+const urlIndex = new Map();
+
+const state = {
+  course: null,
+  done: new Set(),
+  filter: "all",
+  query: "",
+  muscles: new Set(),
+  tab: "course",
+  playlist: [],
+  playing: -1,
+  playlistQuery: "",
+  onlyTodo: false,
+};
+
+/* --- 儲存 ---------------------------------------------------------------- */
+
+function load(key, fallback) {
+  try {
+    const raw = localStorage.getItem(key);
+    return raw ? JSON.parse(raw) : fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+function save(key, value) {
+  try {
+    localStorage.setItem(key, JSON.stringify(value));
+  } catch {
+    /* 隱私模式下寫入會失敗，靜默忽略 */
+  }
+}
+
+/** 類型篩選鈕依設定檔的 kinds 產生，框架本身不認識任何主題的類型名稱 */
+function renderKindFilters(c) {
+  const bar = $("#kindFilters");
+  if (!bar) return;
+  const all = bar.querySelector('[data-filter="all"]');
+  bar.innerHTML = "";
+  if (all) bar.append(all);
+  for (const k of c.kinds || []) {
+    const btn = document.createElement("button");
+    btn.className = "FilterBar__btn";
+    btn.type = "button";
+    btn.dataset.filter = k.id;
+    btn.innerHTML =
+      `<span class="Drill__marker" style="background:var(--fgColor-${esc(k.tone || "accent")})"></span>` +
+      esc(k.label);
+    bar.append(btn);
+  }
+}
+
+/** 把 course.config.json 的文案寫進 header、Hero 與頁尾 */
+function applyChrome(data) {
+  const c = data.config || {};
+  const site = c.site || {};
+  const set = (sel, html) => {
+    const el = $(sel);
+    if (el && html != null) el.innerHTML = html;
+  };
+
+  document.title = site.title || site.name || document.title;
+  document.documentElement.lang = site.locale || "en";
+  set(".AppHeader__brand span", esc(site.name || ""));
+  $("#search")?.setAttribute("placeholder", c.ui?.searchPlaceholder || "Search…");
+  set(".ProgressPanel__title", esc(c.ui?.progressLabel || ""));
+  set("#muscleToggle span:first-of-type", esc(c.ui?.facetLabel || ""));
+
+  for (const [key, label] of Object.entries(c.ui?.tabs || {})) {
+    set(`.TabNav__item[data-tab="${key}"] .TabNav__label`, esc(label));
+  }
+
+  set(".Hero__eyebrow", `${$(".Hero__eyebrow svg")?.outerHTML || ""} ${esc(c.hero?.eyebrow || "")}`);
+  set(".Hero h1", esc(c.hero?.heading || ""));
+  set(
+    ".Hero__lede",
+    (c.hero?.lede || "")
+      // {units} 指課程的主要單元數（本課＝書的節數），不是含補充影片的欄位總數
+      .replace("{units}", data.meta.lesson_units)
+      .replace("{videos}", data.meta.video_unique)
+      .replace("{problems}", data.meta.problem_units),
+  );
+  renderKindFilters(c);
+  set(".AppFooter__disclaimer", c.footer?.disclaimer || "");
+  set(".AppFooter__credits", esc(c.footer?.credits || ""));
+}
+
+/* --- 統計 ---------------------------------------------------------------- */
+
+function renderStats() {
+  const { meta, config } = state.course;
+  // 顯示哪些數字由 course.config.json 決定，全部是能從資料實際算出來的
+  $("#heroStats").innerHTML = (config.ui?.stats || [])
+    .map(
+      (s) => `
+        <div class="Stat">
+          <span class="Stat__value">${icon(s.icon, 16)}<span>${esc(meta[s.field] ?? "")}</span></span>
+          <span class="Stat__label">${esc(s.label)}</span>
+        </div>`,
+    )
+    .join("");
+
+  // 單元數／影片欄位數／去重支數是三個不同的東西，講清楚免得讀者對不上
+  $("#heroNote").innerHTML =
+    `${meta.units} entries = ${meta.lesson_units} core lectures + ${meta.drill_units} supplementary videos` +
+    (meta.alt_lessons
+      ? `, plus ${meta.alt_lessons} alternate-language versions, bringing the playlist to ${meta.video_slots} slots`
+      : "") +
+    `. After removing videos shared across sections, that is ${meta.video_unique} distinct videos, ` +
+    `${meta.duration} of runtime.`;
+}
+
+/* --- 側欄 ---------------------------------------------------------------- */
+
+function renderNav() {
+  const groups = (state.course.config.nav || []).map((g) => ({
+    title: g.title,
+    codes: g.chapters,
+  }));
+
+  $("#nav").innerHTML = groups
+    .map(
+      (g) => `
+      <div class="NavList__group-title">${g.title}</div>
+      ${g.codes
+        .map((code) => {
+          const ch = state.course.chapters.find((c) => c.code === code);
+          if (!ch) return "";
+          const done = ch.units.filter((u) => state.done.has(u.id)).length;
+          return `
+            <a class="NavList__item" href="#${esc(code)}" data-nav="${esc(code)}">
+              <span class="NavList__icon">${icon(ch.icon || "circle-dot", 16)}</span>
+              <span class="NavList__label">${esc(ch.title)}</span>
+              <span class="Counter">${done}/${ch.units.length}</span>
+            </a>`;
+        })
+        .join("")}`,
+    )
+    .join("");
+}
+
+/* --- 進度 ---------------------------------------------------------------- */
+
+function totalUnits() {
+  return state.course.chapters.reduce((n, c) => n + c.units.length, 0);
+}
+
+function renderProgress() {
+  const total = totalUnits();
+  const done = state.done.size;
+  $("#progressValue").textContent = `${done} / ${total}`;
+  $("#progressFill").style.width = total ? `${(done / total) * 100}%` : "0%";
+}
+
+function toggleDone(unitId) {
+  state.done.has(unitId) ? state.done.delete(unitId) : state.done.add(unitId);
+  save(STORE.done, [...state.done]);
+
+  const el = $(`[data-unit="${CSS.escape(unitId)}"]`);
+  if (el) {
+    const done = state.done.has(unitId);
+    el.classList.toggle("is-done", done);
+    $(".Unit__check", el)?.setAttribute("aria-checked", String(done));
+  }
+
+  renderProgress();
+  renderNav();
+  updateChapterMeta();
+}
+
+function updateChapterMeta() {
+  state.course.chapters.forEach((ch) => {
+    const el = $(`[data-chapter="${CSS.escape(ch.code)}"]`);
+    if (!el) return;
+    const done = ch.units.filter((u) => state.done.has(u.id)).length;
+    const pct = ch.units.length ? (done / ch.units.length) * 100 : 0;
+    $(".Chapter__progress .ProgressBar__fill", el).style.width = `${pct}%`;
+    const drillTotal = ch.units.reduce((n, u) => n + (u.drills?.length || 0), 0);
+    $(".Chapter__meta", el).textContent =
+      `${ch.units.length} units${drillTotal ? ` · ${drillTotal} videos` : ""}${done ? ` · ${done} done` : ""}`;
+  });
+}
+
+/* --- 搜尋與篩選（實作在 filters.js） -------------------------------------- */
+
+function applyFilters() {
+  runFilters(state, state.course);
+  syncMuscleChips(state.muscles);
+}
+
+/* --- 分頁 ---------------------------------------------------------------- */
+
+function setTab(tab) {
+  state.tab = tab;
+  save(STORE.tab, tab);
+  document.body.dataset.tab = tab; // 給 CSS 用（上課模式要吃滿版、隱藏頁尾）
+
+  $$(".TabNav__item").forEach((b) => {
+    const on = b.dataset.tab === tab;
+    b.classList.toggle("is-selected", on);
+    on ? b.setAttribute("aria-current", "page") : b.removeAttribute("aria-current");
+  });
+
+  $("#view-home").hidden = tab !== "home";
+  $("#main").hidden = tab !== "course";
+  $("#view-stance").hidden = tab !== "stance";
+  $("#view-player").hidden = tab !== "player";
+  scrollTo({ top: 0 });
+
+  if (tab === "player") {
+    refreshPlaylist();
+    requestAnimationFrame(fitFrame);
+  }
+  else stop(); // 離開上課模式就卸掉 iframe，不要背景播放
+}
+
+/* --- 上課模式 ------------------------------------------------------------ */
+
+function refreshPlaylist() {
+  renderPlaylist(state.playlist, {
+    doneSet: state.done,
+    currentIndex: state.playing,
+    query: state.playlistQuery,
+    onlyTodo: state.onlyTodo,
+  });
+}
+
+function playAt(i) {
+  if (i < 0 || i >= state.playlist.length) return;
+  state.playing = i;
+  save(STORE.playing, i);
+  play(state.playlist[i], { total: state.playlist.length });
+  setTimeout(ytListen, 900); // iframe 載入後才收得到 infoDelivery
+  if (load(STORE.wide, false)) {
+    $(".Player").classList.add("is-wide");
+    $("[data-list-label]").textContent = "Show list";
+  }
+  refreshPlaylist();
+  $(".PlaylistItem.is-playing")?.scrollIntoView({ block: "nearest" });
+}
+
+/* --- 事件 ---------------------------------------------------------------- */
+
+function bindEvents() {
+  // 分頁切換
+  $$(".TabNav__item").forEach((b) =>
+    b.addEventListener("click", () => setTab(b.dataset.tab)),
+  );
+
+  // 品牌與首頁上的按鈕都走同一個入口
+  document.addEventListener("click", (e) => {
+    const link = e.target.closest("[data-tab-link]");
+    if (link) {
+      e.preventDefault();
+      return setTab(link.dataset.tabLink);
+    }
+    const goCh = e.target.closest("[data-goto-chapter]");
+    if (goCh) {
+      setTab("course");
+      const el = $(`[data-chapter="${CSS.escape(goCh.dataset.gotoChapter)}"]`);
+      el?.classList.add("is-open");
+      el?.scrollIntoView({ block: "start" });
+    }
+  });
+
+  // 肌群篩選：側欄 chip 與動作內的標籤共用同一組 data-muscle
+  document.addEventListener("click", (e) => {
+    const chip = e.target.closest("[data-muscle]");
+    if (!chip) return;
+    e.preventDefault();
+    e.stopPropagation();
+    const m = chip.dataset.muscle;
+    state.muscles.has(m) ? state.muscles.delete(m) : state.muscles.add(m);
+    if (state.tab !== "course") setTab("course");
+    applyFilters();
+  });
+
+  $("#muscleToggle")?.addEventListener("click", () =>
+    $("#musclePanel").classList.toggle("is-open"),
+  );
+
+  $("#muscleBody")?.addEventListener("click", (e) => {
+    if (!e.target.closest("#muscleClear")) return;
+    state.muscles.clear();
+    applyFilters();
+  });
+
+  // 播放清單
+  $("#playlist").addEventListener("click", (e) => {
+    const item = e.target.closest("[data-play]");
+    if (item) playAt(+item.dataset.play);
+  });
+
+  $("#playerInfo").addEventListener("click", (e) => {
+    const step = e.target.closest("[data-step]");
+    if (step) return playAt(state.playing + +step.dataset.step);
+
+    const mark = e.target.closest("[data-mark-unit]");
+    if (mark) {
+      toggleDone(mark.dataset.markUnit);
+      refreshPlaylist();
+      return;
+    }
+
+    const wide = e.target.closest("[data-toggle-list]");
+    if (wide) {
+      const on = $(".Player").classList.toggle("is-wide");
+      save(STORE.wide, on);
+      $("[data-list-label]").textContent = on ? "Show list" : "Hide list";
+      requestAnimationFrame(fitFrame);
+      return;
+    }
+
+    const disc = e.target.closest("[data-toggle-discuss]");
+    if (disc) {
+      const panel = $("#discussPanel");
+      panel.hidden = !panel.hidden;
+      if (!panel.hidden) {
+        discuss.mount(state.playlist[state.playing]);
+        panel.scrollIntoView({ block: "nearest" });
+      } else {
+        discuss.close();
+      }
+      requestAnimationFrame(fitFrame);
+      return;
+    }
+
+    const goto = e.target.closest("[data-goto-unit]");
+    if (goto) {
+      e.preventDefault();
+      setTab("course");
+      const el = $(`[data-unit="${CSS.escape(goto.dataset.gotoUnit)}"]`);
+      el?.classList.add("is-open");
+      el?.closest(".Chapter")?.classList.add("is-open");
+      el?.scrollIntoView({ block: "center" });
+    }
+  });
+
+  let plDebounce;
+  $("#playlistSearch").addEventListener("input", (e) => {
+    state.playlistQuery = e.target.value;
+    clearTimeout(plDebounce);
+    plDebounce = setTimeout(refreshPlaylist, 120);
+  });
+
+  $("#playlistOnlyTodo").addEventListener("click", (e) => {
+    state.onlyTodo = !state.onlyTodo;
+    e.currentTarget.classList.toggle("is-active", state.onlyTodo);
+    refreshPlaylist();
+  });
+
+  // 課程內容裡點影片 → 切到上課模式站內播放，而不是跳去 YouTube。
+  // 按住 ⌘/Ctrl/Shift 或中鍵時尊重瀏覽器原本行為（開新分頁）。
+  $("#chapters").addEventListener("click", (e) => {
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
+    const link = e.target.closest('a[href*="youtube.com"], a[href*="youtu.be"]');
+    if (!link) return;
+    const i = urlIndex.get(link.href);
+    if (i == null) return; // 不在播放清單裡就讓它正常開連結
+    e.preventDefault();
+    setTab("player");
+    playAt(i);
+  });
+
+  // 主課語言切換
+  $("#chapters").addEventListener("click", (e) => {
+    const langBtn = e.target.closest("[data-lesson]");
+    if (!langBtn) return;
+    e.preventDefault();
+    e.stopPropagation();
+    const box = langBtn.closest(".LessonBox");
+    const i = langBtn.dataset.lesson;
+    $$(".LessonBox__lang", box).forEach((b) => {
+      const on = b === langBtn;
+      b.classList.toggle("is-active", on);
+      b.setAttribute("aria-selected", String(on));
+    });
+    $$("[data-lesson-pane]", box).forEach((p) => {
+      p.hidden = p.dataset.lessonPane !== i;
+    });
+  });
+
+  // 展開／收合 + 完成標記，統一走事件委派
+  $("#chapters").addEventListener("click", (e) => {
+    const check = e.target.closest('[data-action="toggle-done"]');
+    if (check) {
+      e.stopPropagation();
+      toggleDone(check.closest(".Unit").dataset.unit);
+      return;
+    }
+
+    const toggle = e.target.closest("[data-toggle]");
+    if (!toggle) return;
+
+    const kind = toggle.dataset.toggle;
+    const host =
+      kind === "chapter"
+        ? toggle.closest(".Chapter")
+        : kind === "unit"
+          ? toggle.closest(".Unit")
+          : toggle.closest(".Evidence"); // evidence 與 drillev 共用 .Evidence 外框
+    host.classList.toggle("is-open");
+  });
+
+  // 完成標記的鍵盤操作
+  $("#chapters").addEventListener("keydown", (e) => {
+    if (e.key !== " " && e.key !== "Enter") return;
+    const check = e.target.closest('[data-action="toggle-done"]');
+    if (!check) return;
+    e.preventDefault();
+    e.stopPropagation();
+    toggleDone(check.closest(".Unit").dataset.unit);
+  });
+
+  // 搜尋
+  const searchInput = $("#search");
+  let debounce;
+  searchInput.addEventListener("input", () => {
+    state.query = searchInput.value;
+    $("#searchBox").classList.toggle("has-value", !!state.query);
+    clearTimeout(debounce);
+    debounce = setTimeout(applyFilters, 120);
+  });
+
+  $("#searchClear").addEventListener("click", () => {
+    searchInput.value = "";
+    state.query = "";
+    $("#searchBox").classList.remove("has-value");
+    applyFilters();
+    searchInput.focus();
+  });
+
+  // "/" 聚焦搜尋
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "/" && !/^(INPUT|TEXTAREA)$/.test(document.activeElement.tagName)) {
+      e.preventDefault();
+      searchInput.focus();
+    }
+    if (e.key === "Escape" && document.activeElement === searchInput) {
+      searchInput.blur();
+    }
+  });
+
+  // 類型篩選
+  $$(".FilterBar__btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      $$(".FilterBar__btn").forEach((b) => b.classList.remove("is-active"));
+      btn.classList.add("is-active");
+      state.filter = btn.dataset.filter;
+      applyFilters();
+    });
+  });
+
+  // 全部展開／收合
+  $("#expandAll").addEventListener("click", () => {
+    const anyClosed = $$(".Chapter").some((c) => !c.classList.contains("is-open"));
+    $$(".Chapter").forEach((c) => c.classList.toggle("is-open", anyClosed));
+    save(STORE.open, anyClosed);
+  });
+
+  // 重設進度
+  $("#resetProgress").addEventListener("click", () => {
+    if (!state.done.size) return;
+    if (!confirm(`Clear the completion record for ${state.done.size} units?`)) return;
+    state.done.clear();
+    save(STORE.done, []);
+    $$(".Unit").forEach((u) => {
+      u.classList.remove("is-done");
+      $(".Unit__check", u)?.setAttribute("aria-checked", "false");
+    });
+    renderProgress();
+    renderNav();
+    updateChapterMeta();
+  });
+
+  // 主題
+  $("#themeToggle").addEventListener("click", () => {
+    const current =
+      document.documentElement.dataset.theme ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    const next = current === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    save(STORE.theme, next);
+    syncThemeIcon();
+    discuss.syncTheme();
+  });
+
+  // 側欄高亮
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        const code = entry.target.dataset.chapter;
+        $$("[data-nav]").forEach((a) =>
+          a.classList.toggle("is-active", a.dataset.nav === code),
+        );
+      });
+    },
+    { rootMargin: "-72px 0px -70% 0px" },
+  );
+  $$(".Chapter").forEach((c) => observer.observe(c));
+}
+
+function syncThemeIcon() {
+  const dark =
+    (document.documentElement.dataset.theme ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) === "dark";
+  $("#themeToggle svg use").setAttribute("href", dark ? "#i-moon" : "#i-sun");
+}
+
+/* --- 啟動 ---------------------------------------------------------------- */
+
+async function init() {
+  mountIcons();
+  syncThemeIcon();
+
+  let data;
+  try {
+    const res = await fetch("course.json");
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    data = await res.json();
+  } catch (err) {
+    $("#chapters").innerHTML = `
+      <div class="Blankslate">
+        ${icon("triangle-alert", 32)}
+        <p class="Blankslate__heading">Could not load the course data</p>
+        <p>${esc(err.message)}</p>
+      </div>`;
+    return;
+  }
+
+  state.course = data;
+  state.done = new Set(load(STORE.done, []));
+
+  setConfig(data.config);
+  setLanguages(data.config?.languages);
+  discuss.setDiscussions(data.config?.discussions);
+  applyChrome(data);
+  setDrillEvidence(data.drillEvidence);
+
+  $("#chapters").innerHTML = data.chapters
+    .map((ch) => renderChapter(ch, state.done))
+    .join("");
+
+  const stanceEl = $("#view-stance");
+  if (data.stance?.length) {
+    stanceEl.innerHTML = renderStance(data.stance);
+    $("#tabStanceCount").textContent = data.stance.length;
+  } else {
+    stanceEl.remove();
+    $('.TabNav__item[data-tab="stance"]')?.remove();
+  }
+
+  $("#tabCourseCount").textContent = data.meta.lesson_units;
+
+  state.playlist = buildPlaylist(data);
+  state.playlist.forEach((it, i) => urlIndex.set(it.url, i));
+  state.playing = load(STORE.playing, -1);
+
+  $("#landingBody").innerHTML = renderHome(data);
+  renderStats();
+  renderNav();
+  renderMusclePanel(data);
+  renderProgress();
+  bindEvents();
+  watchFrame();
+  initResizer(load(STORE.listW, 0), (w) => save(STORE.listW, w));
+  bindKeys({
+    next: () => {
+      if (state.tab !== "player") setTab("player");
+      playAt(state.playing + 1);
+    },
+    prev: () => {
+      if (state.tab !== "player") setTab("player");
+      playAt(Math.max(0, state.playing - 1));
+    },
+    isPlayerTab: () => state.tab === "player",
+  });
+  applyFilters();
+
+  // ?tab=player&play=12 可直接開到指定分頁與影片，也方便分享連結
+  const params = new URLSearchParams(location.search);
+  const wanted = params.get("tab");
+  setTab(
+    ["home", "course", "player", "stance"].includes(wanted)
+      ? wanted
+      : load(STORE.tab, "home"),
+  );
+
+  const deepPlay = Number(params.get("play"));
+  if (state.tab === "player" && Number.isInteger(deepPlay) && state.playlist[deepPlay]) {
+    state.playing = deepPlay;
+  }
+  // 還原上次看到哪，但不自動播放，回來時先看到資訊就好
+  if (state.tab === "player" && state.playlist[state.playing]) {
+    playAt(state.playing);
+  }
+
+  // 首次造訪展開觀念篇第一章，讓畫面不是一片收合
+  if (load(STORE.open, null) === null) {
+    $('[data-chapter="CH0"]')?.classList.add("is-open");
+  }
+
+  // 深連結：#ch5-u1 直接展開該單元
+  if (location.hash) {
+    const target = $(CSS.escape(location.hash.slice(1)) ? location.hash : "");
+    if (target?.classList.contains("Unit")) {
+      target.classList.add("is-open");
+      target.closest(".Chapter")?.classList.add("is-open");
+      target.scrollIntoView({ block: "center" });
+    } else if (target?.classList.contains("Chapter")) {
+      target.classList.add("is-open");
+    }
+  }
+}
+
+init();

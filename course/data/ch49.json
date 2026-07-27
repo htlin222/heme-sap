@@ -1,0 +1,270 @@
+{
+  "chapter": "CH49",
+  "title": "AL amyloidosis, Waldenström macroglobulinemia, and POEMS syndrome",
+  "units": [
+    {
+      "id": "ch49-u1",
+      "type": "section",
+      "name": "Light chain amyloidosis (AL amyloidosis)",
+      "ashsapPage": 631,
+      "assessment": "Can you explain why only some monoclonal light chains misfold into fibrils, and name the organ syndromes - nephrotic proteinuria, unexplained heart failure, neuropathy, macroglossia - that should trigger testing for AL amyloidosis?",
+      "lesson": {
+        "title": "Diagnosis and Treatment of AL Amyloidosis",
+        "channel": "Aaron Goodman MD (\"Papa Heme\")",
+        "url": "https://www.youtube.com/watch?v=nNwQeabWd-w",
+        "duration": "47:32",
+        "why": "A hematologist's full lecture on how AL amyloidosis presents, how it is confirmed and how it is treated, recorded after daratumumab entered first-line therapy."
+      },
+      "drills": [
+        {
+          "name": "Disease overview from a long-standing referral centre",
+          "kind": "clinical",
+          "title": "AL Amyloidosis Overview by Dr. Morie Gertz",
+          "channel": "Amyloidosis Support Groups",
+          "url": "https://www.youtube.com/watch?v=qscVgShprh4",
+          "duration": "31:25"
+        },
+        {
+          "name": "What makes a particular light chain amyloidogenic",
+          "kind": "mechanism",
+          "title": "Quantifying biomarkers on lambda amyloidogenic light chains to diagnose AL amyloidosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=dKBRyiLgGV8",
+          "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "id": "ch49-u2",
+      "type": "section",
+      "name": "Amyloid subtyping to identify amyloid type",
+      "ashsapPage": 632,
+      "assessment": "Can you say why Congo red birefringence alone does not establish AL amyloidosis, and name the typing methods that reliably separate AL from ATTR and AA before any therapy is started?",
+      "lesson": {
+        "title": "Archive: Pathology of Amyloidosis - Insights From Proteomics",
+        "channel": "UW Video",
+        "url": "https://www.youtube.com/watch?v=GXYAyKkCzJI",
+        "duration": "59:50",
+        "why": "Explains why tissue proteomics displaced immunohistochemistry for typing amyloid, and what Congo red positivity does and does not establish on its own."
+      },
+      "drills": [
+        {
+          "name": "Mass spectrometry typing in a large patient series",
+          "kind": "trial",
+          "title": "Amyloidosis in 592 Patients With Mass Spectrometry-Verified Typing",
+          "channel": "Mayo Proceedings",
+          "url": "https://www.youtube.com/watch?v=x9jK2gEJiew",
+          "duration": "5:00"
+        },
+        {
+          "name": "Why accurate subtyping changes management",
+          "kind": "clinical",
+          "title": "Accurate Subtyping of Amyloidosis",
+          "channel": "Mayo Clinic",
+          "url": "https://www.youtube.com/watch?v=4AClDkXiLbw",
+          "duration": "3:57"
+        },
+        {
+          "name": "Classification of systemic and localised amyloid",
+          "kind": "mechanism",
+          "title": "Systemic and Localized Amyloidosis pathology and classification",
+          "channel": "Betanho Martins Medical",
+          "url": "https://www.youtube.com/watch?v=0zFzQh4l6qY",
+          "duration": "13:34"
+        }
+      ]
+    },
+    {
+      "id": "ch49-u3",
+      "type": "section",
+      "name": "Clinical evaluation and disease staging",
+      "ashsapPage": 633,
+      "assessment": "Can you list the organ-involvement criteria and the cardiac biomarkers used for staging in AL amyloidosis, and explain why cardiac stage dominates survival more than the size of the plasma cell clone does?",
+      "lesson": {
+        "title": "Cardiac Amyloidosis: An Underdiagnosed, Not Rare Disease | DoM Grand Rounds | 15 Feb 2023",
+        "channel": "Stanford Department of Medicine",
+        "url": "https://www.youtube.com/watch?v=WCRnk-MlDEo",
+        "duration": "59:38",
+        "why": "A grand-rounds treatment of cardiac amyloidosis - the imaging, biomarkers and red flags that drive both diagnosis and staging in this disease."
+      },
+      "drills": [
+        {
+          "name": "Bedside evaluation and the diagnostic sequence",
+          "kind": "clinical",
+          "title": "Understanding Cardiac Amyloidosis: Evaluation and Diagnosis w/ Mathew S. Maurer, MD",
+          "channel": "The Texas Heart Institute",
+          "url": "https://www.youtube.com/watch?v=JbNTBiQEXEU",
+          "duration": "11:24"
+        },
+        {
+          "name": "Measuring the plasma cell clone and the free light chains",
+          "kind": "clinical",
+          "title": "Understanding Multiple Myeloma Testing",
+          "channel": "Mayo Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=24__7LAnnhk",
+          "duration": "18:37"
+        }
+      ]
+    },
+    {
+      "id": "ch49-u4",
+      "type": "section",
+      "name": "Treatment approaches",
+      "ashsapPage": 634,
+      "assessment": "For a newly diagnosed patient with AL amyloidosis, can you say what was added to bortezomib-cyclophosphamide-dexamethasone as first-line therapy and on what trial evidence, and who should still be considered for autologous transplant?",
+      "lesson": {
+        "title": "3.3.2026 MGR- AL amyloidosis",
+        "channel": "Emory Department of Medicine",
+        "url": "https://www.youtube.com/watch?v=r-YludW0fzE",
+        "duration": "1:07:37",
+        "why": "A 2026 medical grand rounds on AL amyloidosis, current enough to reflect antibody-based first-line therapy and modern transplant selection."
+      },
+      "drills": [
+        {
+          "name": "How the anti-CD38 antibody is best used in AL",
+          "kind": "trial",
+          "title": "Optimizing the use of daratumumab in AL amyloidosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=W-5fSL4GnIg",
+          "duration": "2:41"
+        },
+        {
+          "name": "Selecting patients for autologous transplant",
+          "kind": "clinical",
+          "title": "Selecting patients with AL amyloidosis for autoHSCT",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=4IpXwp64lY0",
+          "duration": "2:11"
+        },
+        {
+          "name": "What counts as a good enough response",
+          "kind": "clinical",
+          "title": "Goal of therapy in AL amyloidosis: what predicts the best outcome?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Wv5dHGXcbNg",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "id": "ch49-u5",
+      "type": "section",
+      "name": "Treatment of relapsed AL amyloidosis",
+      "ashsapPage": 635,
+      "assessment": "Can you define hematologic and organ response in AL amyloidosis, and say what would make you start second-line therapy in a patient whose free light chains are creeping up while organ function is still stable?",
+      "lesson": {
+        "title": "ARC Talks Webinar: Approaches to Treating Relapsed and Refractory AL Amyloidosis",
+        "channel": "Amyloidosis Research Consortium (ARC)",
+        "url": "https://www.youtube.com/watch?v=fyGc0FG8Ks0",
+        "duration": "1:00:33",
+        "why": "A webinar dedicated to the relapsed and refractory setting - response definitions, when to re-treat, and which agents are used after daratumumab."
+      },
+      "drills": [
+        {
+          "name": "Antibody-drug conjugate data in relapsed AL",
+          "kind": "trial",
+          "title": "Belantamab mafodotin in relapsed systemic AL amyloidosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=5CkL74rfx4s",
+          "duration": "0:48"
+        },
+        {
+          "name": "Venetoclax for t(11;14) clones",
+          "kind": "trial",
+          "title": "t(11;14) translocation patients: venetoclax and triplet therapy",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=bR5nkSLhzYc",
+          "duration": "2:13"
+        },
+        {
+          "name": "Whether deeper responses translate into organ benefit",
+          "kind": "trial",
+          "title": "Durability of MRD in AL amyloidosis: the impact on clinical outcomes",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=QIlG0LGOMAU",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "id": "ch49-u6",
+      "type": "section",
+      "name": "Waldenström macroglobulinemia",
+      "ashsapPage": 636,
+      "assessment": "Can you state how often MYD88 L265P and CXCR4 mutations occur in Waldenstrom macroglobulinemia, how they predict response to BTK inhibition, and when hyperviscosity means plasmapheresis before any systemic therapy?",
+      "lesson": {
+        "title": "Management of Waldenstrom Macroglobulinemia: an update",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=uG7MbnXNjGg",
+        "duration": "1:01:01",
+        "why": "A 2023 clinician-facing management update that covers the IgM paraprotein, hyperviscosity, when to treat, and how chemoimmunotherapy and BTK inhibitors are chosen between."
+      },
+      "drills": [
+        {
+          "name": "Second full disease session on Waldenstrom macroglobulinemia",
+          "kind": "clinical",
+          "title": "Waldenstrom Macroglobulinemia",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=NmnsUvQ0mbo",
+          "duration": "55:45"
+        },
+        {
+          "name": "Bing-Neel syndrome: recognition and treatment",
+          "kind": "clinical",
+          "title": "Bing-Neel Update with Dr. Shirley D'Sa (March 2022)",
+          "channel": "IWMF - International Waldenstrom Foundation",
+          "url": "https://www.youtube.com/watch?v=SI9UNMQ0ro0",
+          "duration": "38:10"
+        },
+        {
+          "name": "What happens when BTK inhibitors are stopped",
+          "kind": "trial",
+          "title": "Long-term outcomes of patients with Waldenström's macroglobulinemia who discontinue BTKi therapy",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=xeplZdW_UWA",
+          "duration": "1:51"
+        }
+      ]
+    },
+    {
+      "id": "ch49-u7",
+      "type": "section",
+      "name": "POEMS syndrome",
+      "ashsapPage": 638,
+      "assessment": "Can you list the mandatory and major criteria for POEMS syndrome, explain what VEGF measurement adds, and say which patients are cured with radiotherapy alone versus needing systemic therapy and transplant?",
+      "lesson": {
+        "title": "Part 1 - Comprehensive Diagnosis and Management of POEMS Syndrome",
+        "channel": "HemaSphere Journal",
+        "url": "https://www.youtube.com/watch?v=TE-t-rPztJw",
+        "duration": "23:24",
+        "why": "A journal-produced teaching session built specifically around the POEMS diagnostic criteria and how the syndrome is managed."
+      },
+      "drills": [
+        {
+          "name": "Second half of the same POEMS teaching session",
+          "kind": "clinical",
+          "title": "Comprehensive Diagnosis and Management of POEMS Syndrome, Part 2",
+          "channel": "HemaSphere Journal",
+          "url": "https://www.youtube.com/watch?v=hBE7KShFRhI",
+          "duration": "24:33"
+        },
+        {
+          "name": "Autologous transplant as definitive therapy",
+          "kind": "clinical",
+          "title": "Autologous stem cell transplant for POEMS Syndrome",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=ltmox0oRrO8",
+          "duration": "2:56"
+        },
+        {
+          "name": "Papilledema and the neuro-ophthalmic findings",
+          "kind": "clinical",
+          "title": "POEMS syndrome",
+          "channel": "Neuro-Ophthalmology with Dr. Andrew G. Lee",
+          "url": "https://www.youtube.com/watch?v=_GzrI9zm1Lc",
+          "duration": "3:33"
+        }
+      ]
+    }
+  ]
+}

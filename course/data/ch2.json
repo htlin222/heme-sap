@@ -1,0 +1,188 @@
+{
+  "chapter": "CH2",
+  "title": "Consultative hematology 2: outpatient hematology topics",
+  "units": [
+    {
+      "id": "ch2-u1",
+      "type": "section",
+      "name": "The role of the hematology consultant",
+      "ashsapPage": 9,
+      "assessment": "What question is a hematology consultant actually being asked to answer, when does an abnormal count warrant referral rather than a repeat test in six weeks, and how do the ASH Choosing Wisely recommendations change what you should decline to order?",
+      "lesson": {
+        "title": "When is a Hematology Consult Needed?",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=N3b6Olydhzg",
+        "duration": "4:11",
+        "why": "Directly addresses the triage question that opens this chapter — which abnormal counts and coagulation results actually need a hematologist."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch2-u2",
+      "type": "section",
+      "name": "Thrombocytopenia",
+      "ashsapPage": 10,
+      "assessment": "What must you exclude on the blood film before you accept a low platelet count as real, which viral infections belong in the first-pass workup, why is there no confirmatory test for immune thrombocytopenia, and what raises the count before surgery in chronic liver disease?",
+      "lesson": {
+        "title": "#167 LIVE! Common CBC Abnormalities with Mary Kwok MD",
+        "channel": "The Curbsiders Internal Medicine Podcast",
+        "url": "https://www.youtube.com/watch?v=SqKBDYyZ4Is",
+        "duration": "50:04",
+        "why": "The best available walk through the outpatient approach to an abnormal CBC with a hematologist, including how far to take an isolated low platelet count."
+      },
+      "drills": [
+        {
+          "name": "Heparin-induced thrombocytopenia in depth",
+          "kind": "clinical",
+          "title": "Diagnosis and management of Heparin induced thrombocytopenia",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=CeE4L26XZOk",
+          "duration": "1:00:46"
+        },
+        {
+          "name": "When ITP needs treating",
+          "kind": "clinical",
+          "title": "Initiating Therapy in ITP",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=QnFgncXQfbo",
+          "duration": "5:18"
+        },
+        {
+          "name": "What mild isolated thrombocytopenia predicts",
+          "kind": "clinical",
+          "title": "Long-term risks associated with persistent isolated mild thrombocytopenia",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=lLdssNPap7g",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u3",
+      "type": "section",
+      "name": "Approach to the patient with excessive bleeding",
+      "ashsapPage": 12,
+      "assessment": "How do you structure a bleeding history and the laboratory sequence that follows it — screening tests, mixing study, then specific factor assays — and what do you tell a patient whose bleeding history is convincing but whose testing comes back entirely normal?",
+      "lesson": {
+        "title": "Bleeding Disorders with Dr. Sharma",
+        "channel": "UofL Internal Medicine Lecture Series",
+        "url": "https://www.youtube.com/watch?v=5q5sy_shMk8",
+        "duration": "1:02:58",
+        "why": "An hour on the diagnostic approach to a suspected bleeding disorder, following the same history then screening then mixing study then factor assay path this section lays out."
+      },
+      "drills": [
+        {
+          "name": "Hemostasis and thrombosis for the consultant",
+          "kind": "clinical",
+          "title": "An Approach to Hemostasis and Thrombosis for the Internist",
+          "channel": "Baptist Health",
+          "url": "https://www.youtube.com/watch?v=bJ-tcQLg4aw",
+          "duration": "54:34"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u4",
+      "type": "section",
+      "name": "Leukocytosis",
+      "ashsapPage": 14,
+      "assessment": "Faced with a persistently raised white cell count, how do you separate a reactive leukocytosis from a myeloid neoplasm using the differential, the smear and the clinical context, and which findings push you to order flow cytometry, cytogenetics or molecular testing?",
+      "lesson": {
+        "title": "Leukocytosis Explained: Types, Causes, Investigations, and Management",
+        "channel": "Myhematology",
+        "url": "https://www.youtube.com/watch?v=r1slqo1YXqo",
+        "duration": "7:42",
+        "why": "Runs through the classification, causes, investigation and management of leukocytosis in the order a consultant would work through them."
+      },
+      "drills": [
+        {
+          "name": "Leukocytosis as a clue to a myeloproliferative neoplasm",
+          "kind": "clinical",
+          "title": "Treating Leukocytosis in Polycythemia Vera",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=VVcm6i5jjJI",
+          "duration": "6:15"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u5",
+      "type": "section",
+      "name": "Leukopenia and neutropenia",
+      "ashsapPage": 14,
+      "assessment": "What counts define mild, moderate and severe neutropenia, and how do you distinguish a constitutional low count such as Duffy-null associated neutrophil count from drug-induced agranulocytosis, autoimmune neutropenia, large granular lymphocytic leukemia and marrow failure?",
+      "lesson": {
+        "title": "Understanding Duffy-null Associated Neutrophil Count (DANC) | Insights with Dr. Lauren Merz",
+        "channel": "American Society of Hematology",
+        "url": "https://www.youtube.com/watch?v=SfT4Bmm8tVM",
+        "duration": "2:46",
+        "why": "The American Society of Hematology's own briefing on Duffy-null associated neutrophil count, which is the single most consequential recent change in how a low ANC is interpreted: it reframes a constitutionally low count in people of African ancestry as a normal variant rather than a disease, and states the count range in which no workup is owed."
+      },
+      "drills": [
+        {
+          "name": "Drug-induced agranulocytosis as a case",
+          "kind": "clinical",
+          "title": "CoMICs Episode 35: ATD-induced agranulocytosis",
+          "channel": "SIMBA & CoMICs- DEVI Collaboration",
+          "url": "https://www.youtube.com/watch?v=z2Jj-GLK1oc",
+          "duration": "3:22"
+        },
+        {
+          "name": "Where chronic neutropenia sits",
+          "kind": "clinical",
+          "title": "What Are Chronic Neutropenic Disorders?",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=b4U1XTB__Oc",
+          "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u6",
+      "type": "section",
+      "name": "Lymphadenopathy",
+      "ashsapPage": 16,
+      "assessment": "Which features of an enlarged lymph node — size, consistency, mobility, tenderness, site and duration — move you towards biopsy rather than observation, and why is excisional biopsy preferred over fine-needle aspiration when lymphoma is on the differential?",
+      "lesson": {
+        "title": "#202 LIVE! Lymphadenopathy: Taking Your Lumps",
+        "channel": "The Curbsiders Internal Medicine Podcast",
+        "url": "https://www.youtube.com/watch?v=qCPeLZe2rmE",
+        "duration": "43:59",
+        "why": "A case-driven session on evaluating lymphadenopathy that covers the alarm features and the biopsy decision, which is what this short section turns on."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch2-u7",
+      "type": "section",
+      "name": "Splenomegaly",
+      "ashsapPage": 16,
+      "assessment": "How do you confirm and size an enlarged spleen, what does the pattern of the accompanying blood counts tell you about congestive, infiltrative, infective and neoplastic causes, and which diagnoses does massive splenomegaly narrow you down to?",
+      "lesson": {
+        "title": "25th Masterclass Lecture on Approach the patient with Huge Splenomegaly, 05th July 2023",
+        "channel": "River Route Events",
+        "url": "https://www.youtube.com/watch?v=oS5JXPWqt3Q",
+        "duration": "45:57",
+        "why": "A masterclass built around the patient with a very large spleen, working from examination and imaging to the differential the way this section does."
+      },
+      "drills": [
+        {
+          "name": "Splenic lymphoma on blood and marrow",
+          "kind": "clinical",
+          "title": "How to diagnose lymphomas presenting as splenomegaly by peripheral blood & bone marrow studies ?",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=1-PUPLa-73U",
+          "duration": "2:06:19"
+        },
+        {
+          "name": "Splenomegaly as a treatment target",
+          "kind": "clinical",
+          "title": "Managing splenomegaly in patients with myelofibrosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=_mQKSE1gWG0",
+          "duration": "3:44"
+        }
+      ]
+    }
+  ]
+}

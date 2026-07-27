@@ -1,0 +1,54 @@
+{
+ "conditions": [
+  {
+   "unit": "concept-1",
+   "name": "This is an index of other people's videos, not a course",
+   "evidence_grade": "evolving",
+   "summary": "Nothing here was made for this site. Every video is a third-party recording chosen because it teaches one section of ASH-SAP better than the alternatives that a search returned — not because it was reviewed, updated, or endorsed by anyone. Educational quality on YouTube is known to vary widely even within medical topics, and curation narrows that spread without eliminating it.",
+   "practice": "Treat a video as a way to get unstuck on a section, then return to the book. The book is the authority here; the video is a teaching aid.",
+   "key_findings": [
+    "Videos were selected from real search results by a fellowship-level bar: society, journal and academic sources preferred; med-student, exam-prep and patient-education channels excluded.",
+    "1,229 distinct videos across 449 sections, from 2,240 candidate channels narrowed by an explicit channel policy.",
+    "No video was produced, edited or fact-checked by this project; links and public metadata only."
+   ],
+   "caveats": "A channel-level policy is a proxy for quality, not a measurement of it. A society channel can still post a weak talk, and an unknown channel can post an excellent one.",
+   "citations": []
+  },
+  {
+   "unit": "concept-2",
+   "name": "Video currency lags guideline change, badly",
+   "evidence_grade": "contested",
+   "summary": "Hematology treatment moves faster than recorded lectures do. Between the 9th edition and now, MDS classification was rewritten twice, IPSS-M superseded IPSS-R, CAR-T moved to second line in large B-cell lymphoma, quadruplet induction became standard in myeloma, and momelotinib and pirtobrutinib entered practice. A lecture recorded before any of those is not merely dated — on treatment questions it is wrong.",
+   "practice": "Curation applied a recency filter to treatment content and none to mechanism, physiology, morphology or classification, which do not expire the same way. Where a dated video was the only option, the selection note says so.",
+   "key_findings": [
+    "Treatment videos in fast-moving diseases were filtered for recency; several units carry an explicit note that the best available video predates the current standard.",
+    "Mechanism and pathophysiology videos were accepted at any age, because the biology has not changed.",
+    "The site records upload provenance but cannot re-record anything — currency degrades with time and nobody is notified when it does."
+   ],
+   "caveats": "This degrades from the day it is published. Anything driving a treatment decision must be checked against the current ASH, NCCN or ESMO guideline, not against a video.",
+   "citations": [
+    {
+     "pmid": "11572738",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11572738",
+     "title": "Validity of the Agency for Healthcare Research and Quality clinical practice guidelines: how quickly do guidelines become outdated?",
+     "journal": "JAMA",
+     "year": "2001"
+    }
+   ]
+  },
+  {
+   "unit": "concept-3",
+   "name": "Coverage is uneven, and 38 sections are simply blank",
+   "evidence_grade": "evolving",
+   "summary": "YouTube's coverage of hematology is wildly uneven. Sickle cell disease and multiple myeloma have more video than anyone could watch, most of it aimed at patients. Nonsecretory myeloma, cation permeability defects, the T-follicular-helper immunophenotype and salvage chemotherapy for germ cell tumours have essentially nothing at fellowship level. Those sections are left visibly empty with a note saying what was searched.",
+   "practice": "An empty slot is information: it says the open web does not teach this and the book is your only source. Padding it with a related-but-wrong video would have been worse.",
+   "key_findings": [
+    "38 of 449 sections have no core lecture; each carries a note naming what was searched and why nothing qualified.",
+    "Some blanks were artefacts of search rather than of the world — 'CAT' returned veterinary videos, 'permeability' soil mechanics, 'PCT' bodybuilding post-cycle therapy — and those units were re-searched with drug names and eponyms.",
+    "Supplementary videos are weighted toward high-yield topics rather than spread evenly, so section counts do not reflect exam weight."
+   ],
+   "caveats": "Coverage reflects what exists on YouTube in English, which is not the same as what matters on the boards. Do not read the density of videos as a signal of importance.",
+   "citations": []
+  }
+ ]
+}

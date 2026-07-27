@@ -1,0 +1,294 @@
+{
+  "chapter": "CH11",
+  "title": "Sickle cell disease",
+  "units": [
+    {
+      "id": "ch11-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 125,
+      "assessment": "Can you list the genotypes that make up sickle cell disease, and trace the path from HbS polymerization through hemolysis, adhesion and inflammation to vaso-occlusion and cumulative organ damage?",
+      "lesson": {
+        "title": "Haematology series: Sickle cell disease",
+        "channel": "Mind the Bleep",
+        "url": "https://www.youtube.com/watch?v=hXa4I0Zuufs",
+        "duration": "59:48",
+        "why": "A full clinician-directed teaching session on sickle cell disease that sets out genotypes, pathophysiology and the shape of the disease before the organ-specific sections."
+      },
+      "drills": [
+        {
+          "name": "Biochemistry of HbS",
+          "kind": "mechanism",
+          "title": "Biochemistry of Sickle Cell Anemia & HbS",
+          "channel": "the bumbling biochemist",
+          "url": "https://www.youtube.com/watch?v=q5CzzD6OpLQ",
+          "duration": "26:17"
+        },
+        {
+          "name": "Sickle cell trait and exertion",
+          "kind": "clinical",
+          "title": "Sickle Cell Trait- Exertional Sickling in Athletes",
+          "channel": "FSUMedMedia",
+          "url": "https://www.youtube.com/watch?v=EIkq1ZePjEk",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u2",
+      "type": "section",
+      "name": "Laboratory features",
+      "ashsapPage": 126,
+      "assessment": "Can you interpret a hemoglobin quantitation showing HbS with HbA, and separate sickle cell trait from HbS/beta-plus thalassemia and from HbSS using the indices, the film and the percentages?",
+      "lesson": {
+        "title": "Lab Aspects of Haemoglobinopathies (Sickle Cell) inc. difficult cases and challenges of diagnosis",
+        "channel": "West London HCC",
+        "url": "https://www.youtube.com/watch?v=-86k1o8cFtg",
+        "duration": "55:59",
+        "why": "A laboratory-diagnosis session built around difficult cases and pitfalls in identifying sickle haemoglobin, which is precisely what this laboratory-features section covers."
+      },
+      "drills": [
+        {
+          "name": "Sickled cells on the smear",
+          "kind": "clinical",
+          "title": "Sickle Cell Anemia under the Microscope: Peripheral Blood Smear",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=XCAZgFFVeYY",
+          "duration": "0:24"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u3",
+      "type": "section",
+      "name": "Clinical manifestations",
+      "ashsapPage": 127,
+      "assessment": "Can you recognise the sickle cell emergencies - acute chest syndrome, splenic sequestration, parvovirus aplastic crisis, stroke, priapism - and say what separates each from an uncomplicated painful episode?",
+      "lesson": {
+        "title": "Sickle Cell Crisis Explained | VOC, Acute Chest Syndrome & Emergencies Made Simple",
+        "channel": "Whiteboard Medicine Emergency And Critical Care",
+        "url": "https://www.youtube.com/watch?v=4ZmQQ8zosdY",
+        "duration": "33:50",
+        "why": "Organises the acute presentations of sickle cell disease the way they actually arrive, which is the framework this clinical-manifestations section is teaching."
+      },
+      "drills": [
+        {
+          "name": "Presentation patterns",
+          "kind": "clinical",
+          "title": "Clinical Presentations Associated With Sickle Cell Disease",
+          "channel": "HCPLive",
+          "url": "https://www.youtube.com/watch?v=0bXLwMxB5kY",
+          "duration": "7:33"
+        },
+        {
+          "name": "Chronic complication burden",
+          "kind": "clinical",
+          "title": "Considering Complications of Sickle Cell Disease",
+          "channel": "AJMCtv MJH",
+          "url": "https://www.youtube.com/watch?v=JvCLDfLF_S4",
+          "duration": "7:45"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u4",
+      "type": "section",
+      "name": "Painful episodes",
+      "ashsapPage": 129,
+      "assessment": "Can you describe your analgesic plan for an acute vaso-occlusive episode, including how fast the first parenteral dose should be given, and how you would adjust it for a patient already on chronic opioids?",
+      "lesson": {
+        "title": "Sickle Cell Disease: Vaso Occlusive Episodes in the Emergency Department",
+        "channel": "sickleaware duke",
+        "url": "https://www.youtube.com/watch?v=aZvDt0ojyas",
+        "duration": "51:50",
+        "why": "A full session on managing vaso-occlusive episodes in the acute setting, including time-to-analgesia targets and the reasons sickle cell pain is systematically undertreated."
+      },
+      "drills": [
+        {
+          "name": "Chronic pain phenotype",
+          "kind": "clinical",
+          "title": "Chronic Pain and Sickle Cell Disease with Dr. Jeffery Weisman",
+          "channel": "Stanford Pain Medicine",
+          "url": "https://www.youtube.com/watch?v=x91R4zsgGS8",
+          "duration": "30:51"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u5",
+      "type": "section",
+      "name": "Central nervous system disease",
+      "ashsapPage": 130,
+      "assessment": "Can you state at what ages and with which test children with sickle cell anemia are screened for stroke risk, what velocity triggers chronic transfusion, and what a silent cerebral infarct predicts?",
+      "lesson": {
+        "title": "Webinar #7: Sickle Cell Disease and the Brain - Kaitlyn Strumph, DO",
+        "channel": "Montefiore Health System",
+        "url": "https://www.youtube.com/watch?v=GUp3opsZYgg",
+        "duration": "48:55",
+        "why": "A dedicated grand-rounds style talk on cerebrovascular and cognitive disease in sickle cell disease, covering TCD screening, overt stroke and silent infarcts."
+      },
+      "drills": [
+        {
+          "name": "Neurodevelopmental effects",
+          "kind": "clinical",
+          "title": "Dr Eboni Lance, MD- Neurodevelopmental effects of Sickle cell disease",
+          "channel": "Downstate Neurology",
+          "url": "https://www.youtube.com/watch?v=WY2ED9zyQd4",
+          "duration": "57:59"
+        },
+        {
+          "name": "Neurology of blood disease",
+          "kind": "clinical",
+          "title": "Subspecialty Lecture: Neurological Manifestations of Hematological Diseases with Dr. Dana Shani",
+          "channel": "BRAINterns Webinar Series",
+          "url": "https://www.youtube.com/watch?v=VGuZ-BREhrA",
+          "duration": "58:52"
+        },
+        {
+          "name": "Neurocognition after transplant",
+          "kind": "trial",
+          "title": "Significantly improving HRQL and neurocognition in high-risk sickle cell following familial ASCT",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=guKmgYYbquA",
+          "duration": "6:09"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u6",
+      "type": "section",
+      "name": "Pulmonary disease",
+      "ashsapPage": 131,
+      "assessment": "Can you define acute chest syndrome, name its usual precipitants, and say at what point you would escalate from simple transfusion to red cell exchange in a hypoxic patient?",
+      "lesson": {
+        "title": "1/22/21 Pulmonary Complications of Sickle Cell Disease- Dr. Shakaroun",
+        "channel": "Chief Fellow",
+        "url": "https://www.youtube.com/watch?v=hx00fM3Ig2k",
+        "duration": "36:08",
+        "why": "A fellow-level lecture devoted to the pulmonary complications of sickle cell disease, from acute chest syndrome through chronic lung disease and pulmonary hypertension."
+      },
+      "drills": [
+        {
+          "name": "Emerging pulmonary treatments",
+          "kind": "clinical",
+          "title": "Pulmonary Complications and Emerging Treatments of Sickle Cell Disease",
+          "channel": "American Thoracic Society",
+          "url": "https://www.youtube.com/watch?v=aRcE8ZIFZPg",
+          "duration": "7:09"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u7",
+      "type": "section",
+      "name": "Cardiac disease",
+      "ashsapPage": 132,
+      "assessment": "Can you explain why an elevated tricuspid regurgitant jet velocity matters in sickle cell disease, and how you would separate anemia-driven high-output physiology from true pulmonary hypertension or a restrictive cardiomyopathy?",
+      "lesson": {
+        "title": "Sickle Cell: Cardiac issues and management",
+        "channel": "West London HCC",
+        "url": "https://www.youtube.com/watch?v=CNemnISOVNY",
+        "duration": "54:19",
+        "why": "A haemoglobinopathy centre session devoted to the cardiac phenotype of sickle cell disease - the high-output state that anemia alone produces, diastolic dysfunction, the significance of a raised tricuspid regurgitant jet velocity, and how these are told apart and managed."
+      },
+      "drills": [
+        {
+          "name": "Emerging cardiac evidence",
+          "kind": "clinical",
+          "title": "Cardiac Complications in Sickle Cell Disease: Emerging Evidence and Risks",
+          "channel": "ReachMD",
+          "url": "https://www.youtube.com/watch?v=emYH0YGerpE",
+          "duration": "4:00"
+        },
+        {
+          "name": "Distinct heart failure mechanisms",
+          "kind": "mechanism",
+          "title": "Characterizing distinct mechanisms of heart failure in patients with sickle cell disease",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=f7ongzk1Sg4",
+          "duration": "1:07"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u8",
+      "type": "section",
+      "name": "Reproductive health and pregnancy",
+      "ashsapPage": 133,
+      "assessment": "Can you counsel a woman with sickle cell disease about contraception, the maternal and fetal risks pregnancy adds, and whether hydroxyurea should be stopped before conception and when it can be restarted?",
+      "lesson": {
+        "title": "Sickle Cell Disease in Pregnancy",
+        "channel": "European Hematology Association",
+        "url": "https://www.youtube.com/watch?v=pUlaJk7r_MA",
+        "duration": "14:07",
+        "why": "A society-level teaching talk focused specifically on managing sickle cell disease through pregnancy, including transfusion decisions and obstetric risk."
+      },
+      "drills": [
+        {
+          "name": "Care across the continuum",
+          "kind": "clinical",
+          "title": "Sickle Cell Care in Pregnancy and Beyond: Optimizing Reproductive Health Across the Care Continuum",
+          "channel": "UCSF OBGYN & RS ",
+          "url": "https://www.youtube.com/watch?v=0iGXaqYNQN4",
+          "duration": "52:12"
+        },
+        {
+          "name": "Fertility and reproductive health",
+          "kind": "clinical",
+          "title": "#47 - “Reproductive Health in Sickle Cell” with Dr. Lydia Pecker",
+          "channel": "BloodStream Media",
+          "url": "https://www.youtube.com/watch?v=Ye8SaZ4TWgM",
+          "duration": "57:04"
+        },
+        {
+          "name": "Prenatal testing options",
+          "kind": "clinical",
+          "title": "Reproductive Options and Prenatal Testing for Women with Sickle Cell Disease",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=yJqCQZ5_Nko",
+          "duration": "1:01:55"
+        }
+      ]
+    },
+    {
+      "id": "ch11-u9",
+      "type": "section",
+      "name": "Treatment",
+      "ashsapPage": 134,
+      "assessment": "Can you say who should be offered hydroxyurea and how it is dose-escalated, and place crizanlizumab, L-glutamine, transplant and the two approved gene therapies in a current treatment sequence?",
+      "lesson": {
+        "title": "Emerging Pharmacotherapeutic Approaches for the Management of Sickle Cell Disease",
+        "channel": "Perfect Square",
+        "url": "https://www.youtube.com/watch?v=C2csXLzrI8M",
+        "duration": "1:31:05",
+        "why": "A long-form review of the current and emerging drug therapies for sickle cell disease, which is the breadth this six-page treatment section demands."
+      },
+      "drills": [
+        {
+          "name": "Gene therapy in practice",
+          "kind": "clinical",
+          "title": "4/11/2025 - How Gene Therapy Saves Sickle Cell Disease (Hint - It Is Not What You Think)",
+          "channel": "UW Department of Medicine",
+          "url": "https://www.youtube.com/watch?v=3ps_rYoA6As",
+          "duration": "1:01:28"
+        },
+        {
+          "name": "Newest approvals reviewed",
+          "kind": "trial",
+          "title": "2026 Best of Hematology: Gene Therapy/Novel Approaches in Sickle Cell & Thalassemia - Dr Liz Traxler",
+          "channel": "Total Health Oncology",
+          "url": "https://www.youtube.com/watch?v=2EMTGEmvOCM",
+          "duration": "34:24"
+        },
+        {
+          "name": "How CRISPR editing works",
+          "kind": "mechanism",
+          "title": "Can CRISPR cure Sickle-cell Disease?",
+          "channel": "nature video",
+          "url": "https://www.youtube.com/watch?v=mQ8Ola_C5po",
+          "duration": "10:42"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "chapter": "CH35",
+  "title": "Inherited bone marrow failure syndromes",
+  "units": [
+    {
+      "id": "ch35-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 409,
+      "assessment": "Can you name the clinical clues — age, physical anomalies, family history, macrocytosis, marrow cellularity — that should push you to test an apparently acquired aplastic anemia for an inherited bone marrow failure syndrome?",
+      "lesson": {
+        "title": "Bone Marrow Failure syndromes & PNH | Haematology FRCPath Part 1 Masterclass series (Week 3)",
+        "channel": "ClinHaem: Haematology Demystified",
+        "url": "https://www.youtube.com/watch?v=CxnrwaoX5Wc",
+        "duration": "2:03:19",
+        "why": "A two-hour FRCPath masterclass that walks the whole inherited and acquired bone marrow failure differential in the order an examiner would ask it, PNH included."
+      },
+      "drills": [
+        {
+          "name": "Choosing and interpreting the genetic workup",
+          "kind": "clinical",
+          "title": "Thursday webinar - Bone marrow failures genetic diagnostic",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=kC0zkqR7Qvs",
+          "duration": "37:50"
+        },
+        {
+          "name": "Where the field has moved recently",
+          "kind": "clinical",
+          "title": "Updates and Advances in Bone Marrow Failure Syndrome Recording   ASPHO · ASPHO",
+          "channel": "Dr Muhammad Alsabagh ",
+          "url": "https://www.youtube.com/watch?v=hiNSM3D3EE0",
+          "duration": "1:01:45"
+        },
+        {
+          "name": "Molecular diagnosis in depth",
+          "kind": "clinical",
+          "title": "Molecular Diagnosis of marrow failure syndromes",
+          "channel": "MICE IDEAS Pvt. Ltd.",
+          "url": "https://www.youtube.com/watch?v=2h_bN7wp4gI",
+          "duration": "2:18:01"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u2",
+      "type": "section",
+      "name": "Fanconi anemia",
+      "ashsapPage": 409,
+      "assessment": "Can you state the test that confirms Fanconi anemia, describe the physical findings and cancer risks that come with it, and explain why conditioning for transplant has to be attenuated?",
+      "lesson": {
+        "title": "Management of patients with Fanconi Anemia",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=V2ttqnR5wLA",
+        "duration": "55:09",
+        "why": "A clinical-hematology academy session on managing Fanconi anemia end to end — marrow failure, clonal evolution, transplant and the reduced-intensity conditioning the DNA-repair defect forces on you."
+      },
+      "drills": [
+        {
+          "name": "The FA/BRCA DNA crosslink repair pathway",
+          "kind": "mechanism",
+          "title": "FA 101: Basic Science Background on Fanconi Anemia",
+          "channel": "Fanconi Cancer Foundation",
+          "url": "https://www.youtube.com/watch?v=6LOTMogYYa4",
+          "duration": "51:22"
+        },
+        {
+          "name": "The clinical phenotype and how it is diagnosed",
+          "kind": "clinical",
+          "title": "FA: 101 Clinical Background on Fanconi Anemia",
+          "channel": "Fanconi Cancer Foundation",
+          "url": "https://www.youtube.com/watch?v=pHgkMv2-hF4",
+          "duration": "45:33"
+        },
+        {
+          "name": "Solid tumour and leukemia surveillance",
+          "kind": "clinical",
+          "title": "Cancer in Fanconi Anemia: A Clinical Overview",
+          "channel": "Fanconi Cancer Foundation",
+          "url": "https://www.youtube.com/watch?v=qfMQbl7lh5A",
+          "duration": "16:04"
+        },
+        {
+          "name": "Transplanting inherited marrow failure",
+          "kind": "clinical",
+          "title": "HSCT for inherited Marrow failure Syndromes   8 Aug 2021",
+          "channel": "MICE IDEAS Pvt. Ltd.",
+          "url": "https://www.youtube.com/watch?v=4Fsuk-XGbX0",
+          "duration": "2:21:17"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u3",
+      "type": "section",
+      "name": "Telomere biology disorders",
+      "ashsapPage": 411,
+      "assessment": "Can you list the mucocutaneous triad of classical dyskeratosis congenita, name the assay used to establish a telomere biology disorder, and say which extrahematologic organ failures may be the presenting problem in adults?",
+      "lesson": {
+        "title": "The New Telomere Diseases: Organ Failure and Cancer - Neal Young",
+        "channel": "National Human Genome Research Institute",
+        "url": "https://www.youtube.com/watch?v=-JFyiM6Iuz4",
+        "duration": "1:01:22",
+        "why": "The definitive framing of telomere disease as a multi-organ syndrome — marrow failure, pulmonary fibrosis, cirrhosis and cancer — from the group that established the adult-onset presentations."
+      },
+      "drills": [
+        {
+          "name": "How the telomere biology disorders were defined",
+          "kind": "clinical",
+          "title": "Keynote Presentation: Discovering and Defining the Telomere Biology Disorders",
+          "channel": "Cancer Genomics Consortium",
+          "url": "https://www.youtube.com/watch?v=SQmIUiQGwTY",
+          "duration": "52:26"
+        },
+        {
+          "name": "Telomerase biology behind the telomeropathies",
+          "kind": "mechanism",
+          "title": "Demystifying Medicine 2013 - Telomerase and Telomeropathies",
+          "channel": "NIH VideoCast",
+          "url": "https://www.youtube.com/watch?v=kl5iit9Tslc",
+          "duration": "1:34:42"
+        },
+        {
+          "name": "Where treatment stands, including androgens",
+          "kind": "clinical",
+          "title": "Treatment Advances In Telomere Biology Disorders",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=U7Tj6m30YC4",
+          "duration": "5:12"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u4",
+      "type": "section",
+      "name": "GATA2 deficiency",
+      "ashsapPage": 413,
+      "assessment": "Can you recognize the phenotype of GATA2 deficiency — monocytopenia, B and NK lymphopenia, warts, mycobacterial infection, lymphedema, deafness — and say which marrow cytogenetic findings should trigger testing?",
+      "lesson": {
+        "title": "The Protean Manifestations of GATA2 Deficiency Across the Lifespan",
+        "channel": "NIH VideoCast",
+        "url": "https://www.youtube.com/watch?v=r5RVlPcGOWo",
+        "duration": "1:07:24",
+        "why": "An hour on GATA2 deficiency across the lifespan from the immunology group that characterised it, covering the infection, lymphedema and MDS presentations in one place."
+      },
+      "drills": [
+        {
+          "name": "What GATA2 does in normal and leukemic myelopoiesis",
+          "kind": "mechanism",
+          "title": "GATA2 and its influence on AML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=T812gU50WrU",
+          "duration": "3:00"
+        },
+        {
+          "name": "Germline predisposition to leukemia in general",
+          "kind": "clinical",
+          "title": "Germ line predisposition to leukaemia",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=cXrlsz31myo",
+          "duration": "7:42"
+        },
+        {
+          "name": "Ordering and interpreting germline testing",
+          "kind": "clinical",
+          "title": "Genetic Testing for Bone Marrow Failure Diseases with Dr. Jadee Neff",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=BE9dX8venoA",
+          "duration": "1:05:41"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u5",
+      "type": "section",
+      "name": "SAMD9 and SAMD9L syndromes",
+      "ashsapPage": 414,
+      "assessment": "Can you explain how gain-of-function SAMD9 and SAMD9L mutations restrict growth, why monosomy 7 appears and can then disappear, and what somatic reversion means for surveillance and transplant timing?",
+      "lesson": {
+        "title": "Sushree Sahoo: SAMD9/SAMD9L syndromes | #1 | Trainee Pearls",
+        "channel": "EBMT Trainees",
+        "url": "https://www.youtube.com/watch?v=2jrZZskXyC0",
+        "duration": "26:57",
+        "why": "A trainee-facing pearl session devoted entirely to SAMD9/SAMD9L — the growth-restricting phenotypes, the monosomy 7 and uniparental disomy reversion events, and what they mean clinically."
+      },
+      "drills": [
+        {
+          "name": "How the two genes differ mechanistically",
+          "kind": "mechanism",
+          "title": "Different Mechanisms for SAMD9 & SAMD9L Mutations in Myeloid Malignancies - J Cammenga",
+          "channel": "MDS Foundation, Inc.",
+          "url": "https://www.youtube.com/watch?v=E_D0f61MRZM",
+          "duration": "18:21"
+        },
+        {
+          "name": "GATA2 and SAMD9/9L side by side in children",
+          "kind": "clinical",
+          "title": "MDS/AML germline predisposition syndromes in pediatric patients: GATA2 and SAMD9/9L",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=MUGr0v84_vI",
+          "duration": "2:47"
+        },
+        {
+          "name": "Germline predisposition across myeloid disease",
+          "kind": "clinical",
+          "title": "Archive: Germline predisposition to hematopoietic malignancies",
+          "channel": "UW Video",
+          "url": "https://www.youtube.com/watch?v=5pLzs1U9V-Q",
+          "duration": "1:08:37"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u6",
+      "type": "section",
+      "name": "Shwachman-Diamond syndrome",
+      "ashsapPage": 417,
+      "assessment": "Can you name the gene and the ribosome step disrupted in Shwachman-Diamond syndrome, describe the pancreatic and skeletal features, and say what marrow finding should trigger concern about MDS or AML?",
+      "lesson": {
+        "title": "SDS Key Concepts: The Genetics of Shwachman-Diamond Syndrome (SDS)",
+        "channel": "Shwachman-Diamond Syndrome Alliance",
+        "url": "https://www.youtube.com/watch?v=Gh4eJkYuOqA",
+        "duration": "13:05",
+        "why": "The pool has no clinician-level SDS lecture; this is the most technically accurate item in it, covering SBDS genotype, inheritance and genotype-phenotype variability."
+      },
+      "drills": [
+        {
+          "name": "Why a ribosome maturation defect causes SDS",
+          "kind": "mechanism",
+          "title": "SDS Key Concepts: The Ribosome, SBDS, and the cause of SDS (Shwachman-Diamond Syndrome)",
+          "channel": "Shwachman-Diamond Syndrome Alliance",
+          "url": "https://www.youtube.com/watch?v=1SQZsdDrjXE",
+          "duration": "6:37"
+        },
+        {
+          "name": "SDS placed among the other marrow failure syndromes",
+          "kind": "clinical",
+          "title": "Marrow Failure Syndromes | Dr. Tony Talebi lectures on Bone Marrow Failure Syndromes",
+          "channel": "Tony Talebi",
+          "url": "https://www.youtube.com/watch?v=hweHXmkLSDw",
+          "duration": "44:31"
+        },
+        {
+          "name": "Precision-medicine framing of the IBMFS",
+          "kind": "clinical",
+          "title": "Precision Medicine in Inherited Bone Marrow Failure Syndromes",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=Ne2qLidxIMw",
+          "duration": "10:35"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u7",
+      "type": "section",
+      "name": "Diamond-Blackfan anemia",
+      "ashsapPage": 418,
+      "assessment": "Can you describe the blood and marrow picture of Diamond-Blackfan anemia, name the class of genes usually mutated, and lay out the treatment options and their long-term costs?",
+      "lesson": {
+        "title": "Thursday Webinar - Management of Blackfan Diamond anemia in adults",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=W4KWQYtbbRM",
+        "duration": "48:59",
+        "why": "A European reference-network webinar on DBA in adults — exactly the handover problem a hematology fellow inherits, including steroid dependence, chelation and transplant decisions."
+      },
+      "drills": [
+        {
+          "name": "What the DBA registry has taught",
+          "kind": "clinical",
+          "title": "Clinical Connections - Q&A Diamond Blackfan Anemia Registry and Research - Adrianna Vlachos, .M.D.",
+          "channel": "Johns Hopkins All Children's Hospital",
+          "url": "https://www.youtube.com/watch?v=PV894e_RzDk",
+          "duration": "3:10"
+        },
+        {
+          "name": "Compact clinical overview of DBA",
+          "kind": "clinical",
+          "title": "Diamond-Blackfan Anemia (DBA)",
+          "channel": "Filière de Santé Maladies Rares MaRIH",
+          "url": "https://www.youtube.com/watch?v=gPkUdhSgp5w",
+          "duration": "7:35"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u8",
+      "type": "section",
+      "name": "Congenital dyserythropoietic anemias",
+      "ashsapPage": 419,
+      "assessment": "Can you distinguish the congenital dyserythropoietic anemias from hemolytic anemia at the marrow and laboratory level, and explain why iron overload develops even in patients who are never transfused?",
+      "lesson": {
+        "title": "Thursday Webinar - Congenital dyserythropoietic anemias",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=JnnLz7ogPJA",
+        "duration": "43:49",
+        "why": "A reference-network webinar devoted to the CDAs — the morphologic subtypes, the genes behind them, and the ineffective erythropoiesis that drives the iron loading."
+      },
+      "drills": [
+        {
+          "name": "DBA and CDA compared in one clinical session",
+          "kind": "clinical",
+          "title": "DBA & CDA, Dr Roy (N England Haemoglobinopathy Clinical Event 30/06/23)",
+          "channel": "HCC NW Sickle Cell and North Thalassaemia & RIA",
+          "url": "https://www.youtube.com/watch?v=vKKYkAjSjTU",
+          "duration": "51:22"
+        },
+        {
+          "name": "Inherited anemias in FRCPath framing",
+          "kind": "clinical",
+          "title": "Anaemias: Nutritional & Inherited Causes | Haematology FRCPath Part 1 Masterclass series (Week 2)",
+          "channel": "ClinHaem: Haematology Demystified",
+          "url": "https://www.youtube.com/watch?v=a5Wgf9-xEw8",
+          "duration": "1:46:42"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u9",
+      "type": "section",
+      "name": "Inherited thrombocytopenias",
+      "ashsapPage": 420,
+      "assessment": "Given lifelong thrombocytopenia, can you use platelet size, marrow findings, and syndromic features to narrow the differential, and say which of these disorders carries a risk of myeloid malignancy?",
+      "lesson": {
+        "title": "ERN-EuroBloodNet Topic on Focus on CT - Suspecting inherited thrombocytopenia",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=Dy8Nqpbwspo",
+        "duration": "54:16",
+        "why": "Built around the question this section asks — when should a thrombocytopenia be suspected of being inherited rather than immune, and what do you do next."
+      },
+      "drills": [
+        {
+          "name": "Inherited thrombocytopenia as clinical cases",
+          "kind": "clinical",
+          "title": "ERN-EuroBloodNet Topic on Focus on CT - Inherited thrombocytopenia: clinical cases",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=82iGZFR1h1g",
+          "duration": "44:49"
+        },
+        {
+          "name": "Where platelet function defects overlap",
+          "kind": "clinical",
+          "title": "ERN-EuroBloodNet Topic on Focus on IPFD - Inherited thrombocytopenias & platelet dysfunction",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=BznDzBzWSUc",
+          "duration": "41:24"
+        },
+        {
+          "name": "ETV6 as a worked example",
+          "kind": "clinical",
+          "title": "A new form of inherited thrombocytopenia: ETV6, never judge a book by its cover",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=i32g7a7clbA",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u10",
+      "type": "section",
+      "name": "Congenital amegakaryocytic thrombocytopenia",
+      "ashsapPage": 421,
+      "assessment": "Can you explain how MPL or THPO mutations cause congenital amegakaryocytic thrombocytopenia, describe what the marrow looks like at presentation and later, and state the only curative treatment?",
+      "lesson": {
+        "title": "ERN-EuroBloodNet Topic on Focus on CT - Amegakaryocytic thrombocytopenia with or without skeletal...",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=syOI_pASJLg",
+        "duration": "44:36",
+        "why": "A reference-network session specifically on amegakaryocytic thrombocytopenia with and without skeletal anomalies, which is precisely the CAMT-versus-TAR discrimination this section turns on."
+      },
+      "drills": [
+        {
+          "name": "Should CAMT be transplanted, and when",
+          "kind": "clinical",
+          "title": "Congenital amegakaryocytic thrombocytopenia: what is it and should transplantation be considered?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=F8MGqaqiqUs",
+          "duration": "1:40"
+        },
+        {
+          "name": "Thrombopoietin-receptor agonists outside ITP",
+          "kind": "clinical",
+          "title": "TPO agents beyond ITP",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=aZ-3I7c0AX0",
+          "duration": "27:49"
+        }
+      ]
+    },
+    {
+      "id": "ch35-u11",
+      "type": "section",
+      "name": "Familial platelet disorder with associated myeloid malignancy",
+      "ashsapPage": 422,
+      "assessment": "Can you recognize the phenotype of germline RUNX1 mutation, say what platelet-function abnormality accompanies it, and explain how a family history of it changes donor selection for transplant?",
+      "lesson": {
+        "title": "Familial MDS",
+        "channel": "MDS Foundation, Inc.",
+        "url": "https://www.youtube.com/watch?v=c3bqe5nZUEg",
+        "duration": "1:19:08",
+        "why": "A full session on familial MDS from the MDS Foundation, which is where RUNX1 familial platelet disorder sits clinically — who to test, how to counsel, and how it changes transplant planning."
+      },
+      "drills": [
+        {
+          "name": "Whom to test for inherited thrombocytopenia, and how",
+          "kind": "clinical",
+          "title": "Inherited Thrombocytopenia (ITP): What Is It, Whom To Test and How To Test?",
+          "channel": "RUNX1 Research Program",
+          "url": "https://www.youtube.com/watch?v=fmV-NSfxQ1o",
+          "duration": "58:20"
+        },
+        {
+          "name": "Germline RUNX1 and allograft outcomes",
+          "kind": "trial",
+          "title": "The prevalence of germline RUNX1 mutations and their impact on alloSCT outcomes",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=9sUSptV4GC8",
+          "duration": "2:12"
+        },
+        {
+          "name": "ERG as a newly described predisposition gene",
+          "kind": "mechanism",
+          "title": "Discovery of a new predisposition gene, ERG, for bone marrow failure and hematological malignancy",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=RN1hSFu84b8",
+          "duration": "5:24"
+        }
+      ]
+    }
+  ]
+}

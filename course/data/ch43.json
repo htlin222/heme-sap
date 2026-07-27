@@ -1,0 +1,356 @@
+{
+  "chapter": "CH43",
+  "title": "Hodgkin lymphoma",
+  "units": [
+    {
+      "id": "ch43-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 525,
+      "assessment": "Can you say what share of lymphoma diagnoses Hodgkin lymphoma accounts for, how classical Hodgkin lymphoma and nodular lymphocyte-predominant disease differ in cell of origin and natural history, and why they are managed along completely different lines?",
+      "lesson": {
+        "title": "Lymphoma: Overview of Classification",
+        "channel": "Harvard Medical School Continuing Education",
+        "url": "https://www.youtube.com/watch?v=HINiGVdESf0",
+        "duration": "7:24",
+        "why": "A continuing-education overview of lymphoma classification that positions classical Hodgkin lymphoma and NLPHL against the rest of the B-cell neoplasms, which is what this introduction is for."
+      }
+    },
+    {
+      "id": "ch43-u2",
+      "type": "section",
+      "name": "Epidemiology",
+      "ashsapPage": 525,
+      "assessment": "Describe the bimodal age distribution of Hodgkin lymphoma and name the host and environmental factors — EBV serostatus, HIV, iatrogenic immunosuppression, family history, socioeconomic setting — that measurably change risk in each peak.",
+      "lesson": {
+        "title": "Hodgkin Lymphoma Update - InterLymph 2017",
+        "channel": "Lymphoma Coalition",
+        "url": "https://www.youtube.com/watch?v=n5KMrk7dPgo",
+        "duration": "6:26",
+        "why": "A research summary from the InterLymph epidemiology consortium specifically on Hodgkin lymphoma incidence patterns and risk determinants."
+      },
+      "drills": [
+        {
+          "name": "Risk factors across lymphoma subtypes",
+          "kind": "clinical",
+          "title": "Risk Factors for Lymphoma - InterLymph 2017",
+          "channel": "Lymphoma Coalition",
+          "url": "https://www.youtube.com/watch?v=418cJiVmJRs",
+          "duration": "4:44"
+        },
+        {
+          "name": "Deprivation and sex effects on incidence in the young",
+          "kind": "clinical",
+          "title": "Hodgkin lymphoma incidence in young affected by social deprivation, gender",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=SxAkPJQvlaw",
+          "duration": "4:48"
+        }
+      ]
+    },
+    {
+      "id": "ch43-u3",
+      "type": "section",
+      "name": "Pathology",
+      "ashsapPage": 525,
+      "assessment": "What immunophenotype defines the Reed-Sternberg cell across CD30, CD15, PAX5, CD45 and CD20, how do the four classical histologic subtypes differ morphologically, and which stains separate them from the LP cells of NLPHL?",
+      "lesson": {
+        "title": "Hodgkin Lymphoma - Dr. Ferry (MGH) #HEMEPATH",
+        "channel": "pathCast",
+        "url": "https://www.youtube.com/watch?v=qySmAMgkf5c",
+        "duration": "1:03:47",
+        "why": "A full hematopathology lecture on Hodgkin lymphoma morphology, subtypes and immunostaining from an expert lymphoma pathologist — the level of detail this pathology section expects."
+      },
+      "drills": [
+        {
+          "name": "Classical Hodgkin versus NLPHL at the microscope",
+          "kind": "mechanism",
+          "title": "Hodgkin lymphoma: CHL vs NLPHL",
+          "channel": "Society for Hematopathology SH",
+          "url": "https://www.youtube.com/watch?v=xnQX9me7qnI",
+          "duration": "14:03"
+        }
+      ]
+    },
+    {
+      "id": "ch43-u4",
+      "type": "section",
+      "name": "Pathogenesis",
+      "ashsapPage": 526,
+      "assessment": "Can you explain how a crippled germinal-centre B cell that has lost surface immunoglobulin escapes apoptosis to become a Reed-Sternberg cell, and how NF-kB activation, JAK-STAT signalling and 9p24.1 amplification produce the PD-L1-rich microenvironment that makes checkpoint blockade work?",
+      "lesson": {
+        "title": "Progress in understanding and treating Hodgkin lymphoma",
+        "channel": "The Leukemia & Lymphoma Society of Canada",
+        "url": "https://www.youtube.com/watch?v=gUcUm5tAHNY",
+        "duration": "1:01:37",
+        "why": "A full-length scientific update that walks from the biology of the Reed-Sternberg cell and its microenvironment through to why that biology made brentuximab and PD-1 blockade effective."
+      },
+      "drills": [
+        {
+          "name": "Molecular characterisation of classical Hodgkin lymphoma",
+          "kind": "mechanism",
+          "title": "Molecular characterization of classical Hodgkin lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=pGNjSvVQMTc",
+          "duration": "4:04"
+        }
+      ]
+    },
+    {
+      "id": "ch43-u5",
+      "type": "section",
+      "name": "Classical Hodgkin lymphoma",
+      "ashsapPage": 526,
+      "assessment": "For a newly diagnosed classical Hodgkin lymphoma patient, which staging studies, adverse risk factors and baseline organ assessments determine whether they are early favourable, early unfavourable or advanced stage, and what must be documented before bleomycin or anthracycline exposure?",
+      "lesson": {
+        "title": "Can we cure advanced stage classical Hodgkin Lymphoma in 3 months | An update from ASH 2025",
+        "channel": "Perfect Square",
+        "url": "https://www.youtube.com/watch?v=xTpLkmKmy9w",
+        "duration": "1:52:47",
+        "why": "The most current session in the pool on how stage and adverse risk factors drive frontline choice in classical Hodgkin lymphoma, worked through against the data presented at ASH 2025."
+      },
+      "drills": [
+        {
+          "name": "Diagnostic workup and referral pathway",
+          "kind": "clinical",
+          "title": "Diagnosis and Referral of Hodgkin Lymphoma - 20 January 2023",
+          "channel": "International Society of Paediatric Oncology",
+          "url": "https://www.youtube.com/watch?v=y7cJmI1BdGU",
+          "duration": "58:57"
+        },
+        {
+          "name": "Checkpoint blockade and the biology behind it",
+          "kind": "clinical",
+          "title": "Medicine Grand Rounds: \"Checkpoint Blockade in Classical Hodgkin Lymphoma\" 2/23/21",
+          "channel": "Emory Department of Medicine",
+          "url": "https://www.youtube.com/watch?v=SrhIW_7uXXg",
+          "duration": "51:50"
+        }
+      ]
+    },
+    {
+      "id": "ch43-u6",
+      "type": "section",
+      "name": "Disease assessment",
+      "ashsapPage": 527,
+      "assessment": "How is the Deauville five-point scale applied to the interim PET after two cycles, what does a Deauville 4 or 5 change about the regimen the patient continues on, and what are the pitfalls of measuring response by size alone?",
+      "lesson": {
+        "title": "Response Assessment in Hodgkin Lymphoma: Size Matters!",
+        "channel": "ASCO Podcasts",
+        "url": "https://www.youtube.com/watch?v=ihMyHlFyj10",
+        "duration": "8:58",
+        "why": "Takes apart how response is actually judged in Hodgkin lymphoma and why metabolic rather than dimensional criteria drive management."
+      },
+      "drills": [
+        {
+          "name": "Circulating tumour DNA as a response tool",
+          "kind": "clinical",
+          "title": "The value of ctDNA in Hodgkin lymphoma: diagnosis, response assessment & more",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=gndPYJwmSK4",
+          "duration": "2:28"
+        },
+        {
+          "name": "Ten-year outcomes of PET-adapted therapy",
+          "kind": "trial",
+          "title": "Early PET-adapted treatment for Hodgkin lymphoma: 10-year follow-up analysis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=hg7L2gGjdMo",
+          "duration": "3:42"
+        },
+        {
+          "name": "RATHL long-term results",
+          "kind": "trial",
+          "title": "Long-term follow-up results from the RATHL trial: response-adapted treatment for advanced stage HL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=e9m5NGBIbVE",
+          "duration": "2:14"
+        }
+      ]
+    },
+    {
+      "id": "ch43-u7",
+      "type": "section",
+      "name": "Early-stage cHL",
+      "ashsapPage": 528,
+      "assessment": "What is exchanged when radiotherapy is omitted in early-stage Hodgkin lymphoma after a negative interim PET — how much relapse risk is accepted for how much reduction in second cancers and cardiac disease — and which unfavourable features push you back toward combined-modality therapy?",
+      "lesson": {
+        "title": "Update on Hodgkin Lymphoma | LRF Webinars",
+        "channel": "Lymphoma Research Foundation",
+        "url": "https://www.youtube.com/watch?v=UUzimLtvdLU",
+        "duration": "50:17",
+        "why": "An expert update covering the early-stage treatment landscape, including PET-adapted chemotherapy alone versus combined-modality therapy and the newer antibody-drug conjugate and checkpoint approaches."
+      },
+      "drills": [
+        {
+          "name": "Chemotherapy alone versus consolidative radiation",
+          "kind": "trial",
+          "title": "Combined chemotherapy and consolidative radiation versus chemotherapy alone in early-stage cHL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=mEHWk71OqNs",
+          "duration": "3:21"
+        },
+        {
+          "name": "RAPID: involved-field radiotherapy versus nothing further",
+          "kind": "trial",
+          "title": "Follow-up from the RAPID trial: involved-field radiotherapy versus no further treatment in HL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=IL4BYryHFMM",
+          "duration": "5:28"
+        },
+        {
+          "name": "NIVAHL: nivolumab plus AVD in early unfavourable disease",
+          "kind": "trial",
+          "title": "NIVAHL: nivolumab and AVD in early-stage unfavorable HL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=-l3FSNjLErM",
+          "duration": "3:04"
+        },
+        {
+          "name": "Brentuximab, nivolumab, doxorubicin and dacarbazine early stage",
+          "kind": "trial",
+          "title": "Brentuximab vedotin, nivolumab, doxorubicin & dacarbazine for early stage classical Hodgkin lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=YPZyq02On50",
+          "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "id": "ch43-u8",
+      "type": "section",
+      "name": "Advanced-stage cHL",
+      "ashsapPage": 529,
+      "assessment": "Can you state what SWOG S1826 showed for nivolumab-AVD compared with brentuximab vedotin-AVD in advanced-stage disease, and say which patients you would still treat with a brentuximab-based regimen or a PET-adapted ABVD escalation strategy?",
+      "lesson": {
+        "title": "Can we cure advanced stage classical Hodgkin Lymphoma in 3 months | An update from ASH 2025",
+        "channel": "Perfect Square",
+        "url": "https://www.youtube.com/watch?v=xTpLkmKmy9w",
+        "duration": "1:52:47",
+        "why": "A long-form update taken from ASH 2025 on curing advanced-stage classical Hodgkin lymphoma, so the frontline debate is presented in its current, post-S1826 form."
+      },
+      "drills": [
+        {
+          "name": "SWOG S1826 headline result",
+          "kind": "trial",
+          "title": "SWOG S1826: nivolumab+AVD vs brentuximab vedotin+AVD for advanced stage Hodgkin lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=7fVipI-5vqU",
+          "duration": "1:41"
+        },
+        {
+          "name": "How S1826 was received at ASCO",
+          "kind": "trial",
+          "title": "ASCO 2023 Highlights on nivolumab in advanced stage classic Hodgkin Lymphoma:  the SWOG S1826 study",
+          "channel": "European Society for Medical Oncology (ESMO)",
+          "url": "https://www.youtube.com/watch?v=lK7csYzyWns",
+          "duration": "5:25"
+        },
+        {
+          "name": "The case for brentuximab-AVD upfront",
+          "kind": "clinical",
+          "title": "Debate: Best upfront approach for Advanced Stage Hodgkin Lymphoma? - A (brentuximab vedotin) VD",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=fmFEaR8dExY",
+          "duration": "16:32"
+        },
+        {
+          "name": "Brentuximab plus nivolumab and AD",
+          "kind": "trial",
+          "title": "Improving safety and efficacy with brentuximab vedotin, nivolumab and AD for advanced stage cHL.",
+          "channel": "Lymphoma Hub",
+          "url": "https://www.youtube.com/watch?v=eFfDOE6FiPg",
+          "duration": "5:13"
+        }
+      ]
+    },
+    {
+      "id": "ch43-u9",
+      "type": "section",
+      "name": "Nodular lymphocyte-predominant HL",
+      "ashsapPage": 531,
+      "assessment": "How would you manage stage IA nodular lymphocyte-predominant Hodgkin lymphoma, why is this entity treated more like an indolent B-cell lymphoma than like classical disease, and what findings should raise concern for transformation to T-cell/histiocyte-rich large B-cell lymphoma?",
+      "lesson": {
+        "title": "Nodular Lymphocyte-Predominant Hodgkin Lymphoma: Pathology and Treatment Decision-Making Webinar",
+        "channel": "Lymphoma Research Foundation",
+        "url": "https://www.youtube.com/watch?v=72tN7uyQxr0",
+        "duration": "1:02:17",
+        "why": "Pairs the pathology of NLPHL with the treatment decisions that follow from it, including the variant growth patterns that predict transformation."
+      },
+      "drills": [
+        {
+          "name": "LP cells and growth patterns under the microscope",
+          "kind": "mechanism",
+          "title": "Histopathology - Nodular Lymphocyte Predominant Hodgkin Lymphoma",
+          "channel": "Filip Sokol",
+          "url": "https://www.youtube.com/watch?v=P-SC6cmXIvo",
+          "duration": "5:50"
+        },
+        {
+          "name": "Single-agent rituximab activity",
+          "kind": "trial",
+          "title": "Single Agent Rituximab Active in Nodular Lymphocyte Predominant Hodgkin Lymphoma",
+          "channel": "ASCO Podcasts",
+          "url": "https://www.youtube.com/watch?v=elz0t988UZk",
+          "duration": "7:18"
+        },
+        {
+          "name": "Radiotherapy for stage IA disease",
+          "kind": "trial",
+          "title": "Using radiotherapy to improve PFS for stage IA nodular lymphocyte-predominant Hodgkin lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=AMTYhj8pQXk",
+          "duration": "1:43"
+        }
+      ]
+    },
+    {
+      "id": "ch43-u10",
+      "type": "section",
+      "name": "Follow-up of patients with HL",
+      "ashsapPage": 532,
+      "assessment": "What surveillance schedule and late-effect screening — cardiac, pulmonary, thyroid, breast and second malignancy — would you set up for a Hodgkin survivor treated with anthracycline-based chemotherapy and mediastinal radiation, and how long does that risk persist?",
+      "lesson": {
+        "title": "5-year follow-up of ECHELON-1: brentuximab plus AVD versus ABVD in Hodgkin lymphoma",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=UyXtH1bTov8",
+        "duration": "5:06",
+        "why": "Five-year follow-up of ECHELON-1, the analysis that turned a progression-free survival signal into an overall survival benefit and shows why long-term follow-up data change frontline choices."
+      },
+      "drills": [
+        {
+          "name": "CheckMate 205 five-year outcomes",
+          "kind": "trial",
+          "title": "CheckMate 205: 5 year follow-up of nivolumab in HL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=mAQ8GW5kkr8",
+          "duration": "1:48"
+        },
+        {
+          "name": "Three-year follow-up of nivolumab-AVD",
+          "kind": "trial",
+          "title": "Three-Year Follow-up: Nivolumab + AVD in Hodgkin Lymphoma #HL | Alex Herrera MD | #ASH25",
+          "channel": "HealthTree Foundation for Leukemia and HealthTree Foundation for Lymphoma",
+          "url": "https://www.youtube.com/watch?v=sg3yi2s7WPg",
+          "duration": "3:21"
+        },
+        {
+          "name": "Durability and late safety of brentuximab",
+          "kind": "trial",
+          "title": "Long-Term Efficacy and Safety of Brentuximab Vedotin in Hodgkin Lymphoma Patients",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=9B4GhQQz2_Q",
+          "duration": "2:27"
+        },
+        {
+          "name": "Late effects and survivorship care",
+          "kind": "clinical",
+          "title": "Late effects and lymphoma survivorship - Assoc Prof Kylie Mason",
+          "channel": "Lymphoma Australia",
+          "url": "https://www.youtube.com/watch?v=LR-dwtl1PjY",
+          "duration": "1:02:19"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "chapter": "CH8",
+  "title": "Anemia of inflammation",
+  "units": [
+    {
+      "id": "ch8-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 93,
+      "assessment": "Can you name the conditions beyond classic chronic disease — trauma, critical illness, obesity, heart failure, COPD and aging — in which inflammation alone is enough to produce anemia?",
+      "lesson": {
+        "title": "Anemia of Inflammation",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=0KkPdPZYzRE",
+        "duration": "2:18",
+        "why": "A brisk hematology-teaching introduction to anemia of inflammation as an entity in its own right - hepcidin-driven iron restriction, blunted erythropoietin response and shortened red cell survival - which is the frame needed before the chapter widens the list of triggers beyond classic chronic disease."
+      },
+      "drills": [
+        {
+          "name": "Mechanism summary in three minutes",
+          "kind": "mechanism",
+          "title": "The Mechanisms of Anemia in Chronic Disease",
+          "channel": "AMC Clinical",
+          "url": "https://www.youtube.com/watch?v=gMd_cFxGq8E",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u2",
+      "type": "section",
+      "name": "Pathophysiology",
+      "ashsapPage": 94,
+      "assessment": "Can you describe the three mechanisms by which inflammation lowers hemoglobin — hepcidin-driven iron restriction, a blunted erythropoietin response, and shortened red cell survival — and say which one dominates?",
+      "lesson": {
+        "title": "Anemia of Chronic Disease (ACD): Pathophysiology, Diagnosis, and Management",
+        "channel": "Myhematology",
+        "url": "https://www.youtube.com/watch?v=VmdKIGFIBOo",
+        "duration": "7:20",
+        "why": "A hematology-channel walkthrough of the pathophysiology, diagnosis and management of anemia of chronic disease with hepcidin at the centre of the explanation."
+      },
+      "drills": [
+        {
+          "name": "Hepcidin in one sitting",
+          "kind": "mechanism",
+          "title": "Anemia of Inflammation",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=0KkPdPZYzRE",
+          "duration": "2:18"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u3",
+      "type": "section",
+      "name": "Diagnosis",
+      "ashsapPage": 94,
+      "assessment": "Which iron-study pattern distinguishes anemia of inflammation from iron deficiency, and what does a normal-or-high ferritin with a low transferrin saturation and low TIBC tell you about coexisting iron deficiency?",
+      "lesson": {
+        "title": "Anemia of Inflammation vs Iron Deficiency: New Diagnostic Tools and Therapies",
+        "channel": "GlobalRPh",
+        "url": "https://www.youtube.com/watch?v=HUKi5mO4FjM",
+        "duration": "16:53",
+        "why": "Built around the exact contrast this section tests - the iron-study pattern of inflammation against that of true iron deficiency - and it goes on to the newer diagnostic tools, including hepcidin and reticulocyte hemoglobin, used when the two coexist."
+      },
+      "drills": [
+        {
+          "name": "Reading the iron panel",
+          "kind": "clinical",
+          "title": "Anemia: Lesson 2 - Interpreting the Iron Panel",
+          "channel": "Strong Medicine",
+          "url": "https://www.youtube.com/watch?v=Nh8lvOW3ooA",
+          "duration": "6:21"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u4",
+      "type": "section",
+      "name": "Treatment",
+      "ashsapPage": 95,
+      "assessment": "When is iron supplementation justified in anemia of inflammation, and what are the risks of reaching for an ESA or a transfusion instead of treating the underlying inflammatory disease?",
+      "lesson": {
+        "title": "Anemia of inflammation - Quick Review - By Pramil Cheriyath MD",
+        "channel": "ResearchMD",
+        "url": "https://www.youtube.com/watch?v=0D9RglWGpQc",
+        "duration": "10:40",
+        "why": "A physician-led review that ends on management: treating the driving disease first, and the narrow circumstances in which iron or an ESA is appropriate."
+      },
+      "drills": []
+    }
+  ]
+}

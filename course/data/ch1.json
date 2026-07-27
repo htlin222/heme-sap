@@ -1,0 +1,254 @@
+{
+  "chapter": "CH1",
+  "title": "Consultative hematology 1: perioperative management concepts",
+  "units": [
+    {
+      "id": "ch1-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 1,
+      "assessment": "Before any drug is stopped, what four things must you establish for a patient facing a procedure — the bleeding risk of the operation, the patient's thrombotic risk, which antithrombotic they are taking, and how urgent the surgery is — and who on the care team owns each of those decisions?",
+      "lesson": {
+        "title": "Perioperative Management of Anticoagulants: What clinicians need to know in 2021",
+        "channel": "Icahn School of Medicine",
+        "url": "https://www.youtube.com/watch?v=w383WQiFNto",
+        "duration": "56:26",
+        "why": "A single sitting that frames the whole perioperative problem — who is on which drug, what the procedure risks, and how the stop/restart decision is built — which is exactly the orientation this introductory section provides."
+      },
+      "drills": [
+        {
+          "name": "Anticoagulation in the hard cases",
+          "kind": "clinical",
+          "title": "Special Populations and Anticoagulation with Dr Jim Douketis",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=b5Po7eeRBbs",
+          "duration": "49:04"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u2",
+      "type": "section",
+      "name": "Perioperative challenges and the importance of communication",
+      "ashsapPage": 2,
+      "assessment": "When the bleeding risk and the thrombotic risk are both judged high, what specific conversation do you need to have with the proceduralist and with whoever prescribes the anticoagulant, and what must the written plan hand over to the patient, the pharmacist and the ward team?",
+      "lesson": {
+        "title": "Implementation of Anticoagulation Stewardship Programs: The Future of Anticoagulation Care",
+        "channel": "Anticoagulation Forum",
+        "url": "https://www.youtube.com/watch?v=X5SuuVQ9zFQ",
+        "duration": "58:15",
+        "why": "Anticoagulation stewardship is the systems answer to this section's point that periprocedural harm usually comes from handoffs rather than from the drugs themselves."
+      },
+      "drills": [
+        {
+          "name": "Two-minute framing of the handoff",
+          "kind": "clinical",
+          "title": "Clot Chronicles: Periprocedural Anticoagulation",
+          "channel": "Vasculearn Network",
+          "url": "https://www.youtube.com/watch?v=YaqoXk8OTg0",
+          "duration": "5:45"
+        },
+        {
+          "name": "Who owns the DOAC plan",
+          "kind": "clinical",
+          "title": "The role of the pharmacist in Direct Oral Anticoagulant (DOAC) management 2020",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=Zqp6Zp6FHL4",
+          "duration": "1:01:55"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u3",
+      "type": "section",
+      "name": "Perioperative venous thromboembolism prevention",
+      "ashsapPage": 2,
+      "assessment": "Which surgical populations warrant pharmacologic thromboprophylaxis rather than mechanical measures alone, how does a risk-assessment model feed that decision, and what do patients undergoing major orthopedic surgery typically receive and for how long?",
+      "lesson": {
+        "title": "VTE Prevention-an update",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=x37IyxOoJ0E",
+        "duration": "29:11",
+        "why": "A dedicated update on surgical thromboprophylaxis — risk assessment models, who gets pharmacologic prophylaxis, and duration — which is the whole content of this section."
+      },
+      "drills": [
+        {
+          "name": "Perioperative case walkthrough",
+          "kind": "clinical",
+          "title": "Perioperative Management with Dr Eric Tseng",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=qMfC47YDjok",
+          "duration": "53:36"
+        },
+        {
+          "name": "Prophylaxis regimens by procedure",
+          "kind": "clinical",
+          "title": "Thromboembolism Prophylaxis",
+          "channel": "Maroof International Hospital",
+          "url": "https://www.youtube.com/watch?v=CNiae0cye3o",
+          "duration": "33:43"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u4",
+      "type": "section",
+      "name": "Perioperative anticoagulation management",
+      "ashsapPage": 3,
+      "assessment": "How many days before surgery do you stop a DOAC compared with a vitamin K antagonist, which patients on warfarin genuinely benefit from short-acting bridging, and how does the bleeding risk of the procedure change when you restart afterwards?",
+      "lesson": {
+        "title": "Perioperative Management of Anticoagulation: Can You Clear My Patient for a Procedure?",
+        "channel": "Anticoagulation Forum",
+        "url": "https://www.youtube.com/watch?v=urySD0z4K4E",
+        "duration": "56:54",
+        "why": "Built around the exact consult question this section answers — clearing a patient for a procedure — with explicit interruption intervals and the shrinking indications for bridging."
+      },
+      "drills": [
+        {
+          "name": "PAUSE: the study that set the intervals",
+          "kind": "trial",
+          "title": "PAUSE: perioperative management of AF patients receiving direct oral anticoagulants",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=TqaGUcKxR6U",
+          "duration": "6:40"
+        },
+        {
+          "name": "CHEST guideline in full",
+          "kind": "clinical",
+          "title": "New CHEST Guideline: Perioperative Management of Antithrombotic Therapy",
+          "channel": "Anticoagulation Forum",
+          "url": "https://www.youtube.com/watch?v=Te9um19UvLA",
+          "duration": "1:01:27"
+        },
+        {
+          "name": "Douketis on the 2022 guideline",
+          "kind": "clinical",
+          "title": "2022 CHEST Perioperative Guidelines with Dr J Douketis",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=571c6ORk670",
+          "duration": "21:01"
+        },
+        {
+          "name": "Second pass on interruption and restart",
+          "kind": "clinical",
+          "title": "Perioperative Anticoagulant Management: An Update - C Clarke",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=0JU6lyZzmZU",
+          "duration": "29:09"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u5",
+      "type": "section",
+      "name": "Antiplatelet management",
+      "ashsapPage": 5,
+      "assessment": "Which antiplatelet agents are held before surgery and for how long — aspirin, clopidogrel, prasugrel, ticagrelor — and how does a recent coronary stent change whether the procedure should be delayed rather than the drug interrupted?",
+      "lesson": {
+        "title": "New CHEST Guideline: Perioperative Management of Antithrombotic Therapy",
+        "channel": "Anticoagulation Forum",
+        "url": "https://www.youtube.com/watch?v=Te9um19UvLA",
+        "duration": "1:01:27",
+        "why": "The CHEST perioperative antithrombotic guideline session that gives the agent-by-agent hold intervals for antiplatelets and the rule that aspirin usually continues."
+      },
+      "drills": [
+        {
+          "name": "Why DAPT duration drives the timing",
+          "kind": "clinical",
+          "title": "Mastering the Use of Dual Antiplatelet Therapy for Preventing Recurrent Stroke",
+          "channel": "PeerView CME",
+          "url": "https://www.youtube.com/watch?v=I4D1S5211do",
+          "duration": "1:26:30"
+        },
+        {
+          "name": "Antiplatelets around high-risk procedures",
+          "kind": "clinical",
+          "title": "Antiplatelet Management in Neurointerventional Procedures",
+          "channel": "Neurosurgical TV",
+          "url": "https://www.youtube.com/watch?v=9Gwpe-2N9bw",
+          "duration": "36:29"
+        },
+        {
+          "name": "Practical update on holds",
+          "kind": "clinical",
+          "title": "Perioperative Anticoagulant Management: An Update - C Clarke",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=0JU6lyZzmZU",
+          "duration": "29:09"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u6",
+      "type": "section",
+      "name": "Intraoperative and postoperative bleeding management considerations",
+      "ashsapPage": 6,
+      "assessment": "For life-threatening bleeding, which reversal strategy matches which drug — idarucizumab, andexanet alfa, four-factor prothrombin complex concentrate, intravenous vitamin K — and what should your institution already have protocolized before that call comes in?",
+      "lesson": {
+        "title": "Bleeding management and resuming anticoagulation workshop with Dr D Siegal",
+        "channel": "ThrombosisCanada",
+        "url": "https://www.youtube.com/watch?v=92X9nLLSFhI",
+        "duration": "39:05",
+        "why": "A workshop devoted to managing anticoagulant-associated bleeding and deciding when to resume, which is the double question this section poses."
+      },
+      "drills": [
+        {
+          "name": "Restarting after a bleed",
+          "kind": "clinical",
+          "title": "Restarting Anticoagulation after Bleeding: Whether, When and How - Weekly Research Conference",
+          "channel": "University of Ottawa Heart Institute",
+          "url": "https://www.youtube.com/watch?v=ENiercK0AgE",
+          "duration": "56:34"
+        },
+        {
+          "name": "Code hemorrhage in the operating room",
+          "kind": "clinical",
+          "title": "#53 Massive Intraoperative Bleeding and the Code Hemorrhage Response",
+          "channel": "Anesthesia Patient Safety Foundation",
+          "url": "https://www.youtube.com/watch?v=jZp6L85p1lY",
+          "duration": "17:24"
+        },
+        {
+          "name": "Reversal when the bleed is intracranial",
+          "kind": "clinical",
+          "title": "Anticoagulation, Hemostasis, and Reversal in Neurosurgery by Dr. Christopher Loftus",
+          "channel": "CIEN Neurosurgery",
+          "url": "https://www.youtube.com/watch?v=iZPuk5fTPJA",
+          "duration": "54:07"
+        },
+        {
+          "name": "Reducing surgical blood loss",
+          "kind": "clinical",
+          "title": "Perioperative Management of Blood Loss in Complex Spinal Surgery - Nima Alan, MD",
+          "channel": "UCSF Orthopaedic Surgery",
+          "url": "https://www.youtube.com/watch?v=yQMuzLho__U",
+          "duration": "21:08"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u7",
+      "type": "section",
+      "name": "Conclusion",
+      "ashsapPage": 7,
+      "assessment": "Can you talk an entire periprocedural plan through out loud — stop date, bridging decision, day-of-surgery instruction, restart timing and the bleeding contingency — for a patient on apixaban for atrial fibrillation who is booked for colonoscopy with polypectomy?",
+      "lesson": {
+        "title": "Management of Perioperative Anticoagulation – Please participate in our 3-minute survey below!",
+        "channel": "Universitätsspital Zürich",
+        "url": "https://www.youtube.com/watch?v=iayALM8Lglo",
+        "duration": "27:35",
+        "why": "A compact single-talk synthesis of the whole perioperative algorithm, useful as the consolidating pass this concluding section calls for."
+      },
+      "drills": [
+        {
+          "name": "Rapid anticoagulation refresher",
+          "kind": "clinical",
+          "title": "Anticoagulation Update (John Eidt, MD)",
+          "channel": "Houston Methodist DeBakey CV Education",
+          "url": "https://www.youtube.com/watch?v=6MM3QR-zmDw",
+          "duration": "16:14"
+        }
+      ]
+    }
+  ]
+}

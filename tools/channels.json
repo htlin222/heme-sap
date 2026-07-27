@@ -1,0 +1,61 @@
+{
+ "_note": "Channel policy for ranking. Matching is case-insensitive substring against the YouTube channel name. 'trusted' is the fellowship-level bar the course is aimed at; 'usable' can be excellent but needs the title to earn it; 'rejected' is med-student or patient-education level and never ships, per the course's stated audience.",
+
+ "trusted": [
+  "American Society of Hematology", "ASH Clinical News", "Blood Advances", "ASH Publications",
+  "European Hematology Association", "EHA", "European School of Haematology", "ESH",
+  "EBMT", "ISTH", "International Society on Thrombosis", "AABB", "ASFA",
+  "VJHemOnc", "Video Journal of Hematology",
+  "New England Journal of Medicine", "NEJM", "The Lancet", "JAMA Network", "JAMA Oncology",
+  "Journal of Clinical Oncology", "Journal of Clinical Investigation", "Mayo Proceedings",
+  "Nature Reviews", "Cell Press", "Annals of Internal Medicine", "BMJ",
+  "Mayo Clinic", "Cleveland Clinic", "MD Anderson", "Dana-Farber", "Memorial Sloan Kettering",
+  "Fred Hutch", "St. Jude", "Johns Hopkins", "Stanford", "UCSF", "Massachusetts General",
+  "Brigham and Women", "Moffitt", "City of Hope", "Roswell Park", "Emory", "Vanderbilt",
+  "Washington University", "University of Michigan", "Northwestern Medicine", "Penn Medicine",
+  "Yale", "Duke Health", "Cedars-Sinai", "Sylvester Comprehensive",
+  "NIH", "National Cancer Institute", "NHLBI", "National Human Genome", "NHGRI",
+  "MDS Foundation", "AAMDSIF", "Aplastic Anemia", "Dyskeratosis Congenita Outreach",
+  "World Federation of Hemophilia", "National Bleeding Disorders", "National Hemophilia",
+  "Sickle Cell Disease Association", "Thalassaemia International",
+  "American Society of Clinical Oncology", "ASCO", "NCCN", "ecancer",
+  "Fanconi Cancer Foundation", "Histiocytosis Association", "Leukemia Research Foundation",
+  "ThrombosisCanada", "Thrombosis Canada", "Thrombosis UK", "Anticoagulation Forum",
+  "International Academy for Clinical Hematology", "IACH", "ERN-EuroBloodNet", "EuroBloodNet",
+  "Lymphoma Research Foundation", "Jerad Gardner", "ASCP", "College of American Pathologists",
+  "Bloodwise", "Blood Cancer UK", "Sickle Cell Society", "Cooley's Anemia",
+  "Blood Bank Guy", "Blood Talks", "Transfusion", "Stanford Pain Medicine",
+  "UT MD Anderson", "EBMT Trainees", "ASTCT", "CIBMTR", "NMDP", "Be The Match"
+ ],
+
+ "usable": [
+  "OncLive", "Targeted Oncology", "CancerNetwork", "The ASCO Post", "Healio", "HemOnc",
+  "Medscape", "MediCom Oncology", "PeerView", "Clinical Care Options", "Practice Update",
+  "i3 Health", "Oncology Nursing Society", "Great Debates", "Perfect Square",
+  "Strong Medicine", "The Curbsiders", "Internal Medicine Podcast", "Grand Rounds",
+  "RepeatDx", "medXclusive Learning", "CheckRare", "Rare Disease",
+  "CLL Society", "Lymphoma Research Foundation", "Leukemia & Lymphoma Society",
+  "International Myeloma Foundation", "HealthTree", "Myeloma Patients Europe",
+  "Vasculitis Foundation", "Global Blood", "Patient Power", "CureToday",
+  "Indian Rheumatology", "IAP", "ERN", "Trainees",
+  "HMP Global", "Coag Coach", "Patient Empowerment Network", "Lymphoma Australia",
+  "Lymphoma Coalition", "Leukaemia Foundation", "Blood & Cancer", "Aplastic",
+  "Strong Medicine", "Hematology", "Haematology", "Oncology"
+ ],
+
+ "rejected": [
+  "Osmosis", "Ninja Nerd", "Armando Hasudungan", "Dirty Medicine", "Lecturio",
+  "Medicosis Perfectionalis", "Rhesus Medicine", "Dr Matt & Dr Mike", "Professor Dave",
+  "Medical Centric", "Speed Pharmacology", "Pixorize", "Sketchy", "Zero To Finals",
+  "AMBOSS", "Khan Academy", "USMLE", "Kaplan", "Picmonic", "Registered Nurse RN",
+  "Simple Nursing", "Level Up RN", "Nurse", "MedCram", "Physiotutors", "Animated",
+  "Fox News", "CNN", "ABC News", "NBC", "TED", "Doctor Mike",
+  "Neural Academy", "Handwritten Tutorials", "Dr. Najeeb", "Medinaz", "MedLecturesMade",
+  "AK Lectures", "The Organic Chemistry Tutor", "Bootcamp", "PrepLadder", "Marrow",
+  "DrBeen", "EZmed", "Medzcool", "Study", "Exam", "Quiz", "Mnemonic", "For Dummies",
+  "JJ Medicine", "Nilam Pathology", "MBBS", "Bhanu Prakash", "Alila Medical Media",
+  "MedLive By", "ICU Advantage", "RegisteredNurseRN", "Nursing", "NCLEX",
+  "Medical Centric", "Najeeb", "khanacademy", "Khan Academy", "Elsevier",
+  "Physiology", "Biochemistry", "Anatomy", "Paramedic", "First Aid", "Pharmacology Made"
+ ]
+}

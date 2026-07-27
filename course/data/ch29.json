@@ -1,0 +1,174 @@
+{
+  "chapter": "CH29",
+  "title": "Apheresis",
+  "units": [
+    {
+      "id": "ch29-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 347,
+      "assessment": "Can you explain what an apheresis instrument removes and what it returns, and how the ASFA category assigned to an indication should change your willingness to offer the procedure?",
+      "lesson": {
+        "title": "Rotation Exam Review: Therapeutic Apheresis 1",
+        "channel": "Rose Transfusion",
+        "url": "https://www.youtube.com/watch?v=ccSVop1fpE4",
+        "duration": "25:56",
+        "why": "A rotation-level review of therapeutic apheresis that starts from the ASFA category framework and the mechanics common to every procedure."
+      },
+      "drills": [
+        {
+          "name": "Common indications reviewed disease by disease",
+          "kind": "clinical",
+          "title": "Therapeutic Apheresis: Common Indications, Better Disease Understanding",
+          "channel": "UW Video",
+          "url": "https://www.youtube.com/watch?v=SBYGcYgwiSQ",
+          "duration": "59:38"
+        },
+        {
+          "name": "How separation by centrifugation works",
+          "kind": "mechanism",
+          "title": "What is Apheresis? | Basics of Apheresis in Blood Banking & Medicine",
+          "channel": "Transfusion Vitals",
+          "url": "https://www.youtube.com/watch?v=jf5Zl4pcsY4",
+          "duration": "10:39"
+        }
+      ]
+    },
+    {
+      "id": "ch29-u2",
+      "type": "section",
+      "name": "Apheresis",
+      "ashsapPage": 348,
+      "assessment": "Can you choose vascular access, anticoagulation and replacement fluid for a plasma exchange, decide how many plasma volumes to process, and recognize and treat citrate toxicity?",
+      "lesson": {
+        "title": "025: Therapeutic Apheresis Essentials with Jeff Winters",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=w25pYzjcuRc",
+        "duration": "52:17",
+        "why": "An apheresis director works through access, anticoagulation, replacement fluid choice and procedure intensity — the four planning decisions this section names."
+      },
+      "drills": [
+        {
+          "name": "Apheresis fundamentals, part 1",
+          "kind": "clinical",
+          "title": "Rotation Exam Review: Therapeutic Apheresis 1",
+          "channel": "Rose Transfusion",
+          "url": "https://www.youtube.com/watch?v=ccSVop1fpE4",
+          "duration": "25:56"
+        },
+        {
+          "name": "Second half of the apheresis review",
+          "kind": "clinical",
+          "title": "Rotation Exam Review: Therapeutic Apheresis 2",
+          "channel": "Rose Transfusion",
+          "url": "https://www.youtube.com/watch?v=NVEnQrOBRiw",
+          "duration": "22:50"
+        },
+        {
+          "name": "Indications and how the evidence behind them is graded",
+          "kind": "clinical",
+          "title": "Therapeutic Apheresis: Common Indications, Better Disease Understanding",
+          "channel": "UW Video",
+          "url": "https://www.youtube.com/watch?v=SBYGcYgwiSQ",
+          "duration": "59:38"
+        }
+      ]
+    },
+    {
+      "id": "ch29-u3",
+      "type": "section",
+      "name": "Red cell exchange",
+      "ashsapPage": 349,
+      "assessment": "Can you state the indications for red cell exchange in sickle cell disease, explain how the target HbS fraction and isovolemic exchange are set, and say why the procedure can be iron-neutral?",
+      "lesson": {
+        "title": "Red Cell Exchange",
+        "channel": "Transfusion Squad",
+        "url": "https://www.youtube.com/watch?v=q9LZGdxipck",
+        "duration": "26:03",
+        "why": "A procedure-level account of automated red cell exchange: targets, fraction of cells remaining, iron balance and how it differs from simple transfusion."
+      },
+      "drills": [
+        {
+          "name": "Manual exchange when apheresis is unavailable",
+          "kind": "clinical",
+          "title": "Setting up and Performing Manual Exchange Red Cell Exchange in Sickle Cell Disease (Over 40kg) 2022",
+          "channel": "Patient Blood Management England",
+          "url": "https://www.youtube.com/watch?v=5QFiLziDxbc",
+          "duration": "18:36"
+        },
+        {
+          "name": "Common misconceptions about automated exchange",
+          "kind": "clinical",
+          "title": "Debunking myths about automated red blood cell exchange",
+          "channel": "Kevin Pho, MD",
+          "url": "https://www.youtube.com/watch?v=cQdeHPaum0g",
+          "duration": "14:30"
+        }
+      ]
+    },
+    {
+      "id": "ch29-u4",
+      "type": "section",
+      "name": "Extracorporeal photochemotherapy",
+      "ashsapPage": 351,
+      "assessment": "Can you describe the steps of extracorporeal photopheresis and the mechanism by which it yields a tolerizing or immunizing cellular product, and name the indications where it is standard therapy?",
+      "lesson": {
+        "title": "Seminar - Extracorporeal Photopheresis",
+        "channel": "Transfusion Medicine Indore",
+        "url": "https://www.youtube.com/watch?v=trP9owtmcUY",
+        "duration": "31:57",
+        "why": "A seminar covering the photopheresis procedure end to end — collection, psoralen and ultraviolet A exposure, reinfusion — plus its indications."
+      },
+      "drills": [
+        {
+          "name": "The dendritic cell biology behind photopheresis",
+          "kind": "mechanism",
+          "title": "Personalized Dendritic Cell Immunotherapy:",
+          "channel": "Yale Cancer Center",
+          "url": "https://www.youtube.com/watch?v=XojPJoRow3U",
+          "duration": "34:29"
+        },
+        {
+          "name": "Photopheresis in cutaneous T-cell lymphoma",
+          "kind": "clinical",
+          "title": "The use of photopheresis for the treatment of cutaneous T-cell lymphoma",
+          "channel": "VJOncology",
+          "url": "https://www.youtube.com/watch?v=1UelugC4_04",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "id": "ch29-u5",
+      "type": "section",
+      "name": "Peripheral blood mononuclear cell collection",
+      "ashsapPage": 352,
+      "assessment": "Can you state the peripheral CD34 count that predicts an adequate collection, name the mobilizing agents now available, and say how collection for CAR-T manufacturing differs from a transplant collection?",
+      "lesson": {
+        "title": "Operational aspects of cell collection for immunotherapy - Lindsay Palomino, RN, BSN, HP",
+        "channel": "Fred Hutch Patient Care",
+        "url": "https://www.youtube.com/watch?v=lci_6m3TxPE",
+        "duration": "40:25",
+        "why": "Covers the operational reality of mononuclear cell collection for cell therapy — timing, targets, product requirements and what makes a collection fail."
+      },
+      "drills": [
+        {
+          "name": "Apheresis collection for CAR-T therapy",
+          "kind": "clinical",
+          "title": "CAR-T Cell Therapy: Apheresis",
+          "channel": "Mayo Clinic",
+          "url": "https://www.youtube.com/watch?v=oUtowdmqCKI",
+          "duration": "3:05"
+        },
+        {
+          "name": "A collection run step by step",
+          "kind": "clinical",
+          "title": "Apheresis. Harvesting life. Step by step.",
+          "channel": "Dr. Madhav Danthala",
+          "url": "https://www.youtube.com/watch?v=4gJ3MRTgWDA",
+          "duration": "5:13"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "chapter": "CH33",
+  "title": "Hematopoietic cell transplantation and cellular therapy 4: adoptive cellular therapy",
+  "units": [
+    {
+      "id": "ch33-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 386,
+      "assessment": "Can you define adoptive cellular therapy broadly enough to include donor lymphocyte infusion, virus-specific T cells and engineered CAR T cells, and say what each of them does that a drug cannot?",
+      "lesson": {
+        "title": "An introduction to CAR-T cell therapy",
+        "channel": "European Hematology Association",
+        "url": "https://www.youtube.com/watch?v=DJJn6dPRB7k",
+        "duration": "27:15",
+        "why": "A society-level introduction that defines the field and the manufacturing chain before any product-specific detail."
+      },
+      "drills": [
+        {
+          "name": "A second pass over the same ground",
+          "kind": "mechanism",
+          "title": "An Introduction to CAR T-Cell Therapy",
+          "channel": "ASCP",
+          "url": "https://www.youtube.com/watch?v=ltrOxkr8aH0",
+          "duration": "17:33"
+        },
+        {
+          "name": "Where adoptive transfer came from",
+          "kind": "mechanism",
+          "title": "Adoptive T Cell Transfer featuring Dr. Christopher Klebanoff | The Immunology Podcast",
+          "channel": "STEMCELL Technologies",
+          "url": "https://www.youtube.com/watch?v=V36ibdgaIt0",
+          "duration": "1:07:54"
+        },
+        {
+          "name": "Engineering T cells beyond leukemia",
+          "kind": "mechanism",
+          "title": "Engineering T cells: moving beyond leukemia",
+          "channel": "NIH VideoCast",
+          "url": "https://www.youtube.com/watch?v=U7Tk8BfIcpg",
+          "duration": "49:33"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u2",
+      "type": "section",
+      "name": "Cancer therapy with chimeric antigen receptor–modified T cells",
+      "ashsapPage": 386,
+      "assessment": "Can you draw the parts of a chimeric antigen receptor — binder, hinge, transmembrane, costimulatory and CD3-zeta domains — and explain why CD28 and 4-1BB products behave differently in patients?",
+      "lesson": {
+        "title": "CAR-T Cell Therapy: Now and in 2030 | Laboratory Medicine and Pathology in Individualized Medicine",
+        "channel": "Mayo Clinic",
+        "url": "https://www.youtube.com/watch?v=zrZ3E7J7OMM",
+        "duration": "55:10",
+        "why": "Goes from receptor construction and manufacturing through to where the platform is heading, which is the level of detail this section asks for."
+      },
+      "drills": [
+        {
+          "name": "The first patients treated",
+          "kind": "trial",
+          "title": "Genetically Modified T Cells Obliterate Chronic Lymphocytic Leukemia Tumors",
+          "channel": "Penn Medicine",
+          "url": "https://www.youtube.com/watch?v=nJcBug72lQ8",
+          "duration": "5:27"
+        },
+        {
+          "name": "How an engineered T cell kills",
+          "kind": "mechanism",
+          "title": "CAR-T Cells: Engineered Cancer Killers, Mechanism of Action",
+          "channel": "Peter MacCallum Cancer Centre",
+          "url": "https://www.youtube.com/watch?v=UXXo52zfmVg",
+          "duration": "5:53"
+        },
+        {
+          "name": "Current applications and limits",
+          "kind": "clinical",
+          "title": "T-Cell Therapy: Current Applications and Future Directions",
+          "channel": "Society for Translational Oncology",
+          "url": "https://www.youtube.com/watch?v=o26sPe3DlRM",
+          "duration": "51:22"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u3",
+      "type": "section",
+      "name": "Allogeneic CAR T-cell products",
+      "ashsapPage": 387,
+      "assessment": "Can you explain the two immunological barriers an off-the-shelf allogeneic CAR T product has to overcome, and describe how gene editing is used to remove them?",
+      "lesson": {
+        "title": "Pros and cons of autologous and allogeneic CAR-Ts",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=AmPmFV_M-EI",
+        "duration": "2:46",
+        "why": "States the autologous-versus-allogeneic trade-off directly: manufacturing time and lymphocyte quality against rejection and graft-versus-host risk."
+      },
+      "drills": [
+        {
+          "name": "Making off-the-shelf T and NK products",
+          "kind": "mechanism",
+          "title": "Tackling the challenges with generating \"off-the-shelf\" allogeneic T-cell & NK-cell products",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=oG98pqXBL4Q",
+          "duration": "3:49"
+        },
+        {
+          "name": "Manufacturing improvements",
+          "kind": "mechanism",
+          "title": "Strategies to improve CAR T-cell manufacturing",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=pcvDLgMiH_8",
+          "duration": "3:59"
+        },
+        {
+          "name": "Allogeneic gamma-delta CAR T cells",
+          "kind": "trial",
+          "title": "ADI-001: anti-CD20 CAR-engineered allogeneic γδ T cells in adults with B-cell malignancies",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=uHgdFt7HNac",
+          "duration": "3:24"
+        },
+        {
+          "name": "Donor-derived CAR T after transplant",
+          "kind": "trial",
+          "title": "Donor-derived allogeneic CAR-T for B-ALL post-transplant",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=TVY8wqMNOjA",
+          "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u4",
+      "type": "section",
+      "name": "Cancer therapy with T-cell receptor–engineered cells",
+      "ashsapPage": 387,
+      "assessment": "Can you state why TCR-engineered T cells can hit intracellular targets while CAR T cells cannot, and what that MHC dependence costs in terms of patient eligibility and off-target risk?",
+      "lesson": {
+        "title": "Engineered T Cell with CARs and TCRs for Hematologic Malignancy",
+        "channel": "ASTCT",
+        "url": "https://www.youtube.com/watch?v=qyFyAu4gAJQ",
+        "duration": "34:53",
+        "why": "The only lecture in the pool that teaches CAR and TCR-engineered T cells side by side, which is exactly the comparison this section turns on."
+      },
+      "drills": [
+        {
+          "name": "CAR-T, TCR-T and what separates them",
+          "kind": "mechanism",
+          "title": "Engineering T Cells in Cancer Therapy: CAR-T, TCR-T and Others | Presented by Dr. Naoto Hirano",
+          "channel": "Princess Margaret Cancer Centre",
+          "url": "https://www.youtube.com/watch?v=v0u3yEAHRQg",
+          "duration": "22:48"
+        },
+        {
+          "name": "TCR-engineered cells against leukemia",
+          "kind": "clinical",
+          "title": "TCXpress™ vs CAR-T therapy & targeting leukemia with TCR T-cells",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=CpS7jnOA_TE",
+          "duration": "3:17"
+        },
+        {
+          "name": "Beyond CAR T cells",
+          "kind": "mechanism",
+          "title": "ESGCT e-School: Cancer immunotherapy: beyond CAR T cells",
+          "channel": "European Society for Gene and Cell Therapy",
+          "url": "https://www.youtube.com/watch?v=sYo_Rl8fOEo",
+          "duration": "52:11"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u5",
+      "type": "section",
+      "name": "Natural killer cells",
+      "ashsapPage": 388,
+      "assessment": "Can you explain how an NK cell decides what to kill without prior antigen exposure, and say why an allogeneic NK product carries less graft-versus-host risk than an allogeneic T-cell product?",
+      "lesson": {
+        "title": "Human Natural Killer Cells: From Bench to Clinic",
+        "channel": "Yale Cancer Center",
+        "url": "https://www.youtube.com/watch?v=Pnj5HJdNFI0",
+        "duration": "52:20",
+        "why": "Takes NK biology from missing-self recognition and KIR licensing through to the clinical products built on it."
+      },
+      "drills": [
+        {
+          "name": "iPSC-derived CAR-NK cells",
+          "kind": "trial",
+          "title": "FT596: iPSC-derived CAR-NK cells with engineered persistence for B-cell malignancies",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=TFEeJJbRi7U",
+          "duration": "8:54"
+        },
+        {
+          "name": "Memory-like NK cells",
+          "kind": "mechanism",
+          "title": "Dr. Rizwan Romee on NK Cells",
+          "channel": "Dana-Farber Cancer Institute",
+          "url": "https://www.youtube.com/watch?v=_9_M5YgxJj8",
+          "duration": "2:06"
+        },
+        {
+          "name": "Modulating NK cells in lymphoid malignancy",
+          "kind": "clinical",
+          "title": "Immunomodulation of NK cells for the treatment of lymphoid malignancies",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=fIw-f_0Tkkk",
+          "duration": "21:05"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u6",
+      "type": "section",
+      "name": "Tumor-infiltrating lymphocytes",
+      "ashsapPage": 388,
+      "assessment": "Can you describe how tumour-infiltrating lymphocytes are expanded and given, explain why lymphodepletion and interleukin-2 are part of the protocol, and name the tumour type with randomised evidence?",
+      "lesson": {
+        "title": "Adoptive immunotherapy with tumor-infiltrating T lymphocytes - Simon Turcotte",
+        "channel": "Queen's Health Sciences",
+        "url": "https://www.youtube.com/watch?v=FCosO92dgP4",
+        "duration": "45:14",
+        "why": "A full academic account of TIL therapy — harvest, expansion, lymphodepletion and interleukin-2 support — rather than a product advertisement."
+      },
+      "drills": [
+        {
+          "name": "The randomised melanoma trial",
+          "kind": "trial",
+          "title": "Tumor-Infiltrating Lymphocytes in Advanced Melanoma | NEJM",
+          "channel": "NEJM Group",
+          "url": "https://www.youtube.com/watch?v=ifw7NBzJN9U",
+          "duration": "2:15"
+        },
+        {
+          "name": "TIL therapy explained by its clinicians",
+          "kind": "clinical",
+          "title": "What Is Tumor-Infiltrating Lymphocyte (TIL) Therapy? Answered by Allison Betof Warner, MD",
+          "channel": "Stanford Department of Medicine",
+          "url": "https://www.youtube.com/watch?v=wrb70t97PC0",
+          "duration": "3:16"
+        },
+        {
+          "name": "Selecting and expanding the cells",
+          "kind": "mechanism",
+          "title": "Cell sorting to harness the full power of tumor-infiltrating lymphocytes for cell therapy [WEBINAR]",
+          "channel": "Miltenyi Biotec",
+          "url": "https://www.youtube.com/watch?v=iPUUFsByJRg",
+          "duration": "34:06"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u7",
+      "type": "section",
+      "name": "Adoptive cellular therapy complications",
+      "ashsapPage": 388,
+      "assessment": "Can you grade cytokine release syndrome and ICANS by consensus criteria, say when tocilizumab rather than corticosteroids is used, and recognise immune effector cell-associated haemophagocytic lymphohistiocytosis-like syndrome?",
+      "lesson": {
+        "title": "Early and Late complications after CAR T therapy",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=dov9AYTDsKk",
+        "duration": "48:39",
+        "why": "Covers both the acute toxicities of the first month and the prolonged cytopenias and infections that follow, in one dedicated complications lecture."
+      },
+      "drills": [
+        {
+          "name": "Toxicity management in a lymphoma programme",
+          "kind": "clinical",
+          "title": "CD19 Targeted CAR T-cell Therapy in LBCL",
+          "channel": "Baptist Health",
+          "url": "https://www.youtube.com/watch?v=w8XObLcDJew",
+          "duration": "45:46"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u8",
+      "type": "section",
+      "name": "CD19-targeted CAR T-cell therapy for B-cell acute lymphoblastic leukemia",
+      "ashsapPage": 389,
+      "assessment": "Can you name the CD19-directed products approved for B-cell acute lymphoblastic leukemia and their age restrictions, and explain how CD19-negative escape happens and what is being done about it?",
+      "lesson": {
+        "title": "Chimeric Antigen Receptor T-Cell Therapy in ALL",
+        "channel": "OncLive",
+        "url": "https://www.youtube.com/watch?v=UwB3FXtCEIk",
+        "duration": "12:51",
+        "why": "Focused on CAR T-cell therapy in acute lymphoblastic leukemia specifically, including who is eligible and what response looks like."
+      },
+      "drills": [
+        {
+          "name": "CAR T cells in paediatric ALL",
+          "kind": "clinical",
+          "title": "Treating pediatric ALL with chimeric antigen receptor (CAR) T-cell therapy",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Ow07qJXfBio",
+          "duration": "3:05"
+        },
+        {
+          "name": "CD22 targeting after CD19 escape",
+          "kind": "trial",
+          "title": "Phase I study of CD22-targeted CAR-T therapy in patients with CD19-negative B-ALL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=QKbT_rQtklE",
+          "duration": "2:32"
+        },
+        {
+          "name": "Dual CD19/CD22 targeting",
+          "kind": "trial",
+          "title": "Efficacy of bispecific CD19/CD22 CAR T-cells in B-cell malignancies",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=UX0swfgTUmA",
+          "duration": "2:37"
+        },
+        {
+          "name": "Where T-cell therapy sits in ALL",
+          "kind": "clinical",
+          "title": "Exploring the potential of T-cell therapy for acute lymphoblastic leukemia",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=3zdpjpyHme8",
+          "duration": "4:44"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u9",
+      "type": "section",
+      "name": "CD19-targeted CAR T-cell therapy in diffuse large B-cell lymphoma",
+      "ashsapPage": 390,
+      "assessment": "For large B-cell lymphoma relapsing within a year of first-line therapy, can you justify second-line CAR T-cell therapy over salvage chemotherapy and autologous transplant using the randomised second-line trials?",
+      "lesson": {
+        "title": "Role of CD19 CAR T Cells in Second Line Large B Cell Lymphoma",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=EU5NReOPLcI",
+        "duration": "55:58",
+        "why": "Built entirely around the second-line question, which is where the CD19 CAR T-cell evidence in large B-cell lymphoma now sits."
+      },
+      "drills": [
+        {
+          "name": "Real-world outcomes outside trials",
+          "kind": "clinical",
+          "title": "CD19 CAR-T in lymphoma patients in the UK",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=zmq2_44ul0w",
+          "duration": "10:22"
+        },
+        {
+          "name": "Construct design and response",
+          "kind": "trial",
+          "title": "Humanized versus murinized CD19/CD22 CAR-T cell therapy for R/R B-cell lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=CaFhSWjjGUw",
+          "duration": "3:34"
+        },
+        {
+          "name": "Dual-antigen targeting in B-cell lymphoma",
+          "kind": "trial",
+          "title": "Anti-CD20/19 CAR-T cell therapy in r/r B-cell malignancies",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=RHagzbJkH4o",
+          "duration": "2:10"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u10",
+      "type": "section",
+      "name": "CD19-targeted CAR T-cell therapy in follicular lymphoma",
+      "ashsapPage": 390,
+      "assessment": "Can you say what response rate and durability CD19 CAR T-cell therapy achieves in relapsed follicular lymphoma, and where it now sits relative to bispecific antibodies in the sequence of therapy?",
+      "lesson": {
+        "title": "CAR-T Cell Therapy for Leukemia and Lymphoma: Exploring Modern Cellular Therapies",
+        "channel": "PeerView Oncology",
+        "url": "https://www.youtube.com/watch?v=Opfl9TNrUKo",
+        "duration": "58:56",
+        "why": "A cellular-therapy course covering the approved CD19 products across leukemia and lymphoma, including their use in indolent B-cell disease."
+      },
+      "drills": [
+        {
+          "name": "What is new in CAR T for non-Hodgkin lymphoma",
+          "kind": "clinical",
+          "title": "Updates in CAR-T for non-Hodgkin lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=yWUhqgUezqQ",
+          "duration": "3:08"
+        },
+        {
+          "name": "Durability of response in refractory disease",
+          "kind": "trial",
+          "title": "Responses to CAR T-Cell therapy still strong after one year in patients with refractory NHL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=0jv_iKiv4XE",
+          "duration": "6:59"
+        },
+        {
+          "name": "Delivering CAR T outside a trial",
+          "kind": "clinical",
+          "title": "CAR T cell therapy in Lymphoma: Australian context",
+          "channel": "Lymphoma Australia",
+          "url": "https://www.youtube.com/watch?v=ycXD3rBy55g",
+          "duration": "8:28"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u11",
+      "type": "section",
+      "name": "CD19-targeted CAR T-cell therapy in B-cell mantle cell lymphoma",
+      "ashsapPage": 390,
+      "assessment": "Can you state which mantle cell lymphoma patients qualify for CD19 CAR T-cell therapy after BTK inhibitor failure, and how their toxicity profile compares with other lymphoma populations?",
+      "lesson": {
+        "title": "CAR T-cell Therapy After Failed Chemo & BTKi in Mantle Cell Lymphoma | Manali Kamdar, MD | EHA 2024",
+        "channel": "HealthTree Foundation for Blood Cancers",
+        "url": "https://www.youtube.com/watch?v=ad1Wi87JUvo",
+        "duration": "5:41",
+        "why": "Addresses the exact clinical slot for CAR T-cell therapy in mantle cell lymphoma: the patient who has failed both chemoimmunotherapy and a BTK inhibitor."
+      },
+      "drills": [
+        {
+          "name": "CD19 and CD20 targeting in non-Hodgkin lymphoma",
+          "kind": "clinical",
+          "title": "CD19 and CD20 CAR T-cell therapy for non-Hodgkin lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=1mk8-PLQNYo",
+          "duration": "2:22"
+        },
+        {
+          "name": "Where CAR T fits across B-cell lymphomas",
+          "kind": "clinical",
+          "title": "Potential for CAR T-Cell Therapy in B-Cell Lymphomas",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=APE1f4kuDeI",
+          "duration": "6:55"
+        },
+        {
+          "name": "Dual-target constructs under study",
+          "kind": "trial",
+          "title": "Bispecific anti-CD20, anti-CD19 CAR-Ts for R/R NHL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=zc58pZzY5AM",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
+      "id": "ch33-u12",
+      "type": "section",
+      "name": "CAR T-cell therapy for multiple myeloma",
+      "ashsapPage": 390,
+      "assessment": "Can you name the BCMA-directed CAR T products, say which randomised trials moved them into earlier lines of myeloma therapy, and explain how you would sequence them against bispecific antibodies?",
+      "lesson": {
+        "title": "CAR T and Bispecific Antibody Therapies in Multiple Myeloma",
+        "channel": "Dana-Farber Cancer Institute",
+        "url": "https://www.youtube.com/watch?v=MXtAmrJ0JQI",
+        "duration": "41:56",
+        "why": "Teaches BCMA CAR T-cell therapy and bispecific antibodies together, which is the only way the current sequencing question in myeloma makes sense."
+      },
+      "drills": [
+        {
+          "name": "CAR T cells in myeloma in detail",
+          "kind": "clinical",
+          "title": "CAR T-cells in Multiple Myeloma",
+          "channel": "Dana-Farber Cancer Institute",
+          "url": "https://www.youtube.com/watch?v=SfF2oRUaXtM",
+          "duration": "23:40"
+        },
+        {
+          "name": "The pivotal cilta-cel study",
+          "kind": "trial",
+          "title": "CARTITUDE-1 results: CAR-T against BCMA in R/R MM",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=1bJCJDUqEFw",
+          "duration": "7:42"
+        },
+        {
+          "name": "Why responses are lost",
+          "kind": "clinical",
+          "title": "Overcoming challenges in CAR T-cell therapy for multiple myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=xlxfrs3Lk2I",
+          "duration": "4:04"
+        },
+        {
+          "name": "CAR T against T-cell engagers",
+          "kind": "clinical",
+          "title": "CAR T-cell therapy and BiTEs for myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Vkl4V8vDzdA",
+          "duration": "3:17"
+        }
+      ]
+    }
+  ]
+}

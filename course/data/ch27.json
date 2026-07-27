@@ -1,0 +1,534 @@
+{
+  "chapter": "CH27",
+  "title": "Laboratory hematology",
+  "units": [
+    {
+      "id": "ch27-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 301,
+      "assessment": "Can you explain why a hematology laboratory result is only interpretable against a specific clinical question, and name the three categories into which tests of hemostasis are conventionally sorted?",
+      "lesson": {
+        "title": "Integrating Hematology and Coagulation Results to Enhance Diagnosis",
+        "channel": "Labroots",
+        "url": "https://www.youtube.com/watch?v=A6jc2_XdN0s",
+        "duration": "57:37",
+        "why": "Sets up the chapter's premise — that counts, morphology and coagulation results have to be integrated rather than read one at a time."
+      },
+      "drills": [
+        {
+          "name": "Orientation to the coagulation test menu",
+          "kind": "clinical",
+          "title": "Coagulation Testing Overview",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=aOYNhe_m8mQ",
+          "duration": "4:06"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u2",
+      "type": "section",
+      "name": "Laboratory hematology tests",
+      "ashsapPage": 301,
+      "assessment": "Can you describe how an automated analyzer produces a CBC and differential, and name the situations in which the instrument result must be confirmed by manual review of the film?",
+      "lesson": {
+        "title": "Hematology: How to interpret automated Complete Blood Count (CBC) results",
+        "channel": "Medical Lab Lady Gill",
+        "url": "https://www.youtube.com/watch?v=DfLQizAR1VU",
+        "duration": "33:12",
+        "why": "Works through automated CBC output, red cell indices, instrument flags and the rules that trigger a manual differential."
+      },
+      "drills": [
+        {
+          "name": "Overview of the clinical hematology laboratory",
+          "kind": "clinical",
+          "title": "An Overview of Clinical Laboratory Hematology",
+          "channel": "Dr. T-MLS",
+          "url": "https://www.youtube.com/watch?v=FloHmUEouYM",
+          "duration": "22:22"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u3",
+      "type": "section",
+      "name": "Examination of peripheral blood film",
+      "ashsapPage": 305,
+      "assessment": "Can you list the red cell, white cell and platelet abnormalities you would systematically hunt for on a film, and say which of them change the differential diagnosis the moment you see them?",
+      "lesson": {
+        "title": "Hemepath & Hematology Board Review: Peripheral Blood Smears with Dr. Jeanette Ramos",
+        "channel": "Jerad Gardner, MD",
+        "url": "https://www.youtube.com/watch?v=kvI661vPmi8",
+        "duration": "1:40:08",
+        "why": "A board-review smear session with a hematopathologist that covers the morphologic findings and their diagnostic consequences in fellow-level detail."
+      },
+      "drills": [
+        {
+          "name": "Normal morphology as the reference point",
+          "kind": "clinical",
+          "title": "Normal Blood Cell Morphology (neutrophil lymphocyte eosinophil erythrocyte platelet)Peripheral Smear",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=c1GiEpMeCio",
+          "duration": "9:29"
+        },
+        {
+          "name": "Making and examining the film properly",
+          "kind": "clinical",
+          "title": "Mastering Blood Film Preparation and Examination",
+          "channel": "ASCP preparation camp",
+          "url": "https://www.youtube.com/watch?v=T4L0BJSQcbA",
+          "duration": "19:14"
+        },
+        {
+          "name": "A worked malignant smear",
+          "kind": "clinical",
+          "title": "Chronic Myeloid Leukemia (CML) Peripheral Blood Smear (Hematopathology & Hematology)",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=n-e6oNUt21E",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u4",
+      "type": "section",
+      "name": "Flow cytometry",
+      "ashsapPage": 307,
+      "assessment": "Can you explain how gating strategy and antigen panel design identify an abnormal clonal population, and describe the sensitivity limit of flow cytometry when it is used for measurable residual disease?",
+      "lesson": {
+        "title": "13. Flow cytometry in acute leukaemias – Dr Timothy Farren",
+        "channel": "The Royal College of Pathologists",
+        "url": "https://www.youtube.com/watch?v=3q_0vSOQHTY",
+        "duration": "1:34:54",
+        "why": "A Royal College of Pathologists lecture on flow cytometry in acute leukemia — immunophenotypic panels, gating and residual disease — at diagnostic-practice level."
+      },
+      "drills": [
+        {
+          "name": "Flow cytometry for the clinical hematologist",
+          "kind": "clinical",
+          "title": "Flow cytometry: Basics for the clinical hematologists",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=u0xeC3vTGAo",
+          "duration": "2:42:00"
+        },
+        {
+          "name": "How the instrument actually works",
+          "kind": "mechanism",
+          "title": "Flow Cytometry Introduction - Malte Paulsen (EMBL)",
+          "channel": "iBiology Techniques",
+          "url": "https://www.youtube.com/watch?v=W1BFeiDwqnk",
+          "duration": "33:55"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u5",
+      "type": "section",
+      "name": "Cytogenetics",
+      "ashsapPage": 308,
+      "assessment": "Can you compare metaphase karyotype, FISH and chromosomal microarray in terms of what each can and cannot detect, and say when a normal karyotype still obliges you to test further?",
+      "lesson": {
+        "title": "Dr Mayur Parihar 18th Masterclass Lecture Basics of Cytogenetics 8th Feb 2023",
+        "channel": "River Route Events",
+        "url": "https://www.youtube.com/watch?v=kby3bIr-d9w",
+        "duration": "33:19",
+        "why": "A masterclass on cytogenetics aimed at hematology practice: culture requirements, banding, nomenclature and what a karyotype misses."
+      },
+      "drills": [
+        {
+          "name": "Cytogenetics workshop from a cancer centre",
+          "kind": "clinical",
+          "title": "MD Anderson Workshop - \"Cytogenetics: The Study of Cellular Selfies\"",
+          "channel": "Applied Spectral Imaging | a ZYTOMICS company",
+          "url": "https://www.youtube.com/watch?v=Klms5QKK9S8",
+          "duration": "42:36"
+        },
+        {
+          "name": "From karyotype to microarray",
+          "kind": "clinical",
+          "title": "Cytogenetics: from Karyotype to Microarrays",
+          "channel": "Irving Institute",
+          "url": "https://www.youtube.com/watch?v=dFisrzPCl8M",
+          "duration": "57:58"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u6",
+      "type": "section",
+      "name": "Molecular diagnostics",
+      "ashsapPage": 311,
+      "assessment": "Can you explain the trade-off between the sensitivity of targeted PCR and the breadth of a next-generation sequencing panel, and describe how a molecular result changes disease classification rather than just confirming it?",
+      "lesson": {
+        "title": "Basics of molecular biology in pediatric malignant hematology",
+        "channel": "International Society of Paediatric Oncology",
+        "url": "https://www.youtube.com/watch?v=fkTXlWCa9YE",
+        "duration": "39:36",
+        "why": "Covers the molecular techniques used in hematologic malignancy — fusion detection, mutation panels, sensitivity and limits — rather than generic molecular biology."
+      },
+      "drills": [
+        {
+          "name": "Molecular pathology foundations and variant nomenclature",
+          "kind": "clinical",
+          "title": "Molecular Pathology and Cytogenetics I - Foundations (Molecular Biology, Genetics, and Nomenclature)",
+          "channel": "Ibrahim Hajjali, MD, MSc",
+          "url": "https://www.youtube.com/watch?v=BkxbRnOzlNc",
+          "duration": "1:39:07"
+        },
+        {
+          "name": "Survey of molecular diagnostic platforms",
+          "kind": "clinical",
+          "title": "Clinical Chemistry 1 Molecular Diagnostics Overview",
+          "channel": "Dr. A's Clinical Lab Videos",
+          "url": "https://www.youtube.com/watch?v=HsKQm_6JRtc",
+          "duration": "34:28"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u7",
+      "type": "section",
+      "name": "Hemostasis testing",
+      "ashsapPage": 312,
+      "assessment": "Can you sort assays of hemostasis into screening tests, specific diagnostic tests and drug-monitoring assays, and name a bleeding disorder that every screening test would miss?",
+      "lesson": {
+        "title": "Hemostasis: Lesson 4 - Tests (INR, PTT, platelets, fibrinogen, D-dimer)",
+        "channel": "Strong Medicine",
+        "url": "https://www.youtube.com/watch?v=q548IZGbt28",
+        "duration": "25:21",
+        "why": "The cleanest framework for what PT, aPTT, fibrinogen, platelet count and D-dimer each measure and where each of them is blind."
+      },
+      "drills": [
+        {
+          "name": "Laboratory evaluation of hemostasis end to end",
+          "kind": "clinical",
+          "title": "Laboratory Evaluation of Hemostasis",
+          "channel": "Dr. T-MLS",
+          "url": "https://www.youtube.com/watch?v=7L5GLh-VcNI",
+          "duration": "18:05"
+        },
+        {
+          "name": "Special tests of hemostatic function",
+          "kind": "clinical",
+          "title": "Special Tests of Hemostatic Function | ASCP MLS Prep",
+          "channel": "Testcove",
+          "url": "https://www.youtube.com/watch?v=tUVLO10C6TE",
+          "duration": "7:34"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u8",
+      "type": "section",
+      "name": "Preanalytical variables",
+      "ashsapPage": 313,
+      "assessment": "Can you name the preanalytical errors — underfilled tube, citrate ratio, extreme hematocrit, transport temperature, processing delay — that corrupt coagulation results, and say in which direction each error pushes the result?",
+      "lesson": {
+        "title": "Pre-analytical Variables for Coagulation Testing",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=x022_CZUr_s",
+        "duration": "18:52",
+        "why": "Mayo Clinic Laboratories on the specific preanalytical variables of coagulation testing, which is precisely the scope of this section."
+      },
+      "drills": [
+        {
+          "name": "Full CE session on preanalytical variables",
+          "kind": "clinical",
+          "title": "Preanalytical Variables in Coagulation Testing",
+          "channel": "Labroots",
+          "url": "https://www.youtube.com/watch?v=sSdF3N2JCFQ",
+          "duration": "1:07:01"
+        },
+        {
+          "name": "Preanalytical issues and the clotting screen",
+          "kind": "clinical",
+          "title": "Pre Analytical Variables & Clotting Screen Investigations talk by Anne Riddell",
+          "channel": "British Society for Haematology",
+          "url": "https://www.youtube.com/watch?v=UdMDJRfN9Xo",
+          "duration": "51:15"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u9",
+      "type": "section",
+      "name": "Screening coagulation testing and associated abnormalities",
+      "ashsapPage": 314,
+      "assessment": "Can you build the differential for an isolated prolonged prothrombin time, and describe what a mixing study result tells you about factor deficiency versus a circulating inhibitor?",
+      "lesson": {
+        "title": "Screening Tests of Hemostasis",
+        "channel": "Laurie",
+        "url": "https://www.youtube.com/watch?v=ms9qpF-Atio",
+        "duration": "21:50",
+        "why": "Takes the screening tests one at a time and connects each abnormal pattern to the factor pathway responsible."
+      },
+      "drills": [
+        {
+          "name": "Interpreting a prolonged prothrombin time",
+          "kind": "clinical",
+          "title": "How to interpret a prothrombin time (PT) test",
+          "channel": "Medmastery",
+          "url": "https://www.youtube.com/watch?v=tY28cQSBy3g",
+          "duration": "4:25"
+        },
+        {
+          "name": "The cascade behind the screening tests",
+          "kind": "mechanism",
+          "title": "Hemostasis and the Coagulation Cascade-Hematology Lecture Series",
+          "channel": "The Lab Rat",
+          "url": "https://www.youtube.com/watch?v=Kbm_4FhjmIE",
+          "duration": "27:47"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u10",
+      "type": "section",
+      "name": "Activated partial thromboplastin time",
+      "ashsapPage": 315,
+      "assessment": "Can you list the causes of an isolated prolonged aPTT in a patient who is not bleeding, and explain how you would separate a lupus anticoagulant from a factor inhibitor and from a contact factor deficiency?",
+      "lesson": {
+        "title": "Evaluation of Minor Prolongation of Coagulation Times",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=WrctjeAHEA8",
+        "duration": "24:50",
+        "why": "Built entirely around the problem this section poses — what to do with a modestly prolonged clotting time — including mixing studies and inhibitor workup."
+      },
+      "drills": [
+        {
+          "name": "What the aPTT reagent actually measures",
+          "kind": "clinical",
+          "title": "Activated Partial Thromboplastin Time (APTT) Explained | Lab Talk for Clinical Lab Scientists",
+          "channel": "Sysmex America, Inc",
+          "url": "https://www.youtube.com/watch?v=sGQTcOHbgiE",
+          "duration": "5:07"
+        },
+        {
+          "name": "Mixing study essentials",
+          "kind": "clinical",
+          "title": "Mixing Studies Overview",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=ueKkDKtTLbA",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u11",
+      "type": "section",
+      "name": "Combined abnormalities of PT and aPTT",
+      "ashsapPage": 316,
+      "assessment": "Can you work through the causes of a simultaneously prolonged PT and aPTT, and say which combination of fibrinogen, thrombin time and platelet count points to DIC rather than liver disease or a common-pathway deficiency?",
+      "lesson": {
+        "title": "Algorithmic approach and summarization of Platelet and Coagulation Abnormalities | Dr. Karthika KV",
+        "channel": "Mindray India",
+        "url": "https://www.youtube.com/watch?v=C3PX-qELW9g",
+        "duration": "51:32",
+        "why": "An algorithmic run through combined coagulation abnormalities, which is the reasoning pattern this section is testing."
+      },
+      "drills": [
+        {
+          "name": "Mixing studies for a prolonged PT and aPTT",
+          "kind": "clinical",
+          "title": "How to interpret mixing studies (prolonged PT/PTT)",
+          "channel": "Medmastery",
+          "url": "https://www.youtube.com/watch?v=aVnc2S5K1rE",
+          "duration": "4:28"
+        },
+        {
+          "name": "The routine coagulation panel reviewed together",
+          "kind": "clinical",
+          "title": "Routine Coagulation Tests",
+          "channel": "Pathology Way",
+          "url": "https://www.youtube.com/watch?v=dKvmVhJEnBM",
+          "duration": "15:47"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u12",
+      "type": "section",
+      "name": "Coagulation factor activity assays",
+      "ashsapPage": 317,
+      "assessment": "Can you explain why one-stage and chromogenic factor VIII assays can disagree, and describe how emicizumab and extended half-life products interfere with factor activity measurement?",
+      "lesson": {
+        "title": "One-Stage Assay of Factor VIII (FVIII)  - Lab Manual Video",
+        "channel": "World Federation of Hemophilia",
+        "url": "https://www.youtube.com/watch?v=41fPytn3iE8",
+        "duration": "1:45:26",
+        "why": "A step-by-step lab manual for the one-stage factor VIII assay, including standard curves and the sources of error that produce discrepant results."
+      },
+      "drills": [
+        {
+          "name": "How new hemophilia therapies break the coagulation lab",
+          "kind": "clinical",
+          "title": "New Hemophilia Treatments: Implications for the Coagulation Laboratory",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=XfJFGAdX5A0",
+          "duration": "59:03"
+        },
+        {
+          "name": "Monitoring patients on emicizumab",
+          "kind": "clinical",
+          "title": "Monitoring the Coagulation Status of People with Hemophilia Receiving Emicizumab",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=ezFoNg8rcd4",
+          "duration": "40:17"
+        },
+        {
+          "name": "Age-specific reference ranges and pediatric pitfalls",
+          "kind": "clinical",
+          "title": "Challenges in Pediatric Coagulation Testing",
+          "channel": "Mayo Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=WmyPzHAI1M4",
+          "duration": "18:43"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u13",
+      "type": "section",
+      "name": "Thrombin time",
+      "ashsapPage": 318,
+      "assessment": "Can you say what prolongs the thrombin time, and how the reptilase time and a fibrinogen assay let you separate heparin contamination from dysfibrinogenemia, hypofibrinogenemia and a direct thrombin inhibitor?",
+      "lesson": {
+        "title": "Thrombin Time and Reptilase Time",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=f77ou3oo8VY",
+        "duration": "4:16",
+        "why": "Pairs the thrombin time with the reptilase time exactly as the section does, which is the only way to make the test discriminating."
+      },
+      "drills": [
+        {
+          "name": "Thrombin time alongside the fibrinogen assays",
+          "kind": "clinical",
+          "title": "Thrombin Time & Fibrinogen Assays",
+          "channel": "Basics to Brilliance",
+          "url": "https://www.youtube.com/watch?v=xC-_EaopbFA",
+          "duration": "38:09"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u14",
+      "type": "section",
+      "name": "Platelet function tests",
+      "ashsapPage": 319,
+      "assessment": "Can you match a platelet function test to the question being asked — screening, diagnosis of an inherited defect, or monitoring antiplatelet therapy — and name the preanalytical constraints that make each one fragile?",
+      "lesson": {
+        "title": "Platelet Function Test",
+        "channel": "Transfusion Medicine Academic Society (TMAS)",
+        "url": "https://www.youtube.com/watch?v=eS_yzpJ7yp0",
+        "duration": "46:40",
+        "why": "A dedicated session on the platelet function test menu, sample requirements and interpretation, which this section treats as poorly standardized territory."
+      },
+      "drills": [
+        {
+          "name": "Platelet function testing in the clinic",
+          "kind": "clinical",
+          "title": "ISTH Academy Presentation:  Platelet Function Testing in the Clinic",
+          "channel": "ISTH",
+          "url": "https://www.youtube.com/watch?v=5rEE3hlCRu8",
+          "duration": "1:00:56"
+        },
+        {
+          "name": "Walkthrough of the assays in a working laboratory",
+          "kind": "clinical",
+          "title": "PLATELET FUNCTION TEST  Episode 43",
+          "channel": "Trans Connect",
+          "url": "https://www.youtube.com/watch?v=6aCaMkjKiIQ",
+          "duration": "31:52"
+        },
+        {
+          "name": "Point-of-care antiplatelet response testing",
+          "kind": "clinical",
+          "title": "VerifyNow System Overview",
+          "channel": "Accriva Diagnostics",
+          "url": "https://www.youtube.com/watch?v=zPGqtK8_JwM",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u15",
+      "type": "section",
+      "name": "Specialized testing for acquired thrombocytopenia",
+      "ashsapPage": 320,
+      "assessment": "Can you name the confirmatory assays for heparin-induced thrombocytopenia and for TTP, and explain what a positive immunoassay with a negative functional assay actually means?",
+      "lesson": {
+        "title": "Breaking Barriers: The Evolution of ADAMTS13 Testing",
+        "channel": "DiaPharma Group, Inc.",
+        "url": "https://www.youtube.com/watch?v=97aJwjg60JY",
+        "duration": "55:13",
+        "why": "Follows ADAMTS13 measurement from activity assay to inhibitor and antigen testing, including turnaround time and how to read a borderline result in a patient you have already started treating."
+      },
+      "drills": [
+        {
+          "name": "Immunoassay versus functional testing in HIT",
+          "kind": "clinical",
+          "title": "Advances in the diagnosis of heparin-induced thrombocytopenia",
+          "channel": "Mayo Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=TqddD4y3u3w",
+          "duration": "16:45"
+        },
+        {
+          "name": "What changed outcomes in TTP",
+          "kind": "trial",
+          "title": "Improving Outcomes in TTP",
+          "channel": "NEJM Group",
+          "url": "https://www.youtube.com/watch?v=pEntyl53Feg",
+          "duration": "2:01"
+        },
+        {
+          "name": "Why loss of ADAMTS13 produces microangiopathy",
+          "kind": "mechanism",
+          "title": "How von Willebrand Factor and ADAMTS13 Regulate Clotting",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=qO7Kkm6jf9w",
+          "duration": "0:37"
+        }
+      ]
+    },
+    {
+      "id": "ch27-u16",
+      "type": "section",
+      "name": "Assays for thrombophilia",
+      "ashsapPage": 321,
+      "assessment": "Can you say which thrombophilia assays are invalid during acute thrombosis or on anticoagulation, and justify which patients should be tested at all given how rarely the result changes management?",
+      "lesson": {
+        "title": "Algorithmic Thrombophilia Testing",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=jX9ajcGvLA8",
+        "duration": "29:38",
+        "why": "An algorithmic account of thrombophilia testing from a reference laboratory: what to order, when, and how anticoagulants distort each assay."
+      },
+      "drills": [
+        {
+          "name": "The 2023 ASH thrombophilia testing guideline",
+          "kind": "clinical",
+          "title": "2023 ASH Thrombophilia Testing Guideline",
+          "channel": "Anticoagulation Forum",
+          "url": "https://www.youtube.com/watch?v=PZb_zcs9N30",
+          "duration": "59:56"
+        },
+        {
+          "name": "A second national testing algorithm for comparison",
+          "kind": "clinical",
+          "title": "Thrombosis Canada's Thrombophilia Testing Algorithm",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=SeYCCrsdqPc",
+          "duration": "31:19"
+        },
+        {
+          "name": "How anticoagulants interfere with core coagulation assays",
+          "kind": "clinical",
+          "title": "Core Labs and Anticoagulant Use",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=oYo2QltVuUg",
+          "duration": "34:06"
+        }
+      ]
+    }
+  ]
+}

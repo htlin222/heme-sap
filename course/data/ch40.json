@@ -1,0 +1,398 @@
+{
+  "chapter": "CH40",
+  "title": "Myelodysplastic syndromes and premalignant clonal hematopoiesis",
+  "units": [
+    {
+      "id": "ch40-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 482,
+      "assessment": "Can you define MDS in one sentence that includes clonality, ineffective hematopoiesis and cytopenias, and explain how clonal hematopoiesis of indeterminate potential sits upstream of it on the same biological continuum?",
+      "lesson": {
+        "title": "Dr. Danielle Hammond: Clonal Hematopoiesis In Clinical Practice - The Good, The Bad and The Ugly",
+        "channel": "Blood Academy",
+        "url": "https://www.youtube.com/watch?v=vlVc_brLtqo",
+        "duration": "1:00:44",
+        "why": "A full clinician-facing hour on what clonal hematopoiesis actually means in practice, which is the frame this chapter uses to introduce MDS and its precursor states."
+      },
+      "drills": [
+        {
+          "name": "Which genes define CHIP and what they predict",
+          "kind": "mechanism",
+          "title": "Clonal hematopoiesis of indeterminate potential (CHIP): genes, disease predisposition & potential",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=w2xYEdkqHjA",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u2",
+      "type": "section",
+      "name": "Epidemiology",
+      "ashsapPage": 483,
+      "assessment": "Can you state roughly how MDS incidence changes with age, name the acquired exposures that raise risk, and say when a young patient with MDS should trigger a search for a germline predisposition syndrome?",
+      "lesson": {
+        "title": "Aging and Clonal Diseases (Aging Patient: Dispelling Myths)",
+        "channel": "European Hematology Association",
+        "url": "https://www.youtube.com/watch?v=bPTTf9tujts",
+        "duration": "19:51",
+        "why": "An EHA session on why clonal myeloid disease is fundamentally a disease of ageing hematopoiesis, which is the single most important epidemiological fact about MDS."
+      },
+      "drills": [
+        {
+          "name": "When to suspect germline predisposition",
+          "kind": "clinical",
+          "title": "Predisposition to MPN and MDS: Pertinent Family History, Genetic Testing and Counseling",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=9qqXX3_gLOA",
+          "duration": "21:25"
+        },
+        {
+          "name": "Therapy-related MDS: exposures and genetics",
+          "kind": "mechanism",
+          "title": "Etiology and genetic profile of t-MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=e7GeTvPPNjQ",
+          "duration": "3:03"
+        },
+        {
+          "name": "Ageing, clonal hematopoiesis and cancer risk",
+          "kind": "mechanism",
+          "title": "Stanford Cancer Institute Breakthroughs in Cancer: Benjamin Ebert, MD, PhD",
+          "channel": "Stanford Cancer Institute",
+          "url": "https://www.youtube.com/watch?v=F-PTDTeJAkY",
+          "duration": "1:02:00"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u3",
+      "type": "section",
+      "name": "Biology",
+      "ashsapPage": 483,
+      "assessment": "Can you group the recurrently mutated genes in MDS into their functional classes — spliceosome, DNA methylation, chromatin, transcription factors, signalling and TP53 — and explain mechanistically why ineffective hematopoiesis produces cytopenias despite a hypercellular marrow?",
+      "lesson": {
+        "title": "The Origins and Evolution of MDS - Dr. Benjamin Ebert",
+        "channel": "MDS Foundation, Inc.",
+        "url": "https://www.youtube.com/watch?v=pNAn_t5jDW4",
+        "duration": "41:02",
+        "why": "Benjamin Ebert on how MDS clones arise and evolve, tying founder mutations in ageing stem cells to the ineffective hematopoiesis that defines the disease."
+      },
+      "drills": [
+        {
+          "name": "Molecular pathogenesis, 2025 update",
+          "kind": "mechanism",
+          "title": "MDS 2025: Plenary Session 1: Molecular Pathogenesis of MDS",
+          "channel": "MDS Foundation, Inc.",
+          "url": "https://www.youtube.com/watch?v=R58Q38cKwLg",
+          "duration": "1:36:58"
+        },
+        {
+          "name": "Spliceosome mutations",
+          "kind": "mechanism",
+          "title": "Somatic Mutations of RNA Splicing Machinery in MDS",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=NrwV__NXyOA",
+          "duration": "17:29"
+        },
+        {
+          "name": "Inflammation as a driver",
+          "kind": "mechanism",
+          "title": "The role of chronic inflammation in clonal hematopoiesis and the development of MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=kyZRgUegk1s",
+          "duration": "1:53"
+        },
+        {
+          "name": "Genetic basis of MDS",
+          "kind": "mechanism",
+          "title": "Genetic Basis of MDS",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=0UOcEmIsnhM",
+          "duration": "17:13"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u4",
+      "type": "section",
+      "name": "Premalignant conditions",
+      "ashsapPage": 484,
+      "assessment": "Can you separate CHIP, CCUS, ICUS and MDS using variant allele fraction, the presence of cytopenias and marrow morphology, and say what the clonal hematopoiesis risk score adds when counselling a patient about transformation risk?",
+      "lesson": {
+        "title": "Pre MDS states CH, CCUS, ICUS – How to manage in the clinic?",
+        "channel": "MDS Foundation, Inc.",
+        "url": "https://www.youtube.com/watch?v=LrCJhya6Y7w",
+        "duration": "20:33",
+        "why": "Exactly this section's question — how to actually manage a patient who turns up with CHIP, CCUS or ICUS rather than how to define the terms."
+      },
+      "drills": [
+        {
+          "name": "Should precursor states be treated?",
+          "kind": "clinical",
+          "title": "CHIP & CCUS: advances in understanding and should we treat these precursor conditions?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=xAzUAmMZFRM",
+          "duration": "16:49"
+        },
+        {
+          "name": "From clonal hematopoiesis to overt MDS",
+          "kind": "mechanism",
+          "title": "MDS 2023: PS 2 - From Clonal Hematopoiesis to Overt MDS",
+          "channel": "MDS Foundation, Inc.",
+          "url": "https://www.youtube.com/watch?v=89CXtGPJNW4",
+          "duration": "1:24:51"
+        },
+        {
+          "name": "A risk score for CHIP",
+          "kind": "clinical",
+          "title": "Clonal hematopoiesis in AML & insights into a novel CHIP risk stratification score being explored",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=HZRFvvYgD6g",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u5",
+      "type": "section",
+      "name": "Clinical presentation",
+      "ashsapPage": 486,
+      "assessment": "Can you describe the typical presentation of MDS — which cytopenia dominates, why the anemia is usually macrocytic, and which autoinflammatory syndromes such as VEXAS should make you look for an underlying clonal marrow disorder?",
+      "lesson": {
+        "title": "MDS - Myeloplastic Syndromes - 2023 Best of Hematology Conference",
+        "channel": "Total Health Oncology",
+        "url": "https://www.youtube.com/watch?v=drgxkcYrCdY",
+        "duration": "33:19",
+        "why": "A conference-level clinical overview that starts where patients actually present — cytopenias found on a routine count — and works forward to the marrow findings."
+      },
+      "drills": [
+        {
+          "name": "VEXAS and inflammatory presentations",
+          "kind": "clinical",
+          "title": "MDS 2025: Plenary Session 3: Clonal hematopoiesis and VEXAS",
+          "channel": "MDS Foundation, Inc.",
+          "url": "https://www.youtube.com/watch?v=AMBNB9Ig2PQ",
+          "duration": "1:28:14"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u6",
+      "type": "section",
+      "name": "Diagnostic evaluation",
+      "ashsapPage": 487,
+      "assessment": "Can you list what a complete MDS workup must include beyond the CBC — marrow aspirate and biopsy with iron stain, karyotype, next-generation sequencing, flow — and name the reversible mimics that must be excluded before dysplasia is called clonal?",
+      "lesson": {
+        "title": "Clinical Implications of Genetic Mutations in Myelodysplastic Syndromes",
+        "channel": "MDS Foundation, Inc.",
+        "url": "https://www.youtube.com/watch?v=gsiNs0Y-5ds",
+        "duration": "1:29:14",
+        "why": "Shows how the sequencing and cytogenetic results are actually read at diagnosis, including which mutations change the diagnosis rather than merely the prognosis."
+      },
+      "drills": [
+        {
+          "name": "Telling pre-MDS states from MDS",
+          "kind": "clinical",
+          "title": "Challenges in distinguishing between pre-MDS states and MDS, and approaches to improve diagnosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=CtXGRu4csyg",
+          "duration": "3:01"
+        },
+        {
+          "name": "Recognising clonal hematopoiesis at the bench",
+          "kind": "clinical",
+          "title": "Recognizing clonal hematopoiesis – diagnostic challenges and clinical relevance",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=baZBmADUKQk",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u7",
+      "type": "section",
+      "name": "Classification",
+      "ashsapPage": 489,
+      "assessment": "The WHO 5th edition and the ICC both rewrote MDS classification in 2022 — can you name the genetically defined entities each recognises (SF3B1-mutated, del(5q), biallelic TP53) and say where the two systems disagree about blast thresholds and the MDS/AML boundary?",
+      "lesson": {
+        "title": "A classification of myelodysplastic syndromes that aids clinical decision-making",
+        "channel": "MDS Foundation, Inc.",
+        "url": "https://www.youtube.com/watch?v=PYLNc99Ma9E",
+        "duration": "17:44",
+        "why": "A 2024 talk built specifically around the post-2022 classification and how the genetically defined categories change what you do at the bedside."
+      },
+      "drills": [
+        {
+          "name": "Practical approach to classifying a case",
+          "kind": "clinical",
+          "title": "A practical approach to the classification of MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=yd6M1LrIAXo",
+          "duration": "4:42"
+        },
+        {
+          "name": "What changed in 2022",
+          "kind": "clinical",
+          "title": "The HemOnc Pulse Live at ASH: Phillip Scheinberg, MD, on CHIP, MDS Classification Updates",
+          "channel": "Blood Cancers Today",
+          "url": "https://www.youtube.com/watch?v=XoHXLfao5Co",
+          "duration": "12:19"
+        },
+        {
+          "name": "Classification and risk systems side by side",
+          "kind": "clinical",
+          "title": "MDS 2023 highlights: classification and risk stratification systems & progression from CH to MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=dcZjnW9se8g",
+          "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u8",
+      "type": "section",
+      "name": "Risk stratification and prognosis",
+      "ashsapPage": 492,
+      "assessment": "Can you say what IPSS-M adds over IPSS-R, name the variables it uses, and explain how a multi-hit TP53 or an SF3B1 mutation can move a patient several risk categories and change whether you offer transplant?",
+      "lesson": {
+        "title": "Advances made in MDS classification and risk stratification: ongoing work & future perspectives",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=iJsZVPUrPcM",
+        "duration": "8:48",
+        "why": "A 2025 overview of where MDS risk stratification now stands, covering the molecular scoring that replaced purely clinical and cytogenetic indices."
+      },
+      "drills": [
+        {
+          "name": "Monitoring high-risk clones",
+          "kind": "clinical",
+          "title": "Identifying & monitoring patients with high-risk clonal hematopoiesis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=z_U9dt09xvE",
+          "duration": "3:25"
+        },
+        {
+          "name": "Genetics of progression to AML",
+          "kind": "mechanism",
+          "title": "From MDS to AML: Genetics of Progression (featuring Prof Lars Bullinger)",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=iKzXbPRDSdI",
+          "duration": "20:33"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u9",
+      "type": "section",
+      "name": "Management of MDS",
+      "ashsapPage": 493,
+      "assessment": "Can you separate the goals of therapy in lower-risk versus higher-risk MDS, say which patients are candidates for allogeneic transplant and when they should be referred, and state what determines whether an asymptomatic lower-risk patient is simply observed?",
+      "lesson": {
+        "title": "How to Treat Myelodysplastic Syndrome (MDS) with Dr. Amer Zeidan | Oncology Brothers",
+        "channel": "OncBrothers: Practice-Changing Cancer Discussions",
+        "url": "https://www.youtube.com/watch?v=U7ceDsW3np4",
+        "duration": "23:59",
+        "why": "A practical risk-adapted walk-through of how an MDS specialist actually decides between observation, growth factors, hypomethylating agents and transplant."
+      },
+      "drills": [
+        {
+          "name": "Managing lower-risk disease",
+          "kind": "clinical",
+          "title": "MDS 2025: Plenary Session 6: Treatment Low Risk MDS (Part 1)",
+          "channel": "MDS Foundation, Inc.",
+          "url": "https://www.youtube.com/watch?v=ILWWorQBdp0",
+          "duration": "1:38:24"
+        },
+        {
+          "name": "Higher-risk disease and the transplant decision",
+          "kind": "clinical",
+          "title": "Treatment of High Risk MDS and the Indication for Stem Cell Transplant",
+          "channel": "MDS Foundation, Inc.",
+          "url": "https://www.youtube.com/watch?v=3V6GAzzmAno",
+          "duration": "1:06:15"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u10",
+      "type": "section",
+      "name": "Available MDS therapies",
+      "ashsapPage": 495,
+      "assessment": "Can you match each MDS therapy to the patient it is for — ESAs, luspatercept, lenalidomide in del(5q), azacitidine and decitabine, oral decitabine-cedazuridine, immunosuppression, transplant — and state the expected time to response for a hypomethylating agent?",
+      "lesson": {
+        "title": "MDS 2025: Workshop - MDS Treatment (Part 1)",
+        "channel": "MDS Foundation, Inc.",
+        "url": "https://www.youtube.com/watch?v=l83YI4Qsx9c",
+        "duration": "1:00:55",
+        "why": "A 2025 treatment workshop that goes drug by drug through the current MDS armamentarium, including agents approved since the older overview lectures were recorded."
+      },
+      "drills": [
+        {
+          "name": "Low-risk treatment, part 2",
+          "kind": "clinical",
+          "title": "MDS 2025: Plenary Session 7: Treatment Low Risk MDS (Part 2)",
+          "channel": "MDS Foundation, Inc.",
+          "url": "https://www.youtube.com/watch?v=1TPrp7obd10",
+          "duration": "1:30:14"
+        },
+        {
+          "name": "Risk-adapted therapy in practice",
+          "kind": "clinical",
+          "title": "The Future is Now in MDS: Integrating Innovative, Risk-Adapted Therapies Into Patient Management",
+          "channel": "PeerView Oncology",
+          "url": "https://www.youtube.com/watch?v=upSQMyoeI_E",
+          "duration": "1:35:54"
+        }
+      ]
+    },
+    {
+      "id": "ch40-u11",
+      "type": "section",
+      "name": "Assessing response to MDS therapy",
+      "ashsapPage": 498,
+      "assessment": "Can you state how long a hypomethylating agent should be continued before calling failure, what counts as hematologic improvement versus complete remission under the revised IWG criteria, and what the outlook is once a patient progresses after HMA failure?",
+      "lesson": {
+        "title": "Evolving strategies in clinical trial design for MDS: defining response criteria",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=5_c7iMt_aVk",
+        "duration": "15:13",
+        "why": "A 2025 discussion of how MDS response is defined and why the older IWG endpoints were revised — the exact content of this section."
+      },
+      "drills": [
+        {
+          "name": "Evaluating response criteria",
+          "kind": "clinical",
+          "title": "Evaluating response criteria in myelodysplastic syndromes",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Vjq3ryP2b6A",
+          "duration": "3:32"
+        },
+        {
+          "name": "Problems with IWG 2006",
+          "kind": "clinical",
+          "title": "Re-evaluating the use of IWG 2006 response criteria in MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=8x4T9FS564o",
+          "duration": "4:31"
+        },
+        {
+          "name": "Predicting response to hypomethylating agents",
+          "kind": "clinical",
+          "title": "Defining and Predicting Response to Hypomethylating Agents in Myelodysplastic Syndrome",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=wAef70GTnv0",
+          "duration": "5:53"
+        },
+        {
+          "name": "When MDS progresses to AML",
+          "kind": "clinical",
+          "title": "Managing the progression of MDS to AML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=i1oKjD5dUn4",
+          "duration": "2:38"
+        }
+      ]
+    }
+  ]
+}

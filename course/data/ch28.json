@@ -1,0 +1,598 @@
+{
+  "chapter": "CH28",
+  "title": "Transfusion medicine",
+  "units": [
+    {
+      "id": "ch28-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 323,
+      "assessment": "Can you explain why ABO antigens provoke naturally occurring antibodies while most other red cell antigens require exposure, and what that difference means for issuing blood in an emergency?",
+      "lesson": {
+        "title": "Immunohematology and transfusion medicine - Dr. Friedman (Mount Sinai) #TRANSFUSIONMEDICINE",
+        "channel": "pathCast",
+        "url": "https://www.youtube.com/watch?v=HNuducKlZUE",
+        "duration": "56:55",
+        "why": "A transfusion medicine grand rounds that lays out immunohematology principles and blood component basics before the chapter turns to specific products."
+      },
+      "drills": [
+        {
+          "name": "Rapid consolidation of transfusion essentials",
+          "kind": "clinical",
+          "title": "Blood Bank Guy's \"Last Minute Essentials\" for Pathology Residents",
+          "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+          "url": "https://www.youtube.com/watch?v=zc8uiuLX83Q",
+          "duration": "2:59:01"
+        },
+        {
+          "name": "Immunohematology from first principles",
+          "kind": "clinical",
+          "title": "Immunohematology: Basics Introduction",
+          "channel": "Dr. A's Clinical Lab Videos",
+          "url": "https://www.youtube.com/watch?v=wZCKrseSIOE",
+          "duration": "13:29"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u2",
+      "type": "section",
+      "name": "Red blood cell serology",
+      "ashsapPage": 323,
+      "assessment": "Can you describe how the direct and indirect antiglobulin tests differ, and how an antibody identification panel separates a clinically significant alloantibody from a cold-reacting nuisance antibody?",
+      "lesson": {
+        "title": "050CE: Specimen Issues and Serologic Testing with Sue Johnson",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=b43Wv-7QAaI",
+        "duration": "1:08:06",
+        "why": "Covers specimen requirements and the serologic methods themselves — antiglobulin testing, antibody detection and identification — with a reference laboratory's perspective."
+      },
+      "drills": [
+        {
+          "name": "Working an antibody identification panel",
+          "kind": "clinical",
+          "title": "Blood Bank - Antibody Identification I",
+          "channel": "Patrick Tracy",
+          "url": "https://www.youtube.com/watch?v=FsGAiy-kLms",
+          "duration": "18:12"
+        },
+        {
+          "name": "Red cell genotyping and molecular typing",
+          "kind": "clinical",
+          "title": "05-08-2024 Molecular Advances in Red Blood Cell Testing",
+          "channel": "BLOODSA Education ",
+          "url": "https://www.youtube.com/watch?v=HjnEPTKvFT8",
+          "duration": "1:31:45"
+        },
+        {
+          "name": "ABO and Rh antigen-antibody basics",
+          "kind": "mechanism",
+          "title": "Blood Types (ABO and Rh) - Antigens and Antibodies",
+          "channel": "Siebert Science",
+          "url": "https://www.youtube.com/watch?v=nP-HQPZ8-0I",
+          "duration": "10:02"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u3",
+      "type": "section",
+      "name": "Pretransfusion testing",
+      "ashsapPage": 325,
+      "assessment": "Can you list the steps of the type and screen and crossmatch, say when an electronic crossmatch is acceptable, and explain how anti-CD38 therapy interferes with the antibody screen and what the laboratory does about it?",
+      "lesson": {
+        "title": "Pretransfusion Testing",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=ORhL_ictvFY",
+        "duration": "1:09:59",
+        "why": "The definitive walkthrough of pretransfusion testing — ABO/Rh typing, antibody screen, crossmatch methods and the decisions each result forces."
+      },
+      "drills": [
+        {
+          "name": "Type, screen and crossmatch in four minutes",
+          "kind": "clinical",
+          "title": "Pre-Transfusion Testing: Type, Screen, and Crossmatch",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=EO37AJIqAqk",
+          "duration": "4:41"
+        },
+        {
+          "name": "Daratumumab interference and how to work around it",
+          "kind": "clinical",
+          "title": "BMSEDG 36: Daratumumab: Implications in pre-transfusion testing",
+          "channel": "Patient Blood Management England",
+          "url": "https://www.youtube.com/watch?v=Z_nQM7Zrvv0",
+          "duration": "41:47"
+        },
+        {
+          "name": "Agglutination platforms compared",
+          "kind": "clinical",
+          "title": "Different Agglutination technologies used in pre-transfusion testing",
+          "channel": "Blood Transfusion CPD",
+          "url": "https://www.youtube.com/watch?v=_uwu-D8Tjkw",
+          "duration": "18:29"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u4",
+      "type": "section",
+      "name": "Red blood cell transfusion",
+      "ashsapPage": 326,
+      "assessment": "Can you state the hemoglobin threshold supported by randomized trials for most stable inpatients, name the settings where a higher threshold is defensible, and say which patients need irradiated or washed units?",
+      "lesson": {
+        "title": "Red blood cell transfusions in the ED",
+        "channel": "McGill Emergency Medicine Chiefs",
+        "url": "https://www.youtube.com/watch?v=LC8JfNdM3bQ",
+        "duration": "33:00",
+        "why": "Argues the restrictive versus liberal transfusion evidence and the thresholds that came out of those trials, rather than describing the product."
+      },
+      "drills": [
+        {
+          "name": "What a unit of packed cells does and does not do",
+          "kind": "clinical",
+          "title": "Packed Red Blood Cell Transfusion",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=UbI_aUNXpwc",
+          "duration": "3:26"
+        },
+        {
+          "name": "When to ask for washed or irradiated components",
+          "kind": "clinical",
+          "title": "Blood Transfusion Advanced - Understanding Washed And Irradiated Blood | Clinical Medicine",
+          "channel": "Whiteboard Medicine Emergency And Critical Care",
+          "url": "https://www.youtube.com/watch?v=BntBJz5HXS4",
+          "duration": "16:18"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u5",
+      "type": "section",
+      "name": "Platelet transfusion",
+      "ashsapPage": 328,
+      "assessment": "Can you describe how apheresis and whole-blood-derived platelet products differ, what limits their storage, and how you would recognize and work up platelet transfusion refractoriness?",
+      "lesson": {
+        "title": "Platelet Transfusion",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=NWW0qrWKsRo",
+        "duration": "4:26",
+        "why": "A focused account of the platelet product itself — how it is made, dosed and stored — which is what this section covers before the clinical thresholds."
+      },
+      "drills": [
+        {
+          "name": "Cold-stored platelets and why storage rules exist",
+          "kind": "clinical",
+          "title": "Transfusion Medicine Curiosities - Cold Stored Platelets",
+          "channel": "Rose Transfusion",
+          "url": "https://www.youtube.com/watch?v=IP3bE_HKKCQ",
+          "duration": "9:05"
+        },
+        {
+          "name": "Platelet and granulocyte antigen and antibody systems",
+          "kind": "clinical",
+          "title": "Platelet and granulocyte antigens and antibody update 2020",
+          "channel": "Dr.Preeyanat Vongchan",
+          "url": "https://www.youtube.com/watch?v=qMDWD_eINXw",
+          "duration": "22:12"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u6",
+      "type": "section",
+      "name": "Clinical transfusion of platelets",
+      "ashsapPage": 330,
+      "assessment": "Can you state the prophylactic platelet count threshold for a stable patient and the higher targets used before procedures, and name a bleeding situation in which platelet transfusion may do harm?",
+      "lesson": {
+        "title": "092: When Platelet Transfusion Might Not Be Wise with Ruchika Goel",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=BmBr4r21xUs",
+        "duration": "53:13",
+        "why": "A transfusion medicine discussion built around exactly the counter-intuitive cases — where the platelet count says transfuse and the evidence says do not."
+      },
+      "drills": [
+        {
+          "name": "Indications, thresholds and triggers",
+          "kind": "clinical",
+          "title": "Platelet Transfusion Explained | Indications, Thresholds, and Transfusion Triggers",
+          "channel": "Whiteboard Medicine Emergency And Critical Care",
+          "url": "https://www.youtube.com/watch?v=o8kamtx0WRk",
+          "duration": "15:55"
+        },
+        {
+          "name": "Prophylactic platelets in the febrile patient",
+          "kind": "clinical",
+          "title": "Medical Mythbusters – Prophylactic Platelet Transfusion in Patients with Fever",
+          "channel": "Cottage Health",
+          "url": "https://www.youtube.com/watch?v=Rz6nXQvhtxE",
+          "duration": "22:56"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u7",
+      "type": "section",
+      "name": "Granulocyte transfusion",
+      "ashsapPage": 332,
+      "assessment": "Can you say which patients might benefit from granulocyte transfusion, how donors are stimulated and collected, and what logistical, dosing and safety problems keep the practice controversial?",
+      "lesson": {
+        "title": "064CE: Granulocyte Transfusion with Ron Strauss",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=dGpThBz8d5A",
+        "duration": "1:01:30",
+        "why": "A full CE session with one of the field's investigators covering donor stimulation, collection, dose, storage limits and the trial evidence."
+      },
+      "drills": [
+        {
+          "name": "Collecting granulocytes by apheresis",
+          "kind": "clinical",
+          "title": "Granulocyte Harvest by Apheresis",
+          "channel": "Transfusion Squad",
+          "url": "https://www.youtube.com/watch?v=fvZWuj6K3Ao",
+          "duration": "14:58"
+        },
+        {
+          "name": "Overview of white cell donation from a cancer centre",
+          "kind": "clinical",
+          "title": "White blood cell donation and transfusion - part 1: Overview",
+          "channel": "UT MD Anderson Cancer Center",
+          "url": "https://www.youtube.com/watch?v=R_55matb4pU",
+          "duration": "5:31"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u8",
+      "type": "section",
+      "name": "Transfusion of plasma products",
+      "ashsapPage": 333,
+      "assessment": "Can you name the indications for plasma versus cryoprecipitate versus a specific factor concentrate, and state the fibrinogen level at which you would replace fibrinogen in a bleeding patient?",
+      "lesson": {
+        "title": "Transfusion Products Explained | PRBCs, Platelets, FFP, PCC, and Cryoprecipitate",
+        "channel": "Whiteboard Medicine Emergency And Critical Care",
+        "url": "https://www.youtube.com/watch?v=C4J-fNd5hFs",
+        "duration": "1:13:18",
+        "why": "Runs through the plasma-derived products side by side — plasma, cryoprecipitate, prothrombin complex concentrate — with their indications and limitations."
+      },
+      "drills": [
+        {
+          "name": "Fresh frozen plasma in isolation",
+          "kind": "clinical",
+          "title": "Transfusion Medicine Basics - Fresh Frozen Plasma FFP | Clinical Medicine",
+          "channel": "Whiteboard Medicine Emergency And Critical Care",
+          "url": "https://www.youtube.com/watch?v=LWXn_v0KAj8",
+          "duration": "12:15"
+        },
+        {
+          "name": "Blood components masterclass",
+          "kind": "clinical",
+          "title": "26th Masterclass Lecture on \"Blood Components and Transfusion\", 26th July 2023",
+          "channel": "River Route Events",
+          "url": "https://www.youtube.com/watch?v=tdP0roIxJVw",
+          "duration": "46:07"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u9",
+      "type": "section",
+      "name": "Transfusion of whole blood",
+      "ashsapPage": 334,
+      "assessment": "Can you explain the rationale for low-titer group O whole blood in trauma, and how it compares with balanced component therapy inside a massive hemorrhage protocol?",
+      "lesson": {
+        "title": "Why Provide Whole Blood to Trauma Patients? Potential Benefit and Current Evidence. #TraumaSurgery",
+        "channel": "Surgery For All",
+        "url": "https://www.youtube.com/watch?v=-Dyc0fBxhI4",
+        "duration": "12:42",
+        "why": "Argues the case for whole blood in trauma from the current evidence rather than describing the logistics alone."
+      },
+      "drills": [
+        {
+          "name": "Warm fresh whole blood collection and administration",
+          "kind": "clinical",
+          "title": "Training video for warm, fresh, whole blood transfusion procedures",
+          "channel": "Steven Schauer",
+          "url": "https://www.youtube.com/watch?v=5SP8yrdpMb8",
+          "duration": "31:28"
+        },
+        {
+          "name": "Massive transfusion protocol in practice",
+          "kind": "clinical",
+          "title": "Trauma in a Flash: Massive Transfusion Protocol (MTP)",
+          "channel": "Arizona Trauma Association",
+          "url": "https://www.youtube.com/watch?v=s-vORCUT05s",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u10",
+      "type": "section",
+      "name": "Transfusion support in special clinical settings and pediatric populations",
+      "ashsapPage": 334,
+      "assessment": "Can you state how transfusion thresholds and product modifications differ for neonates and critically ill children, and explain the special requirements of intrauterine and neonatal exchange transfusion?",
+      "lesson": {
+        "title": "The PCC Transfusion and Anemia Expertise Initiative by S. Bateman, S. Valentine | OPENPediatrics",
+        "channel": "OPENPediatrics",
+        "url": "https://www.youtube.com/watch?v=_JlkB9_JLg0",
+        "duration": "48:46",
+        "why": "Presents the pediatric critical care transfusion recommendations directly from the group that wrote them, which is the closest thing to a guideline for this section."
+      },
+      "drills": [
+        {
+          "name": "Red cell antibodies in pregnancy",
+          "kind": "clinical",
+          "title": "Clinical Management of Red Cell Antibodies in Pregnancy",
+          "channel": "Patient Blood Management England",
+          "url": "https://www.youtube.com/watch?v=SmXV0KdwqIk",
+          "duration": "30:37"
+        },
+        {
+          "name": "Neonatal transfusion practice",
+          "kind": "clinical",
+          "title": "Rwandan National Neonatal Protocol: Hematology by A. Uwamahoro, et al. | OPENPediatrics",
+          "channel": "OPENPediatrics",
+          "url": "https://www.youtube.com/watch?v=4Q9Vj6cGrl8",
+          "duration": "17:51"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u11",
+      "type": "section",
+      "name": "Transfusion support after HSCT",
+      "ashsapPage": 335,
+      "assessment": "Can you work out which ABO group of red cells and of plasma to issue after a major or minor ABO-mismatched allogeneic transplant, and say why every cellular product must be irradiated?",
+      "lesson": {
+        "title": "104: Essentials of Transfusion Support in HPC Transplant with Brian Adkins",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=6rktxoZFnig",
+        "duration": "57:35",
+        "why": "A full session on transfusion support through transplant: ABO mismatch rules, product modification, engraftment-phase switching and delayed hemolysis."
+      },
+      "drills": [
+        {
+          "name": "Managing transfusion for the transplant patient",
+          "kind": "clinical",
+          "title": "Managing Transfusion Support of the Stem Cell Transplant Patient",
+          "channel": "ASTCT",
+          "url": "https://www.youtube.com/watch?v=9wxmBn2JWtc",
+          "duration": "34:18"
+        },
+        {
+          "name": "Haemovigilance perspective on transplant transfusion",
+          "kind": "clinical",
+          "title": "Transfusion in Haemopoietic Stem Cell Transplant Patients Webinar 2021",
+          "channel": "SHOT HV",
+          "url": "https://www.youtube.com/watch?v=-l9tyEiXFVo",
+          "duration": "59:29"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u12",
+      "type": "section",
+      "name": "Sickle cell disease transfusion",
+      "ashsapPage": 338,
+      "assessment": "Can you state the minimum antigen matching recommended for patients with sickle cell disease, explain what genotyping adds over serologic phenotyping, and describe how you would recognize and treat hyperhemolysis?",
+      "lesson": {
+        "title": "070CE: Preventing Alloantibodies in Sickle Cell Disease with Stella Chou",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=6flWpAGk1cM",
+        "duration": "56:17",
+        "why": "Stella Chou on preventing alloimmunization in sickle cell disease — matching strategy, genotyping and variant Rh — which is this section's central problem."
+      },
+      "drills": [
+        {
+          "name": "Antibody problems in sickle cell transfusion",
+          "kind": "clinical",
+          "title": "030: Antibodies in Sickle Cell with Eric Gehrie",
+          "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+          "url": "https://www.youtube.com/watch?v=LqmjDLKqTZQ",
+          "duration": "57:56"
+        },
+        {
+          "name": "Transfusion reactions and hyperhemolysis in sickle cell disease",
+          "kind": "clinical",
+          "title": "Transfusion Reactions in Sickle Cell",
+          "channel": "West London HCC",
+          "url": "https://www.youtube.com/watch?v=zYZpPQfjkW4",
+          "duration": "45:43"
+        },
+        {
+          "name": "Chronic transfusion programs and indications",
+          "kind": "clinical",
+          "title": "Transfusion in Sickle Cell Disease, Dr Joe Sharif (HCC National Education Session 19/10/22)",
+          "channel": "HCC NW Sickle Cell and North Thalassaemia & RIA",
+          "url": "https://www.youtube.com/watch?v=2LENQHLlZaM",
+          "duration": "35:52"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u13",
+      "type": "section",
+      "name": "Transfusion risks",
+      "ashsapPage": 339,
+      "assessment": "Can you rank the current risks of transfusion by how often they actually occur, and separate the reactions that require permanently stopping the transfusion from those that do not?",
+      "lesson": {
+        "title": "Transfusion Reactions Part 2",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=TPVMnnUvU4M",
+        "duration": "1:09:21",
+        "why": "A systematic tour of transfusion reactions and their relative frequencies, which is how this section frames risk."
+      },
+      "drills": [
+        {
+          "name": "Risks, benefits and the controversies between them",
+          "kind": "clinical",
+          "title": "Transfusions: Risks, Benefits, and Controversies | The Advanced EM Boot Camp",
+          "channel": "The Center for Medical Education",
+          "url": "https://www.youtube.com/watch?v=zw7oC6sNokg",
+          "duration": "27:53"
+        },
+        {
+          "name": "Outcome evidence behind transfusion decisions",
+          "kind": "trial",
+          "title": "Update on the role of blood transfusions - Axel Hofmann, ME and Aryeh Shander, MD",
+          "channel": "The Society for Translational Oncology",
+          "url": "https://www.youtube.com/watch?v=hJMaLcAWGNM",
+          "duration": "54:48"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u14",
+      "type": "section",
+      "name": "Febrile nonhemolytic transfusion reactions",
+      "ashsapPage": 340,
+      "assessment": "Can you explain what causes a febrile nonhemolytic reaction, which product modification prevents it, and how you would exclude hemolysis and bacterial contamination before accepting that label?",
+      "lesson": {
+        "title": "FAHR - Febrile, Allergic and Hypotensive Reactions",
+        "channel": "SHOT HV",
+        "url": "https://www.youtube.com/watch?v=BEaw_wea0D8",
+        "duration": "7:36",
+        "why": "A haemovigilance teaching piece that separates febrile, allergic and hypotensive reactions from one another, which is the discrimination this section needs."
+      },
+      "drills": [
+        {
+          "name": "Mechanism and management of the febrile reaction",
+          "kind": "clinical",
+          "title": "Febrile non-haemolytic transfusion reaction (FNHTR)",
+          "channel": "Dr.Preeyanat Vongchan",
+          "url": "https://www.youtube.com/watch?v=ld32XGYsSgg",
+          "duration": "6:40"
+        },
+        {
+          "name": "Worked case of an acute febrile nonhemolytic reaction",
+          "kind": "clinical",
+          "title": "Transfusion Reactions #4: Acute Febrile Non-Hemolytic",
+          "channel": "Clinical Case Lab",
+          "url": "https://www.youtube.com/watch?v=JPBi6U3Xx_8",
+          "duration": "13:32"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u15",
+      "type": "section",
+      "name": "Transfusion-associated circulatory overload",
+      "ashsapPage": 341,
+      "assessment": "Can you distinguish TACO from TRALI at the bedside, name the risk factors and preventive measures for circulatory overload, and say how each condition is managed?",
+      "lesson": {
+        "title": "MTE Pulmonary complications of transfusion webinar - TACO presented by Dr Sharran Grey",
+        "channel": "SHOT HV",
+        "url": "https://www.youtube.com/watch?v=sNHonufNepM",
+        "duration": "18:03",
+        "why": "A focused expert talk on circulatory overload — recognition, risk assessment and prevention — from a national haemovigilance scheme."
+      },
+      "drills": [
+        {
+          "name": "Short summary of TACO",
+          "kind": "clinical",
+          "title": "TACO - Transfusion-Associated Circulatory Overload",
+          "channel": "SHOT HV",
+          "url": "https://www.youtube.com/watch?v=hWUbE2DJxAA",
+          "duration": "7:52"
+        },
+        {
+          "name": "TACO against the other pulmonary reactions",
+          "kind": "clinical",
+          "title": "Pulmonary Complications of Transfusion",
+          "channel": "SHOT HV",
+          "url": "https://www.youtube.com/watch?v=O5xE9_UAHRo",
+          "duration": "6:15"
+        },
+        {
+          "name": "Extended webinar with reported cases",
+          "kind": "clinical",
+          "title": "TACO Webinar 2022",
+          "channel": "SHOT HV",
+          "url": "https://www.youtube.com/watch?v=kkmSeJYHdno",
+          "duration": "1:01:57"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u16",
+      "type": "section",
+      "name": "Infectious complications",
+      "ashsapPage": 342,
+      "assessment": "Can you name the pathogens that still cause transfusion transmission despite donor screening, and explain how bacterial detection and pathogen reduction technology change the residual risk of each component?",
+      "lesson": {
+        "title": "Bacterial Mitigation Strategies, the FDA Guidance and Implications for Blood Centers and Transfusion",
+        "channel": "Labroots",
+        "url": "https://www.youtube.com/watch?v=eIdaKktH53s",
+        "duration": "1:02:49",
+        "why": "Bacterial contamination of platelets is where the residual infectious risk of transfusion now sits, and this session works through the options a blood centre may use under the FDA guidance — culture, rapid secondary testing and pathogen reduction."
+      },
+      "drills": [
+        {
+          "name": "How pathogen reduction inactivates a contaminating organism",
+          "kind": "mechanism",
+          "title": "Riboflavin and UV Light for the treatment of Platelet Products | Protocol Preview",
+          "channel": "JoVE (Journal of Visualized Experiments)",
+          "url": "https://www.youtube.com/watch?v=UQ9XZtXRD6g",
+          "duration": "2:01"
+        },
+        {
+          "name": "Nucleic acid testing of donations and the residual window",
+          "kind": "clinical",
+          "title": "Awareness & Implementation of NAT screening",
+          "channel": "Mylab Discovery Solutions",
+          "url": "https://www.youtube.com/watch?v=jtRkUrzX0Bo",
+          "duration": "28:15"
+        },
+        {
+          "name": "Where infection sits among transfusion complications",
+          "kind": "clinical",
+          "title": "Transfusion Complications",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=hGIBYoCvOPg",
+          "duration": "6:47"
+        }
+      ]
+    },
+    {
+      "id": "ch28-u17",
+      "type": "section",
+      "name": "Patient blood management",
+      "ashsapPage": 343,
+      "assessment": "Can you list the three pillars of patient blood management, and give concrete measures that reduce iatrogenic anemia and support a patient who declines transfusion?",
+      "lesson": {
+        "title": "Patient Blood Management: Aryeh Shander, MD",
+        "channel": "Englewood Health",
+        "url": "https://www.youtube.com/watch?v=0ezG2XKBcFE",
+        "duration": "53:07",
+        "why": "A lecture from one of the architects of patient blood management covering anemia management, blood conservation and evidence-based transfusion thresholds."
+      },
+      "drills": [
+        {
+          "name": "What patient blood management now formally means",
+          "kind": "clinical",
+          "title": "A Global Definition of Patient Blood Management: TP 2023",
+          "channel": "Patient Blood Management England",
+          "url": "https://www.youtube.com/watch?v=j3hhlhbyWLE",
+          "duration": "20:07"
+        },
+        {
+          "name": "Building an evidence-based transfusion program",
+          "kind": "clinical",
+          "title": "Archive: Evidence-based Transfusion Practice and Blood Management Programs",
+          "channel": "UW Video",
+          "url": "https://www.youtube.com/watch?v=RaA6BeepiJM",
+          "duration": "59:15"
+        },
+        {
+          "name": "Blood management during massive transfusion",
+          "kind": "clinical",
+          "title": "PATIENT BLOOD MANAGEMENT DURING MASSIVE BLOOD TRANSFUSION",
+          "channel": "Hematology PGH",
+          "url": "https://www.youtube.com/watch?v=Qfga5YtYmTE",
+          "duration": "25:01"
+        }
+      ]
+    }
+  ]
+}

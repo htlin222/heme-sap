@@ -1,0 +1,534 @@
+{
+  "chapter": "CH44",
+  "title": "Indolent non-Hodgkin B-cell lymphoma",
+  "units": [
+    {
+      "id": "ch44-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 536,
+      "assessment": "Can you map follicular, marginal zone, lymphoplasmacytic, mantle cell and small lymphocytic lymphoma onto the stage of normal B-cell development each one mirrors, and name the immunophenotypic and FISH studies that separate them on a small biopsy?",
+      "lesson": {
+        "title": "Approach to small B-cell lymphomas - Dr. Crane (Cleveland Clinic) #HEMEPATH",
+        "channel": "pathCast",
+        "url": "https://www.youtube.com/watch?v=VOEcN2wxU-Y",
+        "duration": "1:14:59",
+        "why": "A hematopathology lecture built exactly as this section frames the problem: a systematic approach to telling the small B-cell lymphomas apart by morphology, immunophenotype and genetics."
+      },
+      "drills": [
+        {
+          "name": "Where the WHO 5th edition puts these entities",
+          "kind": "mechanism",
+          "title": "21. Updated lymphoma classification (HEAM WHO5) – Dr Eman Aljufairi",
+          "channel": "The Royal College of Pathologists",
+          "url": "https://www.youtube.com/watch?v=ufpgkm2sKew",
+          "duration": "39:45"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u2",
+      "type": "section",
+      "name": "Staging and prognostic factors",
+      "ashsapPage": 538,
+      "assessment": "How do you assign a Lugano stage in follicular lymphoma, which five variables make up the FLIPI, and what does FLIPI actually predict — and fail to predict — compared with POD24 and the m7-FLIPI?",
+      "lesson": {
+        "title": "Diagnosis and Prognosis of Follicular Lymphoma",
+        "channel": "OncLive",
+        "url": "https://www.youtube.com/watch?v=nFq4tzLMgRA",
+        "duration": "4:54",
+        "why": "Covers the diagnostic confirmation and the prognostic indices used to stratify follicular lymphoma, which is the substance of this section."
+      },
+      "drills": [
+        {
+          "name": "Staging workup in practice",
+          "kind": "clinical",
+          "title": "Diagnosis and Staging for Follicular Lymphoma",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=qASRMKuLAsU",
+          "duration": "3:56"
+        },
+        {
+          "name": "Staging and prognostication across non-Hodgkin lymphoma",
+          "kind": "clinical",
+          "title": "Introduction to Non-Hodgkin's Lymphoma | Epidemiology, Risk Factors, Staging, & Prognostication",
+          "channel": "Tom Fusillo, DO",
+          "url": "https://www.youtube.com/watch?v=7K0vqfvSOEM",
+          "duration": "17:15"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u3",
+      "type": "section",
+      "name": "Follicular lymphoma",
+      "ashsapPage": 538,
+      "assessment": "What defines follicular lymphoma histologically and immunophenotypically, how does grade 3B behave and get treated differently from grades 1 to 3A, and what does the t(14;18) translocation contribute to — and fail to explain about — its pathogenesis?",
+      "lesson": {
+        "title": "Update on Follicular Lymphoma | Lymphoma Research Foundation Webinars",
+        "channel": "Lymphoma Research Foundation",
+        "url": "https://www.youtube.com/watch?v=oksEAZLAHp8",
+        "duration": "1:15:36",
+        "why": "A full expert update on follicular lymphoma that runs from biology and grading through to the current therapeutic landscape."
+      },
+      "drills": [
+        {
+          "name": "How a lymphoma leader manages follicular lymphoma",
+          "kind": "clinical",
+          "title": "Management of Follicular Lymphoma with Dr. Gilles Salles",
+          "channel": "Blood Cancer Talks Podcast",
+          "url": "https://www.youtube.com/watch?v=nrAhI9XtElY",
+          "duration": "51:20"
+        },
+        {
+          "name": "One clinician's approach to FL and MZL",
+          "kind": "clinical",
+          "title": "Stefano Luminari tells about How I manage Follicular and marginal zone Lymphoma",
+          "channel": "SOHO ITALY",
+          "url": "https://www.youtube.com/watch?v=_Jb7SQaIK6I",
+          "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u4",
+      "type": "section",
+      "name": "Management of localized follicular lymphoma",
+      "ashsapPage": 539,
+      "assessment": "For genuinely localised stage I follicular lymphoma, would you offer involved-site radiotherapy, observation or systemic therapy, what long-term relapse-free fraction would you quote, and what dose of radiation is now considered sufficient?",
+      "lesson": {
+        "title": "Is there still a role for radiation in limited stage follicular lymphoma?",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=D609mQClVHw",
+        "duration": "16:08",
+        "why": "Argues through whether radiotherapy still has a place in limited-stage follicular lymphoma, which is precisely the decision this section turns on."
+      },
+      "drills": [
+        {
+          "name": "Stage I case: radiation with or without systemic therapy",
+          "kind": "clinical",
+          "title": "Debate: A Case of Stage I Follicular Lymphoma - Radiation +/- systemic treatment",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=ChdDgSX71bk",
+          "duration": "9:21"
+        },
+        {
+          "name": "Stage I case: the argument for observation",
+          "kind": "clinical",
+          "title": "Debate: A Case of Stage I Follicular Lymphoma - Observation",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=RWkT8c261EA",
+          "duration": "6:55"
+        },
+        {
+          "name": "Response-adapted ultra-low-dose radiotherapy",
+          "kind": "trial",
+          "title": "Phase II study of response-adapted ultra-low dose radiotherapy for B-cell lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=4YSkGrkg67k",
+          "duration": "6:43"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u5",
+      "type": "section",
+      "name": "Approach to patients with advanced-stage follicular lymphoma",
+      "ashsapPage": 541,
+      "assessment": "When advanced-stage follicular lymphoma needs treatment, how would you choose among bendamustine-rituximab, R-CHOP, an obinutuzumab-based regimen and lenalidomide-rituximab, and what toxicity trade-offs justify each choice in a given patient?",
+      "lesson": {
+        "title": "Debate: A Case of Stage IV Follicular Lymphoma - R-CHOP or B-R",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=FEqdw7RGCJU",
+        "duration": "12:40",
+        "why": "A structured debate over chemoimmunotherapy backbone in advanced-stage follicular lymphoma, the central frontline decision here."
+      },
+      "drills": [
+        {
+          "name": "The case for obinutuzumab-based frontline therapy",
+          "kind": "clinical",
+          "title": "Debate: Best upfront therapy for advanced follicular lymphoma - Obinutuzumab-based therapy",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=Zm6-o1ku6GE",
+          "duration": "13:41"
+        },
+        {
+          "name": "The case against starting with chemotherapy",
+          "kind": "clinical",
+          "title": "Debate: Optimal frontline therapy for follicular lymphoma: Start with chemotherapy? - No",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=iK3kxOTSaqc",
+          "duration": "12:05"
+        },
+        {
+          "name": "RELEVANCE: chemotherapy-free frontline therapy",
+          "kind": "trial",
+          "title": "Follicular lymphoma: is RELEVANCE relevant?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=cMXV34aZeTU",
+          "duration": "6:38"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u6",
+      "type": "section",
+      "name": "Approach to surveillance",
+      "ashsapPage": 541,
+      "assessment": "What history, examination, laboratory and imaging schedule constitutes follow-up of an untreated low-burden follicular lymphoma, and which specific findings would move a patient from observation to systemic treatment?",
+      "lesson": {
+        "title": "Case study: Follicular lymphoma: watch and wait",
+        "channel": "Lymphoma Hub",
+        "url": "https://www.youtube.com/watch?v=eKvKlOpHSA0",
+        "duration": "11:27",
+        "why": "Works through a watch-and-wait follicular lymphoma case, showing what is monitored and what triggers a change of plan."
+      },
+      "drills": [
+        {
+          "name": "The case for abandoning observation",
+          "kind": "clinical",
+          "title": "Debate: Is watch and wait dead in follicular lymphoma? - Yes",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=gZSaxWpwR1o",
+          "duration": "11:42"
+        },
+        {
+          "name": "The case for keeping it",
+          "kind": "clinical",
+          "title": "Debate: Is watch and wait dead in follicular lymphoma? - No",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=pA-Wzh2YmVE",
+          "duration": "13:11"
+        },
+        {
+          "name": "Maintenance rituximab in low tumour burden disease",
+          "kind": "trial",
+          "title": "The End of Rituximab Maintenance for Low Tumor Burden Follicular Lymphoma",
+          "channel": "ASCO Podcasts",
+          "url": "https://www.youtube.com/watch?v=LuItFm9vSTU",
+          "duration": "13:15"
+        },
+        {
+          "name": "Rituximab versus watchful waiting",
+          "kind": "trial",
+          "title": "REDLAMP 5: Rituximab vs. Watch & Wait Approach in Patients with Advanced Follicular Lymphoma",
+          "channel": "Lymphoma Cancer Treatment NY - Weill Cornell",
+          "url": "https://www.youtube.com/watch?v=2t8-q2KzTQk",
+          "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u7",
+      "type": "section",
+      "name": "Management of low-tumor-burden FL vs symptomatic or high-tumor-burden FL",
+      "ashsapPage": 542,
+      "assessment": "Can you recite the GELF criteria that define high tumour burden in follicular lymphoma, and defend whether single-agent rituximab or continued observation is the better option for an asymptomatic patient who does not meet them?",
+      "lesson": {
+        "title": "How to treat high-risk follicular lymphoma.",
+        "channel": "Lymphoma Hub",
+        "url": "https://www.youtube.com/watch?v=Mh17ZZwxaw8",
+        "duration": "37:21",
+        "why": "Concentrates on identifying and treating the high-burden, high-risk follicular lymphoma patient rather than the one who can safely be watched."
+      },
+      "drills": [
+        {
+          "name": "The argument for treating rather than watching",
+          "kind": "clinical",
+          "title": "DEBATE: Follicular Lymphoma - Treat",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=C0XU8UVf0d0",
+          "duration": "10:24"
+        },
+        {
+          "name": "Rituximab strategies short of chemotherapy",
+          "kind": "clinical",
+          "title": "Follicular Lymphoma: Novel Approaches With Rituximab",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=HweIfkPyarI",
+          "duration": "9:22"
+        },
+        {
+          "name": "AUGMENT: lenalidomide plus rituximab",
+          "kind": "trial",
+          "title": "AUGMENT-ing treatment: lenalidomide plus rituximab for R/R indolent NHL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=exd2Ui6LwWo",
+          "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u8",
+      "type": "section",
+      "name": "Therapy for relapsed and refractory FL",
+      "ashsapPage": 543,
+      "assessment": "For follicular lymphoma progressing within 24 months of chemoimmunotherapy, how would you sequence lenalidomide-rituximab, EZH2 inhibition, bispecific antibodies such as mosunetuzumab or epcoritamab, CAR T-cell therapy and transplant, and what does POD24 status change about that order?",
+      "lesson": {
+        "title": "Relapsed/Refractory Follicular Lymphoma — Selection and Sequencing of Other Novel Therapies",
+        "channel": "Research To Practice",
+        "url": "https://www.youtube.com/watch?v=h5GOK9o9o9U",
+        "duration": "42:34",
+        "why": "A clinician-education session devoted to selecting and sequencing the newer agents in relapsed follicular lymphoma, which is exactly the problem this section poses."
+      },
+      "drills": [
+        {
+          "name": "Mosunetuzumab in relapsed follicular lymphoma",
+          "kind": "trial",
+          "title": "Efficacy and safety of mosunetuzumab monotherapy for R/R follicular lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=u-BDFJfN1Fw",
+          "duration": "1:12"
+        },
+        {
+          "name": "ZUMA-5: CAR T-cell therapy in indolent lymphoma",
+          "kind": "trial",
+          "title": "ZUMA-5 update: retreatment of R/R iNHL with axi-cel",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Dn-GxZS2wnM",
+          "duration": "3:46"
+        },
+        {
+          "name": "Approaching the early-relapsing patient",
+          "kind": "clinical",
+          "title": "How I approach early relapsing follicular lymphoma",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=JszIbUJdnhk",
+          "duration": "18:59"
+        },
+        {
+          "name": "Fitting the recent advances together",
+          "kind": "clinical",
+          "title": "Leveraging Recent Advances in the Treatment of Relapsed/Refractory Follicular Lymphoma",
+          "channel": "Physicians' Education Resource",
+          "url": "https://www.youtube.com/watch?v=UG1UsRmiFxM",
+          "duration": "17:19"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u9",
+      "type": "section",
+      "name": "Marginal zone lymphomas",
+      "ashsapPage": 544,
+      "assessment": "What clinically distinguishes the three marginal zone lymphoma subtypes from one another, which infectious agents are causally linked to each, and how does that link change first-line treatment?",
+      "lesson": {
+        "title": "Thursday Webinar -Marginal zone lymphoma",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=nHyxDfvfFrg",
+        "duration": "43:34",
+        "why": "A reference-centre webinar covering marginal zone lymphoma as a family — nodal, splenic and extranodal — which is how this overview section is organised."
+      },
+      "drills": [
+        {
+          "name": "Marginal zone lymphoma in one lecture",
+          "kind": "clinical",
+          "title": "Marginal Zone Lymphoma",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=XrqWJxOQtkE",
+          "duration": "22:58"
+        },
+        {
+          "name": "Should MZL be treated differently from FL?",
+          "kind": "clinical",
+          "title": "Treatment for Marginal Zone Lymphoma: Should it be Different from Follicular Lymphoma?",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=oRjT8v4BwSM",
+          "duration": "19:09"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u10",
+      "type": "section",
+      "name": "New additions in the 5th edition of the WHO classification",
+      "ashsapPage": 545,
+      "assessment": "Which indolent B-cell entities are newly recognised, renamed or reorganised in the 5th edition of the WHO classification of haematolymphoid tumours, and where does the International Consensus Classification disagree with it on naming those same entities?",
+      "lesson": {
+        "title": "WHO LYMPHOID AND PLASMA CELL NEOPLASMS  UPDATES II WHO  HEMATOLOGY 5TH E UPDATE",
+        "channel": "Dr.JIBRAN AHMED",
+        "url": "https://www.youtube.com/watch?v=XiAxx-vSlZ0",
+        "duration": "46:36",
+        "why": "A section-by-section walkthrough of what changed for lymphoid and plasma cell neoplasms in the WHO 5th edition, which is what this short section summarises."
+      },
+      "drills": [
+        {
+          "name": "Mature B-cell lymphomas under WHO-HAEM5",
+          "kind": "mechanism",
+          "title": "Pathlearnings Update series: WHO HEAM5 article- Mature B cell Lymphomas- Part 1",
+          "channel": "Pathlearnings",
+          "url": "https://www.youtube.com/watch?v=Tlca-fCuCv4",
+          "duration": "39:10"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u11",
+      "type": "section",
+      "name": "MALT lymphomas",
+      "ashsapPage": 545,
+      "assessment": "For a gastric MALT lymphoma, what determines whether Helicobacter pylori eradication alone will produce durable remission, what does t(11;18) predict about that response, and how would you treat the antibiotic-refractory or non-gastric case?",
+      "lesson": {
+        "title": "Marginal Zone Lymphoma",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=XrqWJxOQtkE",
+        "duration": "22:58",
+        "why": "A single lecture on marginal zone lymphoma that gives extranodal MALT disease — gastric and non-gastric — its own treatment discussion."
+      },
+      "drills": [
+        {
+          "name": "Gastric MALT lymphoma under the microscope",
+          "kind": "mechanism",
+          "title": "MALToma stomach1",
+          "channel": "Lewis Hassell",
+          "url": "https://www.youtube.com/watch?v=33EMENCWLTg",
+          "duration": "10:55"
+        },
+        {
+          "name": "Current treatment and prognostication in extranodal MZL",
+          "kind": "clinical",
+          "title": "Current treatment approaches in extranodal MZL & the need to enhance prognostication strategies",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=-7f8oV-Q6_g",
+          "duration": "1:47"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u12",
+      "type": "section",
+      "name": "Nodal MZL",
+      "ashsapPage": 546,
+      "assessment": "How is nodal marginal zone lymphoma separated from a splenic or extranodal marginal zone lymphoma that has spread to lymph nodes, and from lymphoplasmacytic lymphoma, and what is the usual first-line approach once the diagnosis is settled?",
+      "lesson": {
+        "title": "Updates in Marginal Zone Lymphoma (MZL)",
+        "channel": "Lymphoma Australia",
+        "url": "https://www.youtube.com/watch?v=nYxl-LDa-dk",
+        "duration": "1:12:02",
+        "why": "A current update across marginal zone lymphoma subtypes that gives nodal disease its own diagnostic and treatment discussion."
+      },
+      "drills": [
+        {
+          "name": "Marginal zone lymphoma in depth",
+          "kind": "clinical",
+          "title": "1. Marginal Zone Lymphoma (MZL) – Deeper Understanding",
+          "channel": "Prof. Mohamed Hamdy",
+          "url": "https://www.youtube.com/watch?v=5p3bAqEiw6M",
+          "duration": "51:31"
+        },
+        {
+          "name": "Kinase inhibitors in FL and MZL",
+          "kind": "clinical",
+          "title": "Kinase inhibitors for follicular and marginal zone lymphoma: Opportunities and challenges",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=zyegnQXyxgo",
+          "duration": "19:29"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u13",
+      "type": "section",
+      "name": "Splenic MZL",
+      "ashsapPage": 546,
+      "assessment": "For splenic marginal zone lymphoma presenting with massive splenomegaly and cytopenias, when do you treat, how do you weigh splenectomy against rituximab, and what would you do differently if the patient were hepatitis C positive?",
+      "lesson": {
+        "title": "Mayo Clinic Lymphoma eTumor Board | Splenic marginal zone lymphoma with massive splenomegaly",
+        "channel": "Lymphoma Hub",
+        "url": "https://www.youtube.com/watch?v=PWWuT3P9Dgk",
+        "duration": "13:22",
+        "why": "A tumour-board case of splenic marginal zone lymphoma with massive splenomegaly, worked through exactly as this section frames the management question."
+      },
+      "drills": [
+        {
+          "name": "Microenvironment biology of splenic MZL",
+          "kind": "mechanism",
+          "title": "The role of the tumor microenvironment in splenic MZL: T-reg expression",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Yd__RCUkA7c",
+          "duration": "1:21"
+        },
+        {
+          "name": "CITADEL-204: PI3K inhibition in relapsed MZL",
+          "kind": "trial",
+          "title": "CITADEL-204: safety and efficacy of parsaclisib in R/R MZL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=0V-fw1ar_O8",
+          "duration": "1:47"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u14",
+      "type": "section",
+      "name": "Hairy cell leukemia",
+      "ashsapPage": 547,
+      "assessment": "What immunophenotype and driver mutation define classic hairy cell leukemia, how does the variant form differ in phenotype and treatment response, and what depth and duration of remission would you expect from cladribine with or without rituximab?",
+      "lesson": {
+        "title": "Hairy cell leukemia: New targets, new therapy",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=yg7K-HQWQlU",
+        "duration": "24:46",
+        "why": "Covers hairy cell leukemia from BRAF V600E biology through purine analogues, BRAF inhibition and moxetumomab, matching the scope of this section."
+      },
+      "drills": [
+        {
+          "name": "What to do at relapse",
+          "kind": "clinical",
+          "title": "Hairy Cell Leukemia (HCL): Treatment of Relapsed Disease (EHA2024)",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=9dj56zgZBh4",
+          "duration": "17:41"
+        },
+        {
+          "name": "Concurrent versus delayed rituximab with cladribine",
+          "kind": "trial",
+          "title": "Robert Kreitman: Delayed Versus Concurrent Rituximab in Hairy Cell Leukemia",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=SA2LD_HrwFs",
+          "duration": "5:18"
+        },
+        {
+          "name": "Choosing first-line therapy",
+          "kind": "clinical",
+          "title": "First-Line Therapy Options in Hairy Cell Leukemia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=yWfAxlQz-Qc",
+          "duration": "7:18"
+        }
+      ]
+    },
+    {
+      "id": "ch44-u15",
+      "type": "section",
+      "name": "Transformation to aggressive lymphoma in indolent lymphomas",
+      "ashsapPage": 548,
+      "assessment": "What clinical and laboratory signs suggest that an indolent lymphoma has transformed, how would you confirm it and choose the biopsy site, and how does the amount and type of prior therapy change what you can offer once transformation is proven?",
+      "lesson": {
+        "title": "Treatment Options for Transformed Lymphoma",
+        "channel": "Lymphoma Research Foundation",
+        "url": "https://www.youtube.com/watch?v=pPLF7zJuJ0k",
+        "duration": "51:05",
+        "why": "Devoted specifically to histologic transformation — how it is recognised, confirmed and treated — which is what this section covers."
+      },
+      "drills": [
+        {
+          "name": "Aggressive histologies you may be transforming into",
+          "kind": "clinical",
+          "title": "Aggressive Lymphoma subtypes and treatment options",
+          "channel": "Lymphoma Australia",
+          "url": "https://www.youtube.com/watch?v=GCPBCLZOvC0",
+          "duration": "41:27"
+        },
+        {
+          "name": "Where novel agents fit in indolent disease",
+          "kind": "clinical",
+          "title": "Indolent Lymphomas - Novel Therapies Update",
+          "channel": "Lymphoma Australia",
+          "url": "https://www.youtube.com/watch?v=x56oCT76b5w",
+          "duration": "1:15:08"
+        }
+      ]
+    }
+  ]
+}

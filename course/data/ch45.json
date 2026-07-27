@@ -1,0 +1,348 @@
+{
+  "chapter": "CH45",
+  "title": "Aggressive non-Hodgkin and Burkitt lymphomas",
+  "units": [
+    {
+      "id": "ch45-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 552,
+      "assessment": "Can you name the aggressive B-cell lymphoma entities this chapter covers and say which of them are potentially cured with frontline chemoimmunotherapy, which need CNS-directed therapy from the outset, and which are managed as a relapsing chronic disease?",
+      "lesson": {
+        "title": "Lymphoma: Overview of Classification",
+        "channel": "Harvard Medical School Continuing Education",
+        "url": "https://www.youtube.com/watch?v=HINiGVdESf0",
+        "duration": "7:24",
+        "why": "A classification overview that situates DLBCL, Burkitt, high-grade B-cell lymphoma and mantle cell lymphoma relative to one another before the chapter takes them one at a time."
+      }
+    },
+    {
+      "id": "ch45-u2",
+      "type": "section",
+      "name": "Diffuse large B-cell lymphoma",
+      "ashsapPage": 553,
+      "assessment": "What determines whether a newly diagnosed DLBCL patient receives six cycles of R-CHOP, pola-R-CHP, or an abbreviated four-cycle course, and what do cell-of-origin and MYC/BCL2 expression add to the prognostic information already in the IPI?",
+      "lesson": {
+        "title": "How to Treat Diffuse Large B-Cell Lymphoma (DLBCL) in 2025",
+        "channel": "OncBrothers: Practice-Changing Cancer Discussions",
+        "url": "https://www.youtube.com/watch?v=raGkPnUs9XM",
+        "duration": "21:36",
+        "why": "A 2025 clinician-to-clinician walkthrough of how DLBCL is actually treated now, including where polatuzumab-based induction has displaced R-CHOP."
+      },
+      "drills": [
+        {
+          "name": "DLBCL pathology update",
+          "kind": "mechanism",
+          "title": "#HEMEPATH Diffuse Large B-Cell Lymphoma: an update",
+          "channel": "pathCast",
+          "url": "https://www.youtube.com/watch?v=YzFoVCQ3SpA",
+          "duration": "1:16:16"
+        },
+        {
+          "name": "Epidemiology, genetics, subtypes and workup",
+          "kind": "mechanism",
+          "title": "Diffuse Large B-Cell Lymphoma | Part I: Epidemiology, Genetics, Subtypes, Workup, and Pathology",
+          "channel": "Tom Fusillo, DO",
+          "url": "https://www.youtube.com/watch?v=chr48qBJR8I",
+          "duration": "26:09"
+        },
+        {
+          "name": "Standard therapy explained end to end",
+          "kind": "clinical",
+          "title": "Diffuse Large B Cell Lymphoma - Overview of Standard Therapy with Michael Dickinson",
+          "channel": "Lymphoma Australia",
+          "url": "https://www.youtube.com/watch?v=6sjdTv8ioNU",
+          "duration": "48:44"
+        }
+      ]
+    },
+    {
+      "id": "ch45-u3",
+      "type": "section",
+      "name": "Relapsed and refractory DLBCL",
+      "ashsapPage": 555,
+      "assessment": "For DLBCL relapsing six months after R-CHOP, how do you decide between second-line CAR T-cell therapy, platinum-based salvage with autologous transplant, and a bispecific antibody, and what does the 12-month cutoff from initial therapy change about that decision?",
+      "lesson": {
+        "title": "Relapsed/Refractory B-cell Lymphomas in the CAR-T Era: Improving Outcomes in a Population at Need",
+        "channel": "LurieCancerCenter",
+        "url": "https://www.youtube.com/watch?v=9--zGZ4fwIs",
+        "duration": "50:48",
+        "why": "An academic session framed around relapsed and refractory B-cell lymphoma in the CAR T era, which is how second-line decisions are now made."
+      },
+      "drills": [
+        {
+          "name": "Relapsed and refractory DLBCL in full",
+          "kind": "clinical",
+          "title": "Relapsed and Refractory Diffuse Large B-Cell Lymphoma",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=5DdtnrZSb40",
+          "duration": "46:48"
+        },
+        {
+          "name": "Rapid orientation to the relapsed setting",
+          "kind": "clinical",
+          "title": "Relapsed/Refractory DLBCL",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=xYTvADXmcpc",
+          "duration": "7:46"
+        }
+      ]
+    },
+    {
+      "id": "ch45-u4",
+      "type": "section",
+      "name": "Special situations: management of specific clinicopathologic entities of DLBCL",
+      "ashsapPage": 556,
+      "assessment": "How is primary mediastinal large B-cell lymphoma distinguished from ordinary DLBCL and from nodular sclerosis Hodgkin lymphoma on immunophenotype, and why is DA-EPOCH-R preferred over R-CHOP plus consolidative mediastinal radiotherapy?",
+      "lesson": {
+        "title": "Evolving Treatment Paradigms for Primary Mediastinal Diffuse Large B-Cell Lymphoma",
+        "channel": "ASCO Podcasts",
+        "url": "https://www.youtube.com/watch?v=Zwots9L3Z0s",
+        "duration": "13:00",
+        "why": "A journal discussion of how primary mediastinal large B-cell lymphoma is separated from ordinary DLBCL and why dose-adjusted EPOCH-R displaced R-CHOP followed by mediastinal radiotherapy."
+      },
+      "drills": [
+        {
+          "name": "Choosing frontline therapy in PMBCL",
+          "kind": "clinical",
+          "title": "What is the best therapy for primary mediastinal diffuse large B-cell lymphoma",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=4ZtZYi1l6vY",
+          "duration": "15:17"
+        },
+        {
+          "name": "Can consolidative mediastinal radiotherapy be dropped?",
+          "kind": "trial",
+          "title": "Primary mediastinal B-cell lymphoma: Radiotherapy superfluous post-chemoimmunotherapy",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=n3j1GEt6J7Y",
+          "duration": "4:38"
+        },
+        {
+          "name": "Long-term IELSG32 data in primary CNS lymphoma",
+          "kind": "trial",
+          "title": "IELSG32 trial: 88-month follow-up on MATRIX followed by auto-SCT in primary CNS lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Gc3a4OT-7Zo",
+          "duration": "7:00"
+        },
+        {
+          "name": "How experts approach large B-cell lymphoma overall",
+          "kind": "clinical",
+          "title": "How Experts Treat  Large B-cell Lymphoma (LBCL)",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=SirIXAHC3T4",
+          "duration": "18:19"
+        }
+      ]
+    },
+    {
+      "id": "ch45-u5",
+      "type": "section",
+      "name": "Central nervous system lymphoma",
+      "ashsapPage": 557,
+      "assessment": "What role does high-dose methotrexate play in primary CNS lymphoma and what dose and schedule make it effective, which consolidation strategies follow induction, and in whom would you avoid whole-brain radiotherapy because of neurotoxicity?",
+      "lesson": {
+        "title": "First-line Treatment of Primary Central Nervous System Lymphoma (PCNSL) (EHA2024)",
+        "channel": "European Hematology Association",
+        "url": "https://www.youtube.com/watch?v=WzNgpya9NBs",
+        "duration": "18:22",
+        "why": "A European Hematology Association educational session dedicated to first-line PCNSL treatment — induction, consolidation and patient selection."
+      },
+      "drills": [
+        {
+          "name": "Primary CNS lymphoma from diagnosis to survivorship",
+          "kind": "clinical",
+          "title": "Primary Central Nervous System Lymphoma",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=hHMALJy6Xic",
+          "duration": "47:23"
+        },
+        {
+          "name": "Recent changes in PCNSL practice",
+          "kind": "clinical",
+          "title": "Updates in Primary Central Nervous System Lymphoma (PCNSL)",
+          "channel": "Lymphoma Australia",
+          "url": "https://www.youtube.com/watch?v=L4xmDOIduwA",
+          "duration": "48:19"
+        },
+        {
+          "name": "Detecting CNS involvement in B-cell lymphoma",
+          "kind": "mechanism",
+          "title": "CNS invasion in B-cell lymphoma: a novel diagnostic and prognostic tool",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=baXa380glNs",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "id": "ch45-u6",
+      "type": "section",
+      "name": "Burkitt lymphoma",
+      "ashsapPage": 558,
+      "assessment": "How would you recognise Burkitt lymphoma on morphology, immunophenotype and cytogenetics, what tumour lysis precautions must precede the first dose of chemotherapy, and which regimens deliver adequate CNS prophylaxis in an adult?",
+      "lesson": {
+        "title": "Burkitt Lymphoma",
+        "channel": "Lymphoma Research Foundation",
+        "url": "https://www.youtube.com/watch?v=1RhKFQXVZLw",
+        "duration": "34:43",
+        "why": "A full session on Burkitt lymphoma covering the biology, the urgency of starting therapy and the intensive regimens used, matching this section's scope."
+      },
+      "drills": [
+        {
+          "name": "DA-EPOCH-R in Burkitt lymphoma",
+          "kind": "trial",
+          "title": "The EPOCH-R clinical trial in Burkitt lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=VD93b7ffLNg",
+          "duration": "2:27"
+        },
+        {
+          "name": "Treating adults specifically",
+          "kind": "clinical",
+          "title": "Dr. Roschewski on the Treatment of Burkitt Lymphoma in Adults",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=cI0ydotR3qk",
+          "duration": "2:11"
+        },
+        {
+          "name": "Diagnosis and referral pathway",
+          "kind": "clinical",
+          "title": "Diagnosis and Referral of Burkitt’s Lymphoma – 3 February 2023",
+          "channel": "International Society of Paediatric Oncology",
+          "url": "https://www.youtube.com/watch?v=QKEMbU1-Y-I",
+          "duration": "1:09:11"
+        }
+      ]
+    },
+    {
+      "id": "ch45-u7",
+      "type": "section",
+      "name": "High-grade B-cell lymphoma, NOS",
+      "ashsapPage": 558,
+      "assessment": "What separates high-grade B-cell lymphoma with MYC and BCL2 rearrangements from high-grade B-cell lymphoma NOS and from ordinary DLBCL, and how did the 5th edition WHO classification and the ICC each handle the old double-hit and triple-hit categories?",
+      "lesson": {
+        "title": "獨家干貨! Aggressive B-cell lymphoma/ Large B-cell lymphoma 的WHO分類怎麼用? (2/4) 像Burkitt & 像Hodgkin的那些淋巴癌",
+        "channel": "尤善琦醫師的血液病理教學",
+        "url": "https://www.youtube.com/watch?v=n-05I0EEJx8",
+        "duration": "15:02",
+        "why": "A hematopathologist works through how to actually apply the WHO classification to aggressive large B-cell lymphomas, including the Burkitt-like and Hodgkin-like grey zones this section is about (Mandarin)."
+      },
+      "drills": [
+        {
+          "name": "Large B-cell and other high-grade B-cell lymphomas",
+          "kind": "clinical",
+          "title": "Large B-cell Lymphoma & other high-grade B-cell lymphomas",
+          "channel": "LymphomaCanada",
+          "url": "https://www.youtube.com/watch?v=nHOfJyTMHfw",
+          "duration": "35:31"
+        }
+      ]
+    },
+    {
+      "id": "ch45-u8",
+      "type": "section",
+      "name": "Lymphoid proliferations and lymphomas associated with immune deficiency and dysregulation",
+      "ashsapPage": 558,
+      "assessment": "How would you approach an EBV-driven post-transplant lymphoproliferative disorder — what can reduction of immunosuppression alone achieve, when do rituximab, chemotherapy or EBV-specific T cells enter, and how do the polymorphic and monomorphic forms differ in prognosis?",
+      "lesson": {
+        "title": "#HEMEPATH PTLD and immunodeficiency- associated lymphoproliferations",
+        "channel": "pathCast",
+        "url": "https://www.youtube.com/watch?v=pE9NJn3Sel0",
+        "duration": "1:07:33",
+        "why": "A hematopathology lecture covering PTLD and the wider family of immunodeficiency- and immune-dysregulation-associated lymphoproliferations, which is exactly this section's subject."
+      },
+      "drills": [
+        {
+          "name": "Where WHO-HAEM5 places these lesions",
+          "kind": "mechanism",
+          "title": "Pathlearnings Update Series: WHO-HEAM5 Mature B Cell Lymphoma- Part 3",
+          "channel": "Pathlearnings",
+          "url": "https://www.youtube.com/watch?v=zYBzVorDLuw",
+          "duration": "30:26"
+        }
+      ]
+    },
+    {
+      "id": "ch45-u9",
+      "type": "section",
+      "name": "Mantle cell lymphoma",
+      "ashsapPage": 560,
+      "assessment": "Which features push a mantle cell lymphoma patient toward intensive cytarabine-containing induction with autologous transplant rather than a lower-intensity regimen, what do blastoid morphology, TP53 mutation and Ki-67 add, and what did TRIANGLE change about adding ibrutinib?",
+      "lesson": {
+        "title": "How I approach the initial treatment of mantle cell lymphoma",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=u-S7PcHRJto",
+        "duration": "21:13",
+        "why": "A how-I-treat session on initial mantle cell lymphoma therapy that reasons through age, fitness and biology exactly as this section requires."
+      },
+      "drills": [
+        {
+          "name": "Matching upfront regimen to patient",
+          "kind": "clinical",
+          "title": "Who Should Get What for Upfront Therapy for Mantle Cell Lymphoma?",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=IxJcoVAAEPA",
+          "duration": "30:05"
+        },
+        {
+          "name": "Full update on mantle cell lymphoma",
+          "kind": "clinical",
+          "title": "Update on Mantle Cell Lymphoma Webinar | Lymphoma Research Foundation Webinars",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=1UXJZy6Tst4",
+          "duration": "1:00:25"
+        },
+        {
+          "name": "The older or unfit patient",
+          "kind": "clinical",
+          "title": "Management of older adults with mantle-cell lymphoma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=r0I78GgYS6E",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "id": "ch45-u10",
+      "type": "section",
+      "name": "Management of relapsed MCL",
+      "ashsapPage": 561,
+      "assessment": "For mantle cell lymphoma progressing on a covalent BTK inhibitor, which treatment options remain, what response rate and durability would you expect from brexucabtagene autoleucel, and where do pirtobrutinib, venetoclax and allogeneic transplant fit?",
+      "lesson": {
+        "title": "Clinical considerations for therapy selection in relapsed/refractory MCL",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=ZHZr1yJhK-c",
+        "duration": "14:03",
+        "why": "Focuses on selecting therapy at relapse in mantle cell lymphoma, including the post-BTK-inhibitor setting that now defines the problem."
+      },
+      "drills": [
+        {
+          "name": "New agents and remaining unmet needs",
+          "kind": "clinical",
+          "title": "How to manage relapsed/refractory MCL - new agents and unmet needs",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=yykB-cUxStU",
+          "duration": "4:43"
+        },
+        {
+          "name": "The relapsed treatment landscape at a glance",
+          "kind": "clinical",
+          "title": "Current treatment landscape for relapsed MCL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=v5I80lX9IM8",
+          "duration": "2:35"
+        },
+        {
+          "name": "Relapsed and refractory disease explained",
+          "kind": "clinical",
+          "title": "Relapsed/Refractory Mantle Cell Lymphoma",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=joI1C26AUok",
+          "duration": "7:51"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "chapter": "CH20",
+  "title": "von Willebrand disease",
+  "units": [
+    {
+      "id": "ch20-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 226,
+      "assessment": "Can you explain why von Willebrand disease is at once the most common inherited bleeding disorder and one of the most under-recognised, and name the separate properties of von Willebrand factor that any diagnostic workup has to measure independently?",
+      "lesson": {
+        "title": "von Willebrand Disease, Platelet Dysfunction, and Other Mucocutaneous IBDs",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=hqqsqFhhPGg",
+        "duration": "1:13:22",
+        "why": "A full clinician-to-clinician session that frames VWD alongside the other mucocutaneous bleeding disorders it must be distinguished from, which is exactly the orientation this opening section provides."
+      },
+      "drills": [
+        {
+          "name": "VWF and ADAMTS13 in 40 seconds",
+          "kind": "mechanism",
+          "title": "How von Willebrand Factor and ADAMTS13 Regulate Clotting",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=qO7Kkm6jf9w",
+          "duration": "0:37"
+        },
+        {
+          "name": "How a hematopathologist reads the VWD panel",
+          "kind": "clinical",
+          "title": "Hematopathology lecture 1: Von Willebrand Disease. Dr. Daniel Sabath",
+          "channel": "Hematopathology UW",
+          "url": "https://www.youtube.com/watch?v=ki3tByyUQcA",
+          "duration": "10:31"
+        }
+      ]
+    },
+    {
+      "id": "ch20-u2",
+      "type": "section",
+      "name": "Incidence and pathophysiology",
+      "ashsapPage": 227,
+      "assessment": "Can you trace von Willebrand factor from endothelial synthesis through multimer assembly, Weibel-Palade body storage, secretion and ADAMTS13 cleavage, and then say which of those steps is disturbed in each VWD subtype?",
+      "lesson": {
+        "title": "Basics of von Willebrand Disease (VWD)",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=Sk4ST_pA5z4",
+        "duration": "48:12",
+        "why": "The National Bleeding Disorders Foundation basics session covers prevalence and the biology of VWF in one pass, which maps onto this section's incidence-plus-pathophysiology scope."
+      },
+      "drills": [
+        {
+          "name": "VWF biology beyond hemostasis",
+          "kind": "mechanism",
+          "title": "VON WILLEBRAND FACTOR: ITS ROLE IN AND BEYOND HEMOSTATIS",
+          "channel": "İstanbul Arel Üniversitesi",
+          "url": "https://www.youtube.com/watch?v=3RzIZ6w50ew",
+          "duration": "1:39:10"
+        },
+        {
+          "name": "Population prevalence and the mutational landscape",
+          "kind": "trial",
+          "title": "Population-based prevalence and mutational landscape of von Willebrand disease",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=SnCey3Lln_s",
+          "duration": "2:33"
+        }
+      ]
+    },
+    {
+      "id": "ch20-u3",
+      "type": "section",
+      "name": "Bleeding phenotype",
+      "ashsapPage": 227,
+      "assessment": "Given a patient with recurrent epistaxis and heavy menstrual bleeding, can you say how a structured bleeding assessment tool shifts your pretest probability of VWD, and which symptoms should point you instead towards a platelet function defect?",
+      "lesson": {
+        "title": "ERN-EuroBloodNet Thursdays Webinars: Von Willebrand factor and von Willebrand disease in ageing",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=UK8duMIcrL8",
+        "duration": "47:30",
+        "why": "A European reference network webinar on VWF across the lifespan, the best available treatment of how the VWD bleeding phenotype declares itself and then changes with age."
+      },
+      "drills": [
+        {
+          "name": "Low VWF and heavy menstrual bleeding in adolescents",
+          "kind": "clinical",
+          "title": "Whole 1 Exome Analysis of Adolescents with Low VWF and Heavy Menstrual Bleeding",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=l7606-fQ-ss",
+          "duration": "41:41"
+        },
+        {
+          "name": "Menstrual bleeding as the dominant phenotype",
+          "kind": "clinical",
+          "title": "Von Willebrand Disease (VWD): The Realities of Your Period",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=sdYf7UWQWoo",
+          "duration": "50:56"
+        }
+      ]
+    },
+    {
+      "id": "ch20-u4",
+      "type": "section",
+      "name": "VWD type 1",
+      "ashsapPage": 228,
+      "assessment": "Can you state the von Willebrand factor level that separates type 1 VWD from so-called low VWF, and explain how an accelerated-clearance variant such as type 1C changes both the desmopressin trial and the durability of the response?",
+      "lesson": {
+        "title": "Unpacking von Willebrand disease: Dr. Paula James talks diagnosis & pre-procedure prophylaxis",
+        "channel": "MDedge: news and insights for busy physicians",
+        "url": "https://www.youtube.com/watch?v=nfrnH1w0Qg8",
+        "duration": "18:39",
+        "why": "Paula James, one of the authors of the current VWD guidelines, walks through type 1 diagnosis and pre-procedure prophylaxis in the compact form this section needs."
+      },
+      "drills": [
+        {
+          "name": "Why some type 1 patients clear VWF too fast",
+          "kind": "mechanism",
+          "title": "Genetic determinants of enhanced von Willebrand factor clearance in VWD",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=2NIFEbRTXmw",
+          "duration": "1:42"
+        },
+        {
+          "name": "Reading the VWF antigen, activity and ratio",
+          "kind": "clinical",
+          "title": "Interpreting tests for von Willebrand disease (VWD)",
+          "channel": "Medmastery",
+          "url": "https://www.youtube.com/watch?v=sUksty2vw1I",
+          "duration": "5:54"
+        },
+        {
+          "name": "Laboratory diagnosis from the bench side",
+          "kind": "clinical",
+          "title": "Hematopathology lecture 1: Von Willebrand Disease. Dr. Daniel Sabath",
+          "channel": "Hematopathology UW",
+          "url": "https://www.youtube.com/watch?v=ki3tByyUQcA",
+          "duration": "10:31"
+        }
+      ]
+    },
+    {
+      "id": "ch20-u5",
+      "type": "section",
+      "name": "VWD type 2",
+      "ashsapPage": 230,
+      "assessment": "Can you separate types 2A, 2B, 2M and 2N using the activity-to-antigen ratio, low-dose ristocetin-induced platelet aggregation, multimer analysis and the factor VIII level, and say which of those subtypes makes desmopressin the wrong drug?",
+      "lesson": {
+        "title": "Presentation #2: Case 2 - von Willebrand Disease, Type 2B (Margaret Ragni, MD, MPH)",
+        "channel": "Foundation for Women & Girls With Blood Disorders",
+        "url": "https://www.youtube.com/watch?v=xCwKSTonjFY",
+        "duration": "27:50",
+        "why": "A worked type 2B case from Margaret Ragni that shows precisely how the qualitative subtypes are teased apart and why 2B behaves differently from the rest."
+      },
+      "drills": [
+        {
+          "name": "When the VWD panel does not fit a subtype",
+          "kind": "clinical",
+          "title": "Challenging Scenarios of Diagnosing von Willebrand Disease",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=d8ssrOSYCpM",
+          "duration": "59:46"
+        },
+        {
+          "name": "Veronica Flood on what the guidelines changed",
+          "kind": "clinical",
+          "title": "Veronica Flood - VWD Guidelines",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=gjb8S83ulZU",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "id": "ch20-u6",
+      "type": "section",
+      "name": "VWD type 3",
+      "ashsapPage": 230,
+      "assessment": "Can you explain why type 3 VWD produces a hemophilia-like picture with joint and muscle bleeding, and describe how alloantibodies against von Willebrand factor change replacement therapy and raise the risk of anaphylaxis?",
+      "lesson": {
+        "title": "Personalizing Care of von Willebrand Disease With Current and Emerging Management Strategies",
+        "channel": "PeerView CME",
+        "url": "https://www.youtube.com/watch?v=9rMCkTYO18s",
+        "duration": "27:39",
+        "why": "The closest fit available: a management-focused session covering the severe end of the VWD spectrum, including recombinant VWF and prophylaxis, which is where type 3 sits."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch20-u7",
+      "type": "section",
+      "name": "Genetic testing",
+      "ashsapPage": 230,
+      "assessment": "Can you name the clinical situations in which sequencing the VWF gene adds something phenotypic testing cannot give you, and say which subtype diagnoses genotyping is able to confirm or overturn?",
+      "lesson": {
+        "title": "Archive: Genetic Modifiers in Von Willebrand Factor parameters",
+        "channel": "UW Video",
+        "url": "https://www.youtube.com/watch?v=hl9EqAD8Bjk",
+        "duration": "51:18",
+        "why": "A university lecture on the genetic determinants of VWF levels, which explains why genotype and phenotype diverge and therefore when sequencing is worth ordering."
+      },
+      "drills": [
+        {
+          "name": "Lillicrap on genetics in day-to-day VWD care",
+          "kind": "clinical",
+          "title": "#VWDTalk How does understanding genetics help us manage Von Willebrand Disease? |Dr. David Lillicrap",
+          "channel": "Octapharma Canada",
+          "url": "https://www.youtube.com/watch?v=L_A9TAu-FPo",
+          "duration": "5:04"
+        },
+        {
+          "name": "Where genetic testing fits in hematology generally",
+          "kind": "clinical",
+          "title": "Guiding Hematologic Care with Genetic Testing",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=ymKAoYmfFP4",
+          "duration": "8:09"
+        }
+      ]
+    },
+    {
+      "id": "ch20-u8",
+      "type": "section",
+      "name": "Acquired von Willebrand syndrome",
+      "ashsapPage": 230,
+      "assessment": "Can you list the settings that strip high-molecular-weight VWF multimers - aortic stenosis, ventricular assist devices and ECMO, myeloproliferative neoplasms with extreme thrombocytosis, and lymphoproliferative disorders - and say how treating the underlying condition differs from replacement or IVIG?",
+      "lesson": {
+        "title": "Laboratory Testing of von Willebrand Disease and Acquired von Willebrand Syndrome",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=ToIi3uDi1Rc",
+        "duration": "29:38",
+        "why": "Mayo Clinic Laboratories walks through the assays that separate acquired von Willebrand syndrome from inherited VWD, which is the diagnostic problem this section is about."
+      },
+      "drills": [
+        {
+          "name": "Acquired VWS in Waldenstrom macroglobulinemia",
+          "kind": "clinical",
+          "title": "WM and the clinical implications of acquired von Willebrand syndrome",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=2-IpMa4VIXY",
+          "duration": "1:34"
+        },
+        {
+          "name": "Shear-mediated acquired VWS on extracorporeal support",
+          "kind": "clinical",
+          "title": "Acquired von Willebrand syndrome and platelet function defects during extracorporeal life support",
+          "channel": "GTH 2020",
+          "url": "https://www.youtube.com/watch?v=JVg7AkKAdhs",
+          "duration": "3:14"
+        },
+        {
+          "name": "A case after allogeneic transplant",
+          "kind": "clinical",
+          "title": "Case study: acquired von Willebrand disease in allogeneic BMT",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=pq7RiWvaNIs",
+          "duration": "1:23"
+        },
+        {
+          "name": "An antibody-based approach in development",
+          "kind": "trial",
+          "title": "A novel humanized anti-ADAMTS13 antibody for acquired Von Willebrand disease",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=bd5Q68K-bME",
+          "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "id": "ch20-u9",
+      "type": "section",
+      "name": "Treatment",
+      "ashsapPage": 231,
+      "assessment": "Can you decide when desmopressin, an antifibrinolytic, a plasma-derived VWF-factor VIII concentrate or recombinant VWF is the correct choice, and state the trough levels and the number of days of cover to target around major surgery?",
+      "lesson": {
+        "title": "The NEW VWD Guidelines",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=qXenVqPnYSI",
+        "duration": "28:40",
+        "why": "A guideline-focused session on the current VWD recommendations, where the treatment thresholds and the desmopressin-versus-concentrate decision are actually set out."
+      },
+      "drills": [
+        {
+          "name": "The guideline management recommendations in brief",
+          "kind": "clinical",
+          "title": "Management | ASH Clinical Practice Guidelines on Von Willebrand Disease (VWD)",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=Q5V25LkIZdU",
+          "duration": "4:01"
+        },
+        {
+          "name": "A full diagnosis-and-treatment webinar",
+          "kind": "clinical",
+          "title": "Webinar: Von Willebrand Disease: Diagnosis & Treatment‎",
+          "channel": "New England Hemophilia (NEHA)",
+          "url": "https://www.youtube.com/watch?v=8RbhV3VZs-E",
+          "duration": "1:07:29"
+        },
+        {
+          "name": "Matching the product to the patient",
+          "kind": "clinical",
+          "title": "von Willebrand Disease  Delivering the Right Treatment for the Right Patient at the Right Time",
+          "channel": "PeerView CME",
+          "url": "https://www.youtube.com/watch?v=Q6YsjGW_-KM",
+          "duration": "34:28"
+        }
+      ]
+    },
+    {
+      "id": "ch20-u10",
+      "type": "section",
+      "name": "Gaps in knowledge",
+      "ashsapPage": 233,
+      "assessment": "Can you name the questions VWD care has not settled - where to draw the diagnostic threshold, who benefits from long-term prophylaxis, how women are served, and why access lags behind hemophilia - and say what kind of evidence would resolve each of them?",
+      "lesson": {
+        "title": "Clotting the Gaps in VWD Care",
+        "channel": "PeerView Oncology",
+        "url": "https://www.youtube.com/watch?v=8ZPnYx_7pIU",
+        "duration": "36:41",
+        "why": "A CME session built explicitly around the unmet needs and care gaps in VWD, which is the subject of this closing section."
+      },
+      "drills": [
+        {
+          "name": "Unmet needs and emerging therapy",
+          "kind": "trial",
+          "title": "Unmet needs and emerging approaches in the treatment of von Willebrand disease",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=sKRFJqAHFbU",
+          "duration": "0:52"
+        },
+        {
+          "name": "Why VWD is funded and treated less well than hemophilia",
+          "kind": "clinical",
+          "title": "#VWDTalk: Confronting Inequities in Von Willebrand Disease vs. Hemophilia | Dr. Jerry Teitel",
+          "channel": "Octapharma Canada",
+          "url": "https://www.youtube.com/watch?v=560bmPNYf00",
+          "duration": "6:17"
+        },
+        {
+          "name": "Diagnostic challenges and opportunities",
+          "kind": "clinical",
+          "title": "Webinar - Diagnosis of vWD: Challenges & Opportunities",
+          "channel": "Hemophilia Federation of America",
+          "url": "https://www.youtube.com/watch?v=aga5KkL7-eE",
+          "duration": "1:04:20"
+        }
+      ]
+    }
+  ]
+}

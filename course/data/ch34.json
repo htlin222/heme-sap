@@ -1,0 +1,300 @@
+{
+  "chapter": "CH34",
+  "title": "Myeloid disorders: acquired and inherited white blood cell disorders",
+  "units": [
+    {
+      "id": "ch34-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 393,
+      "assessment": "Can you lay out how the granulocyte, monocyte and histiocyte lineages relate to one another, and name which cell type is the culprit in neutropenia, chronic granulomatous disease, Langerhans cell histiocytosis and Gaucher disease?",
+      "lesson": {
+        "title": "24. Benign disorders of leucocytes - Dr Wale Atoyebi, FRCP, FRCPath, DLM",
+        "channel": "The Royal College of Pathologists",
+        "url": "https://www.youtube.com/watch?v=7orJdGK7SZk",
+        "duration": "38:27",
+        "why": "An FRCPath-level survey of the non-malignant white cell disorders that maps the whole chapter — quantitative and functional neutrophil defects, monocyte and histiocyte disease — before you go section by section."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch34-u2",
+      "type": "section",
+      "name": "Granulocytes: neutrophils, eosinophils, and basophils",
+      "ashsapPage": 393,
+      "assessment": "Can you trace a neutrophil from marrow commitment through margination, rolling, transmigration and killing, and say what distinguishes eosinophil and basophil granule contents from those of the neutrophil?",
+      "lesson": {
+        "title": "Neutrophils: the power on “n” by Dr. Andres Hidalgo",
+        "channel": "GLOBAL IMMUNOTALKS",
+        "url": "https://www.youtube.com/watch?v=FWqEHO4glJc",
+        "duration": "57:31",
+        "why": "A research-seminar treatment of neutrophil production, ageing, heterogeneity and effector function — far above the usual granulocyte explainer, though eosinophils and basophils are not covered."
+      },
+      "drills": [
+        {
+          "name": "Modern view of neutrophil heterogeneity",
+          "kind": "mechanism",
+          "title": "\"New concepts for good old neutrophils\" by Dr. Ng Lai Guan",
+          "channel": "GLOBAL IMMUNOTALKS",
+          "url": "https://www.youtube.com/watch?v=incB0T1ttDI",
+          "duration": "52:41"
+        },
+        {
+          "name": "NETs and neutrophils beyond infection",
+          "kind": "mechanism",
+          "title": "Casting the Net Wide: the Role of Neutrophils in Chronic Diseases",
+          "channel": "NIH VideoCast",
+          "url": "https://www.youtube.com/watch?v=Kd6FvhvlH3Q",
+          "duration": "1:04:36"
+        }
+      ]
+    },
+    {
+      "id": "ch34-u3",
+      "type": "section",
+      "name": "Monocytes and related cells",
+      "ashsapPage": 396,
+      "assessment": "Can you describe how blood monocytes give rise to tissue macrophages and dendritic cells, and explain which of these cells is the one that accumulates lipid in Gaucher disease and which becomes clonal in histiocytosis?",
+      "lesson": {
+        "title": "HCA Meeting Asia 2020: Selected 3a - Monocyte subtypes and diversity",
+        "channel": "Human Cell Atlas",
+        "url": "https://www.youtube.com/watch?v=h0mENeeO12s",
+        "duration": "12:50",
+        "why": "A Human Cell Atlas conference talk on how single-cell data redrew the monocyte compartment — the classical, intermediate and non-classical subsets, and what each becomes once it leaves the blood."
+      },
+      "drills": [
+        {
+          "name": "Telling monoblasts, promonocytes and monocytes apart",
+          "kind": "clinical",
+          "title": "Acute Myeloid Leukemia (AML) w/ Monocytic Differentiation (formerly AMML) with Blasts & Promonocytes",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=h8q8jfgP-2I",
+          "duration": "6:54"
+        },
+        {
+          "name": "When a monocytosis turns out to be clonal",
+          "kind": "clinical",
+          "title": "Thursday Webinar - Chronic Myelomonocytic Leukaemia",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=rFsUVzUGQqM",
+          "duration": "43:19"
+        }
+      ]
+    },
+    {
+      "id": "ch34-u4",
+      "type": "section",
+      "name": "Inherited neutropenias",
+      "ashsapPage": 397,
+      "assessment": "Given an infant with an ANC persistently below 0.2 x 10^9/L, can you name the gene most often mutated, say how cyclic neutropenia is distinguished at the bedside, and state which acquired mutations signal leukemic transformation?",
+      "lesson": {
+        "title": "My Beloved Neutrophil",
+        "channel": "National Neutropenia Network",
+        "url": "https://www.youtube.com/watch?v=n9P9_TQsCCY",
+        "duration": "33:32",
+        "why": "The only full-length talk in the pool devoted to the neutrophil and the chronic neutropenia syndromes, given in the setting where the severe congenital and cyclic neutropenia registries are run."
+      },
+      "drills": [
+        {
+          "name": "How a neutropenia referral centre works up a child",
+          "kind": "clinical",
+          "title": "Neutropenia Specialist - Dr. Peter Newburger",
+          "channel": "National Neutropenia Network",
+          "url": "https://www.youtube.com/watch?v=EvnAE5ApoFg",
+          "duration": "11:32"
+        },
+        {
+          "name": "Framing the chronic neutropenic disorders",
+          "kind": "clinical",
+          "title": "What Are Chronic Neutropenic Disorders?",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=b4U1XTB__Oc",
+          "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "id": "ch34-u5",
+      "type": "section",
+      "name": "Acquired neutropenias",
+      "ashsapPage": 398,
+      "assessment": "Faced with an adult with isolated neutropenia, can you work through drug exposure, autoimmune causes, large granular lymphocyte disease and constitutionally low counts, and say which one needs no treatment at all?",
+      "lesson": {
+        "title": "Distinguishing late-onset neutropenia from classical primary neutropenia",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=lQ3cFQqQ_zQ",
+        "duration": "2:55",
+        "why": "Short, but it is the one clip in the pool that actually teaches the acquired-versus-primary discrimination this section is about, using drug-associated late-onset neutropenia as the worked example."
+      },
+      "drills": [
+        {
+          "name": "Duffy-null associated neutrophil count",
+          "kind": "clinical",
+          "title": "Understanding Duffy-null Associated Neutrophil Count (DANC) | Insights with Dr. Lauren Merz",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=SfT4Bmm8tVM",
+          "duration": "2:46"
+        },
+        {
+          "name": "Drug-induced severe neutropenia and its monitoring",
+          "kind": "clinical",
+          "title": "Rates of Severe Neutropenia and Infection Risk in Patients Treated With Deferiprone",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=m_b_IxAGKWw",
+          "duration": "4:55"
+        },
+        {
+          "name": "What the neutropenia guidelines recommend",
+          "kind": "clinical",
+          "title": "Guidelines on the diagnosis and management of neutropenia",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=vo_l3jzcQnw",
+          "duration": "1:49"
+        }
+      ]
+    },
+    {
+      "id": "ch34-u6",
+      "type": "section",
+      "name": "Management",
+      "ashsapPage": 399,
+      "assessment": "Can you say when a neutropenic patient needs G-CSF rather than observation, what dose and schedule congenital neutropenia requires, and what triggers empiric broad-spectrum antibiotics in a febrile neutropenic patient?",
+      "lesson": {
+        "title": "Neutropenic Fever:Latest in Care Delivery",
+        "channel": "USF Internal Medicine",
+        "url": "https://www.youtube.com/watch?v=tGaq-Kkqoiw",
+        "duration": "55:24",
+        "why": "A grand-rounds hour on how neutropenic patients are actually managed — risk stratification, empiric antibiotics, growth factor use and the delivery-of-care questions that go with them."
+      },
+      "drills": [
+        {
+          "name": "Neutropenic fever in the first hour",
+          "kind": "clinical",
+          "title": "Neutropenic Fever",
+          "channel": "Jacobi/Montefiore Emergency Medicine",
+          "url": "https://www.youtube.com/watch?v=KQ6Oky8235M",
+          "duration": "11:32"
+        },
+        {
+          "name": "Fungal infection in the prolonged neutropenic",
+          "kind": "clinical",
+          "title": "Fungal Infections in Neutropenia - Nelesh Govender",
+          "channel": "Wits Infectious Diseases",
+          "url": "https://www.youtube.com/watch?v=2wNbar8ob4w",
+          "duration": "1:06:51"
+        }
+      ]
+    },
+    {
+      "id": "ch34-u7",
+      "type": "section",
+      "name": "Inherited disorders of neutrophil function",
+      "ashsapPage": 399,
+      "assessment": "Can you match recurrent catalase-positive abscesses, delayed umbilical cord separation with marked leukocytosis, and warts with hypogammaglobulinemia to the correct phagocyte defect, and name the confirmatory test for each?",
+      "lesson": {
+        "title": "Phagocyte Disorders",
+        "channel": "Immune Deficiency Foundation",
+        "url": "https://www.youtube.com/watch?v=gLI01DO0R-4",
+        "duration": "45:11",
+        "why": "A dedicated session on the phagocyte defects — chronic granulomatous disease, leukocyte adhesion deficiency and their relatives — organised the way this section is, by which step of neutrophil function fails."
+      },
+      "drills": [
+        {
+          "name": "WHIM syndrome and when to send genetic testing",
+          "kind": "clinical",
+          "title": "Gene Testing and WHIM Syndrome",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=6ovSW7kGc_Y",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "id": "ch34-u8",
+      "type": "section",
+      "name": "Acquired and inherited disorders of histiocytes and dendritic cells",
+      "ashsapPage": 401,
+      "assessment": "Can you separate Langerhans cell histiocytosis from Erdheim-Chester disease on imaging and immunophenotype, name the mutation both share, and list the criteria that would let you diagnose HLH at the bedside?",
+      "lesson": {
+        "title": "Feb 2023 Webinar Hosted by the Rare Histiocytoses Steering Committee",
+        "channel": "Histiocyte Society",
+        "url": "https://www.youtube.com/watch?v=jcQgpqqIzFs",
+        "duration": "59:20",
+        "why": "A working webinar from the society that writes the histiocytosis criteria, covering the rare histiocytoses clinician-to-clinician rather than as an overview."
+      },
+      "drills": [
+        {
+          "name": "Histiocytic disorders as seen in the marrow",
+          "kind": "clinical",
+          "title": "Histiocytic Disorders of Bone Marrow",
+          "channel": "Brian Dunnette",
+          "url": "https://www.youtube.com/watch?v=hqbvs8ARpNw",
+          "duration": "40:51"
+        },
+        {
+          "name": "Non-Langerhans histiocytoses including Erdheim-Chester",
+          "kind": "clinical",
+          "title": "Lecture-38: Non-Langerhans cell histiocytosis. Rook's chapter 136.",
+          "channel": "Dermatology online by Prof Asher",
+          "url": "https://www.youtube.com/watch?v=pLWa1RERuOM",
+          "duration": "43:53"
+        },
+        {
+          "name": "HLH worked through as cases",
+          "kind": "clinical",
+          "title": "2021-06-01- Case Exchange - Haematology topics including HLH",
+          "channel": "London School of Paediatrics",
+          "url": "https://www.youtube.com/watch?v=KT6qTxdKLfk",
+          "duration": "1:04:17"
+        }
+      ]
+    },
+    {
+      "id": "ch34-u9",
+      "type": "section",
+      "name": "Lysosomal storage diseases",
+      "ashsapPage": 404,
+      "assessment": "Can you explain why a defective lysosomal enzyme produces hepatosplenomegaly and cytopenias, and name the storage cell morphology that should prompt an enzyme assay rather than a marrow malignancy workup?",
+      "lesson": {
+        "title": "Early diagnosis of Lysosomal Storage Disorders",
+        "channel": "The Purple Gene Clinic",
+        "url": "https://www.youtube.com/watch?v=cvGzVN1JSWg",
+        "duration": "11:50",
+        "why": "Frames the storage disorders around the findings that should trigger an enzyme assay — organomegaly, cytopenias and bone disease — rather than around the biochemistry, which is the decision a hematologist meeting one of these patients actually has to make."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch34-u10",
+      "type": "section",
+      "name": "Gaucher disease",
+      "ashsapPage": 405,
+      "assessment": "Can you state which enzyme is deficient in Gaucher disease, how the diagnosis is confirmed, what the skeletal and hematologic manifestations look like, and how enzyme replacement differs from substrate reduction therapy?",
+      "lesson": {
+        "title": "Prof. Michel Revel's 80th Birthday Symposium | 07/13 Gaucher disease... - Prof Shoshana Revel Vilk",
+        "channel": "The Israel Academy of Sciences and Humanities",
+        "url": "https://www.youtube.com/watch?v=r2LWVw-dS5g",
+        "duration": "31:08",
+        "why": "A symposium lecture from a dedicated Gaucher unit — the hematologic, visceral and skeletal disease and what treatment has and has not reversed, delivered to a scientific audience."
+      },
+      "drills": [
+        {
+          "name": "Glucocerebrosidase biology and the GBA-Parkinson link",
+          "kind": "mechanism",
+          "title": "Gaucher Disease: How a Rare Disease Provides a Window into Common Neurodegenerative Disorders",
+          "channel": "NIH VideoCast",
+          "url": "https://www.youtube.com/watch?v=W-2D18g1AaA",
+          "duration": "1:01:36"
+        },
+        {
+          "name": "Recognising the presenting picture",
+          "kind": "clinical",
+          "title": "Gaucher Disease: Signs and Symptoms (Module 1)",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=euKAgFn68-c",
+          "duration": "17:16"
+        }
+      ]
+    }
+  ]
+}

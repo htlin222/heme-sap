@@ -1,0 +1,126 @@
+{
+  "chapter": "CH38",
+  "title": "Beyond the classical Philadelphia chromosome–negative myeloproliferative neoplasms",
+  "units": [
+    {
+      "id": "ch38-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 463,
+      "assessment": "Beyond PV, ET and myelofibrosis, can you state the blood-count and marrow criteria that define chronic neutrophilic leukemia, name the mutation found in most cases and the drug it rationalises, and say what separates CNL from atypical CML in the current WHO and ICC schemes?",
+      "lesson": {
+        "title": "Diagnostic Algorithms for Eosinophilia and Mastocytosis",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=YNk3bHhwc_U",
+        "duration": "21:56",
+        "why": "A laboratory hematologist walks through the stepwise workup that separates reactive eosinophilia and mastocytosis from clonal disease, covering two of the chapter's three diseases; nothing in the search pool addressed CSF3R-mutated chronic neutrophilic leukemia, so read that part in the book."
+      },
+      "drills": [
+        {
+          "name": "Eosinophilic MPN biology",
+          "kind": "mechanism",
+          "title": "Biology and Therapy of Eosinophilic MPNs",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=2vEmWEX05kc",
+          "duration": "27:38"
+        }
+      ]
+    },
+    {
+      "id": "ch38-u2",
+      "type": "section",
+      "name": "Systemic mastocytosis",
+      "ashsapPage": 464,
+      "assessment": "Can you recite the one major and four minor WHO criteria for systemic mastocytosis, say which B and C findings move a patient from indolent to smoldering to advanced disease, and state where midostaurin, avapritinib and the newer selective KIT D816V inhibitors each fit?",
+      "lesson": {
+        "title": "Mast Cell Biology with Regards to Indolent Systemic Mastocytosis",
+        "channel": "USF Internal Medicine",
+        "url": "https://www.youtube.com/watch?v=M3RKYTcHSwM",
+        "duration": "52:20",
+        "why": "A 2023 academic grand-rounds hour on mast cell biology and indolent systemic mastocytosis that connects KIT D816V-driven pathophysiology to the tryptase, marrow and mutation testing used to make the diagnosis."
+      },
+      "drills": [
+        {
+          "name": "PIONEER: avapritinib in indolent SM",
+          "kind": "trial",
+          "title": "PIONEER: avapritinib in patients with indolent systemic mastocytosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=D2ZyZjgRedE",
+          "duration": "9:29"
+        },
+        {
+          "name": "Current NCCN guidance",
+          "kind": "clinical",
+          "title": "The recent updates to the NCCN Guidelines for systemic mastocytosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=vaH41Ih5DVY",
+          "duration": "1:46"
+        },
+        {
+          "name": "Detecting KIT D816V at low allele burden",
+          "kind": "clinical",
+          "title": "ddPCR detects KIT D816V mutations with high sensitivity in systemic mastocytosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=F3YLvl2RfHs",
+          "duration": "1:43"
+        },
+        {
+          "name": "SM with an associated hematologic neoplasm in one marrow",
+          "kind": "clinical",
+          "title": "Two Diagnoses in One Bone Marrow with Megan Nakashima, MD",
+          "channel": "Cleveland Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=WkCuRSNro-I",
+          "duration": "19:34"
+        }
+      ]
+    },
+    {
+      "id": "ch38-u3",
+      "type": "section",
+      "name": "Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions",
+      "ashsapPage": 467,
+      "assessment": "Faced with unexplained persistent hypereosinophilia, can you name the tyrosine kinase fusions that must be excluded, say which of PDGFRA, PDGFRB, FGFR1, JAK2 and FLT3 rearrangements respond to low-dose imatinib and which need a different inhibitor or urgent transplant, and state the test that finds FIP1L1::PDGFRA?",
+      "lesson": {
+        "title": "Biology and Therapy of Eosinophilic MPNs",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=2vEmWEX05kc",
+        "duration": "27:38",
+        "why": "The one session in the pool that works through the biology and drug sensitivity of the eosinophilic myeloid/lymphoid neoplasms fusion by fusion, which is what drives this section's management decisions."
+      },
+      "drills": [
+        {
+          "name": "PDGFRA-rearranged neoplasms",
+          "kind": "mechanism",
+          "title": "Myeloid lymphoid neoplasms with eosinophilia and rearrangement of PDGFRA",
+          "channel": "Abeer Mohammed",
+          "url": "https://www.youtube.com/watch?v=qSKNC44BL1c",
+          "duration": "18:40"
+        },
+        {
+          "name": "FGFR1-rearranged neoplasms",
+          "kind": "mechanism",
+          "title": "Myeloid lymphoid neoplasms with eosinophilia and rearrangement of FGFR1",
+          "channel": "Abeer Mohammed",
+          "url": "https://www.youtube.com/watch?v=EUp_dPC-ZPU",
+          "duration": "9:13"
+        },
+        {
+          "name": "Pemigatinib for the FGFR1-rearranged group",
+          "kind": "trial",
+          "title": "FIGHT-203 trial: pemigatinib in patients with MLNs with FGFR1 rearrangement",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=3p00mKD9tJQ",
+          "duration": "2:19"
+        },
+        {
+          "name": "Diagnostic algorithm for hypereosinophilia",
+          "kind": "clinical",
+          "title": "Diagnostic Algorithms for Eosinophilia and Mastocytosis",
+          "channel": "Mayo Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=YNk3bHhwc_U",
+          "duration": "21:56"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "chapter": "CH46",
+  "title": "T-cell lymphomas",
+  "units": [
+    {
+      "id": "ch46-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 566,
+      "assessment": "Can you say roughly what share of non-Hodgkin lymphomas are of T- or NK-cell origin in Western populations, why that share is higher in Asia, and which T-cell entities behave indolently rather than aggressively?",
+      "lesson": {
+        "title": "Understanding T-cell Lymphoma",
+        "channel": "Lymphoma Research Foundation",
+        "url": "https://www.youtube.com/watch?v=Klnk5qGyyx4",
+        "duration": "11:12",
+        "why": "A current clinician-led overview that lays out how the T-cell lymphomas are grouped and how they differ in behaviour from the far commoner B-cell lymphomas."
+      },
+      "drills": [
+        {
+          "name": "Grand rounds on why this group resists simple classification",
+          "kind": "clinical",
+          "title": "Peripheral T-Cell Lymphomas: Confusion in a Perplexing Disease",
+          "channel": "UWDeptMedicine",
+          "url": "https://www.youtube.com/watch?v=WwfAPn9dd4Y",
+          "duration": "55:09"
+        },
+        {
+          "name": "Where the T-cell phenotype sits in the lymphoma family",
+          "kind": "clinical",
+          "title": "T-Cell Lymphomas as Part of the Lymphoma Family | TCLLF Presentation Part 2",
+          "channel": "T-Cell Leukemia Lymphoma Foundation",
+          "url": "https://www.youtube.com/watch?v=Qbn6H9WKCUs",
+          "duration": "15:16"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u2",
+      "type": "section",
+      "name": "Peripheral T-cell lymphomas",
+      "ashsapPage": 568,
+      "assessment": "For a newly diagnosed CD30-positive systemic anaplastic large cell lymphoma, can you name the regimen that displaced CHOP in the frontline setting, cite the trial behind it, and say how ALK status changes your prognostic estimate?",
+      "lesson": {
+        "title": "How Experts Treat Peripheral T- and NK-cell Lymphomas",
+        "channel": "European Hematology Association",
+        "url": "https://www.youtube.com/watch?v=UdnAfV96_mI",
+        "duration": "29:34",
+        "why": "A 2026 expert session on how peripheral T-cell and NK/T-cell lymphomas are actually treated today, which is the level of currency a frontline-therapy section needs."
+      },
+      "drills": [
+        {
+          "name": "A second expert walk-through of PTCL from diagnosis onward",
+          "kind": "clinical",
+          "title": "T cell lymphomas—navigating the journey from diagnosis to treatment and beyond",
+          "channel": "Penn Medicine",
+          "url": "https://www.youtube.com/watch?v=_jQ0jYGXOqo",
+          "duration": "20:57"
+        },
+        {
+          "name": "Subtype-by-subtype framing of the common PTCLs",
+          "kind": "clinical",
+          "title": "Understanding Peripheral T-Cell Lymphoma with Dr. Pamela Blair Allen",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=cqFXCg1QwYo",
+          "duration": "6:13"
+        },
+        {
+          "name": "Where consolidative autologous transplant fits",
+          "kind": "clinical",
+          "title": "Insights into the treatment of peripheral T-cell lymphomas and the role of autologous transplant",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=XA-2kUFd4JU",
+          "duration": "1:15"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u3",
+      "type": "section",
+      "name": "PTCL of T-follicular helper origin",
+      "ashsapPage": 571,
+      "assessment": "Can you list the immunophenotypic markers that define a T-follicular-helper phenotype, name the three nodal TFH entities recognised in the current classification, and state the recurrent mutations that cluster in this group?",
+      "lesson": {
+        "url": null,
+        "note": "Searched for teaching on angioimmunoblastic and other nodal TFH lymphomas. The pool returned general PTCL talks that never isolate the TFH entities, unrelated DLBCL and exam-mnemonic videos, and one French-language lecture. Nothing in English teaches the TFH immunophenotype (CD10, BCL6, PD-1, CXCL13, ICOS) or the TET2/DNMT3A/IDH2/RHOA mutation pattern, so the core slot is left open rather than filled with a generic PTCL overview."
+      },
+      "drills": [
+        {
+          "name": "Cell of origin and molecular oncogenesis of T-cell lymphoma (lecture in French)",
+          "kind": "mechanism",
+          "title": "Laurence de LEVAL: ORIGINE CELLULAIRE ET ONCOGENÈSE MOLÉCULAIRE DES LYMPHOMES T",
+          "channel": "Académie de Médecine (ARMB)",
+          "url": "https://www.youtube.com/watch?v=jDaR_8vKoQU",
+          "duration": "47:13"
+        },
+        {
+          "name": "How immunohistochemistry assigns lymphoma lineage",
+          "kind": "clinical",
+          "title": "32_Role of Immunohistochemistry in Lymphoma_8th May, 2024",
+          "channel": "Indian Society of Haematology & Blood Transfusion",
+          "url": "https://www.youtube.com/watch?v=4FqjbFWA4N4",
+          "duration": "1:00:56"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u4",
+      "type": "section",
+      "name": "Rare peripheral T-cell lymphomas",
+      "ashsapPage": 572,
+      "assessment": "For relapsed or refractory peripheral T-cell lymphoma, can you name the agents that carry regulatory approval, say which one is restricted to CD30-expressing disease, and explain where transplant is still attempted?",
+      "lesson": {
+        "title": "Rare T-Cell Lymphomas",
+        "channel": "Lymphoma Research Foundation",
+        "url": "https://www.youtube.com/watch?v=kjp58NfTyVk",
+        "duration": "27:01",
+        "why": "Built specifically around the uncommon T-cell entities this section catalogues, and recent enough that the salvage agents it names are still the approved ones."
+      },
+      "drills": [
+        {
+          "name": "Longer session on the uncommon PTCL subtypes",
+          "kind": "clinical",
+          "title": "Peripheral T-Cell Lymphoma Facebook Live: A Rare Disease Day Event",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=bx7DTSKwkjY",
+          "duration": "59:13"
+        },
+        {
+          "name": "2026 expert treatment session covering the same entities",
+          "kind": "clinical",
+          "title": "How Experts Treat Peripheral T- and NK-cell Lymphomas",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=7jFdb2cg0M8",
+          "duration": "29:34"
+        },
+        {
+          "name": "Extended diagnosis-and-management session on PTCL",
+          "kind": "clinical",
+          "title": "Peripheral T-cell lymphoma: Diagnosis and management",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=COBIIPmogoE",
+          "duration": "1:40:58"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u5",
+      "type": "section",
+      "name": "Adult T-cell leukemia/lymphoma",
+      "ashsapPage": 573,
+      "assessment": "Can you describe how HTLV-1 is transmitted, name the four clinical subtypes of adult T-cell leukemia/lymphoma, and say which findings at presentation - lymphocytosis, hypercalcemia, skin lesions - should make you send the serology?",
+      "lesson": {
+        "title": "HTLV-related malignancies: Where do we stand?",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=mds8KrsciDM",
+        "duration": "43:40",
+        "why": "An academic session devoted to HTLV-1-driven malignancy that covers the virology, the ATLL subtypes and how treatment is chosen - the only candidate pitched at clinician level."
+      },
+      "drills": [
+        {
+          "name": "Concise clinical portrait of ATLL",
+          "kind": "clinical",
+          "title": "Adult T-Cell Leukemia / Lymphoma (Chapter 6)",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=gh56BGNIXeU",
+          "duration": "8:04"
+        },
+        {
+          "name": "Anti-CCR4 antibody therapy in relapsed ATLL",
+          "kind": "trial",
+          "title": "New immunotherapy agent—mogamulizumab—holds promise for adult T-cell leukemia-lymphoma patients",
+          "channel": "MDLinx",
+          "url": "https://www.youtube.com/watch?v=MgA2aJ0gtow",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u6",
+      "type": "section",
+      "name": "Extranodal NK-/T-cell lymphoma",
+      "ashsapPage": 574,
+      "assessment": "Can you explain why extranodal NK/T-cell lymphoma is treated with asparaginase-containing, non-anthracycline regimens plus radiotherapy rather than CHOP, and say what circulating EBV DNA is used for in this disease?",
+      "lesson": {
+        "title": "Advances in extranodal natural killer/T-cell lymphoma",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=7mM08eTpsuE",
+        "duration": "8:54",
+        "why": "Focused entirely on extranodal NK/T-cell lymphoma and recent enough to reflect asparaginase-based regimens and checkpoint blockade in the relapsed setting."
+      },
+      "drills": [
+        {
+          "name": "Radiation oncology view of early-stage nasal disease",
+          "kind": "clinical",
+          "title": "Dr. Shunan Qi: NK/T-Cell Lymphoma",
+          "channel": "ILROG Team",
+          "url": "https://www.youtube.com/watch?v=Vs3HOqUizeQ",
+          "duration": "10:32"
+        },
+        {
+          "name": "How radiotherapy is planned and sequenced with chemotherapy",
+          "kind": "clinical",
+          "title": "Dr. Bouthaina Dabaja: Radiation Therapy for NK/T-cell Lymphoma",
+          "channel": "ILROG Team",
+          "url": "https://www.youtube.com/watch?v=LKxOSOPW4Qo",
+          "duration": "6:14"
+        },
+        {
+          "name": "The cutaneous presentation of nasal-type disease",
+          "kind": "clinical",
+          "title": "Rare Variant: Primary Cutaneous Extranodal Natural Killer T-cell Lymphoma, Nasal Type",
+          "channel": "CutaneousLymphomaFnd",
+          "url": "https://www.youtube.com/watch?v=CrogNuv9GYg",
+          "duration": "7:36"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u7",
+      "type": "section",
+      "name": "Hepatosplenic T-cell lymphoma",
+      "ashsapPage": 575,
+      "assessment": "Can you state the host background and immunosuppressive exposures that precede hepatosplenic T-cell lymphoma, its characteristic gamma-delta phenotype and isochromosome 7q, and why splenomegaly without adenopathy is the classic picture?",
+      "lesson": {
+        "title": "Hepatosplenic T-cell lymphoma",
+        "channel": "Society for Hematopathology SH",
+        "url": "https://www.youtube.com/watch?v=NHGZckQZ-X8",
+        "duration": "5:07",
+        "why": "A hematopathology society presentation of hepatosplenic T-cell lymphoma itself, rather than a general talk that mentions it in passing."
+      },
+      "drills": [
+        {
+          "name": "Second case-based review of the same entity",
+          "kind": "clinical",
+          "title": "Hepatosplenic T-cell lymphoma",
+          "channel": "Jack Reid",
+          "url": "https://www.youtube.com/watch?v=5rALl32gClE",
+          "duration": "13:05"
+        },
+        {
+          "name": "Hepatosplenic disease among the other rare PTCLs",
+          "kind": "clinical",
+          "title": "Rare T-Cell Lymphomas",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=kjp58NfTyVk",
+          "duration": "27:01"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u8",
+      "type": "section",
+      "name": "Cutaneous T-cell lymphomas",
+      "ashsapPage": 576,
+      "assessment": "For a patient with patch and plaque mycosis fungoides, can you say how stage decides between skin-directed and systemic therapy, and name the toxicities you must monitor on bexarotene and on mogamulizumab?",
+      "lesson": {
+        "title": "Update on Cutaneous T-Cell Lymphoma | Lymphoma Research Foundation Webinars",
+        "channel": "Lymphoma Research Foundation",
+        "url": "https://www.youtube.com/watch?v=NEYpLbu6gOg",
+        "duration": "59:16",
+        "why": "A 2024 update covering staging, skin-directed options and the current systemic agents including mogamulizumab, which is exactly the ground this section covers."
+      },
+      "drills": [
+        {
+          "name": "Dermatopathology of mycosis fungoides",
+          "kind": "clinical",
+          "title": "Mycosis Fungoides 101 (Cutaneous T-cell Lymphoma CTCL for Dermatopathology Pathology Dermatology)",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=Ls7QHCGZQ2o",
+          "duration": "17:40"
+        },
+        {
+          "name": "Long-form discussion with a CTCL specialist",
+          "kind": "clinical",
+          "title": "Cutaneous T Cell Lymphoma (CTCL) | Dr. Michael Girardi",
+          "channel": "Derm Club Podcast with Dr. Hannah Kopelman",
+          "url": "https://www.youtube.com/watch?v=Fi25ThVT8kY",
+          "duration": "31:49"
+        },
+        {
+          "name": "When transplant is considered in advanced disease",
+          "kind": "clinical",
+          "title": "Role of Stem Cell Transplant in Cutaneous Lymphoma",
+          "channel": "CutaneousLymphomaFnd",
+          "url": "https://www.youtube.com/watch?v=IkzoF-RspGI",
+          "duration": "14:37"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u9",
+      "type": "section",
+      "name": "Primary cutaneous ALCL",
+      "ashsapPage": 578,
+      "assessment": "Can you separate primary cutaneous anaplastic large cell lymphoma from lymphomatoid papulosis and from systemic ALCL that has spread to skin, and explain why that distinction changes treatment intensity so dramatically?",
+      "lesson": {
+        "title": "Anaplastic Large Cell Lymphoma & Lymphomatoid Papulosis: CD30 Positive Lymphoproliferative Disorders",
+        "channel": "Jerad Gardner, MD",
+        "url": "https://www.youtube.com/watch?v=0EYhbcuZZ8o",
+        "duration": "16:37",
+        "why": "Teaches primary cutaneous ALCL and lymphomatoid papulosis together as the CD30-positive lymphoproliferative spectrum, which is the distinction this section turns on."
+      },
+      "drills": [
+        {
+          "name": "Reference-network session on CD30+ skin lymphoproliferations",
+          "kind": "clinical",
+          "title": "EuroBloodNet's Topic on focus: Cutaneous Lymphoma - CD30+lymphoproliferations",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=n-2iIuaQoNk",
+          "duration": "37:15"
+        },
+        {
+          "name": "Teaching episode on cutaneous T-cell lymphoma presentation",
+          "kind": "clinical",
+          "title": "Cutaneous T Cell Lymphoma (CTCL) Episode 1: Presentation and Diagnosis",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=m3Mx5fFfmmI",
+          "duration": "22:22"
+        },
+        {
+          "name": "Short profile of the primary cutaneous ALCL variant",
+          "kind": "clinical",
+          "title": "Rare Variant: Primary Cutaneous Anaplastic Large Cell Lymphoma",
+          "channel": "CutaneousLymphomaFnd",
+          "url": "https://www.youtube.com/watch?v=9eCt_Vob7Js",
+          "duration": "5:56"
+        }
+      ]
+    },
+    {
+      "id": "ch46-u10",
+      "type": "section",
+      "name": "Subcutaneous panniculitis-like T-cell lymphoma",
+      "ashsapPage": 579,
+      "assessment": "Can you describe the rimming of adipocytes that defines subcutaneous panniculitis-like T-cell lymphoma, the alpha-beta T-cell phenotype required for the diagnosis, and how an associated hemophagocytic syndrome changes management?",
+      "lesson": {
+        "title": "Subcutaneous panniculitis-like T-cell lymphoma (alpha beta T-cell lymphoma) pathology histology",
+        "channel": "Jerad Gardner, MD",
+        "url": "https://www.youtube.com/watch?v=_zZ6Da7qhiE",
+        "duration": "8:53",
+        "why": "A dermatopathology walk-through of the exact histology that defines this entity and separates it from the gamma-delta cutaneous lymphomas it is confused with."
+      },
+      "drills": [
+        {
+          "name": "Concise review plus a single-centre case series",
+          "kind": "clinical",
+          "title": "Subcutaneous panniculitis-liked T-cell lymphoma (SPTL): The concise review & CMU experience",
+          "channel": "THANAWAT RATTANATHAMMETHEE",
+          "url": "https://www.youtube.com/watch?v=Nf6ORuLgEzc",
+          "duration": "19:10"
+        },
+        {
+          "name": "Clinical and pathologic features from a dermatologist",
+          "kind": "clinical",
+          "title": "Subcutaneous panniculitis-like T-cell lymphoma",
+          "channel": "Nneka Comfere",
+          "url": "https://www.youtube.com/watch?v=zTM1MBlNwBM",
+          "duration": "9:13"
+        },
+        {
+          "name": "Where SPTCL sits within cutaneous hematopathology",
+          "kind": "mechanism",
+          "title": "Cutaneous Hemepath 101 (Skin Lymphoma, Leukemia, & Histiocytic Infiltrate Basics) Hematopathology",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=qT2-Q5njPGA",
+          "duration": "1:12:52"
+        }
+      ]
+    }
+  ]
+}

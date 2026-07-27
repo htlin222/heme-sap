@@ -1,0 +1,366 @@
+{
+  "chapter": "CH16",
+  "title": "Atypical-site thrombosis",
+  "units": [
+    {
+      "id": "ch16-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 190,
+      "assessment": "Can you explain why almost all treatment of thrombosis at unusual sites is extrapolated from limb DVT trials, and say which patients with an atypical-site clot deserve a hypercoagulability and myeloproliferative neoplasm workup?",
+      "lesson": {
+        "title": "12  Hasanain Alshakerchi   Unusual Site Thrombosis",
+        "channel": "Emirates Society of Internal medicine",
+        "url": "https://www.youtube.com/watch?v=8uiyMjgWx0Q",
+        "duration": "22:00",
+        "why": "A focused internal-medicine talk that takes unusual-site thrombosis as a category - why the evidence is thin, how to work these patients up, and how anticoagulation is chosen."
+      },
+      "drills": [
+        {
+          "name": "Treat as usual, or not?",
+          "kind": "clinical",
+          "title": "Unusual site thrombosis - To treat as usual or not?",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=XCmUP4hsVbo",
+          "duration": "2:20:56"
+        },
+        {
+          "name": "Thrombosis in rare syndromes",
+          "kind": "clinical",
+          "title": "Thrombosis and Rare Syndromes",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=3J0vgyV4Cno",
+          "duration": "1:36:59"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u2",
+      "type": "section",
+      "name": "Upper-extremity DVT",
+      "ashsapPage": 191,
+      "assessment": "Can you distinguish catheter-related from effort-related (Paget-Schroetter) upper-extremity DVT, and state whether the catheter comes out, whether thrombolysis or first-rib resection is considered, and how long anticoagulation runs?",
+      "lesson": {
+        "title": "AVF Care of Patients with Upper Extremity Deep Venous Thrombosis 2026 Guideline– Key Recommendations",
+        "channel": "Guideline Central",
+        "url": "https://www.youtube.com/watch?v=FieGTfORRPE",
+        "duration": "7:07",
+        "why": "A summary of the American Venous Forum's guideline on upper-extremity deep venous thrombosis, which answers the questions this section poses directly: what to do with the catheter, when thrombolysis and thoracic outlet decompression are considered, and how long anticoagulation continues in each setting."
+      },
+      "drills": [
+        {
+          "name": "Imaging appearance and diagnosis of UEDVT",
+          "kind": "clinical",
+          "title": "Upper Extremity Venous Thrombosis",
+          "channel": "Radiology Video - radiology made esay",
+          "url": "https://www.youtube.com/watch?v=5o0J3myBaG4",
+          "duration": "29:55"
+        },
+        {
+          "name": "Lysis and first-rib decompression in Paget-Schroetter",
+          "kind": "clinical",
+          "title": "Lysis and Early Decompression For Venous Thoracic Outlet Syndrome",
+          "channel": "SVS Vascular",
+          "url": "https://www.youtube.com/watch?v=R4L4o1vL-ek",
+          "duration": "6:21"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u3",
+      "type": "section",
+      "name": "Hepatic vein thrombosis / Budd-Chiari syndrome",
+      "ashsapPage": 192,
+      "assessment": "Can you list how Budd-Chiari syndrome presents including its fulminant form, name the underlying conditions to screen for (above all a JAK2-mutated myeloproliferative neoplasm), and lay out the escalation from anticoagulation to angioplasty, TIPS and transplant?",
+      "lesson": {
+        "title": "Budd-Chiari syndrome, Portal vein thrombosis, hepatic veno-occlusive disease, Congestive hepatopathy",
+        "channel": "Core Concepts in Medicine",
+        "url": "https://www.youtube.com/watch?v=tRavvblMRrs",
+        "duration": "7:44",
+        "why": "A compact clinical review that puts Budd-Chiari alongside portal vein thrombosis and sinusoidal obstruction syndrome, which is exactly the discrimination this section demands."
+      },
+      "drills": [
+        {
+          "name": "Hepatic vascular emergencies on imaging",
+          "kind": "clinical",
+          "title": "Hepatic Vascular Emergencies | Interesting Radiology Cases",
+          "channel": "vRad Radiology Education",
+          "url": "https://www.youtube.com/watch?v=ZFFh6_KRgNw",
+          "duration": "14:03"
+        },
+        {
+          "name": "Splanchnic thrombosis and the MPN link",
+          "kind": "clinical",
+          "title": "Splanchnic Vein Thrombosis and MPN: Diagnosis and Therapy",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=uwk-qkQTHb8",
+          "duration": "22:18"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u4",
+      "type": "section",
+      "name": "Portal vein thrombosis",
+      "ashsapPage": 193,
+      "assessment": "In a cirrhotic patient found to have portal vein thrombosis, can you say what you would screen for before starting anticoagulation, how a baseline prolonged INR should and should not change your reasoning, and which DOACs are off the table by Child-Pugh class?",
+      "lesson": {
+        "title": "Medicine Grand Rounds: Portal Vein Thrombosis: Diagnosis and Management",
+        "channel": "EVMS Medicine",
+        "url": "https://www.youtube.com/watch?v=W1FmhjtXses",
+        "duration": "58:52",
+        "why": "A full grand-rounds hour on the diagnosis and management of portal vein thrombosis, covering the cirrhotic and non-cirrhotic patient separately."
+      },
+      "drills": [
+        {
+          "name": "Anticoagulate or not: both sides argued",
+          "kind": "clinical",
+          "title": "Anticoagulation for Portal Vein Thrombosis: Pros and Cons",
+          "channel": "University of California Television (UCTV)",
+          "url": "https://www.youtube.com/watch?v=A9aYXHoZEvQ",
+          "duration": "50:22"
+        },
+        {
+          "name": "Interventional management of acute PVT",
+          "kind": "clinical",
+          "title": "Treatment of Acute Portal Vein Thrombosis w/ Dr. Ben May | BackTable Podcast Ep. 541",
+          "channel": "BackTable Vascular & Interventional",
+          "url": "https://www.youtube.com/watch?v=DnDY9kdAvPk",
+          "duration": "51:50"
+        },
+        {
+          "name": "PVT complicated by HIT: a worked case",
+          "kind": "clinical",
+          "title": "Presentation #3: Case 3 - Portal Vein Thrombosis and HIT (Thomas L. Ortel, MD, PhD)",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=JvMEA0Fo-fk",
+          "duration": "32:01"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u5",
+      "type": "section",
+      "name": "Mesenteric vein thrombosis",
+      "ashsapPage": 194,
+      "assessment": "Can you recognise mesenteric venous thrombosis from its presentation and CT findings, name its usual provocations, and identify the single finding that converts this from an anticoagulation problem into an immediate surgical one?",
+      "lesson": {
+        "title": "Mesenteric Venous Thrombosis: A Narrative Review",
+        "channel": "Mayo Proceedings",
+        "url": "https://www.youtube.com/watch?v=8LNZkmV7JD8",
+        "duration": "4:46",
+        "why": "A Mayo Clinic Proceedings author summary of a narrative review on mesenteric venous thrombosis - short, authoritative and precisely scoped to this section."
+      },
+      "drills": [
+        {
+          "name": "Vascular-surgery perspective on management",
+          "kind": "clinical",
+          "title": "Rutherford's 137: Mesenteric Venous Thrombosis",
+          "channel": "Dr Gregory Weir: Vascular, Hyperbaric, Wound Care",
+          "url": "https://www.youtube.com/watch?v=ORXHKU5dAoc",
+          "duration": "20:44"
+        },
+        {
+          "name": "Portal and mesenteric venous thrombosis together",
+          "kind": "clinical",
+          "title": "Portal and Mesenteric Venous Thrombosis",
+          "channel": "CLD AASLD Journal",
+          "url": "https://www.youtube.com/watch?v=xj6nCjzbF0Q",
+          "duration": "6:53"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u6",
+      "type": "section",
+      "name": "Splenic vein thrombosis",
+      "ashsapPage": 195,
+      "assessment": "Can you explain how isolated splenic vein thrombosis produces left-sided (sinistral) portal hypertension with isolated gastric varices, and state the circumstance in which splenectomy rather than anticoagulation is the correct answer?",
+      "lesson": {
+        "title": "Chronic pancreatitis with splenic vein thrombosis: to do or not to do splenectomy |  Dr  H Nag",
+        "channel": "PANCREAS 2025",
+        "url": "https://www.youtube.com/watch?v=FCNuLaK-hdI",
+        "duration": "13:40",
+        "why": "The only candidate that engages the actual management controversy in isolated splenic vein thrombosis - pancreatic disease as the cause, and whether to operate."
+      },
+      "drills": [
+        {
+          "name": "Ultrasound of splenic vein thrombosis with varices",
+          "kind": "clinical",
+          "title": "Spleenic vein thrombosis with spleenic varices",
+          "channel": "Dr Jayesh Dabhi Ultrasound Training",
+          "url": "https://www.youtube.com/watch?v=G28IQq5Ww6M",
+          "duration": "6:59"
+        },
+        {
+          "name": "Splanchnic vein thrombosis in myeloproliferative neoplasms",
+          "kind": "clinical",
+          "title": "Splanchnic Vein Thrombosis in Myeloproliferative Neoplasms",
+          "channel": "Icahn School of Medicine",
+          "url": "https://www.youtube.com/watch?v=n2vFiEygwBI",
+          "duration": "55:00"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u7",
+      "type": "section",
+      "name": "Cerebral vein and venous sinus thrombosis",
+      "ashsapPage": 195,
+      "assessment": "Can you list the sex-specific risk factors for cerebral vein and venous sinus thrombosis, justify anticoagulating a patient who already has haemorrhagic venous infarction, and say what the randomized DOAC data in this setting do and do not show?",
+      "lesson": {
+        "title": "Anticoagulant Treatment of Cerebral Venous Thrombosis – Where are we in 2022?",
+        "channel": "Anticoagulation Forum",
+        "url": "https://www.youtube.com/watch?v=nG4dFYahjy8",
+        "duration": "59:00",
+        "why": "An Anticoagulation Forum session dedicated to how cerebral venous thrombosis is anticoagulated, including the haemorrhage question and where DOACs now sit."
+      },
+      "drills": [
+        {
+          "name": "Diagnosis and management end to end",
+          "kind": "clinical",
+          "title": "Diagnosis and Management of Cerebral Venous Thrombosis",
+          "channel": "The Neurophile (by Rutgers RWJMS Neurology)",
+          "url": "https://www.youtube.com/watch?v=iQsXCqL_OeM",
+          "duration": "43:31"
+        },
+        {
+          "name": "Concise CVT overview",
+          "kind": "clinical",
+          "title": "Cerebral Venous Thrombosis | Gregory Piazza, MD, MS",
+          "channel": "Vasculearn Network",
+          "url": "https://www.youtube.com/watch?v=8ggrIt5wc9g",
+          "duration": "15:53"
+        },
+        {
+          "name": "SECRET: rivaroxaban for CVT",
+          "kind": "trial",
+          "title": "SECRET trial: rivaroxaban for cerebral venous thrombosis",
+          "channel": "VJNeurology",
+          "url": "https://www.youtube.com/watch?v=BpFEnvFu13U",
+          "duration": "6:22"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u8",
+      "type": "section",
+      "name": "Renal vein thrombosis",
+      "ashsapPage": 196,
+      "assessment": "Can you name the conditions that predispose to renal vein thrombosis - nephrotic syndrome and especially membranous nephropathy, renal cell carcinoma with tumour thrombus, neonatal dehydration - and describe how it is diagnosed and treated?",
+      "lesson": {
+        "title": "ANTICOAGULATION IN NEPHROTIC SYNDROME / KDIGO 2021 GUIDELINES",
+        "channel": "Dr Manoj Prabhakaran MD DM",
+        "url": "https://www.youtube.com/watch?v=l6996AyDUMY",
+        "duration": "7:22",
+        "why": "A nephrologist works through the KDIGO position on anticoagulating nephrotic syndrome - which histology and which albumin level make renal vein thrombosis likely enough to treat or prevent - which is the decision that dominates management of this site."
+      },
+      "drills": [
+        {
+          "name": "Renal vascular emergencies on imaging",
+          "kind": "clinical",
+          "title": "Renal Vascular Emergencies  | Interesting Radiology Cases",
+          "channel": "vRad Radiology Education",
+          "url": "https://www.youtube.com/watch?v=7Xm7YTYXq-8",
+          "duration": "13:13"
+        },
+        {
+          "name": "Anticoagulant choice when the kidney is failing",
+          "kind": "clinical",
+          "title": "DOACs and Kidney Dysfunction",
+          "channel": "Anticoagulation Forum",
+          "url": "https://www.youtube.com/watch?v=SMsP6uIWNYA",
+          "duration": "1:01:24"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u9",
+      "type": "section",
+      "name": "Gonadal vein thrombosis",
+      "ashsapPage": 197,
+      "assessment": "Can you describe how postpartum ovarian vein thrombophlebitis presents, how it is imaged and distinguished from appendicitis or tubo-ovarian abscess, and why treatment usually pairs anticoagulation with antibiotics?",
+      "lesson": {
+        "title": "Ovarian Vein Thrombosis in Postpartum (POVT) | TOG Article | MRCOG Part 2 + Part 3 OSCE",
+        "channel": "Prof. Mahesh Asalkar",
+        "url": "https://www.youtube.com/watch?v=tvFrbrfkGqE",
+        "duration": "20:30",
+        "why": "A journal-article review devoted to postpartum ovarian vein thrombosis: how the fever-plus-flank-pain presentation is separated from appendicitis and tubo-ovarian abscess, what imaging is chosen, and why treatment usually combines antibiotics with anticoagulation."
+      },
+      "drills": [
+        {
+          "name": "Ovarian vein thrombosis on ultrasound",
+          "kind": "clinical",
+          "title": "Ovarian Vein Thrombosis on ultrasound Imaging",
+          "channel": "Ultrasound & Radiology Teaching ",
+          "url": "https://www.youtube.com/watch?v=otvq3ajypic",
+          "duration": "15:02"
+        },
+        {
+          "name": "Ovarian vein thrombophlebitis in pregnancy: a case",
+          "kind": "clinical",
+          "title": "Ultrasound Case 187 - Pregnant with Ovarian Vein Thrombophlebitis",
+          "channel": "Dr.Ismail Sayed Ismail",
+          "url": "https://www.youtube.com/watch?v=xkXX6Y33UXI",
+          "duration": "21:11"
+        },
+        {
+          "name": "Anticoagulation around pregnancy",
+          "kind": "clinical",
+          "title": "VTE Pregnancy Interview",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=eoO1M5OBV_E",
+          "duration": "4:50"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u10",
+      "type": "section",
+      "name": "Retinal vein thrombosis",
+      "ashsapPage": 197,
+      "assessment": "Can you say what systemic evaluation a patient with retinal vein occlusion actually needs - blood pressure, glucose, lipids, and in the young an antiphospholipid screen - and explain why routine inherited-thrombophilia testing is not part of it?",
+      "lesson": {
+        "title": "Lecture: Retinal Vein Occlusion: Dr David Miller",
+        "channel": "Cybersight",
+        "url": "https://www.youtube.com/watch?v=wnu8PVftoME",
+        "duration": "28:51",
+        "why": "A clinician-facing ophthalmology lecture covering classification, natural history and current anti-VEGF and laser management of retinal vein occlusion."
+      },
+      "drills": [
+        {
+          "name": "Current treatment paradigms in RVO",
+          "kind": "clinical",
+          "title": "New Paradigms for Treatment and Management of Retinal Vein Occlusion (RVO)",
+          "channel": "MedNet Meetings",
+          "url": "https://www.youtube.com/watch?v=3ddQwycDbLo",
+          "duration": "1:27:56"
+        }
+      ]
+    },
+    {
+      "id": "ch16-u11",
+      "type": "section",
+      "name": "Arterial thromboembolism",
+      "ashsapPage": 198,
+      "assessment": "Faced with arterial thrombosis that atherosclerosis does not explain, can you run a systematic differential - antiphospholipid syndrome, paradoxical embolism, myeloproliferative neoplasm, vasculitis, cardiac source, malignancy - and name the test that settles each?",
+      "lesson": {
+        "title": "Unexplained Arterial Thrombosis: Approach to Diagnosis and Treatment",
+        "channel": "Anticoagulation Forum",
+        "url": "https://www.youtube.com/watch?v=dgm8aQUtiEc",
+        "duration": "58:42",
+        "why": "An Anticoagulation Forum talk built around exactly this problem: a structured diagnostic approach to arterial thrombosis without an obvious cause, and how treatment follows the answer."
+      },
+      "drills": [
+        {
+          "name": "Pathogenesis and epidemiology of arterial thrombosis",
+          "kind": "mechanism",
+          "title": "ISTH Academy Presentation: Arterial Thrombosis, Pathogenesis, Epidemiology",
+          "channel": "ISTH",
+          "url": "https://www.youtube.com/watch?v=1f_StxtIwMo",
+          "duration": "38:26"
+        }
+      ]
+    }
+  ]
+}

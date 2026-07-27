@@ -1,0 +1,209 @@
+{
+  "chapter": "CH9",
+  "title": "Anemia in the setting of organ insult, systemic disease, and aging",
+  "units": [
+    {
+      "id": "ch9-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 98,
+      "assessment": "Can you name the organ-failure states in which anemia is common and say which mechanism dominates in each — erythropoietin deficit, inflammatory iron restriction, blood loss, or shortened red cell survival?",
+      "lesson": {
+        "url": null,
+        "note": "Candidates were introductory lab-science and USMLE-style overviews of anemia in general, plus one lecture on neurologic manifestations of hematologic disease; nothing frames anemia as a comorbidity of organ failure and systemic disease, which is what this introduction sets up."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch9-u2",
+      "type": "section",
+      "name": "Anemia in chronic kidney disease",
+      "ashsapPage": 98,
+      "assessment": "Can you state the hemoglobin range an ESA should target in CKD, name the iron parameters checked before escalating dose, and explain how HIF-prolyl hydroxylase inhibitors differ from ESAs mechanistically and in cardiovascular safety?",
+      "lesson": {
+        "title": "New Treatment Strategies for Anemia in Chronic Kidney Disease: Where Do They Fit?",
+        "channel": "Medscape",
+        "url": "https://www.youtube.com/watch?v=VNJVQRXxtNw",
+        "duration": "28:04",
+        "why": "The most current candidate: it positions the HIF-prolyl hydroxylase inhibitors against conventional ESAs and iron, which is where practice in anemia of CKD has actually changed."
+      },
+      "drills": [
+        {
+          "name": "Guideline body on the new paradigm",
+          "kind": "trial",
+          "title": "KDIGO Optimal Anemia Management in CKD: A New Paradigm in Treatment?",
+          "channel": "KDIGO",
+          "url": "https://www.youtube.com/watch?v=IwnokvS467M",
+          "duration": "56:07"
+        },
+        {
+          "name": "KDIGO conference on anemia targets",
+          "kind": "clinical",
+          "title": "KDIGO Anemia in Chronic Kidney Disease",
+          "channel": "KDIGO",
+          "url": "https://www.youtube.com/watch?v=Wf4OwUUPiDU",
+          "duration": "31:07"
+        },
+        {
+          "name": "Consequences of undertreating",
+          "kind": "clinical",
+          "title": "Anemia of CKD: Consequences of Missing the Boat",
+          "channel": "Medscape",
+          "url": "https://www.youtube.com/watch?v=U7LzQpKaCZ4",
+          "duration": "15:08"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u3",
+      "type": "section",
+      "name": "Anemia in heart failure",
+      "ashsapPage": 100,
+      "assessment": "How is functional iron deficiency defined in heart failure, and what did the intravenous iron trials show for symptoms, quality of life, hospitalization and mortality — and why did oral iron fail?",
+      "lesson": {
+        "title": "Iron Deficiency in Heart Failure: Why, When, and How to Treat",
+        "channel": "St. Michael's Hospital Cardiology Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=5M_iGa5c814",
+        "duration": "27:29",
+        "why": "A cardiology grand rounds structured exactly as this section is: why iron matters in heart failure, whom to test, what the ferritin and saturation thresholds are, and how to dose intravenous iron."
+      },
+      "drills": [
+        {
+          "name": "Longer CME on the same question",
+          "kind": "clinical",
+          "title": "Demystifying Diagnosis and Treatment of Iron Deficiency in Heart Failure",
+          "channel": "Medscape",
+          "url": "https://www.youtube.com/watch?v=X5nkTA1pylM",
+          "duration": "1:07:58"
+        },
+        {
+          "name": "Trialist's summary of the evidence",
+          "kind": "trial",
+          "title": "Iron deficiency in patients with heart failure - Prof Ewa Jankowska",
+          "channel": "Cardio Debate",
+          "url": "https://www.youtube.com/watch?v=_2bXhxg9WD0",
+          "duration": "5:50"
+        },
+        {
+          "name": "Heart failure congress session",
+          "kind": "clinical",
+          "title": "Anemia and Heart Failure",
+          "channel": "World Heart Failure Congress",
+          "url": "https://www.youtube.com/watch?v=jM2aV7ON_uI",
+          "duration": "23:27"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u4",
+      "type": "section",
+      "name": "Anemia in cancer",
+      "ashsapPage": 100,
+      "assessment": "Can you decide when a patient with chemotherapy-induced anemia should receive intravenous iron, an ESA, or transfusion, and state the restrictions on ESA use during curative-intent treatment?",
+      "lesson": {
+        "title": "WATCH NOW - Infusing Renewed Hope into Cancer-related Anemia with Intravenous Iron",
+        "channel": "CE Concepts",
+        "url": "https://www.youtube.com/watch?v=M7O5m5rkhOw",
+        "duration": "45:36",
+        "why": "An accredited session on cancer-related anemia that works through functional iron deficiency during chemotherapy, when intravenous iron alone corrects the anemia, and where erythropoiesis-stimulating agents and transfusion still belong."
+      },
+      "drills": [
+        {
+          "name": "Anemia and thrombocytopenia in oncology practice",
+          "kind": "clinical",
+          "title": "AnemAnemia and Thrombocytopenia Basics - N. Vogler - 20240619",
+          "channel": "UNC Lineberger Cancer Network",
+          "url": "https://www.youtube.com/watch?v=jHe_bQP5rUQ",
+          "duration": "1:03:39"
+        },
+        {
+          "name": "Preoperative anemia in a solid tumour",
+          "kind": "clinical",
+          "title": "A Practical Approach to Better Address Anemia in Gynecologic Oncology",
+          "channel": "Breakthroughs for Physicians",
+          "url": "https://www.youtube.com/watch?v=CI3SPJFiDhk",
+          "duration": "4:07"
+        },
+        {
+          "name": "A guideline author on where the field is going",
+          "kind": "clinical",
+          "title": "Matti Aapro, MD: Emerging Topics in Anemia and Cancer",
+          "channel": "Vital Options International",
+          "url": "https://www.youtube.com/watch?v=0amKZFMTqxo",
+          "duration": "4:56"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u5",
+      "type": "section",
+      "name": "Anemia in liver and gastrointestinal diseases",
+      "ashsapPage": 100,
+      "assessment": "Can you explain why cirrhosis produces anemia through several simultaneous mechanisms, and list the gastrointestinal diagnoses that must be excluded once iron deficiency is found in an adult?",
+      "lesson": {
+        "title": "Gastrointestinal Disorders & Anemia",
+        "channel": "Medtalks",
+        "url": "https://www.youtube.com/watch?v=lXNu2jAcwqo",
+        "duration": "45:53",
+        "why": "A specialist CME talk on anemia arising from gastrointestinal disease — bleeding, malabsorption, inflammation and post-bariatric deficiency — which is the bulk of this section."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch9-u6",
+      "type": "section",
+      "name": "Anemia in chronic pulmonary pathologies",
+      "ashsapPage": 103,
+      "assessment": "Why is anemia rather than secondary polycythemia common in COPD, and what prognostic weight do anemia and a raised red cell distribution width carry in that population?",
+      "lesson": {
+        "title": "Advanced Pulmonology Clinic | Anemia : Thinking beyond the usual",
+        "channel": "IAP National Respiratory Chapter",
+        "url": "https://www.youtube.com/watch?v=S0qRc5kOOms",
+        "duration": "1:04:10",
+        "why": "A pulmonology clinical session devoted to anemia in lung disease, which is the only candidate that treats it as a comorbidity of chronic respiratory illness rather than a general anemia topic."
+      },
+      "drills": [
+        {
+          "name": "Data from severe COPD exacerbations",
+          "kind": "trial",
+          "title": "Anemia in severe COPD exacerbation - Video Abstract 111758",
+          "channel": "Dove Medical Press",
+          "url": "https://www.youtube.com/watch?v=oVAe-g0XUVA",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u7",
+      "type": "section",
+      "name": "Anemia in the elderly",
+      "ashsapPage": 103,
+      "assessment": "In an older adult with anemia, can you name the roughly one-third of cases that stay unexplained after workup, and describe how nutritional, renal and clonal marrow causes are excluded before that label is applied?",
+      "lesson": {
+        "title": "Anemia in the Elderly",
+        "channel": "Medtalks",
+        "url": "https://www.youtube.com/watch?v=MZR33liNJ9o",
+        "duration": "42:25",
+        "why": "A dedicated specialist lecture on anemia in older adults covering the nutritional, renal, inflammatory and unexplained categories and how they are separated."
+      },
+      "drills": [
+        {
+          "name": "Second full lecture on the same topic",
+          "kind": "clinical",
+          "title": "Anemia in the Elderly by Dr. Cecilia Acuin",
+          "channel": "Mu Sigma Phi Sorority Webinars ",
+          "url": "https://www.youtube.com/watch?v=JFF0U8LVezw",
+          "duration": "57:56"
+        },
+        {
+          "name": "Transfusion decisions in older patients",
+          "kind": "clinical",
+          "title": "Managing Anaemia in the Elderly Trauma Patient: South West RTC Education Event",
+          "channel": "Patient Blood Management England",
+          "url": "https://www.youtube.com/watch?v=ItEPaCBMQSk",
+          "duration": "27:08"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "chapter": "CH10",
+  "title": "Thalassemia syndromes and other hemoglobinopathies",
+  "units": [
+    {
+      "id": "ch10-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 106,
+      "assessment": "Can you explain why an imbalance between alpha- and beta-globin chain synthesis produces both ineffective erythropoiesis inside the marrow and hemolysis in the circulation, and which unpaired chain is more toxic to red cell precursors?",
+      "lesson": {
+        "title": "Thalassemias",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=KQK7yBjYoUg",
+        "duration": "6:08",
+        "why": "A compact, laboratory-oriented orientation to what the thalassemias are before the chapter moves into genotypes and clinical severity."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch10-u2",
+      "type": "section",
+      "name": "Alpha and beta thalassemia",
+      "ashsapPage": 108,
+      "assessment": "Can you predict phenotype from genotype: how many of the four alpha genes must be lost before disease appears, and what pattern of HbA2 and HbF quantitation would you expect in beta-thalassemia trait?",
+      "lesson": {
+        "title": "Thalassaemia 1/2 | Haematology FRCPath Part 1 Masterclass series (Week 4) | Part 1/2",
+        "channel": "ClinHaem: Haematology Demystified",
+        "url": "https://www.youtube.com/watch?v=ZkcrV8sJMPg",
+        "duration": "1:15:33",
+        "why": "A haematology-trainee masterclass that works through alpha- and beta-globin genetics, gene dosage and the resulting laboratory phenotypes at the level a fellow needs."
+      },
+      "drills": [
+        {
+          "name": "Trait vs iron deficiency",
+          "kind": "clinical",
+          "title": "Beta-Thalassemia Trait Vs Iron Deficiency Anemia || Back to Basics || Dr. Shonali Chandra",
+          "channel": "MEDICINE DECODED",
+          "url": "https://www.youtube.com/watch?v=EJ_0Ryt3i8M",
+          "duration": "21:34"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u3",
+      "type": "section",
+      "name": "Clinical (phenotypic) classification of thalassemia (α and β)",
+      "ashsapPage": 111,
+      "assessment": "Can you separate transfusion-dependent from non-transfusion-dependent thalassemia at the bedside, and state what would make you reclassify a previously non-transfusion-dependent patient as transfusion dependent over time?",
+      "lesson": {
+        "title": "Dr. Sheth- CME/CE Beta-Thalassemia Webinar",
+        "channel": "Plexus Communications",
+        "url": "https://www.youtube.com/watch?v=KmyEv40bD-8",
+        "duration": "1:10:13",
+        "why": "A full CME webinar on beta-thalassemia that walks the severity spectrum from trait through intermedia to major, which is exactly the phenotypic classification this section teaches."
+      },
+      "drills": [
+        {
+          "name": "Newborn screening perspective",
+          "kind": "clinical",
+          "title": "Newborn screening for Thalassaemia and hemoglobinopathies",
+          "channel": "ATGenes",
+          "url": "https://www.youtube.com/watch?v=oBXxhQnKumE",
+          "duration": "35:57"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u4",
+      "type": "section",
+      "name": "Treatment approaches for thalassemia",
+      "ashsapPage": 113,
+      "assessment": "Can you outline when chronic transfusion should begin, what pretransfusion hemoglobin target you would aim for, and which patients you would send for transplant or gene therapy rather than lifelong chelation?",
+      "lesson": {
+        "title": "Thalassaemia (2/2) | Haematology FRCPath Part 1 Masterclass series (Week 4)",
+        "channel": "ClinHaem: Haematology Demystified",
+        "url": "https://www.youtube.com/watch?v=_vAjI5zNfSc",
+        "duration": "46:11",
+        "why": "The management half of a haematology trainee masterclass on thalassaemia: transfusion strategy, chelation and the decision points around definitive therapy."
+      },
+      "drills": [
+        {
+          "name": "Novel agents overview",
+          "kind": "clinical",
+          "title": "Overview & Novel Therapies: Thalassemia, and Other Inherited Anemias",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=I0v7GSoNrk8",
+          "duration": "20:54"
+        },
+        {
+          "name": "Transplant and curative options",
+          "kind": "clinical",
+          "title": "Bone Marrow Transplantation and Other Curative Approaches in Thalassemia",
+          "channel": "Cooley's Anemia Foundation",
+          "url": "https://www.youtube.com/watch?v=80eBHjx-7qs",
+          "duration": "58:24"
+        },
+        {
+          "name": "Gene therapy state of play",
+          "kind": "trial",
+          "title": "2026 Best of Hematology: Gene Therapy/Novel Approaches in Sickle Cell & Thalassemia - Dr Liz Traxler",
+          "channel": "Total Health Oncology",
+          "url": "https://www.youtube.com/watch?v=2EMTGEmvOCM",
+          "duration": "34:24"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u5",
+      "type": "section",
+      "name": "Complications",
+      "ashsapPage": 116,
+      "assessment": "Can you name which complications are driven by transfusional iron overload in TDT versus which arise from ineffective erythropoiesis, extramedullary hematopoiesis and hypercoagulability in NTDT?",
+      "lesson": {
+        "title": "eThalED Webinar Series: Heart Disease in Thalassaemia with Prof. Malcolm Walker",
+        "channel": "Thalassaemia TIF",
+        "url": "https://www.youtube.com/watch?v=LzvbvVQu32U",
+        "duration": "1:15:44",
+        "why": "Cardiac disease is the complication that most often kills thalassemia patients, and this clinician-directed session covers its mechanism, detection and management in detail."
+      },
+      "drills": [
+        {
+          "name": "Endocrine and bone disease",
+          "kind": "clinical",
+          "title": "Endocrinopathies & Bone Disease in Thalassaemia (1-Hour Education Session 06/03/23)",
+          "channel": "HCC NW Sickle Cell and North Thalassaemia & RIA",
+          "url": "https://www.youtube.com/watch?v=cXdlTJI7-M4",
+          "duration": "1:01:21"
+        },
+        {
+          "name": "Acute complications and the emergency presentation",
+          "kind": "clinical",
+          "title": "Webinar: Thalassemia in the ER - Key information for medical care providers",
+          "channel": "Cooley's Anemia Foundation",
+          "url": "https://www.youtube.com/watch?v=AdW4KeqmVNc",
+          "duration": "51:15"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u6",
+      "type": "section",
+      "name": "Regular disease and complication monitoring in thalassemia",
+      "ashsapPage": 117,
+      "assessment": "Can you state which modality you would use to quantify cardiac and hepatic iron, how often you would repeat it, and what thresholds would make you intensify or change chelation?",
+      "lesson": {
+        "title": "eThalED Webinar Series: Iron Monitoring in Thalassaemia with Dr Paul Telfer",
+        "channel": "Thalassaemia TIF",
+        "url": "https://www.youtube.com/watch?v=liAVamuUzic",
+        "duration": "1:11:34",
+        "why": "A dedicated expert webinar on how iron burden is actually monitored in thalassaemia, which is the whole content of this surveillance section."
+      },
+      "drills": [
+        {
+          "name": "Monitoring and chelation practice",
+          "kind": "clinical",
+          "title": "Monitoring & Iron Chelation Therapy', Dr Sadasivam, MRI (1-Hour Education Session 24/01/22)",
+          "channel": "HCC NW Sickle Cell and North Thalassaemia & RIA",
+          "url": "https://www.youtube.com/watch?v=8vPl2L3OWT4",
+          "duration": "1:07:17"
+        },
+        {
+          "name": "Cardiac iron surveillance",
+          "kind": "clinical",
+          "title": "Webinar:  The Heart in Thalassemia",
+          "channel": "Cooley's Anemia Foundation",
+          "url": "https://www.youtube.com/watch?v=c10oN2Mug5s",
+          "duration": "58:51"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u7",
+      "type": "section",
+      "name": "Novel therapies",
+      "ashsapPage": 118,
+      "assessment": "Can you explain how luspatercept acts differently from transfusion or chelation, and say which thalassemia patients are candidates for gene addition or gene editing with today's approvals?",
+      "lesson": {
+        "title": "Overview: Novel Therapies in Thalassemia",
+        "channel": "Cooley's Anemia Foundation",
+        "url": "https://www.youtube.com/watch?v=XAHujwAgC4k",
+        "duration": "47:41",
+        "why": "A dedicated overview of the agents that have entered thalassemia care recently, delivered by thalassemia specialists rather than as a product summary."
+      },
+      "drills": [
+        {
+          "name": "ASH 2023 thalassemia highlights",
+          "kind": "trial",
+          "title": "Thalassemia highlights at ASH 2023: novel therapies, trial updates & the value of precision medicine",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=95gG2hQZbfQ",
+          "duration": "11:42"
+        },
+        {
+          "name": "Gene therapy in hemoglobinopathies",
+          "kind": "clinical",
+          "title": "Gene therapy in hemoglobinopathies",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=sOYvldYhf5I",
+          "duration": "50:21"
+        },
+        {
+          "name": "HbF induction with CRISPR",
+          "kind": "mechanism",
+          "title": "Induction of HbF to Treat β-hemoglobinopathies- Bringing CRISPR to the Clinic - Tony Ho",
+          "channel": "ASGCT",
+          "url": "https://www.youtube.com/watch?v=x1V_nr28qoQ",
+          "duration": "23:53"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u8",
+      "type": "section",
+      "name": "Other hemoglobinopathies",
+      "ashsapPage": 119,
+      "assessment": "Can you describe how HPLC and electrophoresis separate HbE, HbD and HbC from HbS, and explain why compound heterozygous HbE/beta-thalassemia behaves as a thalassemia intermedia syndrome?",
+      "lesson": {
+        "title": "Thalassemia and Hemoglobinopathies Testing by HPLC",
+        "channel": "Bio-Rad Diagnostics",
+        "url": "https://www.youtube.com/watch?v=dJqeWgV2akg",
+        "duration": "45:08",
+        "why": "A methods-level walkthrough of how the laboratory actually resolves the common structural hemoglobin variants, including the traps in interpreting an HPLC chromatogram."
+      },
+      "drills": [
+        {
+          "name": "Genetic counselling",
+          "kind": "clinical",
+          "title": "Genetic Counseling in Hemoglobinopathies",
+          "channel": "Australian Sickle Cell Advocacy ASCA",
+          "url": "https://www.youtube.com/watch?v=S8l3FcXEzHY",
+          "duration": "29:13"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u9",
+      "type": "section",
+      "name": "Hemoglobin C",
+      "ashsapPage": 120,
+      "assessment": "Can you say what the blood film shows in HbC disease and in HbSC disease, and how the course of HbSC differs from HbSS with respect to hemoglobin level, splenic function and proliferative retinopathy?",
+      "lesson": {
+        "title": "Hemoglobinopathies, Hemoglobin Electrophoresis, and HPLC",
+        "channel": "Ibrahim Hajjali, MD, MSc",
+        "url": "https://www.youtube.com/watch?v=fMcqLKtcxBM",
+        "duration": "29:36",
+        "why": "Covers identification of hemoglobin C and the other common variants by electrophoresis and HPLC, which is how HbC disease and HbSC disease are confirmed."
+      },
+      "drills": [
+        {
+          "name": "SC crystals on the film",
+          "kind": "clinical",
+          "title": "SC Crystals/Cells in Hemoglobin SC Disease (combo of Sickle Cell Anemia Hemoglobin S & Hemoglobin C)",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=BRT4OGoNv98",
+          "duration": "1:26"
+        },
+        {
+          "name": "HbSC newborn screening follow-up",
+          "kind": "clinical",
+          "title": "NCC Knowledge Nugget Series: Hemoglobin S/C Disease ACT Sheet",
+          "channel": "nccrcg",
+          "url": "https://www.youtube.com/watch?v=4qq6Ehri5no",
+          "duration": "10:05"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u10",
+      "type": "section",
+      "name": "Hemoglobins with abnormal oxygen affinity",
+      "ashsapPage": 121,
+      "assessment": "Can you reason from a measured P50 whether a variant hemoglobin has high or low oxygen affinity, and predict whether that patient presents with unexplained erythrocytosis or with cyanosis and a normal PaO2?",
+      "lesson": {
+        "title": "Hb Yakima & Hb Kansas-Hemoglobin with altered O2 affinity: Medicine Masterclass: Dr. Sudhir K Yadav",
+        "channel": "Dr. Sudhir MD ",
+        "url": "https://www.youtube.com/watch?v=NPeUoYf5eqI",
+        "duration": "5:54",
+        "why": "The only teaching in the pool that takes the named high- and low-affinity variants on their own terms, using Hb Yakima and Hb Kansas to show how a shifted P50 produces either unexplained erythrocytosis or cyanosis with a normal arterial oxygen tension."
+      },
+      "drills": [
+        {
+          "name": "Variant identification in the lab",
+          "kind": "clinical",
+          "title": "Lab Aspects of Haemoglobinopathies (Sickle Cell) inc. difficult cases and challenges of diagnosis",
+          "channel": "West London HCC",
+          "url": "https://www.youtube.com/watch?v=-86k1o8cFtg",
+          "duration": "55:59"
+        },
+        {
+          "name": "The other cause of cyanosis with normal PaO2",
+          "kind": "clinical",
+          "title": "Dr. Cerbini - \"Methemoglobinemia\"",
+          "channel": "Kings of County EM",
+          "url": "https://www.youtube.com/watch?v=7mQmoe3MFQk",
+          "duration": "32:49"
+        }
+      ]
+    }
+  ]
+}

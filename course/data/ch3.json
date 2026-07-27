@@ -1,0 +1,358 @@
+{
+  "chapter": "CH3",
+  "title": "Consultative hematology 3: women's health issues",
+  "units": [
+    {
+      "id": "ch3-u1",
+      "type": "section",
+      "name": "Hematologic health issues in women with blood disorders: the multidisciplinary team",
+      "ashsapPage": 20,
+      "assessment": "Which specialists need to be around a woman with an inherited bleeding disorder — hematology, obstetrics, gynecology, anesthesia, nursing — and what must be agreed and documented in advance of delivery or of a gynecologic procedure rather than decided on the day?",
+      "lesson": {
+        "title": "Presentation #1: Welcome and Overview of women & girls with blood disorders",
+        "channel": "Foundation for Women & Girls With Blood Disorders",
+        "url": "https://www.youtube.com/watch?v=d6AicUexNbI",
+        "duration": "30:32",
+        "why": "Opens the case for coordinated care of women and girls with blood disorders and defines what each member of the team contributes, which is the framing this section sets up."
+      },
+      "drills": [
+        {
+          "name": "Rare bleeding disorders through pregnancy",
+          "kind": "clinical",
+          "title": "FWGBD Webinar: Rare Bleeding Disorders During Pregnancy",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=ofRQn4_sStU",
+          "duration": "1:04:43"
+        },
+        {
+          "name": "Iron deficiency in adolescents who bleed",
+          "kind": "clinical",
+          "title": "Case Conversation: Iron Deficiency and Fatigue Among Adolescents with Bleeding Disorders",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=HcvV_EjeX94",
+          "duration": "1:00:54"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u2",
+      "type": "section",
+      "name": "Hematologic health issues in pregnant women",
+      "ashsapPage": 20,
+      "assessment": "Which hematologic changes of normal pregnancy will mislead you if you read them against nonpregnant reference ranges, and how would you treat a venous thromboembolism diagnosed in the second trimester — drug choice, dosing, minimum duration and postpartum coverage?",
+      "lesson": {
+        "title": "Management of Anemias and Thrombocytopenias in Pregnancy",
+        "channel": "Beth Israel Deaconess Medical Center (BIDMC)",
+        "url": "https://www.youtube.com/watch?v=2xaHbXQUTVE",
+        "duration": "45:28",
+        "why": "An academic centre session on the two commonest reasons hematology is called to the obstetric service, anemia and thrombocytopenia, with the pregnancy-specific thresholds."
+      },
+      "drills": [
+        {
+          "name": "What normal pregnancy does to the counts",
+          "kind": "mechanism",
+          "title": "HAEMATOLOGICAL CHANGES IN PREGNANCY",
+          "channel": "Hematology and blood transfusion science lecture",
+          "url": "https://www.youtube.com/watch?v=Fxl5IM3thWE",
+          "duration": "42:13"
+        },
+        {
+          "name": "Hemophilia carriers and von Willebrand disease",
+          "kind": "clinical",
+          "title": "Managing Pregnant Women with Hemophilia and von Willebrand Disease",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=7vOFs5PbjsQ",
+          "duration": "44:20"
+        },
+        {
+          "name": "ITP in pregnancy",
+          "kind": "clinical",
+          "title": "Pregnancy and ITP   Dr Sue Robinson",
+          "channel": "ITP Support Association",
+          "url": "https://www.youtube.com/watch?v=cCXstF98Meg",
+          "duration": "10:52"
+        },
+        {
+          "name": "Wider survey of obstetric hematology",
+          "kind": "clinical",
+          "title": "Haematological complications in pregnancy",
+          "channel": "Malaysian Obstetric Medicine ",
+          "url": "https://www.youtube.com/watch?v=DtjkYRuygOU",
+          "duration": "44:52"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u3",
+      "type": "section",
+      "name": "Thrombophilia and placenta-mediated pregnancy complications",
+      "ashsapPage": 24,
+      "assessment": "After recurrent pregnancy loss, severe preeclampsia or placental insufficiency, which thrombophilia tests are indicated and which are explicitly not, and which patients meeting obstetric antiphospholipid criteria should receive low-dose aspirin plus low-molecular-weight heparin?",
+      "lesson": {
+        "title": "VTE in Pregnancy",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=G5Eo_2Gu23c",
+        "duration": "30:38",
+        "why": "Covers thrombophilia in the obstetric setting and the evidence for and against heparin for placenta-mediated complications, which is the argument this section makes."
+      },
+      "drills": [
+        {
+          "name": "Clots in pregnancy, start to finish",
+          "kind": "clinical",
+          "title": "Blood clots in pregnancy",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=MrFHFycnifQ",
+          "duration": "29:28"
+        },
+        {
+          "name": "Recurrent miscarriage workup",
+          "kind": "clinical",
+          "title": "Recurrent Miscarriage: Stanford's Multispecialty Approach",
+          "channel": "Stanford Health Care",
+          "url": "https://www.youtube.com/watch?v=gUmLEOtii94",
+          "duration": "1:07:53"
+        },
+        {
+          "name": "Prophylaxis decisions across pregnancy",
+          "kind": "clinical",
+          "title": "World Thrombosis Day Webinar: Prevention and Treatment of Venous Thromboembolism During Pregnancy",
+          "channel": "World Thrombosis Day",
+          "url": "https://www.youtube.com/watch?v=g_PCHeiquLM",
+          "duration": "53:15"
+        },
+        {
+          "name": "Case-based thromboprophylaxis",
+          "kind": "clinical",
+          "title": "Thromboprophylaxis in Pregnancy || Case Scenario || Dr. Shonali Chandra",
+          "channel": "MEDICINE DECODED",
+          "url": "https://www.youtube.com/watch?v=DAjLXk8AiQg",
+          "duration": "33:36"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u4",
+      "type": "section",
+      "name": "Hematologic urgencies and emergencies in pregnancy",
+      "ashsapPage": 25,
+      "assessment": "How do you tell HELLP syndrome, acute fatty liver of pregnancy, thrombotic thrombocytopenic purpura and complement-mediated hemolytic uremic syndrome apart at the bedside, and which of them is answered by immediate delivery rather than by plasma exchange or eculizumab?",
+      "lesson": {
+        "title": "Pregnancy-associated Venous Thromboembolism, A Word from Down-Under - Dr Claire McLintock",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=jjf2GHpVOQw",
+        "duration": "23:14",
+        "why": "An obstetric hematologist working through acute venous thromboembolism in pregnancy, the emergency this section leads with, including diagnosis around the imaging constraints."
+      },
+      "drills": [
+        {
+          "name": "Postpartum hemorrhage",
+          "kind": "clinical",
+          "title": "Spotlight Talks: Postpartum Hemorrhage (PPH)",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=WobMWBho2_w",
+          "duration": "22:51"
+        },
+        {
+          "name": "The obstetric cases that do not fit",
+          "kind": "clinical",
+          "title": "Conundrums in obstetrics",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=fRF7dtSi89U",
+          "duration": "28:41"
+        },
+        {
+          "name": "Preeclampsia spectrum and HELLP",
+          "kind": "clinical",
+          "title": "Hypertension in Pregnancy",
+          "channel": "Ceylon College of Physicians",
+          "url": "https://www.youtube.com/watch?v=W_7W3Z4Kzss",
+          "duration": "24:44"
+        },
+        {
+          "name": "PNH through pregnancy and postpartum",
+          "kind": "clinical",
+          "title": "Session 6: Management of PNH During Pregnancy and the Postpartum Period",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=tO7IzX_I6lA",
+          "duration": "37:13"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u5",
+      "type": "section",
+      "name": "Anemia associated with pregnancy",
+      "ashsapPage": 29,
+      "assessment": "When does anemia in pregnancy call for intravenous rather than oral iron, which intravenous formulations are considered acceptable after the first trimester, and what hemoglobin and ferritin are you trying to reach before delivery to reduce transfusion?",
+      "lesson": {
+        "title": "Iron Deficiency Anemia in Pregnancy",
+        "channel": "Foundation for Women & Girls With Blood Disorders",
+        "url": "https://www.youtube.com/watch?v=pRKII1USHmI",
+        "duration": "1:03:42",
+        "why": "A full session on iron deficiency anemia in pregnancy — diagnosis against shifting reference ranges, oral versus intravenous iron, and timing before delivery."
+      },
+      "drills": [
+        {
+          "name": "Academic centre perspective on IV iron",
+          "kind": "clinical",
+          "title": "Dunlevie MFM Center Research meeting: Iron Deficiency Anemia in Pregnancy (Oct 14, 2021)",
+          "channel": "Stanford Obstetrics & Gynecology",
+          "url": "https://www.youtube.com/watch?v=1t2OlamBAQs",
+          "duration": "41:43"
+        },
+        {
+          "name": "Can we do better on obstetric anemia",
+          "kind": "clinical",
+          "title": "1.2 Iron Deficiency Anemia in Pregnancy, Can We Do Better?, with Methodius Tuuli, MD, MPH, MBA",
+          "channel": "Georgia OBGyn Society",
+          "url": "https://www.youtube.com/watch?v=3aDGG7pyPyk",
+          "duration": "39:58"
+        },
+        {
+          "name": "Anemia in pregnancy, full lecture",
+          "kind": "clinical",
+          "title": "\"Anemia in Pregnancy,\" Robert Means Jr. , M. D .",
+          "channel": "ETSU CME Grand Rounds",
+          "url": "https://www.youtube.com/watch?v=R3NN71w5juY",
+          "duration": "1:00:42"
+        },
+        {
+          "name": "Physiology behind the dilutional fall",
+          "kind": "mechanism",
+          "title": "Anemia in Pregnancy   A Comprehensive View",
+          "channel": "Demystifying Medicine McMaster",
+          "url": "https://www.youtube.com/watch?v=xeJv6l-x1kg",
+          "duration": "8:52"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u6",
+      "type": "section",
+      "name": "Hematologic health issues in nonpregnant women",
+      "ashsapPage": 30,
+      "assessment": "How do you quantify heavy menstrual bleeding in a hematology clinic, roughly what proportion of these patients turn out to have a hemostatic defect, and how does treatment divide between the hormonal or surgical arm and the hemostatic agents you prescribe yourself?",
+      "lesson": {
+        "title": "Von Willebrand Disease (VWD): The Realities of Your Period",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=sdYf7UWQWoo",
+        "duration": "50:56",
+        "why": "Devoted to heavy menstrual bleeding as the presenting feature of von Willebrand disease, which is the pairing this section is built around."
+      },
+      "drills": [
+        {
+          "name": "Fibroids, bleeding and clotting risk",
+          "kind": "clinical",
+          "title": "Uterine Fibroids and Venous Thromboembolism",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=1ZJyrZeGevM",
+          "duration": "28:41"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u7",
+      "type": "section",
+      "name": "Thrombosis and exogenous hormones",
+      "ashsapPage": 33,
+      "assessment": "By how much does combined hormonal contraception raise venous thromboembolism risk relative to baseline and to pregnancy, which preparations are least thrombogenic, and may a woman continue exogenous hormones while she is fully anticoagulated?",
+      "lesson": {
+        "title": "2021 Hemostatic Disorders Colloquium: Thrombosis and Exogenous Hormones",
+        "channel": "Foundation for Women & Girls With Blood Disorders",
+        "url": "https://www.youtube.com/watch?v=Mz-U5VVq-Uk",
+        "duration": "27:24",
+        "why": "A colloquium session on exactly this section's title, quantifying the thrombotic risk of exogenous hormones and how it changes counselling."
+      },
+      "drills": [
+        {
+          "name": "Women's health and VTE overall",
+          "kind": "clinical",
+          "title": "Women's Health, Pregnancy and VTE with Dr Lana Castellucci",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=fOAYjg6FQa0",
+          "duration": "47:33"
+        },
+        {
+          "name": "Contraception after a clot",
+          "kind": "clinical",
+          "title": "Presentation #5: Contraception for Women with a History of Thrombosis",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=Gq-jRjKMqkc",
+          "duration": "44:51"
+        },
+        {
+          "name": "Choosing a method at high thrombotic risk",
+          "kind": "clinical",
+          "title": "Contraception choices in patients at increased risk of thrombosis",
+          "channel": "CMJAH Department of Internal Medicine",
+          "url": "https://www.youtube.com/watch?v=Hh9eUmPfvBQ",
+          "duration": "21:19"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u8",
+      "type": "section",
+      "name": "Menopausal hormone therapy",
+      "ashsapPage": 34,
+      "assessment": "How does transdermal estrogen differ from oral preparations in thrombotic risk, does the progestogen matter, and how would you counsel a woman with a prior unprovoked venous thromboembolism who has disabling vasomotor symptoms?",
+      "lesson": {
+        "title": "HRT for women at risk or with a history of blood clots",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=NlbVm_R5HgY",
+        "duration": "1:00:28",
+        "why": "Aimed precisely at menopausal hormone therapy in women who have already clotted or are at raised risk, which is the consult this section prepares you for."
+      },
+      "drills": [
+        {
+          "name": "Sex, hormones and thrombosis broadly",
+          "kind": "clinical",
+          "title": "Gender and thrombosis",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=JTwEHzNyp9Q",
+          "duration": "1:26:38"
+        },
+        {
+          "name": "Prescribing rules from the menopause side",
+          "kind": "clinical",
+          "title": "Menopause Hormone Therapy Dos and Don'ts",
+          "channel": "International Menopause Society",
+          "url": "https://www.youtube.com/watch?v=qHDvj_csStY",
+          "duration": "1:04:04"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u9",
+      "type": "section",
+      "name": "Male-to-female hormone therapy",
+      "ashsapPage": 35,
+      "assessment": "What is the magnitude and time course of venous thromboembolism risk with feminizing estrogen therapy, how do route and formulation change it, and how do you manage a transgender woman who clots without simply stopping her hormones?",
+      "lesson": {
+        "title": "Hormones and Hematology: Transgender Patients and VTE",
+        "channel": "ThrombosisCanada",
+        "url": "https://www.youtube.com/watch?v=0PxEitQoATQ",
+        "duration": "22:31",
+        "why": "The one session in the pool that addresses thrombosis specifically in transgender patients on gender-affirming hormones, which is what this section is about."
+      },
+      "drills": [
+        {
+          "name": "What feminizing regimens actually contain",
+          "kind": "clinical",
+          "title": "Introduction to Male-to-Female Hormone Therapy",
+          "channel": "Madeline Deutsch",
+          "url": "https://www.youtube.com/watch?v=GJEix-i5pmE",
+          "duration": "12:36"
+        },
+        {
+          "name": "Estradiol effects and monitoring",
+          "kind": "mechanism",
+          "title": "Effects of Estrogen / Estradiol for Trans Women | Feminizing Hormone Therapy Explained",
+          "channel": "Transgender Medicine Made Simple",
+          "url": "https://www.youtube.com/watch?v=N_98Z4JXuLM",
+          "duration": "7:05"
+        }
+      ]
+    }
+  ]
+}

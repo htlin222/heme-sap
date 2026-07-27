@@ -1,0 +1,149 @@
+{
+ "chapter": "CH4",
+ "title": "Pediatric hematology: selected topics",
+ "units": [
+  {
+   "id": "ch4-u1",
+   "type": "section",
+   "name": "Anemia",
+   "ashsapPage": 38,
+   "assessment": "Why can a hemoglobin that would be normal in an adult be alarming in a two-month-old, and how do you separate the physiologic nadir from blood loss, hemolysis, and inherited red cell disorders in a newborn or infant referred with anemia?",
+   "lesson": {
+    "title": "Reference Ranges and Health Inequality in Hematology with Angela Weyand, MD | Pediatric Grand Rounds",
+    "channel": "University of Texas Health Science Center at San Antonio - UT Health San Antonio",
+    "url": "https://www.youtube.com/watch?v=HR-CAehM14I",
+    "duration": "1:01:53",
+    "why": "Angela Weyand's pediatric grand rounds is built around exactly the trap this section sets - that hematology reference ranges are age, sex and ancestry dependent, so a value that is normal for an adult can be anemia in an infant and a value flagged as low may be a normal variant."
+   },
+   "drills": [
+    {
+     "name": "A structured approach to anemia",
+     "kind": "clinical",
+     "title": "Approach to Anemias - K. Krishnan, MD, FRCP, FACP",
+     "channel": "ETSU CME Grand Rounds",
+     "url": "https://www.youtube.com/watch?v=P-RVvtXQ3QI",
+     "duration": "39:48"
+    }
+   ]
+  },
+  {
+   "id": "ch4-u2",
+   "type": "section",
+   "name": "Neutropenia",
+   "ashsapPage": 42,
+   "assessment": "Which causes of neutropenia in a child are transient and benign, which point to a congenital marrow failure or immune syndrome, and what pattern of infection or persistence should trigger genetic testing and marrow examination rather than continued observation?",
+   "lesson": {
+    "title": "Immuno-Hematology Symposium 2014: Neutropenia",
+    "channel": "umashaver",
+    "url": "https://www.youtube.com/watch?v=J94NSWyoNpc",
+    "duration": "44:22",
+    "why": "A symposium session devoted to the evaluation of neutropenia, covering the congenital and immune causes that dominate the pediatric differential."
+   },
+   "drills": [
+    {
+     "name": "An expert on severe chronic neutropenia",
+     "kind": "clinical",
+     "title": "Neutropenia Specialist - Dr. Peter Newburger",
+     "channel": "National Neutropenia Network",
+     "url": "https://www.youtube.com/watch?v=EvnAE5ApoFg",
+     "duration": "11:32"
+    },
+    {
+     "name": "Severe chronic neutropenia defined",
+     "kind": "clinical",
+     "title": "Severe Chronic Neutropenia (SCN) Explained",
+     "channel": "National Organization for Rare Disorders (NORD)",
+     "url": "https://www.youtube.com/watch?v=P0nf14NHgEo",
+     "duration": "6:27"
+    },
+    {
+     "name": "Fever and neutropenia in children",
+     "kind": "clinical",
+     "title": "Fever and Neutropenia by K. Greenzang, J. Marron, K. Schlosser | OPENPediatrics",
+     "channel": "OPENPediatrics",
+     "url": "https://www.youtube.com/watch?v=zAOXDkELMws",
+     "duration": "13:25"
+    }
+   ]
+  },
+  {
+   "id": "ch4-u3",
+   "type": "section",
+   "name": "Thrombocytopenia",
+   "ashsapPage": 43,
+   "assessment": "How does childhood immune thrombocytopenia differ from the adult disease in trigger, course and outcome, and when is observation alone no longer adequate for a child who presents with cutaneous bleeding only?",
+   "lesson": {
+    "title": "Immune Thrombocytopenia Treatment in Children",
+    "channel": "Rare Disease Report",
+    "url": "https://www.youtube.com/watch?v=Pp3xDG00HGM",
+    "duration": "4:59",
+    "why": "Short and squarely on this section's key point — how immune thrombocytopenia is treated, or deliberately not treated, in children."
+   },
+   "drills": []
+  },
+  {
+   "id": "ch4-u4",
+   "type": "section",
+   "name": "Coagulopathy",
+   "ashsapPage": 45,
+   "assessment": "How do you evaluate a bleeding child whose history may simply be normal for age, which coagulation factors are physiologically low in the neonate, and what distinguishes vitamin K deficiency bleeding from an inherited factor deficiency presenting in the first weeks of life?",
+   "lesson": {
+    "title": "The Approach to the bleeding Child",
+    "channel": "South African Paediatric Association",
+    "url": "https://www.youtube.com/watch?v=8gtNSMfS8-I",
+    "duration": "1:03:41",
+    "why": "A pediatric society lecture on the approach to the bleeding child, which is the diagnostic path this section describes including age-specific coagulation values."
+   },
+   "drills": [
+    {
+     "name": "Evaluating and managing pediatric bleeding disorders",
+     "kind": "clinical",
+     "title": "Bleeding Disorders in Children Evaluation and Management: Lurie Children's Dr. Rachel Bercovitz",
+     "channel": "Lurie Children's Physician Services",
+     "url": "https://www.youtube.com/watch?v=XuhgT1WBhJQ",
+     "duration": "33:15"
+    }
+   ]
+  },
+  {
+   "id": "ch4-u5",
+   "type": "section",
+   "name": "Thrombosis",
+   "ashsapPage": 46,
+   "assessment": "What proportion of pediatric venous thromboembolism is central venous catheter related, how does that change anticoagulant choice and treatment duration, and why is broad inherited thrombophilia testing discouraged in children with a provoked event?",
+   "lesson": {
+    "title": "Management of Pediatric Thrombosis",
+    "channel": "ThrombosisCanada",
+    "url": "https://www.youtube.com/watch?v=SkPIfGHIU5Y",
+    "duration": "1:21:10",
+    "why": "A full teaching session on the management of thrombosis in children, covering catheter-associated events, drug choice and duration, which is the whole of this section."
+   },
+   "drills": [
+    {
+     "name": "2025 ASH pediatric VTE guideline",
+     "kind": "clinical",
+     "title": "2025 ASH Clinical Practice Guidelines | Venous Thrombosis (VTE) in Pediatrics",
+     "channel": "American Society of Hematology",
+     "url": "https://www.youtube.com/watch?v=1_NB90XzPvY",
+     "duration": "1:42"
+    },
+    {
+     "name": "Catheter-related thrombosis incidence",
+     "kind": "clinical",
+     "title": "Determining the incidence & risk factors for central venous catheter related thrombosis in children",
+     "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+     "url": "https://www.youtube.com/watch?v=je4oQ7DBnbg",
+     "duration": "5:02"
+    },
+    {
+     "name": "Risk stratification webinar",
+     "kind": "clinical",
+     "title": "Pediatric Venous Thromboembolism - Recognition, Risk Stratification, & Management - Clinical Webinar",
+     "channel": "stoptheclot",
+     "url": "https://www.youtube.com/watch?v=vW3VTe-Axt8",
+     "duration": "1:03:44"
+    }
+   ]
+  }
+ ]
+}

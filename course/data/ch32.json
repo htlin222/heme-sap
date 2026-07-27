@@ -1,0 +1,462 @@
+{
+  "chapter": "CH32",
+  "title": "Hematopoietic cell transplantation and cellular therapy 3: allogeneic transplantation and graft-versus-host disease",
+  "units": [
+    {
+      "id": "ch32-u1",
+      "type": "section",
+      "name": "Alloreactivity in the treatment of hematologic malignancies",
+      "ashsapPage": 376,
+      "assessment": "Can you explain how the same donor T cells produce both graft-versus-leukemia and graft-versus-host disease, and cite the observations — syngeneic transplants, T-cell depletion, donor lymphocyte infusion — that prove the effect is real?",
+      "lesson": {
+        "title": "Graft-Versus-Host Disease/Graft-Versus-Leukemia: Recent Advances in Therapy",
+        "channel": "Henry Ford Health",
+        "url": "https://www.youtube.com/watch?v=o4zf5GK_xj0",
+        "duration": "51:28",
+        "why": "Teaches graft-versus-host and graft-versus-leukemia together as two faces of the same alloreactivity, which is the framing the whole chapter depends on."
+      },
+      "drills": [
+        {
+          "name": "Immunology of the alloreactive response",
+          "kind": "mechanism",
+          "title": "Graft-Versus-Host Disease by C. Duncan | OPENPediatrics",
+          "channel": "OPENPediatrics",
+          "url": "https://www.youtube.com/watch?v=Kf3_dWRfZX0",
+          "duration": "42:31"
+        },
+        {
+          "name": "Donor lymphocytes used as therapy",
+          "kind": "clinical",
+          "title": "DLI following haploHCT PTCy relapse",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=16dDW4yS-9M",
+          "duration": "2:33"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u2",
+      "type": "section",
+      "name": "Allogeneic hematopoietic cell transplantation and human leukocyte antigen typing",
+      "ashsapPage": 377,
+      "assessment": "Can you say which HLA loci are typed at allele level for an unrelated donor search, what 8/8 and 10/10 matching mean, and how much a single allele mismatch costs in survival?",
+      "lesson": {
+        "title": "The Great Search - HLA Typing, Donor Selection and Beyond",
+        "channel": "ASTCT",
+        "url": "https://www.youtube.com/watch?v=wADOyZFzSgg",
+        "duration": "32:31",
+        "why": "Walks through HLA nomenclature, the registry search itself and how match grade is scored — the practical version of the typing material."
+      },
+      "drills": [
+        {
+          "name": "Deep dive on unrelated donor HLA typing",
+          "kind": "clinical",
+          "title": "A Deep Dive Into HLA Typing For Unrelated Donor Hematopoietic Cell Transplantation",
+          "channel": "ASCO Podcasts",
+          "url": "https://www.youtube.com/watch?v=2V5bJD9axsY",
+          "duration": "9:52"
+        },
+        {
+          "name": "Why HLA diversity limits registry matching",
+          "kind": "clinical",
+          "title": "Overcoming Disparities in HLA: for Hematopoietic Stem Cell Transplantation",
+          "channel": "Baptist Health",
+          "url": "https://www.youtube.com/watch?v=5pZzC8-Erqo",
+          "duration": "51:39"
+        },
+        {
+          "name": "What HLA molecules actually do",
+          "kind": "mechanism",
+          "title": "HLAs and Their Role in Stem Cell Transplantation",
+          "channel": "Dana-Farber Cancer Institute",
+          "url": "https://www.youtube.com/watch?v=zbW_WEhr3tc",
+          "duration": "2:45"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u3",
+      "type": "section",
+      "name": "Donor selection",
+      "ashsapPage": 377,
+      "assessment": "Faced with a 65-year-old fully matched sibling and a 25-year-old fully matched unrelated donor, can you say which you would choose and justify it from the donor-age and outcome data?",
+      "lesson": {
+        "title": "How to optimize donor selection for allogeneic transplant?",
+        "channel": "GvHD Hub",
+        "url": "https://www.youtube.com/watch?v=BaNaN7EPr_U",
+        "duration": "9:37",
+        "why": "Takes the donor selection question in the order it is actually decided — match grade first, then donor age, sex, CMV status and specificities."
+      },
+      "drills": [
+        {
+          "name": "Choosing among mismatched unrelated donors",
+          "kind": "clinical",
+          "title": "Factors to consider when selecting mismatched unrelated donors for stem cell transplantation",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=0uoFL7ILxD4",
+          "duration": "2:36"
+        },
+        {
+          "name": "Where haploidentical donors rank",
+          "kind": "clinical",
+          "title": "Are haploidentical donors the alternative donors of choice?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=rrAi1o5bcbs",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u4",
+      "type": "section",
+      "name": "Alternative donor transplantation",
+      "ashsapPage": 378,
+      "assessment": "Can you compare haploidentical, mismatched unrelated and cord blood grafts on engraftment speed, GVHD risk and availability, and explain what post-transplant cyclophosphamide does to alloreactive T cells?",
+      "lesson": {
+        "title": "Hematopoietic stem cell transplantation from alternative donor in paediatric-TransplantChild Webinar",
+        "channel": "ERN TransplantChild",
+        "url": "https://www.youtube.com/watch?v=CzFntNggyic",
+        "duration": "38:33",
+        "why": "A European Reference Network webinar built around the alternative-donor decision itself, comparing haploidentical, mismatched unrelated and cord blood grafts on availability, engraftment and GVHD risk."
+      },
+      "drills": [
+        {
+          "name": "Are haploidentical donors now the default alternative?",
+          "kind": "clinical",
+          "title": "Are haploidentical donors the alternative donors of choice?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=rrAi1o5bcbs",
+          "duration": "3:48"
+        },
+        {
+          "name": "Post-transplant cyclophosphamide versus ATG",
+          "kind": "trial",
+          "title": "GvHD prophylaxis: PTCY vs ATG in AML with allo-HSCT",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=KW96jGRLqYo",
+          "duration": "3:13"
+        },
+        {
+          "name": "Alternative donors versus matched unrelated donors",
+          "kind": "clinical",
+          "title": "Alternative donors vs. matched unrelated donors for ALL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=hmFLAxtoVxw",
+          "duration": "2:22"
+        },
+        {
+          "name": "Why T-cell depletion was needed first",
+          "kind": "mechanism",
+          "title": "The History of T-cell Depleted Haploidentical HSCT",
+          "channel": "Stanford Medicine Children's Health",
+          "url": "https://www.youtube.com/watch?v=rwBKo1E2shc",
+          "duration": "52:29"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u5",
+      "type": "section",
+      "name": "Pretransplant evaluation",
+      "ashsapPage": 379,
+      "assessment": "Can you name the comorbidity and frailty instruments used to judge allogeneic transplant fitness, and say which organ findings would push you towards reduced-intensity conditioning or away from transplant altogether?",
+      "lesson": {
+        "title": "Allogeneic stem cell transplantation for older patients: where do we stand?",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=vfuou76F74w",
+        "duration": "1:04:39",
+        "why": "Built around exactly the question the pretransplant evaluation answers: which older or comorbid patient is fit enough, and how comorbidity and frailty scores are used to decide."
+      },
+      "drills": [
+        {
+          "name": "Disease status assessed before transplant",
+          "kind": "clinical",
+          "title": "The role of pre-transplant MRD assessment in patients with AML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=kkW4JLVA6Tg",
+          "duration": "3:12"
+        },
+        {
+          "name": "Preparing a patient for allogeneic transplant",
+          "kind": "clinical",
+          "title": "Allogeneic Transplant - Preparing for transplant (Part 1)",
+          "channel": "Leukaemia Foundation - Blood Cancer Information",
+          "url": "https://www.youtube.com/watch?v=hBzwKzNcPIo",
+          "duration": "1:06:30"
+        },
+        {
+          "name": "Cardiac clearance for transplant",
+          "kind": "clinical",
+          "title": "Cardiac Complications with Bone Marrow Transplant",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=rIc7ocIiNRs",
+          "duration": "59:22"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u6",
+      "type": "section",
+      "name": "Conditioning regimens",
+      "ashsapPage": 380,
+      "assessment": "Can you define what conditioning is meant to achieve — cytoreduction plus enough immunosuppression to allow engraftment — and explain how regimen intensity trades relapse risk against non-relapse mortality?",
+      "lesson": {
+        "title": "Indication and Regimens Including Ablative vs. RIC NMA",
+        "channel": "ASTCT",
+        "url": "https://www.youtube.com/watch?v=qLB8Yl1bavg",
+        "duration": "34:21",
+        "why": "Sets out indications alongside the ablative, reduced-intensity and nonmyeloablative categories, so intensity is taught as a choice rather than a list."
+      },
+      "drills": [
+        {
+          "name": "A US view on regimen choice in AML and MDS",
+          "kind": "clinical",
+          "title": "A US perspective on conditioning regimens in stem cell transplantation for AML and MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=xYRll7mo5dw",
+          "duration": "1:00"
+        },
+        {
+          "name": "Conditioning in myelofibrosis",
+          "kind": "clinical",
+          "title": "Optimizing conditioning regimens for stem cell transplantation in myelofibrosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=3uxafSikv94",
+          "duration": "4:04"
+        },
+        {
+          "name": "Reduced intensity against myeloablative",
+          "kind": "trial",
+          "title": "Reduced intensity vs myeloablative conditioning regimens in patients with AML and MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=LxhrZfaFm1c",
+          "duration": "1:03"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u7",
+      "type": "section",
+      "name": "Myeloablative regimens",
+      "ashsapPage": 380,
+      "assessment": "Can you name the standard myeloablative backbones, state what marrow recovery would occur without a graft after them, and say where total body irradiation still outperforms chemotherapy-only conditioning?",
+      "lesson": {
+        "title": "IACH Journal Club: Total Body Irradiation or Chemotherapy Conditioning in Childhood ALL",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=eeUJ7YLHO_o",
+        "duration": "39:32",
+        "why": "A journal club on the randomised comparison of total body irradiation against chemotherapy conditioning, which is the sharpest available test of what myeloablation buys."
+      },
+      "drills": [
+        {
+          "name": "Myeloablation in older patients",
+          "kind": "clinical",
+          "title": "Optimizing myeloablative conditioning regimens in older patients receiving alloHSCT",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=vKspBn6SWn4",
+          "duration": "3:01"
+        },
+        {
+          "name": "Myeloablative conditioning with post-transplant cyclophosphamide",
+          "kind": "trial",
+          "title": "Myeloablative conditioning regimen with PTCy in elderly patients with AML and MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=GExsMnMGZVk",
+          "duration": "3:23"
+        },
+        {
+          "name": "Intensity, genomics and relapse in MDS",
+          "kind": "trial",
+          "title": "Conditioning intensity and genomics: relapse after allogeneic transplant in MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=CoyxGwDeyDc",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u8",
+      "type": "section",
+      "name": "Nonmyeloablative and reduced-intensity conditioning",
+      "ashsapPage": 381,
+      "assessment": "Can you place a given regimen on the nonmyeloablative to reduced-intensity to myeloablative spectrum, and explain who benefits from lower intensity and what it costs in relapse risk?",
+      "lesson": {
+        "title": "Reduced-intensity conditioning regimens in ALL patients undergoing allo-HSCT",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=_NGghlz8_AI",
+        "duration": "6:59",
+        "why": "Explains what reduced-intensity conditioning is and who it is chosen for, using a disease where the relapse trade-off is unforgiving."
+      },
+      "drills": [
+        {
+          "name": "Origins of nonmyeloablative transplant",
+          "kind": "mechanism",
+          "title": "Rainer Storb Receives the 2025 Wallace H. Coulter Award for Lifetime Achievement in Hematology",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=302NYI0Rmp8",
+          "duration": "5:43"
+        },
+        {
+          "name": "Reduced intensity for older AML in first remission",
+          "kind": "trial",
+          "title": "RIC transplant in CR1 for older AML patients",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=j2nrmc93bSQ",
+          "duration": "5:57"
+        },
+        {
+          "name": "What reduced intensity costs in AML",
+          "kind": "clinical",
+          "title": "The impact of reduced intensity conditioning for allogeneic SCT in AML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=rItqxCL7zzc",
+          "duration": "3:31"
+        },
+        {
+          "name": "Sequential conditioning for active disease",
+          "kind": "trial",
+          "title": "FLAMSA-reduced intensity vs myeloablative conditioning for R/R AML with disease at transplantation",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=7xj0NqpkRlk",
+          "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u9",
+      "type": "section",
+      "name": "Relapse prevention after allogeneic HCT",
+      "ashsapPage": 381,
+      "assessment": "Can you list the tools used to prevent or pre-empt relapse after allogeneic transplant — immunosuppression taper, maintenance targeted therapy, donor lymphocyte infusion — and say how chimerism and MRD monitoring trigger them?",
+      "lesson": {
+        "title": "Post-HCT relapse monitoring and management",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=td5NPJ8SJAc",
+        "duration": "56:54",
+        "why": "Covers post-transplant monitoring and the whole ladder of pre-emptive interventions, which is precisely what this section is about."
+      },
+      "drills": [
+        {
+          "name": "Transplant and relapse in AML",
+          "kind": "clinical",
+          "title": "AML Indications for Transplantation and Treatment of Relapse",
+          "channel": "ASTCT",
+          "url": "https://www.youtube.com/watch?v=UJFKIvORUPA",
+          "duration": "34:32"
+        },
+        {
+          "name": "Post-transplant maintenance in ALL",
+          "kind": "clinical",
+          "title": "Post-allogeneic transplant interventions in ALL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=_oGKk1xIgGk",
+          "duration": "4:16"
+        },
+        {
+          "name": "Optimising allogeneic outcomes in AML",
+          "kind": "clinical",
+          "title": "Optimising transplant outcome in adults allografted for AML",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=5z5nuiDPsr8",
+          "duration": "58:13"
+        },
+        {
+          "name": "Predicting relapse after transplant",
+          "kind": "trial",
+          "title": "AML relapse after HSCT: trends and predictive factors",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=_yexxq2MMYQ",
+          "duration": "3:17"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u10",
+      "type": "section",
+      "name": "GVHD",
+      "ashsapPage": 382,
+      "assessment": "Can you grade acute GVHD from skin, gut and liver stage, name first-line therapy and what to add when steroids fail, and explain why post-transplant cyclophosphamide is now used well beyond haploidentical transplant?",
+      "lesson": {
+        "title": "GVHD in 2022: from prevention to therapy",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=Um9Cv5sOSj0",
+        "duration": "50:25",
+        "why": "Runs from prophylaxis through grading to steroid-refractory therapy in a single lecture, covering both acute and chronic disease."
+      },
+      "drills": [
+        {
+          "name": "Biomarkers that predict GVHD outcome",
+          "kind": "clinical",
+          "title": "How I treat GVHD: Dr. James Ferrara explains how biomarkers can predict outcomes",
+          "channel": "MDedge: news and insights for busy physicians",
+          "url": "https://www.youtube.com/watch?v=fBQdy9UfmBg",
+          "duration": "28:53"
+        },
+        {
+          "name": "Post-transplant cyclophosphamide in unrelated donor transplant",
+          "kind": "trial",
+          "title": "ATG vs PTCy as GvHD prophylaxis in non-myeloablative MUD alloHSCT",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=wULvQ41L7Ec",
+          "duration": "3:41"
+        },
+        {
+          "name": "Cyclophosphamide against calcineurin-inhibitor prophylaxis",
+          "kind": "trial",
+          "title": "GvHD prophylaxis in AML: PTCy versus CNI",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Rmq0VrxMstQ",
+          "duration": "2:52"
+        },
+        {
+          "name": "Gastrointestinal and hepatic GVHD",
+          "kind": "clinical",
+          "title": "Graft-versus-Host Disease of the Gastrointestinal Tract and Liver 2022",
+          "channel": "BMT InfoNet",
+          "url": "https://www.youtube.com/watch?v=2_WZPNr_2vU",
+          "duration": "55:18"
+        }
+      ]
+    },
+    {
+      "id": "ch32-u11",
+      "type": "section",
+      "name": "Conclusions",
+      "ashsapPage": 384,
+      "assessment": "Can you summarise how donor choice, conditioning intensity and GVHD prophylaxis are selected together for one particular patient, and name the developments most likely to change allogeneic transplant next?",
+      "lesson": {
+        "title": "Blood and Marrow Transplantation",
+        "channel": "Stanford Center for Clinical Research",
+        "url": "https://www.youtube.com/watch?v=WJlTy81aYQo",
+        "duration": "2:00:05",
+        "why": "A long-form lecture that puts donor selection, conditioning, prophylaxis and outcome back together as one decision, which is what a summary section needs."
+      },
+      "drills": [
+        {
+          "name": "Transplant against non-transplant therapy",
+          "kind": "trial",
+          "title": "Systematic review comparing allogeneic transplant patients with non-transplant patients in MF",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=UDmmif_hAd4",
+          "duration": "2:30"
+        },
+        {
+          "name": "Cryopreserved grafts and outcome",
+          "kind": "trial",
+          "title": "Clinical outcomes of cryopreserved graft recipients following allo-HCT",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=koTfzJO_rNc",
+          "duration": "4:58"
+        },
+        {
+          "name": "Adding cellular therapy to the graft",
+          "kind": "trial",
+          "title": "Allogeneic Transplant Plus NK Cells in High-Risk Myeloma",
+          "channel": "The American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=wU6skAtwpJk",
+          "duration": "6:18"
+        }
+      ]
+    }
+  ]
+}

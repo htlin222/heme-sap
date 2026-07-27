@@ -1,0 +1,334 @@
+{
+  "chapter": "CH18",
+  "title": "Cancer-associated thrombosis",
+  "units": [
+    {
+      "id": "ch18-u1",
+      "type": "section",
+      "name": "Epidemiology of CAT",
+      "ashsapPage": 209,
+      "assessment": "Can you say roughly what share of all VTE is cancer-associated, name the tumour types and stages that carry the highest risk, and describe what a thrombotic event does to a cancer patient's prognosis, treatment schedule and quality of life?",
+      "lesson": {
+        "title": "Setting The scene – the global burden of CAT.  Presented by: Lord Kakkar",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=EOZwyMZXoHk",
+        "duration": "34:49",
+        "why": "A dedicated talk on the global burden of cancer-associated thrombosis - incidence, mortality contribution and health-system impact - which is exactly the scope of this section."
+      },
+      "drills": [
+        {
+          "name": "Cancer-associated thrombosis overview",
+          "kind": "clinical",
+          "title": "Cancer Associated Thrombosis (CAT)",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=VefyRDFvJE8",
+          "duration": "22:22"
+        },
+        {
+          "name": "What has changed recently in CAT",
+          "kind": "clinical",
+          "title": "Updates in Cancer Associated Thrombosis",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=t_K0wUcTvgw",
+          "duration": "36:40"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u2",
+      "type": "section",
+      "name": "Occult cancer screening for unprovoked VTE",
+      "ashsapPage": 209,
+      "assessment": "After a first unprovoked VTE, can you state what cancer screening is actually indicated, and cite the randomized evidence showing that adding comprehensive abdominal CT to age-appropriate screening finds no more malignancy and does not improve survival?",
+      "lesson": {
+        "title": "SOME Trial",
+        "channel": "NEJM Group",
+        "url": "https://www.youtube.com/watch?v=H-16hxzzeGU",
+        "duration": "1:50",
+        "why": "The SOME trial is the evidence this whole section rests on, and this is the journal's own summary of it; the pool held nothing else that addressed occult-cancer screening."
+      },
+      "drills": [
+        {
+          "name": "VTE in cancer patients: full lecture",
+          "kind": "clinical",
+          "title": "Venous Thromboembolism in Cancer Patients - Prof. Laurent Bertoletti (Saint-Étienne, France)",
+          "channel": "MARKUS at HOMe",
+          "url": "https://www.youtube.com/watch?v=f6Xc3X5oVkk",
+          "duration": "1:02:04"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u3",
+      "type": "section",
+      "name": "Risk factors and risk assessment tools for CAT",
+      "ashsapPage": 209,
+      "assessment": "Can you compute a Khorana score from its five components, state the threshold at which ambulatory thromboprophylaxis is considered, and name the patient-, cancer- and treatment-related factors that the score leaves out?",
+      "lesson": {
+        "title": "Thrombosis in Conversation Episode 1: Identifying and stratifying risk of CAT",
+        "channel": "Medthority",
+        "url": "https://www.youtube.com/watch?v=AvM5aCWH_h0",
+        "duration": "21:01",
+        "why": "A short expert conversation built entirely around identifying and stratifying VTE risk in cancer patients, which is the task this section sets."
+      },
+      "drills": [
+        {
+          "name": "Guidelines and risk assessment in CAT",
+          "kind": "clinical",
+          "title": "Guidelines in Cancer Associated Thrombosis",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=FBpHopu1Ol0",
+          "duration": "59:11"
+        },
+        {
+          "name": "Risk assessment principles more broadly",
+          "kind": "clinical",
+          "title": "Revisiting Essential Thrombosis Risk Assessment Principles Everyone Needs To Remember",
+          "channel": "Caprini Risk Score",
+          "url": "https://www.youtube.com/watch?v=1Rjz9OMSpdc",
+          "duration": "45:02"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u4",
+      "type": "section",
+      "name": "Guideline recommendations for CAT management",
+      "ashsapPage": 210,
+      "assessment": "Can you summarise where the major guidelines agree and disagree on choosing between LMWH and a factor Xa inhibitor DOAC for acute cancer-associated thrombosis, and name the patient features that tip the choice toward LMWH?",
+      "lesson": {
+        "title": "Treatment Algorithm in Cancer Associated Thrombosis Canadian Expert Consensus Marc Carrier MD",
+        "channel": "ThrombosisCanada",
+        "url": "https://www.youtube.com/watch?v=jsIcnxurD1A",
+        "duration": "58:50",
+        "why": "Marc Carrier walks through a consensus treatment algorithm for cancer-associated thrombosis, which is the practical form these guideline recommendations take."
+      },
+      "drills": [
+        {
+          "name": "Guideline recommendations in brief",
+          "kind": "clinical",
+          "title": "Thrombosis in Conversation Episode 6: Treatments and guideline recommendations for managing CAT",
+          "channel": "Medthority",
+          "url": "https://www.youtube.com/watch?v=rIVqjDhX570",
+          "duration": "15:33"
+        },
+        {
+          "name": "The trials reshaping the recommendations",
+          "kind": "trial",
+          "title": "Cancer-associated Thrombosis: EVE & API-CAT - Prof. Robert McBane and Prof. Isabelle Mahé",
+          "channel": "MARKUS at HOMe",
+          "url": "https://www.youtube.com/watch?v=cs3ShhPZfyA",
+          "duration": "57:53"
+        },
+        {
+          "name": "Guidelines applied to GI and haematologic cancers",
+          "kind": "clinical",
+          "title": "Cancer-Associated VTE: Guidelines and Evidence in Gastrointestinal and Hematologic Malignancies",
+          "channel": "PeerView Oncology",
+          "url": "https://www.youtube.com/watch?v=rB54MPWZgB0",
+          "duration": "1:09:49"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u5",
+      "type": "section",
+      "name": "Pharmacologic prevention of CAT in ambulatory setting",
+      "ashsapPage": 211,
+      "assessment": "For an ambulatory patient starting systemic therapy, can you state who should be offered prophylactic apixaban or rivaroxaban, and quantify from the randomized trials both the absolute reduction in VTE and the bleeding cost of that decision?",
+      "lesson": {
+        "title": "Alok Khorana: Rivaroxaban Prevents Cancer-Associated VTE",
+        "channel": "American Society of Hematology",
+        "url": "https://www.youtube.com/watch?v=lKi5Hz2MvCU",
+        "duration": "5:36",
+        "why": "The investigator himself explaining the ambulatory thromboprophylaxis trial evidence - whom to select, what was prevented and what it cost in bleeding."
+      },
+      "drills": [
+        {
+          "name": "Where the prophylaxis guidance now sits",
+          "kind": "clinical",
+          "title": "Clot Chronicles: Cancer-Associated Thrombosis — Guideline Update",
+          "channel": "Vasculearn Network",
+          "url": "https://www.youtube.com/watch?v=n9qa4c6NsUw",
+          "duration": "9:20"
+        },
+        {
+          "name": "Applying CAT prophylaxis in practice",
+          "kind": "clinical",
+          "title": "Cancer-associated Thrombosis: What's New for Primary Care Jan 11",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=8dmJawGQDYE",
+          "duration": "1:05:40"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u6",
+      "type": "section",
+      "name": "Management of usual-site CAT and catheter-related thrombosis",
+      "ashsapPage": 211,
+      "assessment": "For a cancer patient with symptomatic DVT or PE, can you choose between LMWH and a DOAC using luminal GI lesions, drug interactions, renal function and platelet count, and say what you would do with a thrombosed but still-needed central venous catheter?",
+      "lesson": {
+        "title": "Anticoagulant Options for the Management of Acute Cancer associated Thrombosis   V Tagalakis Oct 20",
+        "channel": "ThrombosisCanada",
+        "url": "https://www.youtube.com/watch?v=mf2o_s5BsTo",
+        "duration": "1:31:05",
+        "why": "A long, practical review of the anticoagulant options for acute cancer-associated thrombosis and how a specific agent is matched to a specific patient."
+      },
+      "drills": [
+        {
+          "name": "Where the data run out in CAT",
+          "kind": "clinical",
+          "title": "Management of CAT - where data is lacking. Presented by: Dr Tim Nokes",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=s2jMvXFSPxg",
+          "duration": "26:04"
+        },
+        {
+          "name": "Consensus treatment algorithm, second view",
+          "kind": "clinical",
+          "title": "Treatment Algorithm in Cancer Associated Thrombosis Canadian Expert Consensus  Agnes Lee MD",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=YC5aSl9UMFE",
+          "duration": "52:20"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u7",
+      "type": "section",
+      "name": "Management of unusual-site CAT (splanchnic vein thrombosis)",
+      "ashsapPage": 213,
+      "assessment": "Can you decide whether a cancer patient with incidentally discovered splanchnic vein thrombosis should be anticoagulated, listing the thrombus, tumour, bleeding-risk and prognosis factors that push you toward or away from treatment?",
+      "lesson": {
+        "title": "How I Treat Splanchnic Vein Thrombosis - Walter Ageno, MD",
+        "channel": "American Society of Hematology",
+        "url": "https://www.youtube.com/watch?v=FDVT9hpgMeA",
+        "duration": "4:51",
+        "why": "Walter Ageno is the reference author on splanchnic vein thrombosis, and this ASH How I Treat segment gives the decision compactly: which thrombi and which patients are anticoagulated, what cirrhosis and varices change, and when watchful waiting is defensible."
+      },
+      "drills": [
+        {
+          "name": "Mesenteric venous thrombosis reviewed",
+          "kind": "clinical",
+          "title": "Mesenteric Venous Thrombosis: A Narrative Review",
+          "channel": "Mayo Proceedings",
+          "url": "https://www.youtube.com/watch?v=8LNZkmV7JD8",
+          "duration": "4:46"
+        },
+        {
+          "name": "Splanchnic vein thrombosis in myeloproliferative neoplasms",
+          "kind": "clinical",
+          "title": "Splanchnic Vein Thrombosis and MPN: Diagnosis and Therapy",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=uwk-qkQTHb8",
+          "duration": "22:18"
+        },
+        {
+          "name": "Anticoagulating an incidental clot",
+          "kind": "clinical",
+          "title": "Incidental VTE: Who should we anticoagulate? - Presented by: Dr Anthony Maraveyas",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=134vHydPFnU",
+          "duration": "30:22"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u8",
+      "type": "section",
+      "name": "Duration of anticoagulation for CAT",
+      "ashsapPage": 213,
+      "assessment": "Can you justify continuing anticoagulation beyond six months in a patient with active cancer, name the factors that make you stop, and state what the recent reduced-dose extension trial evidence now allows you to offer?",
+      "lesson": {
+        "title": "Updates in anticoagulation for cancer associated thrombosis: what, when and for whom",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=YUdyqoVr0mE",
+        "duration": "52:37",
+        "why": "An update session organised around exactly the three questions of this section: which anticoagulant, for how long, and in whom to extend."
+      },
+      "drills": [
+        {
+          "name": "API-CAT: reduced-dose apixaban for extension",
+          "kind": "trial",
+          "title": "Reduced-Dose Apixaban for Cancer-Associated VTE (API-CAT Trial) | NEJM",
+          "channel": "NEJM Group",
+          "url": "https://www.youtube.com/watch?v=_St1CMA-yuM",
+          "duration": "2:14"
+        },
+        {
+          "name": "Reduce the dose or not? RENOVE and API-CAT",
+          "kind": "trial",
+          "title": "Secondary VTE Prevention: To Reduce or Not to Reduce? A Focus on RENOVE & API-CAT",
+          "channel": "Anticoagulation Forum",
+          "url": "https://www.youtube.com/watch?v=QleDN8FRAdc",
+          "duration": "59:45"
+        },
+        {
+          "name": "Six months and beyond",
+          "kind": "clinical",
+          "title": "Cancer-associated thrombosis: 6 months and beyond. Presented by: Dr Vickie McDonald",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=-yH8-TXQO58",
+          "duration": "26:20"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u9",
+      "type": "section",
+      "name": "Concurrent CAT and thrombocytopenia",
+      "ashsapPage": 214,
+      "assessment": "With a platelet count below 50,000/uL and an acute cancer-associated clot, can you state the dose modifications, the platelet-transfusion threshold that supports full-dose therapy, and the count at which you would withhold anticoagulation altogether?",
+      "lesson": {
+        "title": "Anticoagulation in the thrombocytopenic patient",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=X7HgTzukWkw",
+        "duration": "19:41",
+        "why": "A talk given over entirely to anticoagulating the thrombocytopenic patient - the platelet count bands at which full-dose, reduced-dose and no anticoagulation apply, when platelet transfusion is used to support therapeutic dosing, and how recency of the clot changes the balance."
+      },
+      "drills": [
+        {
+          "name": "The guidance statement in five minutes",
+          "kind": "clinical",
+          "title": "Guidance for anticoagulation management in the setting of thrombocytopenia in cancer patients",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=IPAdIOL3TRU",
+          "duration": "4:42"
+        },
+        {
+          "name": "Hard prophylaxis cases",
+          "kind": "clinical",
+          "title": "How I Treat Challenging Cases in Thromboprophylaxis",
+          "channel": "ISTH",
+          "url": "https://www.youtube.com/watch?v=PEoPZ-fMVZc",
+          "duration": "57:33"
+        }
+      ]
+    },
+    {
+      "id": "ch18-u10",
+      "type": "section",
+      "name": "Concurrent CAT and brain metastasis",
+      "ashsapPage": 214,
+      "assessment": "Can you argue why brain metastases alone are not an absolute contraindication to therapeutic anticoagulation, name the primary tumours whose metastases bleed most readily, and say what imaging finding would change your mind?",
+      "lesson": {
+        "title": "Predicting Risk of Blood Clots (Venous Thromboembolism) in Brain Tumors with a Web-Based Tool",
+        "channel": "Malnati Brain Tumor Institute at Northwestern",
+        "url": "https://www.youtube.com/watch?v=gt7P_zct4JM",
+        "duration": "12:59",
+        "why": "A brain tumour centre's work on predicting venous thromboembolism in patients with intracranial disease, which is the half of this problem that can be quantified - who clots, how often, and how that risk is weighed against intracranial bleeding when anticoagulation is being considered."
+      },
+      "drills": [
+        {
+          "name": "Weighing clot against bleed in cancer",
+          "kind": "clinical",
+          "title": "Cancer-Associated VTE: Balancing Risk and Reward with Modern Anticoagulation",
+          "channel": "CE Concepts",
+          "url": "https://www.youtube.com/watch?v=p0rGBFBRKJg",
+          "duration": "50:04"
+        }
+      ]
+    }
+  ]
+}

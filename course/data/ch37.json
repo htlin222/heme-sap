@@ -1,0 +1,309 @@
+{
+  "chapter": "CH37",
+  "title": "Myeloproliferative neoplasms: polycythemia vera, essential thrombocythemia, and myelofibrosis",
+  "units": [
+    {
+      "id": "ch37-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 448,
+      "assessment": "Can you name the three driver mutations of the classical MPNs, say roughly what fraction of PV, ET and myelofibrosis carries each, and explain how they converge on the same signaling pathway?",
+      "lesson": {
+        "title": "Stefan Constantinescu: MOLECULAR PATHOGENESIS OF HUMAN MYELOPROLIFERATIVE NEOPLASMS",
+        "channel": "Académie de Médecine (ARMB)",
+        "url": "https://www.youtube.com/watch?v=DMN5K02IM-k",
+        "duration": "27:47",
+        "why": "A molecular-pathogenesis lecture from one of the laboratories that worked out JAK2 and CALR signaling — why three different mutations produce one activated pathway and three phenotypes."
+      },
+      "drills": [
+        {
+          "name": "Genetics of MPN and what it changes clinically",
+          "kind": "mechanism",
+          "title": "The Genetic Basis of Myeloproliferative Neoplasms and Its Clinical Relevance",
+          "channel": "UWDeptMedicine",
+          "url": "https://www.youtube.com/watch?v=axrx2zUKH_g",
+          "duration": "50:19"
+        },
+        {
+          "name": "Compact clinical overview of the MPN family",
+          "kind": "clinical",
+          "title": "Overview of Myeloproliferative Neoplasms",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=L6AJdTdyel8",
+          "duration": "4:05"
+        },
+        {
+          "name": "What is currently in trials across MPN",
+          "kind": "trial",
+          "title": "Update on clinical trials for myeloproliferative neoplasms",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=nCtwsgugHo0",
+          "duration": "4:00"
+        }
+      ]
+    },
+    {
+      "id": "ch37-u2",
+      "type": "section",
+      "name": "Polycythemia vera",
+      "ashsapPage": 449,
+      "assessment": "Can you list the current diagnostic criteria for polycythemia vera, say what the erythropoietin level and marrow biopsy add, and explain how masked PV differs from a secondary erythrocytosis?",
+      "lesson": {
+        "title": "“Masked” Polycythemia vera and Polycythemia vera “in Evolution”",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=vPr37GaD1gw",
+        "duration": "13:49",
+        "why": "Goes past the criteria list to the cases that actually trip fellows up — masked PV and PV in evolution, where hemoglobin thresholds and marrow morphology disagree."
+      },
+      "drills": [
+        {
+          "name": "The standard diagnostic pathway for PV",
+          "kind": "clinical",
+          "title": "Polycythemia Vera Diagnosis",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=x2CfFVif3n8",
+          "duration": "6:47"
+        }
+      ]
+    },
+    {
+      "id": "ch37-u3",
+      "type": "section",
+      "name": "Management",
+      "ashsapPage": 451,
+      "assessment": "Can you state the hematocrit target for a patient with PV, say who needs cytoreduction rather than phlebotomy and aspirin alone, and name the options when hydroxyurea fails or is not tolerated?",
+      "lesson": {
+        "title": "How I Treat Polycythemia Vera - Alessandro Vannucchi, MD",
+        "channel": "American Society of Hematology",
+        "url": "https://www.youtube.com/watch?v=YU1Z0gr5-dM",
+        "duration": "4:29",
+        "why": "A How I Treat summary from an author of the PV risk classification: hematocrit target, aspirin, who gets cytoreduced and what follows hydroxyurea failure."
+      },
+      "drills": [
+        {
+          "name": "Long-form CME review of current MPN management",
+          "kind": "clinical",
+          "title": "Myeloproliferative Neoplasms | Oncology Today with Dr Neil Love: Key Presentations on Myeloprolif...",
+          "channel": "Research To Practice",
+          "url": "https://www.youtube.com/watch?v=k8GeAJO5c0s",
+          "duration": "1:18:59"
+        },
+        {
+          "name": "Guideline updates across PV and ET",
+          "kind": "clinical",
+          "title": "Dr. Mesa on Guideline Updates in Polycythemia Vera and Essential Thrombocythemia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=n2i7sRNV3CA",
+          "duration": "1:42"
+        }
+      ]
+    },
+    {
+      "id": "ch37-u4",
+      "type": "section",
+      "name": "Essential thrombocythemia",
+      "ashsapPage": 453,
+      "assessment": "Can you separate essential thrombocythemia from prefibrotic myelofibrosis and reactive thrombocytosis, and say how driver mutation and thrombosis history change your risk-adapted treatment?",
+      "lesson": {
+        "title": "Essential Thrombocythemia | Ayalew Tefferi, MD and Taha Bat, MD | HemeHub.org",
+        "channel": "HemeHub",
+        "url": "https://www.youtube.com/watch?v=hSd3A3t2860",
+        "duration": "31:25",
+        "why": "A dedicated ET session with a clinician who wrote much of the risk stratification, covering diagnosis, the pre-PMF boundary and who actually needs cytoreduction."
+      },
+      "drills": [
+        {
+          "name": "ET reviewed against current practice",
+          "kind": "clinical",
+          "title": "Ellen Kelly Ritchie, MD -- Essential Thrombocythemia in 2025",
+          "channel": "Cancer Research & Treatment Fund",
+          "url": "https://www.youtube.com/watch?v=9kFXjTp9JzY",
+          "duration": "55:23"
+        },
+        {
+          "name": "What CALR testing does and does not tell you",
+          "kind": "mechanism",
+          "title": "CALR Mutation Analysis, Myeloproliferative Neoplasm (MPN)",
+          "channel": "Mayo Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=WnZhzl2aYn8",
+          "duration": "5:25"
+        },
+        {
+          "name": "What changed in ET most recently",
+          "kind": "clinical",
+          "title": "What's new in essential thrombocythemia in 2025?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=e-12_Z25DNo",
+          "duration": "1:36"
+        }
+      ]
+    },
+    {
+      "id": "ch37-u5",
+      "type": "section",
+      "name": "Myelofibrosis (prefibrotic MF, overt primary MF, and post-ET/PV MF)",
+      "ashsapPage": 456,
+      "assessment": "Can you distinguish prefibrotic myelofibrosis from overt primary myelofibrosis and from post-PV or post-ET myelofibrosis, and name the risk models used to decide how aggressively to treat?",
+      "lesson": {
+        "title": "The management of prefibrotic myelofibrosis",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=DexNtDe3UkA",
+        "duration": "4:10",
+        "why": "The pool has no long lecture on MF classification; this is the one item aimed at the prefibrotic-versus-overt distinction that defines this section, and at what that distinction changes."
+      },
+      "drills": [
+        {
+          "name": "What to do with low-risk primary myelofibrosis",
+          "kind": "clinical",
+          "title": "Management of Low-Risk Primary Myelofibrosis",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=PC1a-SlDnDo",
+          "duration": "7:37"
+        },
+        {
+          "name": "Driver mutation testing in the fibrotic MPNs",
+          "kind": "mechanism",
+          "title": "CALR Mutation Analysis, Myeloproliferative Neoplasm (MPN)",
+          "channel": "Mayo Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=WnZhzl2aYn8",
+          "duration": "5:25"
+        },
+        {
+          "name": "Interferon in prefibrotic and lower-risk MF",
+          "kind": "trial",
+          "title": "Ropeginterferon alfa-2b in patients with pre-fibrotic primary MF & DIPSS low/intermediate-1 risk MF",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=Qb0vdSmtVKE",
+          "duration": "4:31"
+        }
+      ]
+    },
+    {
+      "id": "ch37-u6",
+      "type": "section",
+      "name": "Disease course",
+      "ashsapPage": 457,
+      "assessment": "Can you describe what typically drives morbidity in the first decade of an MPN versus the second, and name the features that predict progression to myelofibrosis or blast phase?",
+      "lesson": {
+        "title": "MPN Transformation to MDS and AML: Risk Factors, Therapy, and Outcomes",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=Ri1M87mrl5I",
+        "duration": "20:58",
+        "why": "This section is about where an MPN goes over decades; this talk is built on exactly that — the risk factors for transformation to MDS or AML and what the outcomes look like."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch37-u7",
+      "type": "section",
+      "name": "Stem cell transplantation",
+      "ashsapPage": 458,
+      "assessment": "Can you say which myelofibrosis patients should be referred for allogeneic transplant, how risk scores inform that decision, and what is done about massive splenomegaly and JAK inhibitors before conditioning?",
+      "lesson": {
+        "title": "MPN - Whom to transplant, when and how?",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=dgJaAxKEJlA",
+        "duration": "31:48",
+        "why": "Whom to transplant, when and how — the three questions this section asks, answered for MPN specifically rather than for transplant in general."
+      },
+      "drills": [
+        {
+          "name": "Where transplant sits among MPN therapies",
+          "kind": "clinical",
+          "title": "The role of stem cell transplantation in MPNs",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=wG52VZTPc28",
+          "duration": "1:23"
+        }
+      ]
+    },
+    {
+      "id": "ch37-u8",
+      "type": "section",
+      "name": "Symptom-directed management",
+      "ashsapPage": 459,
+      "assessment": "Can you match a myelofibrosis patient's dominant problem — spleen, constitutional symptoms, anemia, or thrombocytopenia — to the JAK inhibitor or supportive measure that best addresses it?",
+      "lesson": {
+        "title": "My approach to MF management",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=pL7ij5zb_-g",
+        "duration": "20:03",
+        "why": "A personal approach to myelofibrosis management organised by dominant symptom; note that the momelotinib-era anemia algorithm is newer than anything in this pool."
+      },
+      "drills": [
+        {
+          "name": "Ruxolitinib when the patient is anemic or thrombocytopenic",
+          "kind": "clinical",
+          "title": "Real-world use of ruxolitinib in patients with myelofibrosis with anemia or thrombocytopenia",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=URuAQ7tUCTc",
+          "duration": "2:07"
+        },
+        {
+          "name": "PERSIST-1 and the thrombocytopenic patient",
+          "kind": "trial",
+          "title": "Results of the phase 3 PERSIST-1 trial of pacritinib in myelofibrosis",
+          "channel": "EMJ",
+          "url": "https://www.youtube.com/watch?v=BzSwQTuetrs",
+          "duration": "2:03"
+        },
+        {
+          "name": "How heavy the symptom burden actually is",
+          "kind": "clinical",
+          "title": "Patient and physician perceptions on the symptomatic and economic burden of MPNs",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=d5Wb88daudw",
+          "duration": "5:57"
+        }
+      ]
+    },
+    {
+      "id": "ch37-u9",
+      "type": "section",
+      "name": "MPN-accelerated or blast phase",
+      "ashsapPage": 461,
+      "assessment": "Can you state the blast thresholds that define accelerated and blast phase MPN, name the mutations that predict it, and explain why outcomes remain poor even with intensive therapy and transplant?",
+      "lesson": {
+        "title": "Clonal evolution of MPN to accelerated or blastic phase: Therapeutic insights",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=IDJvs3XqICY",
+        "duration": "23:08",
+        "why": "Takes clonal evolution from chronic MPN into accelerated and blast phase and then asks what can therapeutically be done about it — the arc of this section."
+      },
+      "drills": [
+        {
+          "name": "TP53, transplant and blast-phase decision making",
+          "kind": "clinical",
+          "title": "Challenges of managing blast-phase MPNs: the role of transplant, impact of TP53 mutations & more",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=3zJdyC05YKE",
+          "duration": "10:43"
+        },
+        {
+          "name": "Accelerated phase: biology and current options",
+          "kind": "clinical",
+          "title": "Accelerated-phase MPNs: pathophysiology, treatment approaches and ongoing clinical trials",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=-QHfiBgP0zo",
+          "duration": "4:22"
+        },
+        {
+          "name": "Practical management considerations",
+          "kind": "clinical",
+          "title": "What are the management considerations for accelerated- and blast-phase MPN?",
+          "channel": "MPN Hub",
+          "url": "https://www.youtube.com/watch?v=RFxueT8OdTo",
+          "duration": "10:48"
+        },
+        {
+          "name": "IDH-mutated blast phase in the inhibitor era",
+          "kind": "trial",
+          "title": "Outcomes of patients with IDH1/2-mutated accelerated/blast-phase MPNs in the era of IDH inhibitors",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=ruiOMclCPH4",
+          "duration": "2:09"
+        }
+      ]
+    }
+  ]
+}

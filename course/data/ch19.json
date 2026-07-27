@@ -1,0 +1,253 @@
+{
+  "chapter": "CH19",
+  "title": "Inherited thrombophilias",
+  "units": [
+    {
+      "id": "ch19-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 217,
+      "assessment": "Can you define thrombophilia, explain what incomplete penetrance means when you counsel an asymptomatic family member, and say why a heterozygous factor V Leiden carrier and a homozygote are not the same conversation?",
+      "lesson": {
+        "title": "Ask Away on: Thrombophilia",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=0aOJ2QdZltg",
+        "duration": "57:56",
+        "why": "A question-driven session that covers what inherited thrombophilia is, what it predicts, and how much weight to place on it - the framing this introductory section needs."
+      },
+      "drills": [
+        {
+          "name": "When and how to investigate and treat",
+          "kind": "clinical",
+          "title": "Thrombophilia - When & how to investigate & treat ?",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=MzzeRF66tSY",
+          "duration": "1:46:12"
+        },
+        {
+          "name": "The genetics of thrombosis",
+          "kind": "mechanism",
+          "title": "ISTH Academy Presentation: Genetics of Thrombosis: From Mice to Humans",
+          "channel": "ISTH",
+          "url": "https://www.youtube.com/watch?v=ZJPyIIMccaU",
+          "duration": "44:36"
+        }
+      ]
+    },
+    {
+      "id": "ch19-u2",
+      "type": "section",
+      "name": "Epidemiology of inherited thrombophilias",
+      "ashsapPage": 218,
+      "assessment": "Can you rank the inherited thrombophilias by population prevalence and by the relative risk of first and of recurrent VTE each confers, and name the one that is rarest but most thrombogenic?",
+      "lesson": {
+        "title": "Inherited Thrombophilias for the Boards | FVL, Prothrombin, AT, Protein C/S | ABIM Hematology Ep. 7",
+        "channel": "ONCO EMPATH",
+        "url": "https://www.youtube.com/watch?v=TC9jXsKVzaI",
+        "duration": "18:52",
+        "why": "A board-oriented run through factor V Leiden, prothrombin G20210A, and antithrombin, protein C and protein S deficiency, organised around prevalence and risk - which is precisely what this section tabulates."
+      },
+      "drills": [
+        {
+          "name": "Each thrombophilia by prevalence and risk",
+          "kind": "clinical",
+          "title": "Inherited Thrombophilia",
+          "channel": "Med Ed with Andrew",
+          "url": "https://www.youtube.com/watch?v=tzOZI4ux5Lw",
+          "duration": "22:04"
+        }
+      ]
+    },
+    {
+      "id": "ch19-u3",
+      "type": "section",
+      "name": "Pathophysiology of inherited thrombophilias",
+      "ashsapPage": 219,
+      "assessment": "Can you explain mechanistically how factor V Leiden resists cleavage by activated protein C, what the prothrombin G20210A variant does to prothrombin levels, and why antithrombin deficiency can look like heparin resistance?",
+      "lesson": {
+        "title": "Inherited Thrombophilia",
+        "channel": "Med Ed with Andrew",
+        "url": "https://www.youtube.com/watch?v=tzOZI4ux5Lw",
+        "duration": "22:04",
+        "why": "A clinician-educator walkthrough of each inherited thrombophilia at the level of the protein defect, which is what this section asks you to reproduce."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch19-u4",
+      "type": "section",
+      "name": "Compounding of risk factors",
+      "ashsapPage": 220,
+      "assessment": "Can you describe how an inherited thrombophilia combines with estrogen, pregnancy, surgery or immobility to produce risk that is more than additive, and say what that interaction should and should not change about prophylaxis?",
+      "lesson": {
+        "title": "ISTH Academy presentation: Genetic risk factors of arterial and venous thrombosis",
+        "channel": "ISTH",
+        "url": "https://www.youtube.com/watch?v=sS1rln5aAI0",
+        "duration": "46:25",
+        "why": "An ISTH Academy talk on genetic risk factors for thrombosis that deals directly with how inherited susceptibility interacts with acquired triggers."
+      },
+      "drills": [
+        {
+          "name": "MTHFR: the classic testing myth",
+          "kind": "clinical",
+          "title": "Ask the Expert: MTHFR and Thrombophilia",
+          "channel": "World Thrombosis Day",
+          "url": "https://www.youtube.com/watch?v=3UQcWcUkiWc",
+          "duration": "19:42"
+        },
+        {
+          "name": "Pregnancy as the compounding exposure",
+          "kind": "clinical",
+          "title": "World Thrombosis Day Webinar: Prevention and Treatment of Venous Thromboembolism During Pregnancy",
+          "channel": "World Thrombosis Day",
+          "url": "https://www.youtube.com/watch?v=g_PCHeiquLM",
+          "duration": "53:15"
+        }
+      ]
+    },
+    {
+      "id": "ch19-u5",
+      "type": "section",
+      "name": "Assays for thrombophilia",
+      "ashsapPage": 220,
+      "assessment": "Can you say which thrombophilia assays are functional and which are genotypic, and list the states - acute clot, heparin, DOAC, warfarin, pregnancy, liver disease - that make a protein C, protein S or antithrombin result uninterpretable?",
+      "lesson": {
+        "title": "Algorithmic Thrombophilia Testing",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=jX9ajcGvLA8",
+        "duration": "29:38",
+        "why": "A reference-laboratory lecture on algorithmic thrombophilia testing: what each assay measures, in what order it is run, and what invalidates it."
+      },
+      "drills": [
+        {
+          "name": "Assay principles, part II",
+          "kind": "clinical",
+          "title": "Laboratory Testing for Thrombophilia - Chapter II",
+          "channel": "Aniara Diagnostica",
+          "url": "https://www.youtube.com/watch?v=IozuQZTHBdc",
+          "duration": "8:48"
+        },
+        {
+          "name": "Assay principles, part III",
+          "kind": "clinical",
+          "title": "Laboratory Testing for Thrombophilia - Chapter III",
+          "channel": "Aniara Diagnostica",
+          "url": "https://www.youtube.com/watch?v=j6TFkY12L-Q",
+          "duration": "9:46"
+        },
+        {
+          "name": "Laboratory thrombophilia: state of the art",
+          "kind": "clinical",
+          "title": "(Webinar) Biological Thrombophilia in 2021: State of the art",
+          "channel": "HORIBA for Healthcare",
+          "url": "https://www.youtube.com/watch?v=oRnYU4_TgnE",
+          "duration": "1:13:16"
+        }
+      ]
+    },
+    {
+      "id": "ch19-u6",
+      "type": "section",
+      "name": "Indications for thrombophilia testing",
+      "ashsapPage": 222,
+      "assessment": "Can you name the clinical scenarios in which the 2023 ASH guideline supports thrombophilia testing, explain why almost every recommendation is conditional, and say why testing the general population before combined hormonal contraception is not supported?",
+      "lesson": {
+        "title": "2023 ASH Thrombophilia Testing Guideline",
+        "channel": "Anticoagulation Forum",
+        "url": "https://www.youtube.com/watch?v=PZb_zcs9N30",
+        "duration": "59:56",
+        "why": "A full session on the 2023 ASH thrombophilia testing guideline itself - scenario by scenario, with the reasoning behind the conditional strength of the recommendations."
+      },
+      "drills": [
+        {
+          "name": "Thrombosis Canada's testing algorithm",
+          "kind": "clinical",
+          "title": "Thrombosis Canada's Thrombophilia Testing Algorithm",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=SeYCCrsdqPc",
+          "duration": "31:19"
+        },
+        {
+          "name": "ASH guideline testing recommendation in brief",
+          "kind": "clinical",
+          "title": "Thrombophilia Testing | ASH Clinical Practice Guidelines on Venous Thromboembolism (VTE)",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=axHXwcZOL6c",
+          "duration": "2:59"
+        },
+        {
+          "name": "Two thrombosis specialists on when to test",
+          "kind": "clinical",
+          "title": "Thrombophilia Testing | Marc Carrier, MD & Taha Bat, MD | HemeHub",
+          "channel": "HemeHub",
+          "url": "https://www.youtube.com/watch?v=_OtYI2OQAME",
+          "duration": "37:55"
+        }
+      ]
+    },
+    {
+      "id": "ch19-u7",
+      "type": "section",
+      "name": "Treatment implications",
+      "ashsapPage": 222,
+      "assessment": "Can you say when a positive thrombophilia result genuinely changes anticoagulant choice, intensity or duration - antithrombin deficiency, homozygous or compound states, pregnancy prophylaxis - and when it changes nothing at all?",
+      "lesson": {
+        "title": "Thrombophilia: Clinical overview and impact on patients",
+        "channel": "COR2ED The Heart of Medical Education",
+        "url": "https://www.youtube.com/watch?v=vy6r3JJLkG8",
+        "duration": "27:25",
+        "why": "A clinical overview of thrombophilia framed around the impact on the patient in front of you rather than on the test result, which is the point of this section."
+      },
+      "drills": [
+        {
+          "name": "When and how to test, and what follows",
+          "kind": "clinical",
+          "title": "S2E9 - When and how to perform thrombophilia testing",
+          "channel": "Stago Group - Official Channel",
+          "url": "https://www.youtube.com/watch?v=sjY5L8Yn0LM",
+          "duration": "12:50"
+        }
+      ]
+    },
+    {
+      "id": "ch19-u8",
+      "type": "section",
+      "name": "Individuals with a history of VTE",
+      "ashsapPage": 223,
+      "assessment": "In someone who has already had a VTE, can you explain why the circumstances of the index event predict recurrence better than a thrombophilia panel, and how you would counsel that patient about hormonal therapy and about testing relatives?",
+      "lesson": {
+        "title": "Role of Thrombophilia Testing in Venous Thromboembolism",
+        "channel": "Mayo Clinic",
+        "url": "https://www.youtube.com/watch?v=hSBuX0Nv9Nc",
+        "duration": "20:19",
+        "why": "A Mayo Clinic talk on the role of thrombophilia testing specifically in patients who have already had venous thromboembolism - the exact population of this section."
+      },
+      "drills": [
+        {
+          "name": "HRT after a clot",
+          "kind": "clinical",
+          "title": "HRT for women at risk or with a history of blood clots",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=NlbVm_R5HgY",
+          "duration": "1:00:28"
+        },
+        {
+          "name": "Postmenopausal hormone therapy with prior VTE",
+          "kind": "clinical",
+          "title": "Ask the Experts: History of VTE and Postmenopausal Hormone Replacement",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=tsFN4Bzxykk",
+          "duration": "2:19"
+        },
+        {
+          "name": "ASH VTE guideline overview",
+          "kind": "clinical",
+          "title": "ASH Clinical Practice Guidelines on Venous Thromboembolism (VTE)",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=aLxj-gz5Bjs",
+          "duration": "7:49"
+        }
+      ]
+    }
+  ]
+}

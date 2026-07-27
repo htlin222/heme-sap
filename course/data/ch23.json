@@ -1,0 +1,235 @@
+{
+  "chapter": "CH23",
+  "title": "Platelet disorders 1: immune thrombocytopenia",
+  "units": [
+    {
+      "id": "ch23-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 261,
+      "assessment": "Can you define immune thrombocytopenia by both its platelet threshold and by what has to be excluded before the label is applied, and explain why fatigue and quality of life weigh as heavily as the platelet count when deciding to treat?",
+      "lesson": {
+        "title": "Publication in Practice: Immune Thrombocytopenia Purpura",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=nFF3SgUpyuo",
+        "duration": "26:37",
+        "why": "A clinician-facing CME discussion of ITP that sets out the definition, the diagnosis-of-exclusion problem and the burden of disease."
+      },
+      "drills": [
+        {
+          "name": "What patients say is still unmet in ITP",
+          "kind": "clinical",
+          "title": "Current unmet needs in ITP: impaired quality of life & chronic disorders",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=8R2AUBuFWno",
+          "duration": "2:06"
+        },
+        {
+          "name": "Genetic contributions to chronic ITP",
+          "kind": "mechanism",
+          "title": "How do genes influence the development of chronic idiopathic thrombocytopenic purpura?",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=4vVDHvF-4_U",
+          "duration": "5:33"
+        }
+      ]
+    },
+    {
+      "id": "ch23-u2",
+      "type": "section",
+      "name": "ITP classification",
+      "ashsapPage": 261,
+      "assessment": "Can you separate newly diagnosed, persistent and chronic ITP by duration, distinguish primary from secondary disease, and name the autoimmune, immunodeficiency, malignant and infectious conditions that most often underlie secondary ITP?",
+      "lesson": {
+        "title": "Immune Thrombocytopenic Purpura (ITP) : Update 2022",
+        "channel": "Filière de santé FAI²R",
+        "url": "https://www.youtube.com/watch?v=VzfX_8blJJU",
+        "duration": "31:48",
+        "why": "A rare-disease network update that works through the current phase definitions and the primary-versus-secondary distinction this section is built on."
+      },
+      "drills": [
+        {
+          "name": "Telling ITP from inherited platelet and immune disorders",
+          "kind": "clinical",
+          "title": "Differentiating immune thrombocytopenia from IPD and PID",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=QyrHww0aeZ0",
+          "duration": "1:28"
+        },
+        {
+          "name": "ITP and TTP side by side in one update",
+          "kind": "clinical",
+          "title": "Update in ITP and TTP - A. Ma - 20210224",
+          "channel": "UNC Lineberger Cancer Network",
+          "url": "https://www.youtube.com/watch?v=Ty35qHgz8W4",
+          "duration": "59:40"
+        }
+      ]
+    },
+    {
+      "id": "ch23-u3",
+      "type": "section",
+      "name": "Pathophysiology",
+      "ashsapPage": 262,
+      "assessment": "Can you explain how ITP arises from both antibody-mediated platelet destruction and impaired megakaryocyte output, and use that two-hit mechanism to explain why thrombopoietin receptor agonists raise counts in what looks like a disease of destruction?",
+      "lesson": {
+        "title": "Markers of autoimmunity in immune thrombocytopenia",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=-C-VUXc2BRI",
+        "duration": "53:21",
+        "why": "A research-level session on the autoimmune markers underlying ITP, which is the mechanistic depth this section calls for."
+      },
+      "drills": [
+        {
+          "name": "Pathophysiology in brief",
+          "kind": "mechanism",
+          "title": "Understanding the Pathophysiology of ITP",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=aIbOUb6tcqs",
+          "duration": "4:38"
+        },
+        {
+          "name": "A long-form pathophysiology and novel-therapy symposium",
+          "kind": "mechanism",
+          "title": "The Pathophysiology of ITP and Novel Therapies",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=kc0QuRuOX40",
+          "duration": "1:53:59"
+        }
+      ]
+    },
+    {
+      "id": "ch23-u4",
+      "type": "section",
+      "name": "Clinical presentation",
+      "ashsapPage": 262,
+      "assessment": "Can you describe the bleeding pattern that marks thrombocytopenia out from a coagulation factor deficiency, and say at roughly what platelet count spontaneous bleeding, and then life-threatening bleeding, becomes likely?",
+      "lesson": {
+        "title": "Immune Thrombocytopenia (ITP): Diagnosis, & Management | FRCPath Part 1 Masterclass (Week 1)",
+        "channel": "ClinHaem: Haematology Demystified",
+        "url": "https://www.youtube.com/watch?v=e364BneudLc",
+        "duration": "13:43",
+        "why": "A specialist-exam masterclass on ITP presentation and workup, pitched at the postgraduate haematology level rather than at students."
+      },
+      "drills": [
+        {
+          "name": "The guideline view of presentation and management",
+          "kind": "clinical",
+          "title": "ASH Clinical Practice Guidelines on Immune Thrombocytopenia (ITP)",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=dbUePbJlRZM",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "id": "ch23-u5",
+      "type": "section",
+      "name": "Evaluation",
+      "ashsapPage": 263,
+      "assessment": "Can you outline the workup that converts isolated thrombocytopenia into a diagnosis of ITP - smear review, which secondary causes to test for and which to leave alone, and the residual situations where marrow examination still earns its place?",
+      "lesson": {
+        "title": "Immune Thrombocytopenia | Oncology Today with Dr Neil Love: Management of Immune Thrombocytopenia...",
+        "channel": "Research To Practice",
+        "url": "https://www.youtube.com/watch?v=izDyf3CGxcI",
+        "duration": "44:25",
+        "why": "An expert-interview format in which ITP specialists walk through how they actually evaluate a new isolated thrombocytopenia."
+      },
+      "drills": [
+        {
+          "name": "Working through the differential diagnosis",
+          "kind": "clinical",
+          "title": "Differential Diagnosis of Immune Thrombocytopenia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=nmODs1Y2z9s",
+          "duration": "5:20"
+        },
+        {
+          "name": "What persistent mild thrombocytopenia means long term",
+          "kind": "clinical",
+          "title": "Long-term risks associated with persistent isolated mild thrombocytopenia",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=lLdssNPap7g",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "id": "ch23-u6",
+      "type": "section",
+      "name": "ITP treatment",
+      "ashsapPage": 264,
+      "assessment": "Can you sequence first- and second-line ITP therapy, say when IVIG or anti-D is needed because speed matters, and compare thrombopoietin receptor agonists, rituximab, fostamatinib and splenectomy on durability, toxicity and thrombotic risk?",
+      "lesson": {
+        "title": "Treating Persistent/Chronic ITP Current Care, Future Potential",
+        "channel": "ISTH",
+        "url": "https://www.youtube.com/watch?v=SYhU25fPkHo",
+        "duration": "45:50",
+        "why": "An ISTH session on persistent and chronic ITP covering the current second-line options and where the field is heading."
+      },
+      "drills": [
+        {
+          "name": "Novel treatments in depth",
+          "kind": "clinical",
+          "title": "ITP: novel treatments",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=Ho9MMCqSFWc",
+          "duration": "1:06:04"
+        },
+        {
+          "name": "Relapsed and refractory disease",
+          "kind": "clinical",
+          "title": "Treatment Guidelines for Relapsed/Refractory ITP",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=gss0boA7iJs",
+          "duration": "3:27"
+        },
+        {
+          "name": "FcRn blockade with rozanolixizumab",
+          "kind": "trial",
+          "title": "Rozanolixizumab to Treat Immune Thrombocytopenia",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=6jSExV0CvCE",
+          "duration": "5:46"
+        },
+        {
+          "name": "What is coming next",
+          "kind": "trial",
+          "title": "The Future of ITP Treatment",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=3w3nI1xPDg0",
+          "duration": "6:44"
+        }
+      ]
+    },
+    {
+      "id": "ch23-u7",
+      "type": "section",
+      "name": "Drug-induced immune thrombocytopenia",
+      "ashsapPage": 268,
+      "assessment": "Can you name the drugs most often responsible for drug-induced immune thrombocytopenia, describe the expected interval from exposure to nadir and from withdrawal to recovery, and explain why confirmatory antibody testing rarely helps you in real time?",
+      "lesson": {
+        "url": null,
+        "note": "Re-searched on the culprit drugs rather than the section title — quinine, quinidine, trimethoprim-sulfamethoxazole, vancomycin, linezolid, piperacillin — and on 'drug-dependent platelet antibody'. The second pass returned general ITP material, dengue and HIV thrombocytopenia, coagulation-test tutorials and heparin-induced thrombocytopenia. Nothing teaches the quinine-type drug-dependent antibody, the exposure-to-nadir and withdrawal-to-recovery intervals, or why confirmatory testing rarely arrives in time to help."
+      },
+      "drills": [
+        {
+          "name": "Where drug causes sit in the ITP differential",
+          "kind": "clinical",
+          "title": "Differential Diagnosis of Immune Thrombocytopenia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=nmODs1Y2z9s",
+          "duration": "5:20"
+        },
+        {
+          "name": "The one drug-dependent antibody with a validated assay pathway",
+          "kind": "clinical",
+          "title": "Advances in the diagnosis of heparin-induced thrombocytopenia",
+          "channel": "Mayo Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=TqddD4y3u3w",
+          "duration": "16:45"
+        }
+      ]
+    }
+  ]
+}

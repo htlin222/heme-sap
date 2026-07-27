@@ -1,0 +1,3140 @@
+{
+ "source": "American Society of Hematology Self-Assessment Program_9e_2025.pdf",
+ "chapters": [
+  {
+   "n": 1,
+   "title": "Consultative hematology 1: perioperative management concepts",
+   "page": 1,
+   "bibliography": 7,
+   "end": 8,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 1,
+     "section": "Introduction",
+     "endPage": 1
+    },
+    {
+     "title": "Perioperative challenges and the importance of communication",
+     "page": 2,
+     "section": "Perioperative challenges and the importance of communication",
+     "endPage": 2
+    },
+    {
+     "title": "Perioperative venous thromboembolism prevention",
+     "page": 2,
+     "section": "Perioperative venous thromboembolism prevention",
+     "endPage": 2
+    },
+    {
+     "title": "Perioperative anticoagulation management",
+     "page": 3,
+     "section": "Perioperative anticoagulation management",
+     "endPage": 4
+    },
+    {
+     "title": "Antiplatelet management",
+     "page": 5,
+     "section": "Antiplatelet management",
+     "endPage": 5
+    },
+    {
+     "title": "Intraoperative and postoperative bleeding management considerations",
+     "page": 6,
+     "section": "Intraoperative and postoperative bleeding management considerations",
+     "endPage": 6
+    },
+    {
+     "title": "Conclusion",
+     "page": 7,
+     "section": "Conclusion",
+     "endPage": 8
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Consultative hematology 2: outpatient hematology topics",
+   "page": 9,
+   "bibliography": 18,
+   "end": 18,
+   "units": [
+    {
+     "title": "The role of the hematology consultant",
+     "page": 9,
+     "section": "The role of the hematology consultant",
+     "endPage": 9
+    },
+    {
+     "title": "Thrombocytopenia",
+     "page": 10,
+     "section": "Thrombocytopenia",
+     "endPage": 11
+    },
+    {
+     "title": "Approach to the patient with excessive bleeding",
+     "page": 12,
+     "section": "Approach to the patient with excessive bleeding",
+     "endPage": 13
+    },
+    {
+     "title": "Leukocytosis",
+     "page": 14,
+     "section": "Leukocytosis",
+     "endPage": 14
+    },
+    {
+     "title": "Leukopenia and neutropenia",
+     "page": 14,
+     "section": "Leukopenia and neutropenia",
+     "endPage": 15
+    },
+    {
+     "title": "Lymphadenopathy",
+     "page": 16,
+     "section": "Lymphadenopathy",
+     "endPage": 16
+    },
+    {
+     "title": "Splenomegaly",
+     "page": 16,
+     "section": "Splenomegaly",
+     "endPage": 18
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Consultative hematology 3: women's health issues",
+   "page": 19,
+   "bibliography": 35,
+   "end": 37,
+   "units": [
+    {
+     "title": "Hematologic health issues in women with blood disorders: the multidisciplinary team",
+     "page": 20,
+     "section": "Hematologic health issues in women with blood disorders: the multidisciplinary team",
+     "endPage": 20
+    },
+    {
+     "title": "Hematologic health issues in pregnant women",
+     "page": 20,
+     "section": "Hematologic health issues in pregnant women",
+     "endPage": 23
+    },
+    {
+     "title": "Thrombophilia and placenta-mediated pregnancy complications",
+     "page": 24,
+     "section": "Hematologic health issues in pregnant women",
+     "endPage": 24
+    },
+    {
+     "title": "Hematologic urgencies and emergencies in pregnancy",
+     "page": 25,
+     "section": "Hematologic health issues in pregnant women",
+     "endPage": 28
+    },
+    {
+     "title": "Anemia associated with pregnancy",
+     "page": 29,
+     "section": "Hematologic health issues in pregnant women",
+     "endPage": 29
+    },
+    {
+     "title": "Hematologic health issues in nonpregnant women",
+     "page": 30,
+     "section": "Hematologic health issues in nonpregnant women",
+     "endPage": 32
+    },
+    {
+     "title": "Thrombosis and exogenous hormones",
+     "page": 33,
+     "section": "Hematologic health issues in nonpregnant women",
+     "endPage": 33
+    },
+    {
+     "title": "Menopausal hormone therapy",
+     "page": 34,
+     "section": "Hematologic health issues in nonpregnant women",
+     "endPage": 34
+    },
+    {
+     "title": "Male-to-female hormone therapy",
+     "page": 35,
+     "section": "Hematologic health issues in nonpregnant women",
+     "endPage": 37
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Pediatric hematology: selected topics",
+   "page": 38,
+   "bibliography": 48,
+   "end": 48,
+   "units": [
+    {
+     "title": "Anemia",
+     "page": 38,
+     "section": "Anemia",
+     "endPage": 40
+    },
+    {
+     "title": "Neutropenia",
+     "page": 42,
+     "section": "Neutropenia",
+     "endPage": 42
+    },
+    {
+     "title": "Thrombocytopenia",
+     "page": 43,
+     "section": "Thrombocytopenia",
+     "endPage": 44
+    },
+    {
+     "title": "Coagulopathy",
+     "page": 45,
+     "section": "Coagulopathy",
+     "endPage": 45
+    },
+    {
+     "title": "Thrombosis",
+     "page": 46,
+     "section": "Thrombosis",
+     "endPage": 48
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Hematopoietic growth factors",
+   "page": 49,
+   "bibliography": 60,
+   "end": 61,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 49,
+     "section": "Introduction",
+     "endPage": 49
+    },
+    {
+     "title": "Myeloid growth factors",
+     "page": 50,
+     "section": "Myeloid growth factors",
+     "endPage": 50
+    },
+    {
+     "title": "Clinical use of G-CSF",
+     "page": 51,
+     "section": "Myeloid growth factors",
+     "endPage": 51
+    },
+    {
+     "title": "Treatment for febrile neutropenia",
+     "page": 52,
+     "section": "Myeloid growth factors",
+     "endPage": 53
+    },
+    {
+     "title": "Severe chronic neutropenia (idiopathic, cyclic, congenital)",
+     "page": 54,
+     "section": "Myeloid growth factors",
+     "endPage": 54
+    },
+    {
+     "title": "Erythroid growth factors",
+     "page": 55,
+     "section": "Erythroid growth factors",
+     "endPage": 57
+    },
+    {
+     "title": "Platelet growth factors",
+     "page": 58,
+     "section": "Platelet growth factors",
+     "endPage": 61
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Iron physiology, iron overload, and the porphyrias",
+   "page": 62,
+   "bibliography": 80,
+   "end": 81,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 62,
+     "section": "Introduction",
+     "endPage": 62
+    },
+    {
+     "title": "Regulation of iron homeostasis",
+     "page": 63,
+     "section": "Regulation of iron homeostasis",
+     "endPage": 63
+    },
+    {
+     "title": "Intestinal iron absorption",
+     "page": 64,
+     "section": "Regulation of iron homeostasis",
+     "endPage": 66
+    },
+    {
+     "title": "Hereditary hemochromatosis and other iron overload disorders",
+     "page": 67,
+     "section": "Hereditary hemochromatosis and other iron overload disorders",
+     "endPage": 69
+    },
+    {
+     "title": "Clinical presentation and diagnosis",
+     "page": 70,
+     "section": "Hereditary hemochromatosis and other iron overload disorders",
+     "endPage": 70
+    },
+    {
+     "title": "Treatment",
+     "page": 71,
+     "section": "Hereditary hemochromatosis and other iron overload disorders",
+     "endPage": 71
+    },
+    {
+     "title": "The porphyrias",
+     "page": 72,
+     "section": "The porphyrias",
+     "endPage": 74
+    },
+    {
+     "title": "Clinical features of acute porphyria",
+     "page": 75,
+     "section": "The porphyrias",
+     "endPage": 75
+    },
+    {
+     "title": "Blistering cutaneous porphyrias",
+     "page": 76,
+     "section": "The porphyrias",
+     "endPage": 77
+    },
+    {
+     "title": "Treatment of PCT",
+     "page": 78,
+     "section": "The porphyrias",
+     "endPage": 78
+    },
+    {
+     "title": "Congenital erythropoietic porphyria",
+     "page": 79,
+     "section": "The porphyrias",
+     "endPage": 79
+    },
+    {
+     "title": "Erythropoietic protoporphyria",
+     "page": 80,
+     "section": "The porphyrias",
+     "endPage": 81
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Acquired underproduction anemias: anemias in the setting of vitamin and mineral deficiencies",
+   "page": 82,
+   "bibliography": 92,
+   "end": 92,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 82,
+     "section": "Introduction",
+     "endPage": 82
+    },
+    {
+     "title": "Iron deficiency anemia",
+     "page": 83,
+     "section": "Iron deficiency anemia",
+     "endPage": 83
+    },
+    {
+     "title": "Stages of iron deficiency and clinical manifestations",
+     "page": 84,
+     "section": "Iron deficiency anemia",
+     "endPage": 84
+    },
+    {
+     "title": "Diagnosis",
+     "page": 85,
+     "section": "Iron deficiency anemia",
+     "endPage": 86
+    },
+    {
+     "title": "Treatment",
+     "page": 87,
+     "section": "Iron deficiency anemia",
+     "endPage": 87
+    },
+    {
+     "title": "Megaloblastic anemias",
+     "page": 88,
+     "section": "Megaloblastic anemias",
+     "endPage": 90
+    },
+    {
+     "title": "Folate deficiency",
+     "page": 91,
+     "section": "Megaloblastic anemias",
+     "endPage": 92
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Anemia of inflammation",
+   "page": 93,
+   "bibliography": 96,
+   "end": 96,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 93,
+     "section": "Introduction",
+     "endPage": 93
+    },
+    {
+     "title": "Pathophysiology",
+     "page": 94,
+     "section": "Pathophysiology",
+     "endPage": 94
+    },
+    {
+     "title": "Diagnosis",
+     "page": 94,
+     "section": "Diagnosis",
+     "endPage": 94
+    },
+    {
+     "title": "Treatment",
+     "page": 95,
+     "section": "Treatment",
+     "endPage": 96
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Anemia in the setting of organ insult, systemic disease, and aging",
+   "page": 97,
+   "bibliography": 104,
+   "end": 104,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 98,
+     "section": "Introduction",
+     "endPage": 98
+    },
+    {
+     "title": "Anemia in chronic kidney disease",
+     "page": 98,
+     "section": "Anemia in chronic kidney disease",
+     "endPage": 99
+    },
+    {
+     "title": "Anemia in heart failure",
+     "page": 100,
+     "section": "Anemia in heart failure",
+     "endPage": 100
+    },
+    {
+     "title": "Anemia in cancer",
+     "page": 100,
+     "section": "Anemia in cancer",
+     "endPage": 100
+    },
+    {
+     "title": "Anemia in liver and gastrointestinal diseases",
+     "page": 100,
+     "section": "Anemia in liver and gastrointestinal diseases",
+     "endPage": 102
+    },
+    {
+     "title": "Anemia in chronic pulmonary pathologies",
+     "page": 103,
+     "section": "Anemia in chronic pulmonary pathologies",
+     "endPage": 103
+    },
+    {
+     "title": "Anemia in the elderly",
+     "page": 103,
+     "section": "Anemia in the elderly",
+     "endPage": 104
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Thalassemia syndromes and other hemoglobinopathies",
+   "page": 105,
+   "bibliography": 122,
+   "end": 123,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 106,
+     "section": "Introduction",
+     "endPage": 107
+    },
+    {
+     "title": "Alpha and beta thalassemia",
+     "page": 108,
+     "section": "Introduction",
+     "endPage": 110
+    },
+    {
+     "title": "Clinical (phenotypic) classification of thalassemia (α and β)",
+     "page": 111,
+     "section": "Clinical (phenotypic) classification of thalassemia (α and β)",
+     "endPage": 112
+    },
+    {
+     "title": "Treatment approaches for thalassemia",
+     "page": 113,
+     "section": "Clinical (phenotypic) classification of thalassemia (α and β)",
+     "endPage": 115
+    },
+    {
+     "title": "Complications",
+     "page": 116,
+     "section": "Clinical (phenotypic) classification of thalassemia (α and β)",
+     "endPage": 116
+    },
+    {
+     "title": "Regular disease and complication monitoring in thalassemia",
+     "page": 117,
+     "section": "Clinical (phenotypic) classification of thalassemia (α and β)",
+     "endPage": 117
+    },
+    {
+     "title": "Novel therapies",
+     "page": 118,
+     "section": "Clinical (phenotypic) classification of thalassemia (α and β)",
+     "endPage": 118
+    },
+    {
+     "title": "Other hemoglobinopathies",
+     "page": 119,
+     "section": "Other hemoglobinopathies",
+     "endPage": 119
+    },
+    {
+     "title": "Hemoglobin C",
+     "page": 120,
+     "section": "Other hemoglobinopathies",
+     "endPage": 120
+    },
+    {
+     "title": "Hemoglobins with abnormal oxygen affinity",
+     "page": 121,
+     "section": "Other hemoglobinopathies",
+     "endPage": 123
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Sickle cell disease",
+   "page": 124,
+   "bibliography": 139,
+   "end": 139,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 125,
+     "section": "Introduction",
+     "endPage": 125
+    },
+    {
+     "title": "Laboratory features",
+     "page": 126,
+     "section": "Introduction",
+     "endPage": 126
+    },
+    {
+     "title": "Clinical manifestations",
+     "page": 127,
+     "section": "Introduction",
+     "endPage": 128
+    },
+    {
+     "title": "Painful episodes",
+     "page": 129,
+     "section": "Introduction",
+     "endPage": 129
+    },
+    {
+     "title": "Central nervous system disease",
+     "page": 130,
+     "section": "Introduction",
+     "endPage": 130
+    },
+    {
+     "title": "Pulmonary disease",
+     "page": 131,
+     "section": "Introduction",
+     "endPage": 131
+    },
+    {
+     "title": "Cardiac disease",
+     "page": 132,
+     "section": "Introduction",
+     "endPage": 132
+    },
+    {
+     "title": "Reproductive health and pregnancy",
+     "page": 133,
+     "section": "Introduction",
+     "endPage": 133
+    },
+    {
+     "title": "Treatment",
+     "page": 134,
+     "section": "Introduction",
+     "endPage": 139
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Hemolytic anemia 1: autoimmune hemolysis",
+   "page": 140,
+   "bibliography": 150,
+   "end": 150,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 140,
+     "section": "Introduction",
+     "endPage": 140
+    },
+    {
+     "title": "Testing",
+     "page": 141,
+     "section": "Testing",
+     "endPage": 141
+    },
+    {
+     "title": "Causes",
+     "page": 142,
+     "section": "Causes",
+     "endPage": 142
+    },
+    {
+     "title": "Pathophysiology",
+     "page": 143,
+     "section": "Causes",
+     "endPage": 143
+    },
+    {
+     "title": "Drug-induced immune hemolytic anemia",
+     "page": 144,
+     "section": "Causes",
+     "endPage": 144
+    },
+    {
+     "title": "Hapten or drug adsorption mechanism",
+     "page": 145,
+     "section": "Causes",
+     "endPage": 145
+    },
+    {
+     "title": "Nonimmunologic protein adsorption",
+     "page": 146,
+     "section": "Causes",
+     "endPage": 146
+    },
+    {
+     "title": "Treatment",
+     "page": 147,
+     "section": "Causes",
+     "endPage": 150
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Hemolytic anemia 2: membrane abnormalities and enzymopathies",
+   "page": 151,
+   "bibliography": 163,
+   "end": 163,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 152,
+     "section": "Introduction",
+     "endPage": 152
+    },
+    {
+     "title": "Red cell membrane disorders",
+     "page": 153,
+     "section": "Red cell membrane disorders",
+     "endPage": 155
+    },
+    {
+     "title": "Hereditary elliptocytosis syndromes",
+     "page": 156,
+     "section": "Red cell membrane disorders",
+     "endPage": 156
+    },
+    {
+     "title": "Cation permeability defects",
+     "page": 157,
+     "section": "Cation permeability defects",
+     "endPage": 158
+    },
+    {
+     "title": "Acanthocytic disorders",
+     "page": 159,
+     "section": "Acanthocytic disorders",
+     "endPage": 159
+    },
+    {
+     "title": "Red cell enzymopathies",
+     "page": 159,
+     "section": "Red cell enzymopathies",
+     "endPage": 161
+    },
+    {
+     "title": "Unstable hemoglobins",
+     "page": 162,
+     "section": "Unstable hemoglobins",
+     "endPage": 163
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Complement-related disorders",
+   "page": 164,
+   "bibliography": 174,
+   "end": 175,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 165,
+     "section": "Introduction",
+     "endPage": 165
+    },
+    {
+     "title": "Paroxysmal nocturnal hemoglobinuria",
+     "page": 165,
+     "section": "Paroxysmal nocturnal hemoglobinuria",
+     "endPage": 165
+    },
+    {
+     "title": "Clinical manifestations",
+     "page": 166,
+     "section": "Paroxysmal nocturnal hemoglobinuria",
+     "endPage": 166
+    },
+    {
+     "title": "Treatment",
+     "page": 167,
+     "section": "Paroxysmal nocturnal hemoglobinuria",
+     "endPage": 169
+    },
+    {
+     "title": "Prognosis",
+     "page": 170,
+     "section": "Paroxysmal nocturnal hemoglobinuria",
+     "endPage": 170
+    },
+    {
+     "title": "Thrombotic microangiopathies",
+     "page": 171,
+     "section": "Thrombotic microangiopathies",
+     "endPage": 171
+    },
+    {
+     "title": "Clinical features",
+     "page": 172,
+     "section": "Thrombotic microangiopathies",
+     "endPage": 172
+    },
+    {
+     "title": "Pathogenesis",
+     "page": 173,
+     "section": "Thrombotic microangiopathies",
+     "endPage": 173
+    },
+    {
+     "title": "Management",
+     "page": 174,
+     "section": "Thrombotic microangiopathies",
+     "endPage": 175
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "title": "Introduction to venous thromboembolism and antithrombotic drugs",
+   "page": 176,
+   "bibliography": 188,
+   "end": 189,
+   "units": [
+    {
+     "title": "Introduction: venous thromboembolism",
+     "page": 177,
+     "section": "Introduction: venous thromboembolism",
+     "endPage": 177
+    },
+    {
+     "title": "The pathophysiology of venous thrombosis",
+     "page": 177,
+     "section": "The pathophysiology of venous thrombosis",
+     "endPage": 177
+    },
+    {
+     "title": "Diagnosis of VTE",
+     "page": 178,
+     "section": "The pathophysiology of venous thrombosis",
+     "endPage": 178
+    },
+    {
+     "title": "Recurrent VTE despite anticoagulant treatment",
+     "page": 179,
+     "section": "The pathophysiology of venous thrombosis",
+     "endPage": 179
+    },
+    {
+     "title": "Duration of anticoagulant therapy",
+     "page": 180,
+     "section": "The pathophysiology of venous thrombosis",
+     "endPage": 180
+    },
+    {
+     "title": "Postthrombotic syndrome",
+     "page": 181,
+     "section": "The pathophysiology of venous thrombosis",
+     "endPage": 181
+    },
+    {
+     "title": "Antithrombotic drugs",
+     "page": 182,
+     "section": "Antithrombotic drugs",
+     "endPage": 183
+    },
+    {
+     "title": "Vitamin K antagonists",
+     "page": 184,
+     "section": "Antithrombotic drugs",
+     "endPage": 185
+    },
+    {
+     "title": "Management issues",
+     "page": 186,
+     "section": "Antithrombotic drugs",
+     "endPage": 186
+    },
+    {
+     "title": "Thrombolytic agents",
+     "page": 187,
+     "section": "Antithrombotic drugs",
+     "endPage": 189
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Atypical-site thrombosis",
+   "page": 190,
+   "bibliography": 199,
+   "end": 200,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 190,
+     "section": "Introduction",
+     "endPage": 190
+    },
+    {
+     "title": "Upper-extremity DVT",
+     "page": 191,
+     "section": "Upper-extremity DVT",
+     "endPage": 191
+    },
+    {
+     "title": "Hepatic vein thrombosis / Budd-Chiari syndrome",
+     "page": 192,
+     "section": "Hepatic vein thrombosis / Budd-Chiari syndrome",
+     "endPage": 192
+    },
+    {
+     "title": "Portal vein thrombosis",
+     "page": 193,
+     "section": "Portal vein thrombosis",
+     "endPage": 193
+    },
+    {
+     "title": "Mesenteric vein thrombosis",
+     "page": 194,
+     "section": "Mesenteric vein thrombosis",
+     "endPage": 194
+    },
+    {
+     "title": "Splenic vein thrombosis",
+     "page": 195,
+     "section": "Splenic vein thrombosis",
+     "endPage": 195
+    },
+    {
+     "title": "Cerebral vein and venous sinus thrombosis",
+     "page": 195,
+     "section": "Cerebral vein and venous sinus thrombosis",
+     "endPage": 195
+    },
+    {
+     "title": "Renal vein thrombosis",
+     "page": 196,
+     "section": "Renal vein thrombosis",
+     "endPage": 196
+    },
+    {
+     "title": "Gonadal vein thrombosis",
+     "page": 197,
+     "section": "Gonadal vein thrombosis",
+     "endPage": 197
+    },
+    {
+     "title": "Retinal vein thrombosis",
+     "page": 197,
+     "section": "Retinal vein thrombosis",
+     "endPage": 197
+    },
+    {
+     "title": "Arterial thromboembolism",
+     "page": 198,
+     "section": "Arterial thromboembolism",
+     "endPage": 200
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "title": "Antiphospholipid syndrome",
+   "page": 201,
+   "bibliography": 206,
+   "end": 207,
+   "units": [
+    {
+     "title": "APLAs",
+     "page": 202,
+     "section": "APLAs",
+     "endPage": 202
+    },
+    {
+     "title": "Diagnosis of APS",
+     "page": 202,
+     "section": "Diagnosis of APS",
+     "endPage": 202
+    },
+    {
+     "title": "Prevalence of APLAs and APS",
+     "page": 202,
+     "section": "Prevalence of APLAs and APS",
+     "endPage": 202
+    },
+    {
+     "title": "Laboratory testing of APS",
+     "page": 203,
+     "section": "Laboratory testing of APS",
+     "endPage": 204
+    },
+    {
+     "title": "Clinical consequences of APS",
+     "page": 205,
+     "section": "Clinical consequences of APS",
+     "endPage": 205
+    },
+    {
+     "title": "Management",
+     "page": 205,
+     "section": "Management",
+     "endPage": 205
+    },
+    {
+     "title": "Special populations",
+     "page": 206,
+     "section": "Special populations",
+     "endPage": 207
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "title": "Cancer-associated thrombosis",
+   "page": 208,
+   "bibliography": 214,
+   "end": 216,
+   "units": [
+    {
+     "title": "Epidemiology of CAT",
+     "page": 209,
+     "section": "Epidemiology of CAT",
+     "endPage": 209
+    },
+    {
+     "title": "Occult cancer screening for unprovoked VTE",
+     "page": 209,
+     "section": "Occult cancer screening for unprovoked VTE",
+     "endPage": 209
+    },
+    {
+     "title": "Risk factors and risk assessment tools for CAT",
+     "page": 209,
+     "section": "Risk factors and risk assessment tools for CAT",
+     "endPage": 209
+    },
+    {
+     "title": "Guideline recommendations for CAT management",
+     "page": 210,
+     "section": "Guideline recommendations for CAT management",
+     "endPage": 210
+    },
+    {
+     "title": "Pharmacologic prevention of CAT in ambulatory setting",
+     "page": 211,
+     "section": "Pharmacologic prevention of CAT in ambulatory setting",
+     "endPage": 211
+    },
+    {
+     "title": "Management of usual-site CAT and catheter-related thrombosis",
+     "page": 211,
+     "section": "Management of usual-site CAT Catheter-related thrombosis",
+     "endPage": 212
+    },
+    {
+     "title": "Management of unusual-site CAT (splanchnic vein thrombosis)",
+     "page": 213,
+     "section": "Management of unusual-site CAT (splanchnic vein thrombosis)",
+     "endPage": 213
+    },
+    {
+     "title": "Duration of anticoagulation for CAT",
+     "page": 213,
+     "section": "Duration of anticoagulation for CAT",
+     "endPage": 213
+    },
+    {
+     "title": "Concurrent CAT and thrombocytopenia",
+     "page": 214,
+     "section": "Concurrent CAT and thrombocytopenia",
+     "endPage": 214
+    },
+    {
+     "title": "Concurrent CAT and brain metastasis",
+     "page": 214,
+     "section": "Concurrent CAT and brain metastasis",
+     "endPage": 216
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "title": "Inherited thrombophilias",
+   "page": 217,
+   "bibliography": 225,
+   "end": 225,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 217,
+     "section": "Introduction",
+     "endPage": 217
+    },
+    {
+     "title": "Epidemiology of inherited thrombophilias",
+     "page": 218,
+     "section": "Epidemiology of inherited thrombophilias",
+     "endPage": 218
+    },
+    {
+     "title": "Pathophysiology of inherited thrombophilias",
+     "page": 219,
+     "section": "Pathophysiology of inherited thrombophilias",
+     "endPage": 219
+    },
+    {
+     "title": "Compounding of risk factors",
+     "page": 220,
+     "section": "Compounding of risk factors",
+     "endPage": 220
+    },
+    {
+     "title": "Assays for thrombophilia",
+     "page": 220,
+     "section": "Assays for thrombophilia",
+     "endPage": 221
+    },
+    {
+     "title": "Indications for thrombophilia testing",
+     "page": 222,
+     "section": "Indications for thrombophilia testing",
+     "endPage": 222
+    },
+    {
+     "title": "Treatment implications",
+     "page": 222,
+     "section": "Treatment implications",
+     "endPage": 222
+    },
+    {
+     "title": "Individuals with a history of VTE",
+     "page": 223,
+     "section": "Treatment implications",
+     "endPage": 225
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "title": "von Willebrand disease",
+   "page": 226,
+   "bibliography": 233,
+   "end": 233,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 226,
+     "section": "Introduction",
+     "endPage": 226
+    },
+    {
+     "title": "Incidence and pathophysiology",
+     "page": 227,
+     "section": "Incidence and pathophysiology",
+     "endPage": 227
+    },
+    {
+     "title": "Bleeding phenotype",
+     "page": 227,
+     "section": "Bleeding phenotype",
+     "endPage": 227
+    },
+    {
+     "title": "VWD type 1",
+     "page": 228,
+     "section": "VWD type 1",
+     "endPage": 229
+    },
+    {
+     "title": "VWD type 2",
+     "page": 230,
+     "section": "VWD type 2",
+     "endPage": 230
+    },
+    {
+     "title": "VWD type 3",
+     "page": 230,
+     "section": "VWD type 3",
+     "endPage": 230
+    },
+    {
+     "title": "Genetic testing",
+     "page": 230,
+     "section": "Genetic testing",
+     "endPage": 230
+    },
+    {
+     "title": "Acquired von Willebrand syndrome",
+     "page": 230,
+     "section": "Acquired von Willebrand syndrome",
+     "endPage": 230
+    },
+    {
+     "title": "Treatment",
+     "page": 231,
+     "section": "Treatment",
+     "endPage": 232
+    },
+    {
+     "title": "Gaps in knowledge",
+     "page": 233,
+     "section": "Gaps in knowledge",
+     "endPage": 233
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "title": "Hemophilia A and B",
+   "page": 234,
+   "bibliography": 245,
+   "end": 246,
+   "units": [
+    {
+     "title": "Congenital hemophilia A and B (FVIII and FIX deficiency)",
+     "page": 234,
+     "section": "Congenital hemophilia A and B (FVIII and FIX deficiency)",
+     "endPage": 234
+    },
+    {
+     "title": "Molecular basis",
+     "page": 235,
+     "section": "Congenital hemophilia A and B (FVIII and FIX deficiency)",
+     "endPage": 235
+    },
+    {
+     "title": "Multidisciplinary care",
+     "page": 236,
+     "section": "Congenital hemophilia A and B (FVIII and FIX deficiency)",
+     "endPage": 238
+    },
+    {
+     "title": "Surgical management",
+     "page": 239,
+     "section": "Congenital hemophilia A and B (FVIII and FIX deficiency)",
+     "endPage": 242
+    },
+    {
+     "title": "Prognosis and outcomes",
+     "page": 243,
+     "section": "Congenital hemophilia A and B (FVIII and FIX deficiency)",
+     "endPage": 243
+    },
+    {
+     "title": "Acquired hemophilia",
+     "page": 244,
+     "section": "Acquired hemophilia",
+     "endPage": 246
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Hereditary hemorrhagic telangiectasia and other bleeding disorders",
+   "page": 247,
+   "bibliography": 259,
+   "end": 260,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 248,
+     "section": "Introduction",
+     "endPage": 248
+    },
+    {
+     "title": "Genetics, epidemiology, and clinical manifestations of HHT",
+     "page": 248,
+     "section": "Genetics, epidemiology, and clinical manifestations of HHT",
+     "endPage": 250
+    },
+    {
+     "title": "Diagnosis and management of HHT",
+     "page": 251,
+     "section": "Diagnosis and management of HHT",
+     "endPage": 254
+    },
+    {
+     "title": "Rare factor deficiencies and disorders of fibrinolysis",
+     "page": 255,
+     "section": "Rare factor deficiencies and disorders of fibrinolysis",
+     "endPage": 255
+    },
+    {
+     "title": "Disorders of fibrinolysis",
+     "page": 256,
+     "section": "Rare factor deficiencies and disorders of fibrinolysis",
+     "endPage": 260
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "title": "Platelet disorders 1: immune thrombocytopenia",
+   "page": 261,
+   "bibliography": 269,
+   "end": 270,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 261,
+     "section": "Introduction",
+     "endPage": 261
+    },
+    {
+     "title": "ITP classification",
+     "page": 261,
+     "section": "ITP classification",
+     "endPage": 261
+    },
+    {
+     "title": "Pathophysiology",
+     "page": 262,
+     "section": "Pathophysiology",
+     "endPage": 262
+    },
+    {
+     "title": "Clinical presentation",
+     "page": 262,
+     "section": "Clinical presentation",
+     "endPage": 262
+    },
+    {
+     "title": "Evaluation",
+     "page": 263,
+     "section": "Evaluation",
+     "endPage": 263
+    },
+    {
+     "title": "ITP treatment",
+     "page": 264,
+     "section": "ITP treatment",
+     "endPage": 267
+    },
+    {
+     "title": "Drug-induced immune thrombocytopenia",
+     "page": 268,
+     "section": "Drug-induced immune thrombocytopenia",
+     "endPage": 270
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "title": "Platelet disorders 2: heparin-induced thrombocytopenia and other anti-PF4 disorders",
+   "page": 271,
+   "bibliography": 277,
+   "end": 277,
+   "units": [
+    {
+     "title": "Anti–platelet factor 4 disorders",
+     "page": 271,
+     "section": "Anti–platelet factor 4 disorders",
+     "endPage": 271
+    },
+    {
+     "title": "HIT clinical features",
+     "page": 272,
+     "section": "Anti–platelet factor 4 disorders",
+     "endPage": 272
+    },
+    {
+     "title": "HIT laboratory testing",
+     "page": 273,
+     "section": "Anti–platelet factor 4 disorders",
+     "endPage": 273
+    },
+    {
+     "title": "Treatment of HIT",
+     "page": 274,
+     "section": "Anti–platelet factor 4 disorders",
+     "endPage": 275
+    },
+    {
+     "title": "Acute and chronic VITT",
+     "page": 276,
+     "section": "Anti–platelet factor 4 disorders",
+     "endPage": 277
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "title": "Platelet disorders 3: thrombotic thrombocytopenic purpura (immune and congenital)",
+   "page": 278,
+   "bibliography": 284,
+   "end": 285,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 278,
+     "section": "Introduction",
+     "endPage": 278
+    },
+    {
+     "title": "Pathogenesis",
+     "page": 278,
+     "section": "Pathogenesis",
+     "endPage": 278
+    },
+    {
+     "title": "Clinical features",
+     "page": 279,
+     "section": "Clinical features",
+     "endPage": 281
+    },
+    {
+     "title": "Management",
+     "page": 282,
+     "section": "Management",
+     "endPage": 285
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "title": "Platelet disorders 4: hereditary thrombocytopenia and qualitative platelet disorders",
+   "page": 286,
+   "bibliography": 300,
+   "end": 300,
+   "units": [
+    {
+     "title": "Platelet function in hemostasis",
+     "page": 287,
+     "section": "Platelet function in hemostasis",
+     "endPage": 287
+    },
+    {
+     "title": "Tests to evaluate platelet function abnormalities",
+     "page": 288,
+     "section": "Tests to evaluate platelet function abnormalities",
+     "endPage": 288
+    },
+    {
+     "title": "Hereditary thrombocytopenia",
+     "page": 288,
+     "section": "Hereditary thrombocytopenia",
+     "endPage": 288
+    },
+    {
+     "title": "Thrombocytopenia with large platelets (macrothrombocytopenia)",
+     "page": 289,
+     "section": "Hereditary thrombocytopenia",
+     "endPage": 292
+    },
+    {
+     "title": "Inherited disorders of platelet function",
+     "page": 293,
+     "section": "Inherited disorders of platelet function",
+     "endPage": 293
+    },
+    {
+     "title": "Disorders of platelet adhesion",
+     "page": 294,
+     "section": "Inherited disorders of platelet function",
+     "endPage": 294
+    },
+    {
+     "title": "Disorders of platelet aggregation",
+     "page": 295,
+     "section": "Inherited disorders of platelet function",
+     "endPage": 295
+    },
+    {
+     "title": "Disorders of platelet secretion and signal transduction",
+     "page": 296,
+     "section": "Inherited disorders of platelet function",
+     "endPage": 296
+    },
+    {
+     "title": "Disorders of platelet procoagulant activities",
+     "page": 297,
+     "section": "Inherited disorders of platelet function",
+     "endPage": 297
+    },
+    {
+     "title": "Acquired disorders of platelet function",
+     "page": 298,
+     "section": "Acquired disorders of platelet function",
+     "endPage": 300
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "title": "Laboratory hematology",
+   "page": 301,
+   "bibliography": 321,
+   "end": 321,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 301,
+     "section": "Introduction",
+     "endPage": 301
+    },
+    {
+     "title": "Laboratory hematology tests",
+     "page": 301,
+     "section": "Laboratory hematology tests",
+     "endPage": 304
+    },
+    {
+     "title": "Examination of peripheral blood film",
+     "page": 305,
+     "section": "Laboratory hematology tests",
+     "endPage": 306
+    },
+    {
+     "title": "Flow cytometry",
+     "page": 307,
+     "section": "Laboratory hematology tests",
+     "endPage": 307
+    },
+    {
+     "title": "Cytogenetics",
+     "page": 308,
+     "section": "Laboratory hematology tests",
+     "endPage": 310
+    },
+    {
+     "title": "Molecular diagnostics",
+     "page": 311,
+     "section": "Laboratory hematology tests",
+     "endPage": 311
+    },
+    {
+     "title": "Hemostasis testing",
+     "page": 312,
+     "section": "Hemostasis testing",
+     "endPage": 312
+    },
+    {
+     "title": "Preanalytical variables",
+     "page": 313,
+     "section": "Hemostasis testing",
+     "endPage": 313
+    },
+    {
+     "title": "Screening coagulation testing and associated abnormalities",
+     "page": 314,
+     "section": "Hemostasis testing",
+     "endPage": 314
+    },
+    {
+     "title": "Activated partial thromboplastin time",
+     "page": 315,
+     "section": "Hemostasis testing",
+     "endPage": 315
+    },
+    {
+     "title": "Combined abnormalities of PT and aPTT",
+     "page": 316,
+     "section": "Hemostasis testing",
+     "endPage": 316
+    },
+    {
+     "title": "Coagulation factor activity assays",
+     "page": 317,
+     "section": "Hemostasis testing",
+     "endPage": 317
+    },
+    {
+     "title": "Thrombin time",
+     "page": 318,
+     "section": "Hemostasis testing",
+     "endPage": 318
+    },
+    {
+     "title": "Platelet function tests",
+     "page": 319,
+     "section": "Hemostasis testing",
+     "endPage": 319
+    },
+    {
+     "title": "Specialized testing for acquired thrombocytopenia",
+     "page": 320,
+     "section": "Hemostasis testing",
+     "endPage": 320
+    },
+    {
+     "title": "Assays for thrombophilia",
+     "page": 321,
+     "section": "Hemostasis testing",
+     "endPage": 321
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "title": "Transfusion medicine",
+   "page": 322,
+   "bibliography": 344,
+   "end": 346,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 323,
+     "section": "Introduction",
+     "endPage": 323
+    },
+    {
+     "title": "Red blood cell serology",
+     "page": 323,
+     "section": "Red blood cell serology",
+     "endPage": 324
+    },
+    {
+     "title": "Pretransfusion testing",
+     "page": 325,
+     "section": "Pretransfusion testing",
+     "endPage": 325
+    },
+    {
+     "title": "Red blood cell transfusion",
+     "page": 326,
+     "section": "Red blood cell transfusion",
+     "endPage": 327
+    },
+    {
+     "title": "Platelet transfusion",
+     "page": 328,
+     "section": "Platelet transfusion",
+     "endPage": 329
+    },
+    {
+     "title": "Clinical transfusion of platelets",
+     "page": 330,
+     "section": "Platelet transfusion",
+     "endPage": 331
+    },
+    {
+     "title": "Granulocyte transfusion",
+     "page": 332,
+     "section": "Granulocyte transfusion",
+     "endPage": 332
+    },
+    {
+     "title": "Transfusion of plasma products",
+     "page": 333,
+     "section": "Transfusion of plasma products",
+     "endPage": 333
+    },
+    {
+     "title": "Transfusion of whole blood",
+     "page": 334,
+     "section": "Transfusion of whole blood",
+     "endPage": 334
+    },
+    {
+     "title": "Transfusion support in special clinical settings and pediatric populations",
+     "page": 334,
+     "section": "Transfusion support in special clinical settings and pediatric populations",
+     "endPage": 334
+    },
+    {
+     "title": "Transfusion support after HSCT",
+     "page": 335,
+     "section": "Transfusion support in special clinical settings and pediatric populations",
+     "endPage": 337
+    },
+    {
+     "title": "Sickle cell disease transfusion",
+     "page": 338,
+     "section": "Transfusion support in special clinical settings and pediatric populations",
+     "endPage": 338
+    },
+    {
+     "title": "Transfusion risks",
+     "page": 339,
+     "section": "Transfusion risks",
+     "endPage": 339
+    },
+    {
+     "title": "Febrile nonhemolytic transfusion reactions",
+     "page": 340,
+     "section": "Transfusion risks",
+     "endPage": 340
+    },
+    {
+     "title": "Transfusion-associated circulatory overload",
+     "page": 341,
+     "section": "Transfusion risks",
+     "endPage": 341
+    },
+    {
+     "title": "Infectious complications",
+     "page": 342,
+     "section": "Transfusion risks",
+     "endPage": 342
+    },
+    {
+     "title": "Patient blood management",
+     "page": 343,
+     "section": "Patient blood management",
+     "endPage": 346
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Apheresis",
+   "page": 347,
+   "bibliography": 353,
+   "end": 354,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 347,
+     "section": "Introduction",
+     "endPage": 347
+    },
+    {
+     "title": "Apheresis",
+     "page": 348,
+     "section": "Apheresis",
+     "endPage": 348
+    },
+    {
+     "title": "Red cell exchange",
+     "page": 349,
+     "section": "Apheresis",
+     "endPage": 350
+    },
+    {
+     "title": "Extracorporeal photochemotherapy",
+     "page": 351,
+     "section": "Apheresis",
+     "endPage": 351
+    },
+    {
+     "title": "Peripheral blood mononuclear cell collection",
+     "page": 352,
+     "section": "Apheresis",
+     "endPage": 354
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "title": "Hematopoietic cell transplantation and cellular therapy 1: the basics of transplantation",
+   "page": 355,
+   "bibliography": 363,
+   "end": 366,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 355,
+     "section": "Introduction",
+     "endPage": 355
+    },
+    {
+     "title": "HCT eligibility, stem cell collection, and donor evaluation",
+     "page": 356,
+     "section": "HCT eligibility, stem cell collection, and donor evaluation",
+     "endPage": 357
+    },
+    {
+     "title": "HCT conditioning, stem cell infusion, and engraftment",
+     "page": 358,
+     "section": "HCT conditioning, stem cell infusion, and engraftment",
+     "endPage": 358
+    },
+    {
+     "title": "HCT complications",
+     "page": 359,
+     "section": "HCT complications",
+     "endPage": 361
+    },
+    {
+     "title": "Specific organ toxicities",
+     "page": 362,
+     "section": "Specific organ toxicities",
+     "endPage": 362
+    },
+    {
+     "title": "Survivorship and summary",
+     "page": 362,
+     "section": "Survivorship and summary",
+     "endPage": 366
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "title": "Hematopoietic cell transplantation and cellular therapy 2: autologous transplantation",
+   "page": 367,
+   "bibliography": 373,
+   "end": 375,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 367,
+     "section": "Introduction",
+     "endPage": 367
+    },
+    {
+     "title": "Pretransplant testing",
+     "page": 368,
+     "section": "Pretransplant testing",
+     "endPage": 368
+    },
+    {
+     "title": "Stem cell mobilization and collection",
+     "page": 368,
+     "section": "Stem cell mobilization and collection",
+     "endPage": 368
+    },
+    {
+     "title": "High-dose chemotherapy regimens for autologous transplant",
+     "page": 368,
+     "section": "High-dose chemotherapy regimens for autologous transplant",
+     "endPage": 368
+    },
+    {
+     "title": "Day of stem cell infusion",
+     "page": 369,
+     "section": "Day of stem cell infusion",
+     "endPage": 369
+    },
+    {
+     "title": "Early toxicities of autologous transplant",
+     "page": 369,
+     "section": "Early toxicities of autologous transplant",
+     "endPage": 369
+    },
+    {
+     "title": "Late toxicities of autologous transplant",
+     "page": 370,
+     "section": "Late toxicities of autologous transplant",
+     "endPage": 370
+    },
+    {
+     "title": "Multiple myeloma",
+     "page": 370,
+     "section": "Multiple myeloma",
+     "endPage": 370
+    },
+    {
+     "title": "Light chain amyloidosis and POEMS syndrome",
+     "page": 371,
+     "section": "Light chain amyloidosis and POEMS syndrome",
+     "endPage": 371
+    },
+    {
+     "title": "Diffuse large B-cell lymphoma",
+     "page": 371,
+     "section": "Diffuse large B-cell lymphoma",
+     "endPage": 371
+    },
+    {
+     "title": "Follicular lymphoma",
+     "page": 372,
+     "section": "Follicular lymphoma",
+     "endPage": 372
+    },
+    {
+     "title": "Mantle cell lymphoma",
+     "page": 372,
+     "section": "Mantle cell lymphoma",
+     "endPage": 372
+    },
+    {
+     "title": "Primary CNS lymphoma",
+     "page": 372,
+     "section": "Primary CNS lymphoma",
+     "endPage": 372
+    },
+    {
+     "title": "Hodgkin lymphoma",
+     "page": 372,
+     "section": "Hodgkin lymphoma",
+     "endPage": 372
+    },
+    {
+     "title": "Autoimmune diseases",
+     "page": 372,
+     "section": "Autoimmune diseases",
+     "endPage": 372
+    },
+    {
+     "title": "Germ cell tumors",
+     "page": 373,
+     "section": "Germ cell tumors",
+     "endPage": 373
+    },
+    {
+     "title": "Pediatric solid tumors",
+     "page": 373,
+     "section": "Pediatric solid tumors",
+     "endPage": 375
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "title": "Hematopoietic cell transplantation and cellular therapy 3: allogeneic transplantation and graft-versus-host disease",
+   "page": 376,
+   "bibliography": 384,
+   "end": 385,
+   "units": [
+    {
+     "title": "Alloreactivity in the treatment of hematologic malignancies",
+     "page": 376,
+     "section": "Alloreactivity in the treatment of hematologic malignancies",
+     "endPage": 376
+    },
+    {
+     "title": "Allogeneic hematopoietic cell transplantation and human leukocyte antigen typing",
+     "page": 377,
+     "section": "Allogeneic hematopoietic cell transplantation and human leukocyte antigen typing",
+     "endPage": 377
+    },
+    {
+     "title": "Donor selection",
+     "page": 377,
+     "section": "Donor selection",
+     "endPage": 377
+    },
+    {
+     "title": "Alternative donor transplantation",
+     "page": 378,
+     "section": "Alternative donor transplantation",
+     "endPage": 378
+    },
+    {
+     "title": "Pretransplant evaluation",
+     "page": 379,
+     "section": "Pretransplant evaluation",
+     "endPage": 379
+    },
+    {
+     "title": "Conditioning regimens",
+     "page": 380,
+     "section": "Conditioning regimens",
+     "endPage": 380
+    },
+    {
+     "title": "Myeloablative regimens",
+     "page": 380,
+     "section": "Myeloablative regimens",
+     "endPage": 380
+    },
+    {
+     "title": "Nonmyeloablative and reduced-intensity conditioning",
+     "page": 381,
+     "section": "Nonmyeloablative and reduced-intensity conditioning",
+     "endPage": 381
+    },
+    {
+     "title": "Relapse prevention after allogeneic HCT",
+     "page": 381,
+     "section": "Relapse prevention after allogeneic HCT",
+     "endPage": 381
+    },
+    {
+     "title": "GVHD",
+     "page": 382,
+     "section": "GVHD",
+     "endPage": 383
+    },
+    {
+     "title": "Conclusions",
+     "page": 384,
+     "section": "Conclusions",
+     "endPage": 385
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "title": "Hematopoietic cell transplantation and cellular therapy 4: adoptive cellular therapy",
+   "page": 386,
+   "bibliography": 391,
+   "end": 391,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 386,
+     "section": "Introduction",
+     "endPage": 386
+    },
+    {
+     "title": "Cancer therapy with chimeric antigen receptor–modified T cells",
+     "page": 386,
+     "section": "Cancer therapy with chimeric antigen receptor–modified T cells",
+     "endPage": 386
+    },
+    {
+     "title": "Allogeneic CAR T-cell products",
+     "page": 387,
+     "section": "Allogeneic CAR T-cell products",
+     "endPage": 387
+    },
+    {
+     "title": "Cancer therapy with T-cell receptor–engineered cells",
+     "page": 387,
+     "section": "Cancer therapy with T-cell receptor–engineered cells",
+     "endPage": 387
+    },
+    {
+     "title": "Natural killer cells",
+     "page": 388,
+     "section": "Natural killer cells",
+     "endPage": 388
+    },
+    {
+     "title": "Tumor-infiltrating lymphocytes",
+     "page": 388,
+     "section": "Tumor-infiltrating lymphocytes",
+     "endPage": 388
+    },
+    {
+     "title": "Adoptive cellular therapy complications",
+     "page": 388,
+     "section": "Adoptive cellular therapy complications",
+     "endPage": 388
+    },
+    {
+     "title": "CD19-targeted CAR T-cell therapy for B-cell acute lymphoblastic leukemia",
+     "page": 389,
+     "section": "CD19-targeted CAR T-cell therapy for B-cell acute lymphoblastic leukemia",
+     "endPage": 389
+    },
+    {
+     "title": "CD19-targeted CAR T-cell therapy in diffuse large B-cell lymphoma",
+     "page": 390,
+     "section": "CD19-targeted CAR T-cell therapy in diffuse large B-cell lymphoma",
+     "endPage": 390
+    },
+    {
+     "title": "CD19-targeted CAR T-cell therapy in follicular lymphoma",
+     "page": 390,
+     "section": "CD19-targeted CAR T-cell therapy in follicular lymphoma",
+     "endPage": 390
+    },
+    {
+     "title": "CD19-targeted CAR T-cell therapy in B-cell mantle cell lymphoma",
+     "page": 390,
+     "section": "CD19-targeted CAR T-cell therapy in B-cell mantle cell lymphoma",
+     "endPage": 390
+    },
+    {
+     "title": "CAR T-cell therapy for multiple myeloma",
+     "page": 390,
+     "section": "CAR T-cell therapy for multiple myeloma",
+     "endPage": 391
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "title": "Myeloid disorders: acquired and inherited white blood cell disorders",
+   "page": 392,
+   "bibliography": 406,
+   "end": 407,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 393,
+     "section": "Introduction",
+     "endPage": 393
+    },
+    {
+     "title": "Granulocytes: neutrophils, eosinophils, and basophils",
+     "page": 393,
+     "section": "Granulocytes: neutrophils, eosinophils, and basophils",
+     "endPage": 395
+    },
+    {
+     "title": "Monocytes and related cells",
+     "page": 396,
+     "section": "Monocytes and related cells",
+     "endPage": 396
+    },
+    {
+     "title": "Inherited neutropenias",
+     "page": 397,
+     "section": "Inherited neutropenias",
+     "endPage": 397
+    },
+    {
+     "title": "Acquired neutropenias",
+     "page": 398,
+     "section": "Acquired neutropenias",
+     "endPage": 398
+    },
+    {
+     "title": "Management",
+     "page": 399,
+     "section": "Management",
+     "endPage": 399
+    },
+    {
+     "title": "Inherited disorders of neutrophil function",
+     "page": 399,
+     "section": "Inherited disorders of neutrophil function",
+     "endPage": 400
+    },
+    {
+     "title": "Acquired and inherited disorders of histiocytes and dendritic cells",
+     "page": 401,
+     "section": "Acquired and inherited disorders of histiocytes and dendritic cells",
+     "endPage": 403
+    },
+    {
+     "title": "Lysosomal storage diseases",
+     "page": 404,
+     "section": "Lysosomal storage diseases",
+     "endPage": 404
+    },
+    {
+     "title": "Gaucher disease",
+     "page": 405,
+     "section": "Lysosomal storage diseases",
+     "endPage": 407
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "title": "Inherited bone marrow failure syndromes",
+   "page": 408,
+   "bibliography": 422,
+   "end": 424,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 409,
+     "section": "Introduction",
+     "endPage": 409
+    },
+    {
+     "title": "Fanconi anemia",
+     "page": 409,
+     "section": "Fanconi anemia",
+     "endPage": 410
+    },
+    {
+     "title": "Telomere biology disorders",
+     "page": 411,
+     "section": "Telomere biology disorders",
+     "endPage": 412
+    },
+    {
+     "title": "GATA2 deficiency",
+     "page": 413,
+     "section": "GATA2 deficiency",
+     "endPage": 413
+    },
+    {
+     "title": "SAMD9 and SAMD9L syndromes",
+     "page": 414,
+     "section": "SAMD9 and SAMD9L syndromes",
+     "endPage": 416
+    },
+    {
+     "title": "Shwachman-Diamond syndrome",
+     "page": 417,
+     "section": "Shwachman-Diamond syndrome",
+     "endPage": 417
+    },
+    {
+     "title": "Diamond-Blackfan anemia",
+     "page": 418,
+     "section": "Diamond-Blackfan anemia",
+     "endPage": 418
+    },
+    {
+     "title": "Congenital dyserythropoietic anemias",
+     "page": 419,
+     "section": "Congenital dyserythropoietic anemias",
+     "endPage": 419
+    },
+    {
+     "title": "Inherited thrombocytopenias",
+     "page": 420,
+     "section": "Inherited thrombocytopenias",
+     "endPage": 420
+    },
+    {
+     "title": "Congenital amegakaryocytic thrombocytopenia",
+     "page": 421,
+     "section": "Inherited thrombocytopenias",
+     "endPage": 421
+    },
+    {
+     "title": "Familial platelet disorder with associated myeloid malignancy",
+     "page": 422,
+     "section": "Inherited thrombocytopenias",
+     "endPage": 424
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "title": "Chronic myeloid leukemia",
+   "page": 425,
+   "bibliography": 442,
+   "end": 447,
+   "units": [
+    {
+     "title": "Epidemiology",
+     "page": 425,
+     "section": "Epidemiology",
+     "endPage": 425
+    },
+    {
+     "title": "Pathobiology",
+     "page": 426,
+     "section": "Pathobiology",
+     "endPage": 426
+    },
+    {
+     "title": "Diagnosis",
+     "page": 427,
+     "section": "Diagnosis",
+     "endPage": 427
+    },
+    {
+     "title": "Prognosis",
+     "page": 428,
+     "section": "Prognosis",
+     "endPage": 428
+    },
+    {
+     "title": "Overall treatment approach",
+     "page": 429,
+     "section": "Overall treatment approach",
+     "endPage": 431
+    },
+    {
+     "title": "Chronic-phase CML",
+     "page": 432,
+     "section": "Chronic-phase CML",
+     "endPage": 434
+    },
+    {
+     "title": "Chronic-phase CML resistant or intolerant to prior TKI",
+     "page": 435,
+     "section": "Chronic-phase CML resistant or intolerant to prior TKI",
+     "endPage": 436
+    },
+    {
+     "title": "Accelerated-phase CML",
+     "page": 437,
+     "section": "Accelerated-phase CML",
+     "endPage": 437
+    },
+    {
+     "title": "Blast-phase CML",
+     "page": 438,
+     "section": "Blast-phase CML",
+     "endPage": 438
+    },
+    {
+     "title": "Discontinuation of TKI therapy and TKI dose de-escalation",
+     "page": 439,
+     "section": "Discontinuation of TKI therapy and TKI dose de-escalation",
+     "endPage": 439
+    },
+    {
+     "title": "Stem cell transplantation for CML",
+     "page": 440,
+     "section": "Stem cell transplantation for CML",
+     "endPage": 440
+    },
+    {
+     "title": "Management of CML during pregnancy",
+     "page": 441,
+     "section": "Management of CML during pregnancy",
+     "endPage": 447
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "title": "Myeloproliferative neoplasms: polycythemia vera, essential thrombocythemia, and myelofibrosis",
+   "page": 448,
+   "bibliography": 461,
+   "end": 462,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 448,
+     "section": "Introduction",
+     "endPage": 448
+    },
+    {
+     "title": "Polycythemia vera",
+     "page": 449,
+     "section": "Polycythemia vera",
+     "endPage": 450
+    },
+    {
+     "title": "Management",
+     "page": 451,
+     "section": "Polycythemia vera",
+     "endPage": 452
+    },
+    {
+     "title": "Essential thrombocythemia",
+     "page": 453,
+     "section": "Essential thrombocythemia",
+     "endPage": 455
+    },
+    {
+     "title": "Myelofibrosis (prefibrotic MF, overt primary MF, and post-ET/PV MF)",
+     "page": 456,
+     "section": "Myelofibrosis (prefibrotic MF, overt primary MF, and post-ET/PV MF)",
+     "endPage": 456
+    },
+    {
+     "title": "Disease course",
+     "page": 457,
+     "section": "Myelofibrosis (prefibrotic MF, overt primary MF, and post-ET/PV MF)",
+     "endPage": 457
+    },
+    {
+     "title": "Stem cell transplantation",
+     "page": 458,
+     "section": "Myelofibrosis (prefibrotic MF, overt primary MF, and post-ET/PV MF)",
+     "endPage": 458
+    },
+    {
+     "title": "Symptom-directed management",
+     "page": 459,
+     "section": "Myelofibrosis (prefibrotic MF, overt primary MF, and post-ET/PV MF)",
+     "endPage": 460
+    },
+    {
+     "title": "MPN-accelerated or blast phase",
+     "page": 461,
+     "section": "Myelofibrosis (prefibrotic MF, overt primary MF, and post-ET/PV MF)",
+     "endPage": 462
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "title": "Beyond the classical Philadelphia chromosome–negative myeloproliferative neoplasms",
+   "page": 463,
+   "bibliography": 470,
+   "end": 470,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 463,
+     "section": "Introduction",
+     "endPage": 463
+    },
+    {
+     "title": "Systemic mastocytosis",
+     "page": 464,
+     "section": "Introduction",
+     "endPage": 466
+    },
+    {
+     "title": "Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions",
+     "page": 467,
+     "section": "Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions",
+     "endPage": 470
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "title": "Acquired bone marrow failure syndromes, including aplastic anemia and pure red cell aplasia",
+   "page": 471,
+   "bibliography": 481,
+   "end": 481,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 472,
+     "section": "Introduction",
+     "endPage": 472
+    },
+    {
+     "title": "Aplastic anemia",
+     "page": 472,
+     "section": "Aplastic anemia",
+     "endPage": 472
+    },
+    {
+     "title": "Pathogenesis",
+     "page": 473,
+     "section": "Aplastic anemia",
+     "endPage": 474
+    },
+    {
+     "title": "Therapy",
+     "page": 475,
+     "section": "Aplastic anemia",
+     "endPage": 475
+    },
+    {
+     "title": "Hematopoietic stem cell transplantation",
+     "page": 476,
+     "section": "Aplastic anemia",
+     "endPage": 476
+    },
+    {
+     "title": "Immunosuppressive therapy",
+     "page": 477,
+     "section": "Aplastic anemia",
+     "endPage": 477
+    },
+    {
+     "title": "Long-term complications after IST: Relapse and clonal evolution",
+     "page": 478,
+     "section": "Aplastic anemia",
+     "endPage": 478
+    },
+    {
+     "title": "Acquired pure red cell aplasia",
+     "page": 479,
+     "section": "Acquired pure red cell aplasia",
+     "endPage": 481
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "title": "Myelodysplastic syndromes and premalignant clonal hematopoiesis",
+   "page": 482,
+   "bibliography": 499,
+   "end": 501,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 482,
+     "section": "Introduction",
+     "endPage": 482
+    },
+    {
+     "title": "Epidemiology",
+     "page": 483,
+     "section": "Epidemiology",
+     "endPage": 483
+    },
+    {
+     "title": "Biology",
+     "page": 483,
+     "section": "Biology",
+     "endPage": 483
+    },
+    {
+     "title": "Premalignant conditions",
+     "page": 484,
+     "section": "Premalignant conditions",
+     "endPage": 485
+    },
+    {
+     "title": "Clinical presentation",
+     "page": 486,
+     "section": "Clinical presentation",
+     "endPage": 486
+    },
+    {
+     "title": "Diagnostic evaluation",
+     "page": 487,
+     "section": "Diagnostic evaluation",
+     "endPage": 488
+    },
+    {
+     "title": "Classification",
+     "page": 489,
+     "section": "Classification",
+     "endPage": 491
+    },
+    {
+     "title": "Risk stratification and prognosis",
+     "page": 492,
+     "section": "Risk stratification and prognosis",
+     "endPage": 492
+    },
+    {
+     "title": "Management of MDS",
+     "page": 493,
+     "section": "Management of MDS",
+     "endPage": 494
+    },
+    {
+     "title": "Available MDS therapies",
+     "page": 495,
+     "section": "Management of MDS",
+     "endPage": 497
+    },
+    {
+     "title": "Assessing response to MDS therapy",
+     "page": 498,
+     "section": "Management of MDS",
+     "endPage": 501
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "title": "Acute myeloid leukemia",
+   "page": 502,
+   "bibliography": 515,
+   "end": 516,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 503,
+     "section": "Introduction",
+     "endPage": 503
+    },
+    {
+     "title": "Clinical manifestations",
+     "page": 503,
+     "section": "Clinical manifestations",
+     "endPage": 503
+    },
+    {
+     "title": "Diagnosis",
+     "page": 503,
+     "section": "Diagnosis",
+     "endPage": 503
+    },
+    {
+     "title": "Subtype classification",
+     "page": 503,
+     "section": "Subtype classification",
+     "endPage": 504
+    },
+    {
+     "title": "Prognosis",
+     "page": 505,
+     "section": "Prognosis",
+     "endPage": 506
+    },
+    {
+     "title": "Treatment",
+     "page": 507,
+     "section": "Treatment",
+     "endPage": 510
+    },
+    {
+     "title": "Treatment for medically less-fit patients",
+     "page": 511,
+     "section": "Treatment",
+     "endPage": 511
+    },
+    {
+     "title": "Special populations",
+     "page": 512,
+     "section": "Special populations",
+     "endPage": 513
+    },
+    {
+     "title": "Pediatric AML",
+     "page": 514,
+     "section": "Special populations",
+     "endPage": 516
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "title": "Acute lymphoblastic leukemia",
+   "page": 517,
+   "bibliography": 522,
+   "end": 524,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 517,
+     "section": "Introduction",
+     "endPage": 517
+    },
+    {
+     "title": "Diagnosis",
+     "page": 517,
+     "section": "Diagnosis",
+     "endPage": 518
+    },
+    {
+     "title": "Prognosis",
+     "page": 519,
+     "section": "Prognosis",
+     "endPage": 519
+    },
+    {
+     "title": "Management",
+     "page": 520,
+     "section": "Management",
+     "endPage": 521
+    },
+    {
+     "title": "Supportive care, toxicities, and late effects",
+     "page": 522,
+     "section": "Supportive care, toxicities, and late effects",
+     "endPage": 524
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "title": "Hodgkin lymphoma",
+   "page": 525,
+   "bibliography": 534,
+   "end": 535,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 525,
+     "section": "Introduction",
+     "endPage": 525
+    },
+    {
+     "title": "Epidemiology",
+     "page": 525,
+     "section": "Epidemiology",
+     "endPage": 525
+    },
+    {
+     "title": "Pathology",
+     "page": 525,
+     "section": "Pathology",
+     "endPage": 525
+    },
+    {
+     "title": "Pathogenesis",
+     "page": 526,
+     "section": "Pathogenesis",
+     "endPage": 526
+    },
+    {
+     "title": "Classical Hodgkin lymphoma",
+     "page": 526,
+     "section": "Classical Hodgkin lymphoma",
+     "endPage": 526
+    },
+    {
+     "title": "Disease assessment",
+     "page": 527,
+     "section": "Classical Hodgkin lymphoma",
+     "endPage": 527
+    },
+    {
+     "title": "Early-stage cHL",
+     "page": 528,
+     "section": "Classical Hodgkin lymphoma",
+     "endPage": 528
+    },
+    {
+     "title": "Advanced-stage cHL",
+     "page": 529,
+     "section": "Classical Hodgkin lymphoma",
+     "endPage": 530
+    },
+    {
+     "title": "Nodular lymphocyte-predominant HL",
+     "page": 531,
+     "section": "Nodular lymphocyte-predominant HL",
+     "endPage": 531
+    },
+    {
+     "title": "Follow-up of patients with HL",
+     "page": 532,
+     "section": "Follow-up of patients with HL",
+     "endPage": 535
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "title": "Indolent non-Hodgkin B-cell lymphoma",
+   "page": 536,
+   "bibliography": 548,
+   "end": 551,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 536,
+     "section": "Introduction",
+     "endPage": 537
+    },
+    {
+     "title": "Staging and prognostic factors",
+     "page": 538,
+     "section": "Staging and prognostic factors",
+     "endPage": 538
+    },
+    {
+     "title": "Follicular lymphoma",
+     "page": 538,
+     "section": "Follicular lymphoma",
+     "endPage": 538
+    },
+    {
+     "title": "Management of localized follicular lymphoma",
+     "page": 539,
+     "section": "Management of localized follicular lymphoma",
+     "endPage": 540
+    },
+    {
+     "title": "Approach to patients with advanced-stage follicular lymphoma",
+     "page": 541,
+     "section": "Approach to patients with advanced-stage follicular lymphoma",
+     "endPage": 541
+    },
+    {
+     "title": "Approach to surveillance",
+     "page": 541,
+     "section": "Approach to surveillance",
+     "endPage": 541
+    },
+    {
+     "title": "Management of low-tumor-burden FL vs symptomatic or high-tumor-burden FL",
+     "page": 542,
+     "section": "Management of low-tumor-burden FL vs symptomatic or high-tumor-burden FL",
+     "endPage": 542
+    },
+    {
+     "title": "Therapy for relapsed and refractory FL",
+     "page": 543,
+     "section": "Therapy for relapsed and refractory FL",
+     "endPage": 543
+    },
+    {
+     "title": "Marginal zone lymphomas",
+     "page": 544,
+     "section": "Marginal zone lymphomas",
+     "endPage": 544
+    },
+    {
+     "title": "New additions in the 5th edition of the WHO classification",
+     "page": 545,
+     "section": "New additions in the 5th edition of the WHO classification",
+     "endPage": 545
+    },
+    {
+     "title": "MALT lymphomas",
+     "page": 545,
+     "section": "MALT lymphomas",
+     "endPage": 545
+    },
+    {
+     "title": "Nodal MZL",
+     "page": 546,
+     "section": "Nodal MZL",
+     "endPage": 546
+    },
+    {
+     "title": "Splenic MZL",
+     "page": 546,
+     "section": "Splenic MZL",
+     "endPage": 546
+    },
+    {
+     "title": "Hairy cell leukemia",
+     "page": 547,
+     "section": "Hairy cell leukemia",
+     "endPage": 547
+    },
+    {
+     "title": "Transformation to aggressive lymphoma in indolent lymphomas",
+     "page": 548,
+     "section": "Transformation to aggressive lymphoma in indolent lymphomas",
+     "endPage": 551
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "title": "Aggressive non-Hodgkin and Burkitt lymphomas",
+   "page": 552,
+   "bibliography": 561,
+   "end": 565,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 552,
+     "section": "Introduction",
+     "endPage": 552
+    },
+    {
+     "title": "Diffuse large B-cell lymphoma",
+     "page": 553,
+     "section": "Diffuse large B-cell lymphoma",
+     "endPage": 554
+    },
+    {
+     "title": "Relapsed and refractory DLBCL",
+     "page": 555,
+     "section": "Diffuse large B-cell lymphoma",
+     "endPage": 555
+    },
+    {
+     "title": "Special situations: management of specific clinicopathologic entities of DLBCL",
+     "page": 556,
+     "section": "Diffuse large B-cell lymphoma",
+     "endPage": 556
+    },
+    {
+     "title": "Central nervous system lymphoma",
+     "page": 557,
+     "section": "Central nervous system lymphoma",
+     "endPage": 557
+    },
+    {
+     "title": "Burkitt lymphoma",
+     "page": 558,
+     "section": "Burkitt lymphoma",
+     "endPage": 558
+    },
+    {
+     "title": "High-grade B-cell lymphoma, NOS",
+     "page": 558,
+     "section": "High-grade B-cell lymphoma, NOS",
+     "endPage": 558
+    },
+    {
+     "title": "Lymphoid proliferations and lymphomas associated with immune deficiency and dysregulation",
+     "page": 558,
+     "section": "Lymphoid proliferations and lymphomas associated with immune deficiency and dysregulation",
+     "endPage": 559
+    },
+    {
+     "title": "Mantle cell lymphoma",
+     "page": 560,
+     "section": "Mantle cell lymphoma",
+     "endPage": 560
+    },
+    {
+     "title": "Management of relapsed MCL",
+     "page": 561,
+     "section": "Mantle cell lymphoma",
+     "endPage": 565
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "title": "T-cell lymphomas",
+   "page": 566,
+   "bibliography": 579,
+   "end": 580,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 566,
+     "section": "Introduction",
+     "endPage": 567
+    },
+    {
+     "title": "Peripheral T-cell lymphomas",
+     "page": 568,
+     "section": "Peripheral T-cell lymphomas",
+     "endPage": 570
+    },
+    {
+     "title": "PTCL of T-follicular helper origin",
+     "page": 571,
+     "section": "Peripheral T-cell lymphomas",
+     "endPage": 571
+    },
+    {
+     "title": "Rare peripheral T-cell lymphomas",
+     "page": 572,
+     "section": "Rare peripheral T-cell lymphomas",
+     "endPage": 572
+    },
+    {
+     "title": "Adult T-cell leukemia/lymphoma",
+     "page": 573,
+     "section": "Rare peripheral T-cell lymphomas",
+     "endPage": 573
+    },
+    {
+     "title": "Extranodal NK-/T-cell lymphoma",
+     "page": 574,
+     "section": "Rare peripheral T-cell lymphomas",
+     "endPage": 574
+    },
+    {
+     "title": "Hepatosplenic T-cell lymphoma",
+     "page": 575,
+     "section": "Rare peripheral T-cell lymphomas",
+     "endPage": 575
+    },
+    {
+     "title": "Cutaneous T-cell lymphomas",
+     "page": 576,
+     "section": "Cutaneous T-cell lymphomas",
+     "endPage": 577
+    },
+    {
+     "title": "Primary cutaneous ALCL",
+     "page": 578,
+     "section": "Cutaneous T-cell lymphomas",
+     "endPage": 578
+    },
+    {
+     "title": "Subcutaneous panniculitis-like T-cell lymphoma",
+     "page": 579,
+     "section": "Cutaneous T-cell lymphomas",
+     "endPage": 580
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "title": "Chronic lymphocytic leukemia/small lymphocytic lymphoma",
+   "page": 581,
+   "bibliography": 593,
+   "end": 595,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 581,
+     "section": "Introduction",
+     "endPage": 581
+    },
+    {
+     "title": "Epidemiology",
+     "page": 582,
+     "section": "Epidemiology",
+     "endPage": 582
+    },
+    {
+     "title": "Biology",
+     "page": 582,
+     "section": "Biology",
+     "endPage": 582
+    },
+    {
+     "title": "Diagnosis and clinical evaluation",
+     "page": 583,
+     "section": "Diagnosis and clinical evaluation",
+     "endPage": 583
+    },
+    {
+     "title": "Risk stratification",
+     "page": 584,
+     "section": "Risk stratification",
+     "endPage": 586
+    },
+    {
+     "title": "Management",
+     "page": 587,
+     "section": "Management",
+     "endPage": 588
+    },
+    {
+     "title": "Treatment of relapsed/refractory CLL",
+     "page": 589,
+     "section": "Management",
+     "endPage": 590
+    },
+    {
+     "title": "Complications of CLL",
+     "page": 591,
+     "section": "Complications of CLL",
+     "endPage": 591
+    },
+    {
+     "title": "Second malignancies",
+     "page": 592,
+     "section": "Complications of CLL",
+     "endPage": 595
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "title": "Plasma cell disorders: monoclonal gammopathy of undetermined significance and multiple myeloma",
+   "page": 596,
+   "bibliography": 621,
+   "end": 629,
+   "units": [
+    {
+     "title": "Introduction",
+     "page": 596,
+     "section": "Introduction",
+     "endPage": 596
+    },
+    {
+     "title": "Normal plasma cell development",
+     "page": 597,
+     "section": "Normal plasma cell development",
+     "endPage": 597
+    },
+    {
+     "title": "Detection of plasma cell disorders",
+     "page": 597,
+     "section": "Detection of plasma cell disorders",
+     "endPage": 597
+    },
+    {
+     "title": "Disease definitions",
+     "page": 598,
+     "section": "Disease definitions",
+     "endPage": 598
+    },
+    {
+     "title": "Monoclonal gammopathy of undetermined significance",
+     "page": 599,
+     "section": "Disease definitions",
+     "endPage": 599
+    },
+    {
+     "title": "Light-chain MGUS",
+     "page": 600,
+     "section": "Disease definitions",
+     "endPage": 600
+    },
+    {
+     "title": "Monoclonal gammopathy of clinical significance",
+     "page": 601,
+     "section": "Disease definitions",
+     "endPage": 601
+    },
+    {
+     "title": "Epidemiology",
+     "page": 602,
+     "section": "Epidemiology",
+     "endPage": 602
+    },
+    {
+     "title": "Etiology",
+     "page": 602,
+     "section": "Etiology",
+     "endPage": 602
+    },
+    {
+     "title": "IgH translocations",
+     "page": 603,
+     "section": "IgH translocations",
+     "endPage": 603
+    },
+    {
+     "title": "Clinical presentation and diagnostic considerations",
+     "page": 604,
+     "section": "Clinical presentation and diagnostic considerations",
+     "endPage": 604
+    },
+    {
+     "title": "Staging and risk stratification prognostic factors",
+     "page": 604,
+     "section": "Staging and risk stratification prognostic factors",
+     "endPage": 605
+    },
+    {
+     "title": "Treatment approaches for MM",
+     "page": 606,
+     "section": "Treatment approaches for MM",
+     "endPage": 607
+    },
+    {
+     "title": "Treatment of transplantation-eligible patients",
+     "page": 608,
+     "section": "Treatment approaches for MM",
+     "endPage": 609
+    },
+    {
+     "title": "Role of high-dose therapy and autologous stem cell transplantation",
+     "page": 610,
+     "section": "Treatment approaches for MM",
+     "endPage": 610
+    },
+    {
+     "title": "Treatment of transplantation-ineligible patients",
+     "page": 611,
+     "section": "Treatment of transplantation-ineligible patients",
+     "endPage": 611
+    },
+    {
+     "title": "Treatment of relapsed MM",
+     "page": 611,
+     "section": "Treatment of relapsed MM",
+     "endPage": 613
+    },
+    {
+     "title": "Triplet combinations",
+     "page": 614,
+     "section": "Treatment of relapsed MM",
+     "endPage": 614
+    },
+    {
+     "title": "Agents used in early relapse",
+     "page": 615,
+     "section": "Treatment of relapsed MM",
+     "endPage": 615
+    },
+    {
+     "title": "Late relapse",
+     "page": 616,
+     "section": "Late relapse",
+     "endPage": 616
+    },
+    {
+     "title": "Management of high-risk myeloma and risk-adapted therapy",
+     "page": 616,
+     "section": "Management of high-risk myeloma and risk-adapted therapy",
+     "endPage": 616
+    },
+    {
+     "title": "Individualizing treatment approaches",
+     "page": 617,
+     "section": "Individualizing treatment approaches",
+     "endPage": 617
+    },
+    {
+     "title": "Supportive care",
+     "page": 618,
+     "section": "Supportive care",
+     "endPage": 619
+    },
+    {
+     "title": "Other plasma cell disorders",
+     "page": 620,
+     "section": "Other plasma cell disorders",
+     "endPage": 620
+    },
+    {
+     "title": "Nonsecretory MM",
+     "page": 621,
+     "section": "Other plasma cell disorders",
+     "endPage": 629
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "title": "AL amyloidosis, Waldenström macroglobulinemia, and POEMS syndrome",
+   "page": 630,
+   "bibliography": 640,
+   "end": 640,
+   "units": [
+    {
+     "title": "Light chain amyloidosis (AL amyloidosis)",
+     "page": 631,
+     "section": "Light chain amyloidosis (AL amyloidosis)",
+     "endPage": 631
+    },
+    {
+     "title": "Amyloid subtyping to identify amyloid type",
+     "page": 632,
+     "section": "Light chain amyloidosis (AL amyloidosis)",
+     "endPage": 632
+    },
+    {
+     "title": "Clinical evaluation and disease staging",
+     "page": 633,
+     "section": "Light chain amyloidosis (AL amyloidosis)",
+     "endPage": 633
+    },
+    {
+     "title": "Treatment approaches",
+     "page": 634,
+     "section": "Light chain amyloidosis (AL amyloidosis)",
+     "endPage": 634
+    },
+    {
+     "title": "Treatment of relapsed AL amyloidosis",
+     "page": 635,
+     "section": "Light chain amyloidosis (AL amyloidosis)",
+     "endPage": 635
+    },
+    {
+     "title": "Waldenström macroglobulinemia",
+     "page": 636,
+     "section": "Waldenström macroglobulinemia",
+     "endPage": 637
+    },
+    {
+     "title": "POEMS syndrome",
+     "page": 638,
+     "section": "POEMS syndrome",
+     "endPage": 640
+    }
+   ]
+  }
+ ]
+}

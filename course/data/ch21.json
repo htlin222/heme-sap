@@ -1,0 +1,206 @@
+{
+  "chapter": "CH21",
+  "title": "Hemophilia A and B",
+  "units": [
+    {
+      "id": "ch21-u1",
+      "type": "section",
+      "name": "Congenital hemophilia A and B (FVIII and FIX deficiency)",
+      "ashsapPage": 234,
+      "assessment": "Can you map factor activity level onto bleeding phenotype in hemophilia A and B, and explain how emicizumab, fitusiran, concizumab, marstacimab and gene therapy each change which laboratory assay still reports a meaningful number?",
+      "lesson": {
+        "title": "New Hemophilia Treatments: Implications for the Coagulation Laboratory",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=XfJFGAdX5A0",
+        "duration": "59:03",
+        "why": "The pool holds no modern general overview of congenital hemophilia, but this session covers the current factor and non-factor armamentarium and, critically, how each product breaks the assays used to follow it."
+      },
+      "drills": [
+        {
+          "name": "Marstacimab phase 3 prophylaxis data",
+          "kind": "trial",
+          "title": "BASIS Phase 3 Trial: Marstacimab Shows Itself a Versatile Hemophilia A, HB Prophylaxis",
+          "channel": "Heme Today",
+          "url": "https://www.youtube.com/watch?v=C-cBTfrYL1s",
+          "duration": "8:14"
+        },
+        {
+          "name": "Phase 3 gene therapy results in hemophilia B",
+          "kind": "trial",
+          "title": "Data from Phase 3 Gene Therapy Trial in Hemophilia B Patients Very Encouraging",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=wNERkBVswO0",
+          "duration": "24:40"
+        }
+      ]
+    },
+    {
+      "id": "ch21-u2",
+      "type": "section",
+      "name": "Molecular basis",
+      "ashsapPage": 235,
+      "assessment": "Can you explain why the intron 22 inversion of F8 accounts for so much severe hemophilia A, and how null versus missense genotypes predict both inhibitor risk and the phenotype seen in biologic females with skewed X inactivation?",
+      "lesson": {
+        "title": "Hemophilia A and B Genetics, Inheritance, and Family Planning",
+        "channel": "Karlene Brantley Coleman",
+        "url": "https://www.youtube.com/watch?v=pI9wXSBU7GM",
+        "duration": "22:37",
+        "why": "The only item the re-search found that works at the level of the F8 and F9 genes themselves — mutation classes, how they segregate through a pedigree, and what carrier status means for testing and reproductive planning."
+      },
+      "drills": [
+        {
+          "name": "Carrier testing and counseling in hemophilia families",
+          "kind": "clinical",
+          "title": "Webinar: Genetic Counseling",
+          "channel": "New England Hemophilia (NEHA)",
+          "url": "https://www.youtube.com/watch?v=JuHSBGRwq0k",
+          "duration": "1:04:14"
+        },
+        {
+          "name": "F9 mutations and the hemophilia B phenotype",
+          "kind": "mechanism",
+          "title": "Hemophilia B and its Mutations",
+          "channel": "Learn Biotechnology and Microbiology",
+          "url": "https://www.youtube.com/watch?v=hzSszOcjmB0",
+          "duration": "13:48"
+        }
+      ]
+    },
+    {
+      "id": "ch21-u3",
+      "type": "section",
+      "name": "Multidisciplinary care",
+      "ashsapPage": 236,
+      "assessment": "Can you describe what an integrated hemophilia treatment centre contributes beyond prescribing factor, and name the disciplines a comprehensive visit must include to cover joint health, pain, dental care, mental health and transition to adult care?",
+      "lesson": {
+        "title": "On a Pathway Towards Healthy Ageing: Importance of Multidisciplinary Care and Coordination",
+        "channel": "European Haemophilia Consortium",
+        "url": "https://www.youtube.com/watch?v=rOE2OLMomG0",
+        "duration": "33:25",
+        "why": "A European Haemophilia Consortium session on ageing with hemophilia that makes the case for coordinated multidisciplinary care concretely rather than in the abstract."
+      },
+      "drills": [
+        {
+          "name": "Shared decision making, from an ASH 2025 faculty panel",
+          "kind": "clinical",
+          "title": "Shared Decision Making in Hemophilia Care: Expert Insights From the FSS preceding ASH 2025",
+          "channel": "i3 Health",
+          "url": "https://www.youtube.com/watch?v=WnS97bsvNo4",
+          "duration": "18:19"
+        },
+        {
+          "name": "What a hemophilia treatment centre actually does",
+          "kind": "clinical",
+          "title": "Hemophilia Treatment Centers (HTCs): What They Are and How They Help",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=btl7XkuyiBY",
+          "duration": "3:50"
+        },
+        {
+          "name": "A comprehensive care overview",
+          "kind": "clinical",
+          "title": "Haemophilia and its care | Dr. Shwetha Kamath | ORDI | Organization for Rare Diseases India",
+          "channel": "Organization for Rare Diseases India - ORDI",
+          "url": "https://www.youtube.com/watch?v=qNo75c7gH_M",
+          "duration": "42:13"
+        }
+      ]
+    },
+    {
+      "id": "ch21-u4",
+      "type": "section",
+      "name": "Surgical management",
+      "ashsapPage": 239,
+      "assessment": "Can you plan perioperative hemostasis for a patient with severe hemophilia - target factor levels for major versus minor surgery, how long to maintain cover, how to monitor someone already on emicizumab, and what changes when an inhibitor is present?",
+      "lesson": {
+        "title": "Dr. Mustaqeem Ahmad Siddiqui - Perioperative management of hemophilia",
+        "channel": "Pearl Event Management Services",
+        "url": "https://www.youtube.com/watch?v=KrN3xrbXVdc",
+        "duration": "42:09",
+        "why": "A dedicated lecture on perioperative management of hemophilia, the exact content of this section and the only candidate that addresses it directly."
+      },
+      "drills": [
+        {
+          "name": "Acute bleeding management, case-based",
+          "kind": "clinical",
+          "title": "Management of Hemophilia in the Emergency Department: A Case-Based Discussion",
+          "channel": "CME Outfitters",
+          "url": "https://www.youtube.com/watch?v=khSrES4qVgw",
+          "duration": "13:06"
+        }
+      ]
+    },
+    {
+      "id": "ch21-u5",
+      "type": "section",
+      "name": "Prognosis and outcomes",
+      "ashsapPage": 243,
+      "assessment": "Can you state how prophylaxis begun in early childhood changes joint outcomes and life expectancy in severe hemophilia, and name the outcome measures used to judge whether a modern regimen is actually working?",
+      "lesson": {
+        "title": "Factor product utilization and health outcomes in patients with hemophilia A and B",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=4-k3tkO6Gfo",
+        "duration": "55:11",
+        "why": "A registry-based session on factor utilisation and health outcomes in hemophilia A and B, which is what this prognosis section is measuring."
+      },
+      "drills": [
+        {
+          "name": "Ultrasound as an outcome measure for joint health",
+          "kind": "clinical",
+          "title": "Musculoskeletal ultrasound evaluation of joint health status & bleeding phenotype in hemophilia A/B",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=7hqq0XY-49A",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "id": "ch21-u6",
+      "type": "section",
+      "name": "Acquired hemophilia",
+      "ashsapPage": 244,
+      "assessment": "Can you recognise acquired hemophilia A in an older patient with new soft-tissue bruising and an isolated prolonged aPTT, describe what the mixing study and Bethesda assay show, and outline both bleeding control and antibody eradication?",
+      "lesson": {
+        "title": "Acquired Haemophilia",
+        "channel": "CMJAH Department of Internal Medicine",
+        "url": "https://www.youtube.com/watch?v=CtHiknWrjPA",
+        "duration": "37:41",
+        "why": "A focused academic department lecture on acquired haemophilia covering presentation, the inhibitor assay and the two parallel treatment goals."
+      },
+      "drills": [
+        {
+          "name": "Emicizumab as an alternative to immunosuppression",
+          "kind": "trial",
+          "title": "Emicizumab prophylaxis instead of immunosuppressive therapy in patients with acquired hemophilia A",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=ENw_RabU6T4",
+          "duration": "2:15"
+        },
+        {
+          "name": "Inhibitors and acquired hemophilia side by side",
+          "kind": "clinical",
+          "title": "Inhibitors 101 and Acquired Hemophilia 101",
+          "channel": "Hemophilia Federation of America",
+          "url": "https://www.youtube.com/watch?v=UJz7O3sT2Lo",
+          "duration": "1:22:25"
+        },
+        {
+          "name": "Acquired hemophilia in pregnancy and later life",
+          "kind": "clinical",
+          "title": "Diagnosis and Treatment of Acquired Hemophilia in Women During Reproductive and Late Menopausal Life",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=mj2a9fXCalI",
+          "duration": "1:00:39"
+        },
+        {
+          "name": "Expert answers on diagnosis and management",
+          "kind": "clinical",
+          "title": "Ask the Experts: Diagnosis and Management of Acquired Hemophilia",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=fCyqkWXC3K8",
+          "duration": "3:32"
+        }
+      ]
+    }
+  ]
+}

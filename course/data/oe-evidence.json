@@ -1,0 +1,859 @@
+{
+ "conditions": [
+  {
+   "unit": "ch1-u4",
+   "evidence_grade": "trial",
+   "summary": "Three randomized trials settled the bridging question: routine heparin bridging around surgery in atrial fibrillation increases bleeding without preventing thromboembolism.",
+   "practice": "Interrupt warfarin five days preoperatively and do not bridge unless thrombotic risk is genuinely high. For DOACs, a standardized interruption of 1 day before low-bleeding-risk and 2 days before high-bleeding-risk procedures needs no perioperative testing.",
+   "red_flags": [
+    "Mechanical mitral valve",
+    "VTE within 3 months",
+    "CHA2DS2-VASc 7 or more"
+   ],
+   "caveats": "BRIDGE excluded mechanical valves and recent stroke, so the highest-risk patients most likely to need bridging are the ones the trial cannot speak to.",
+   "citations": [
+    {
+     "pmid": "26095867",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26095867",
+     "title": "Perioperative Bridging Anticoagulation in Patients with Atrial Fibrillation",
+     "journal": "N Engl J Med",
+     "year": "2015"
+    },
+    {
+     "pmid": "31380891",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31380891",
+     "title": "Perioperative Management of Patients With Atrial Fibrillation Receiving a Direct Oral Anticoagulant",
+     "journal": "JAMA Intern Med",
+     "year": "2019"
+    },
+    {
+     "pmid": "34108229",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34108229",
+     "title": "Postoperative low molecular weight heparin bridging treatment for patients at high risk of arterial thromboembolism (PERIOP2): double blind randomised controlled trial",
+     "journal": "BMJ",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "unit": "ch11-u9",
+   "evidence_grade": "trial",
+   "summary": "Hydroxyurea remains the only disease-modifying therapy with mortality data. Voxelotor and crizanlizumab were approved on surrogate and crisis-rate endpoints, and both have since had their benefit questioned; gene therapies are curative-intent but new.",
+   "practice": "Offer hydroxyurea to all patients with sickle cell anemia and recurrent crises; escalate to transfusion programs for stroke prevention. Treat newer agents as adjuncts, not replacements.",
+   "red_flags": [
+    "Acute chest syndrome",
+    "Acute stroke",
+    "Splenic sequestration",
+    "Priapism over 4 hours"
+   ],
+   "caveats": "Voxelotor was withdrawn from the market in 2024 after post-approval data, a reminder that hemoglobin rise is not a clinical endpoint.",
+   "citations": [
+    {
+     "pmid": "7715639",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/7715639",
+     "title": "Effect of hydroxyurea on the frequency of painful crises in sickle cell anemia. Investigators of the Multicenter Study of Hydroxyurea in Sickle Cell Anemia",
+     "journal": "N Engl J Med",
+     "year": "1995"
+    },
+    {
+     "pmid": "31199090",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31199090",
+     "title": "A Phase 3 Randomized Trial of Voxelotor in Sickle Cell Disease",
+     "journal": "N Engl J Med",
+     "year": "2019"
+    },
+    {
+     "pmid": "27959701",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27959701",
+     "title": "Crizanlizumab for the Prevention of Pain Crises in Sickle Cell Disease",
+     "journal": "N Engl J Med",
+     "year": "2017"
+    },
+    {
+     "pmid": "38661449",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38661449",
+     "title": "Exagamglogene Autotemcel for Severe Sickle Cell Disease",
+     "journal": "N Engl J Med",
+     "year": "2024"
+    }
+   ]
+  },
+  {
+   "unit": "ch14-u4",
+   "evidence_grade": "trial",
+   "summary": "Ravulizumab matched eculizumab with eight-weekly dosing; pegcetacoplan, acting proximally at C3, was superior to eculizumab for hemoglobin because it also prevents extravascular hemolysis.",
+   "practice": "Choose a C5 inhibitor for intravascular hemolysis and thrombosis prevention; switch to or start proximal inhibition when residual anemia is driven by C3-opsonized extravascular clearance.",
+   "red_flags": [
+    "Meningococcal sepsis",
+    "Breakthrough hemolysis",
+    "Budd-Chiari syndrome"
+   ],
+   "caveats": "All complement inhibitors mandate meningococcal vaccination and carry a boxed warning; proximal inhibition may worsen breakthrough hemolysis if a dose is missed.",
+   "citations": [
+    {
+     "pmid": "30510080",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30510080",
+     "title": "Ravulizumab (ALXN1210) vs eculizumab in adult patients with PNH naive to complement inhibitors: the 301 study",
+     "journal": "Blood",
+     "year": "2019"
+    },
+    {
+     "pmid": "33730455",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33730455",
+     "title": "Pegcetacoplan versus Eculizumab in Paroxysmal Nocturnal Hemoglobinuria",
+     "journal": "N Engl J Med",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "unit": "ch15-u5",
+   "evidence_grade": "trial",
+   "summary": "For extended treatment after unprovoked VTE, reduced-dose DOACs preserve most of the efficacy of full dose with bleeding rates close to aspirin.",
+   "practice": "After the first 6 months, continue apixaban 2.5 mg twice daily or rivaroxaban 10 mg daily indefinitely for unprovoked proximal VTE, rather than stopping or dropping to aspirin.",
+   "red_flags": [
+    "Active bleeding",
+    "Severe thrombocytopenia",
+    "Creatinine clearance below 15"
+   ],
+   "caveats": "Extension trials enrolled patients who had already tolerated 6-12 months of anticoagulation, so they under-represent early bleeders.",
+   "citations": [
+    {
+     "pmid": "28316279",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28316279",
+     "title": "Rivaroxaban or Aspirin for Extended Treatment of Venous Thromboembolism",
+     "journal": "N Engl J Med",
+     "year": "2017"
+    },
+    {
+     "pmid": "23216615",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23216615",
+     "title": "Apixaban for extended treatment of venous thromboembolism",
+     "journal": "N Engl J Med",
+     "year": "2013"
+    }
+   ]
+  },
+  {
+   "unit": "ch17-u6",
+   "evidence_grade": "guideline",
+   "summary": "Randomized trials showed excess arterial thrombosis with rivaroxaban in triple-positive antiphospholipid syndrome, reversing earlier enthusiasm for DOACs.",
+   "practice": "Use warfarin, not a DOAC, in triple-positive APS and in any APS patient with arterial events. The 2023 ACR/EULAR criteria raised the laboratory bar for classification.",
+   "red_flags": [
+    "Catastrophic APS",
+    "Arterial thrombosis on anticoagulation",
+    "Livedo racemosa with stroke"
+   ],
+   "caveats": "The 2023 criteria are classification, not diagnostic, criteria; a patient who fails them may still have the disease and need treatment.",
+   "citations": [
+    {
+     "pmid": "30002145",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30002145",
+     "title": "Rivaroxaban vs warfarin in high-risk patients with antiphospholipid syndrome",
+     "journal": "Blood",
+     "year": "2018"
+    },
+    {
+     "pmid": "37635643",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37635643",
+     "title": "The 2023 ACR/EULAR Antiphospholipid Syndrome Classification Criteria",
+     "journal": "Arthritis Rheumatol",
+     "year": "2023"
+    }
+   ]
+  },
+  {
+   "unit": "ch18-u4",
+   "evidence_grade": "trial",
+   "summary": "DOACs are now first-line for most cancer-associated VTE, but the gastrointestinal bleeding signal differs by agent and by tumour site.",
+   "practice": "Apixaban is preferred when luminal gastrointestinal or genitourinary malignancy raises bleeding risk; edoxaban and rivaroxaban carry a higher GI bleeding rate in those patients. Low-molecular-weight heparin remains reasonable when absorption is unreliable.",
+   "red_flags": [
+    "Unresected luminal GI tumour",
+    "Platelets below 50",
+    "Primary or metastatic brain tumour"
+   ],
+   "caveats": "CARAVAGGIO excluded primary brain tumours and acute leukemia, the two groups where the bleeding question is hardest.",
+   "citations": [
+    {
+     "pmid": "32223112",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32223112",
+     "title": "Apixaban for the Treatment of Venous Thromboembolism Associated with Cancer",
+     "journal": "N Engl J Med",
+     "year": "2020"
+    },
+    {
+     "pmid": "29231094",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29231094",
+     "title": "Edoxaban for the Treatment of Cancer-Associated Venous Thromboembolism",
+     "journal": "N Engl J Med",
+     "year": "2018"
+    },
+    {
+     "pmid": "33570602",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33570602",
+     "title": "American Society of Hematology 2021 guidelines for management of venous thromboembolism: prevention and treatment in patients with cancer",
+     "journal": "Blood Adv",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "unit": "ch21-u1",
+   "evidence_grade": "trial",
+   "summary": "Emicizumab, a bispecific antibody bridging FIXa and FX, reduced bleeding by roughly 96 percent versus no prophylaxis and is given subcutaneously, decoupling prophylaxis from venous access.",
+   "practice": "Emicizumab is standard prophylaxis for hemophilia A with or without inhibitors. Gene therapy offers durable factor expression but with variable, declining levels and hepatotoxicity requiring steroids.",
+   "red_flags": [
+    "Intracranial hemorrhage",
+    "Iliopsoas bleed",
+    "aPCC given with emicizumab"
+   ],
+   "caveats": "Emicizumab invalidates one-stage aPTT-based FVIII assays; combining it with activated prothrombin complex concentrate caused thrombotic microangiopathy.",
+   "citations": [
+    {
+     "pmid": "30157389",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30157389",
+     "title": "Emicizumab Prophylaxis in Patients Who Have Hemophilia A without Inhibitors",
+     "journal": "N Engl J Med",
+     "year": "2018"
+    },
+    {
+     "pmid": "35294811",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35294811",
+     "title": "Valoctocogene Roxaparvovec Gene Therapy for Hemophilia A",
+     "journal": "N Engl J Med",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch23-u6",
+   "evidence_grade": "guideline",
+   "summary": "The 2019 ASH guidelines moved away from prolonged corticosteroids and towards early second-line therapy with thrombopoietin receptor agonists or rituximab.",
+   "practice": "Limit initial corticosteroids to no more than six weeks including taper. Choose between TPO-RAs, rituximab and splenectomy by patient preference, comorbidity and desire for durable remission off therapy.",
+   "red_flags": [
+    "Intracranial hemorrhage",
+    "Wet purpura",
+    "Platelets below 10 with bleeding"
+   ],
+   "caveats": "Platelet count is a poor proxy for bleeding risk; treat the bleeding phenotype, not the number.",
+   "citations": [
+    {
+     "pmid": "31794604",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31794604",
+     "title": "American Society of Hematology 2019 guidelines for immune thrombocytopenia",
+     "journal": "Blood Adv",
+     "year": "2019"
+    }
+   ]
+  },
+  {
+   "unit": "ch24-u4",
+   "evidence_grade": "guideline",
+   "summary": "Management of heparin-induced thrombocytopenia rests on pretest probability scoring and immediate substitution with a non-heparin anticoagulant, not on waiting for confirmatory assays.",
+   "practice": "Stop all heparin and start argatroban, bivalirudin, fondaparinux or a DOAC at the point of intermediate or high 4Ts score. Do not give prophylactic platelet transfusions, and delay warfarin until platelets recover.",
+   "red_flags": [
+    "Skin necrosis at injection sites",
+    "Limb ischemia",
+    "Warfarin started before platelet recovery"
+   ],
+   "caveats": "A positive immunoassay alone over-diagnoses HIT; a functional assay is needed to confirm, and the 4Ts score is what should drive the immediate action.",
+   "citations": [
+    {
+     "pmid": "30482768",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30482768",
+     "title": "American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia",
+     "journal": "Blood Adv",
+     "year": "2018"
+    }
+   ]
+  },
+  {
+   "unit": "ch25-u4",
+   "evidence_grade": "trial",
+   "summary": "Caplacizumab, an anti-VWF nanobody, shortened time to platelet normalization and reduced refractory disease and recurrence when added to plasma exchange and immunosuppression.",
+   "practice": "Start plasma exchange and corticosteroids immediately on clinical suspicion; add rituximab and consider caplacizumab. ADAMTS13 activity confirms the diagnosis but must not delay exchange.",
+   "red_flags": [
+    "Neurologic deficit",
+    "Cardiac troponin rise",
+    "ADAMTS13 activity below 10 percent"
+   ],
+   "caveats": "Caplacizumab increases mucocutaneous bleeding and mortality benefit was not demonstrated; it does not treat the underlying autoimmunity, so relapse follows withdrawal if ADAMTS13 has not recovered.",
+   "citations": [
+    {
+     "pmid": "30625070",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30625070",
+     "title": "Caplacizumab Treatment for Acquired Thrombotic Thrombocytopenic Purpura",
+     "journal": "N Engl J Med",
+     "year": "2019"
+    },
+    {
+     "pmid": "32914526",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32914526",
+     "title": "ISTH guidelines for treatment of thrombotic thrombocytopenic purpura",
+     "journal": "J Thromb Haemost",
+     "year": "2020"
+    }
+   ]
+  },
+  {
+   "unit": "ch28-u4",
+   "evidence_grade": "trial",
+   "summary": "Restrictive transfusion thresholds are non-inferior across most settings, with myocardial infarction the notable exception where the evidence remains unsettled.",
+   "practice": "Transfuse at a hemoglobin of 7 g/dL for most hospitalized patients and 8 g/dL after cardiac surgery or with pre-existing cardiovascular disease. Single-unit orders with reassessment are the default.",
+   "red_flags": [
+    "Active hemorrhage",
+    "Acute coronary syndrome with anemia",
+    "TACO in the elderly"
+   ],
+   "caveats": "MINT found a non-significant trend favouring liberal transfusion in myocardial infarction, so the 7 g/dL threshold should not be applied reflexively there.",
+   "citations": [
+    {
+     "pmid": "10318985",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/10318985",
+     "title": "Transfusion requirements in critical care (TRICC): a multicentre, randomized, controlled clinical study. Transfusion Requirements in Critical Care Investigators and the Canadian Critical care Trials Group",
+     "journal": "Br J Anaesth",
+     "year": "1998"
+    },
+    {
+     "pmid": "37952133",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37952133",
+     "title": "Restrictive or Liberal Transfusion Strategy in Myocardial Infarction and Anemia",
+     "journal": "N Engl J Med",
+     "year": "2023"
+    }
+   ]
+  },
+  {
+   "unit": "ch32-u10",
+   "evidence_grade": "trial",
+   "summary": "Post-transplant cyclophosphamide improved GVHD-free relapse-free survival even in HLA-matched transplants, and ruxolitinib beat best available therapy in steroid-refractory GVHD.",
+   "practice": "Post-transplant cyclophosphamide with tacrolimus and mycophenolate is now a standard prophylaxis backbone beyond the haploidentical setting. Ruxolitinib is first-line for steroid-refractory acute and chronic GVHD.",
+   "red_flags": [
+    "Steroid-refractory gut GVHD",
+    "Bronchiolitis obliterans",
+    "Thrombotic microangiopathy"
+   ],
+   "caveats": "Ruxolitinib response rates are high but durable complete responses are less common, and cytopenias and infection limit dosing.",
+   "citations": [
+    {
+     "pmid": "37342922",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37342922",
+     "title": "Post-Transplantation Cyclophosphamide-Based Graft-versus-Host Disease Prophylaxis",
+     "journal": "N Engl J Med",
+     "year": "2023"
+    },
+    {
+     "pmid": "32320566",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32320566",
+     "title": "Ruxolitinib for Glucocorticoid-Refractory Acute Graft-versus-Host Disease",
+     "journal": "N Engl J Med",
+     "year": "2020"
+    }
+   ]
+  },
+  {
+   "unit": "ch33-u9",
+   "evidence_grade": "trial",
+   "summary": "CD19 CAR T-cell therapy produced durable remissions in chemorefractory large B-cell lymphoma and has since moved into second line, beating salvage chemotherapy plus autologous transplant.",
+   "practice": "Refer patients relapsing within 12 months of first-line therapy for second-line CAR T rather than salvage chemotherapy and transplant. Manage cytokine release syndrome and neurotoxicity by grading, with tocilizumab and steroids.",
+   "red_flags": [
+    "Grade 3 CRS",
+    "ICANS with seizure",
+    "Prolonged cytopenia beyond day 30"
+   ],
+   "caveats": "Trials enrolled patients fit enough for transplant; outcomes in older or frailer patients, and the sequencing question against bispecific antibodies, remain open.",
+   "citations": [
+    {
+     "pmid": "29226797",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29226797",
+     "title": "Axicabtagene Ciloleucel CAR T-Cell Therapy in Refractory Large B-Cell Lymphoma",
+     "journal": "N Engl J Med",
+     "year": "2017"
+    },
+    {
+     "pmid": "34891224",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34891224",
+     "title": "Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma",
+     "journal": "N Engl J Med",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch36-u6",
+   "evidence_grade": "trial",
+   "summary": "Imatinib transformed CML into a chronic disease; second-generation TKIs achieve deeper molecular responses faster but have not translated that into an overall survival advantage.",
+   "practice": "Any approved first-line TKI is acceptable; choose by comorbidity and by whether treatment-free remission is a goal. Monitor BCR::ABL1 by international-scale PCR at 3, 6 and 12 months against milestone targets.",
+   "red_flags": [
+    "BCR::ABL1 above 10 percent at 3 months",
+    "Rising transcript on therapy",
+    "New cytogenetic abnormality"
+   ],
+   "caveats": "Nilotinib carries vascular occlusive risk and dasatinib pleural effusion; a deeper molecular response is only worth an added toxicity if discontinuation is actually the plan.",
+   "citations": [
+    {
+     "pmid": "12637609",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12637609",
+     "title": "Imatinib compared with interferon and low-dose cytarabine for newly diagnosed chronic-phase chronic myeloid leukemia",
+     "journal": "N Engl J Med",
+     "year": "2003"
+    },
+    {
+     "pmid": "20525993",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/20525993",
+     "title": "Nilotinib versus imatinib for newly diagnosed chronic myeloid leukemia",
+     "journal": "N Engl J Med",
+     "year": "2010"
+    }
+   ]
+  },
+  {
+   "unit": "ch36-u7",
+   "evidence_grade": "trial",
+   "summary": "Asciminib binds the myristoyl pocket rather than the ATP site, giving activity after ATP-competitive TKI failure with a better safety profile than ponatinib.",
+   "practice": "Test for kinase-domain mutations at failure. T315I demands ponatinib or asciminib at higher dose; response-adjusted ponatinib dosing reduces arterial occlusive events without losing efficacy.",
+   "red_flags": [
+    "T315I mutation",
+    "Arterial occlusive event on ponatinib",
+    "Progression to blast phase"
+   ],
+   "caveats": "Asciminib was compared with bosutinib, not with ponatinib, so the two are not ranked against each other by randomized evidence.",
+   "citations": [
+    {
+     "pmid": "31826340",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31826340",
+     "title": "Asciminib in Chronic Myeloid Leukemia after ABL Kinase Inhibitor Failure",
+     "journal": "N Engl J Med",
+     "year": "2019"
+    }
+   ]
+  },
+  {
+   "unit": "ch36-u10",
+   "evidence_grade": "trial",
+   "summary": "About half of patients in sustained deep molecular response stay in remission after stopping a TKI, and most who relapse regain response on restarting.",
+   "practice": "Consider discontinuation after at least 3 years of therapy and 2 years of MR4 or deeper, with monthly PCR for the first 6 months. Restart on loss of major molecular response.",
+   "red_flags": [
+    "Loss of MMR after stopping",
+    "Prior accelerated or blast phase",
+    "Inadequate PCR monitoring access"
+   ],
+   "caveats": "Roughly a quarter develop a transient TKI withdrawal syndrome of musculoskeletal pain; discontinuation outside a monitoring programme with reliable international-scale PCR is unsafe.",
+   "citations": [
+    {
+     "pmid": "29735299",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29735299",
+     "title": "Discontinuation of tyrosine kinase inhibitor therapy in chronic myeloid leukaemia (EURO-SKI): a prespecified interim analysis of a prospective, multicentre, non-randomised, trial",
+     "journal": "Lancet Oncol",
+     "year": "2018"
+    }
+   ]
+  },
+  {
+   "unit": "ch37-u2",
+   "evidence_grade": "trial",
+   "summary": "A hematocrit target below 45 percent halved cardiovascular death and major thrombosis, and ruxolitinib controls hydroxyurea-resistant or intolerant disease.",
+   "practice": "Phlebotomize to a hematocrit below 45 percent and give low-dose aspirin to all. Add cytoreduction for age over 60 or prior thrombosis; ruxolitinib is second-line after hydroxyurea failure.",
+   "red_flags": [
+    "Thrombosis at diagnosis",
+    "Erythromelalgia",
+    "Transformation to myelofibrosis or AML"
+   ],
+   "caveats": "The 45 percent threshold comes from a single open-label trial with a modest event count; the target has not been re-tested.",
+   "citations": [
+    {
+     "pmid": "23216616",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23216616",
+     "title": "Cardiovascular events and intensity of treatment in polycythemia vera",
+     "journal": "N Engl J Med",
+     "year": "2013"
+    },
+    {
+     "pmid": "25629741",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25629741",
+     "title": "Ruxolitinib versus standard therapy for the treatment of polycythemia vera",
+     "journal": "N Engl J Med",
+     "year": "2015"
+    }
+   ]
+  },
+  {
+   "unit": "ch37-u5",
+   "evidence_grade": "trial",
+   "summary": "JAK inhibitors reduce spleen size and symptoms in myelofibrosis without altering the disease's clonal course; momelotinib uniquely improves anemia through ACVR1 inhibition.",
+   "practice": "Select the JAK inhibitor by the dominant problem: ruxolitinib for spleen and symptoms, momelotinib when anemia and transfusion dependence dominate, pacritinib when platelets are below 50. Allogeneic transplant remains the only curative option.",
+   "red_flags": [
+    "Blasts above 10 percent",
+    "Transfusion dependence",
+    "Abrupt ruxolitinib withdrawal"
+   ],
+   "caveats": "Stopping ruxolitinib abruptly can precipitate a cytokine rebound syndrome; taper rather than stop.",
+   "citations": [
+    {
+     "pmid": "22375971",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22375971",
+     "title": "A double-blind, placebo-controlled trial of ruxolitinib for myelofibrosis",
+     "journal": "N Engl J Med",
+     "year": "2012"
+    },
+    {
+     "pmid": "36709073",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36709073",
+     "title": "Momelotinib versus danazol in symptomatic patients with anaemia and myelofibrosis (MOMENTUM): results from an international, double-blind, randomised, controlled, phase 3 study",
+     "journal": "Lancet",
+     "year": "2023"
+    }
+   ]
+  },
+  {
+   "unit": "ch39-u6",
+   "evidence_grade": "trial",
+   "summary": "Adding eltrombopag to horse antithymocyte globulin and cyclosporine raised complete response rates and shortened time to response in severe aplastic anemia.",
+   "practice": "Horse ATG plus cyclosporine plus eltrombopag is first-line for patients who are not transplant candidates. Matched sibling transplant remains first-line for younger patients.",
+   "red_flags": [
+    "Absolute neutrophil count below 0.2",
+    "PNH clone with hemolysis",
+    "Emerging monosomy 7"
+   ],
+   "caveats": "Rabbit ATG is inferior to horse ATG in this disease, a distinction that is easy to get wrong when substituting products.",
+   "citations": [
+    {
+     "pmid": "34986284",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34986284",
+     "title": "Eltrombopag Added to Immunosuppression in Severe Aplastic Anemia",
+     "journal": "N Engl J Med",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch40-u8",
+   "evidence_grade": "guideline",
+   "summary": "IPSS-M incorporates 31 mutated genes alongside cytogenetics and blood counts, and restratifies roughly half of patients compared with IPSS-R.",
+   "practice": "Send a myeloid mutation panel at diagnosis and calculate IPSS-M, not IPSS-R alone, before deciding on transplant referral or hypomethylating therapy.",
+   "red_flags": [
+    "TP53 multi-hit",
+    "Complex karyotype",
+    "Blast increase on serial marrow"
+   ],
+   "caveats": "IPSS-M was derived largely in patients not receiving disease-modifying therapy, so it predicts natural history better than it predicts treatment response.",
+   "citations": [
+    {
+     "pmid": "38319256",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38319256",
+     "title": "Molecular International Prognostic Scoring System for Myelodysplastic Syndromes",
+     "journal": "NEJM Evid",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch40-u9",
+   "evidence_grade": "trial",
+   "summary": "Azacitidine improved survival in higher-risk MDS; luspatercept reduces transfusion burden in lower-risk disease and outperformed epoetin alfa in the first-line setting.",
+   "practice": "Split management by risk. Lower-risk: treat the cytopenia, with erythropoiesis-stimulating agents or luspatercept, and lenalidomide for del(5q). Higher-risk: hypomethylating agent with early transplant referral for fit patients.",
+   "red_flags": [
+    "Progression to AML",
+    "Ferritin rise with transfusion dependence",
+    "TP53 mutation"
+   ],
+   "caveats": "Luspatercept improves transfusion independence but has never been shown to change survival or progression to AML.",
+   "citations": [
+    {
+     "pmid": "31914241",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31914241",
+     "title": "Luspatercept in Patients with Lower-Risk Myelodysplastic Syndromes",
+     "journal": "N Engl J Med",
+     "year": "2020"
+    },
+    {
+     "pmid": "19230772",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19230772",
+     "title": "Efficacy of azacitidine compared with that of conventional care regimens in the treatment of higher-risk myelodysplastic syndromes: a randomised, open-label, phase III study",
+     "journal": "Lancet Oncol",
+     "year": "2009"
+    }
+   ]
+  },
+  {
+   "unit": "ch41-u6",
+   "evidence_grade": "guideline",
+   "summary": "AML management is now genomically directed: ELN 2022 restratified risk, and adding midostaurin to intensive chemotherapy improved survival in FLT3-mutated disease.",
+   "practice": "Send rapid FLT3 and NPM1 testing before starting therapy so a targeted agent can be added to induction. Use measurable residual disease to guide consolidation and transplant.",
+   "red_flags": [
+    "APL morphology or coagulopathy",
+    "Hyperleukocytosis with leukostasis",
+    "Differentiation syndrome"
+   ],
+   "caveats": "ELN 2022 risk groups were derived in intensively treated patients and perform poorly for patients receiving venetoclax-based therapy.",
+   "citations": [
+    {
+     "pmid": "28644114",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28644114",
+     "title": "Midostaurin plus Chemotherapy for Acute Myeloid Leukemia with a FLT3 Mutation",
+     "journal": "N Engl J Med",
+     "year": "2017"
+    }
+   ]
+  },
+  {
+   "unit": "ch41-u7",
+   "evidence_grade": "trial",
+   "summary": "Azacitidine plus venetoclax roughly doubled median survival versus azacitidine alone in patients ineligible for intensive chemotherapy, and has become the standard of care in that group.",
+   "practice": "Offer azacitidine-venetoclax to patients unfit for intensive induction. Plan a marrow at the end of cycle 1, hold venetoclax for count recovery, and adjust dose for azole antifungals.",
+   "red_flags": [
+    "Tumour lysis syndrome at ramp-up",
+    "Prolonged neutropenia",
+    "Invasive fungal infection"
+   ],
+   "caveats": "IDH1/2 and NPM1 mutations respond particularly well while TP53 does not, so a single median survival figure conceals very different trajectories.",
+   "citations": [
+    {
+     "pmid": "32786187",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32786187",
+     "title": "Azacitidine and Venetoclax in Previously Untreated Acute Myeloid Leukemia",
+     "journal": "N Engl J Med",
+     "year": "2020"
+    }
+   ]
+  },
+  {
+   "unit": "ch43-u8",
+   "evidence_grade": "trial",
+   "summary": "Brentuximab vedotin with AVD improved survival over ABVD in advanced Hodgkin lymphoma, and nivolumab-AVD subsequently beat brentuximab-AVD on progression-free survival with less toxicity.",
+   "practice": "Nivolumab-AVD is emerging as the preferred front-line regimen in advanced-stage disease. Bleomycin is omitted in most modern regimens because of pulmonary toxicity.",
+   "red_flags": [
+    "Bleomycin lung toxicity",
+    "Peripheral neuropathy on brentuximab",
+    "Immune-related adverse events"
+   ],
+   "caveats": "S1826 reported early progression-free survival; overall survival and late effects, which matter enormously in a young curable population, are not yet mature.",
+   "citations": [
+    {
+     "pmid": "34048680",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34048680",
+     "title": "Brentuximab vedotin with chemotherapy for stage III or IV classical Hodgkin lymphoma (ECHELON-1): 5-year update of an international, open-label, randomised, phase 3 trial",
+     "journal": "Lancet Haematol",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "unit": "ch44-u8",
+   "evidence_grade": "trial",
+   "summary": "Bispecific antibodies produce high complete response rates in heavily pretreated follicular lymphoma with off-the-shelf availability, competing with CAR T-cell therapy.",
+   "practice": "For relapsed follicular lymphoma, weigh bispecifics, CAR T and lenalidomide-rituximab by prior lines, fitness and access. Watch for early progression within 24 months, which marks a poor-risk group.",
+   "red_flags": [
+    "Progression within 24 months of first therapy",
+    "Histologic transformation",
+    "Cytokine release syndrome"
+   ],
+   "caveats": "Response rates come from single-arm trials; no randomized comparison establishes bispecifics against CAR T in this disease.",
+   "citations": [
+    {
+     "pmid": "35803286",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35803286",
+     "title": "Safety and efficacy of mosunetuzumab, a bispecific antibody, in patients with relapsed or refractory follicular lymphoma: a single-arm, multicentre, phase 2 study",
+     "journal": "Lancet Oncol",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch45-u2",
+   "evidence_grade": "trial",
+   "summary": "POLARIX showed a progression-free survival advantage for polatuzumab-R-CHP over R-CHOP in previously untreated DLBCL, without an overall survival difference.",
+   "practice": "Consider polatuzumab-R-CHP for IPI 2 or higher, particularly non-germinal-centre subtypes. R-CHOP remains an acceptable standard, and cell-of-origin plus MYC/BCL2 rearrangement status should be established up front.",
+   "red_flags": [
+    "Double-hit lymphoma",
+    "CNS involvement",
+    "Tumour lysis at first cycle"
+   ],
+   "caveats": "The absolute progression-free survival gain was about 6 percent with no survival benefit, and subgroup benefit was inconsistent.",
+   "citations": [
+    {
+     "pmid": "34904799",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34904799",
+     "title": "Polatuzumab Vedotin in Previously Untreated Diffuse Large B-Cell Lymphoma",
+     "journal": "N Engl J Med",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch45-u3",
+   "evidence_grade": "trial",
+   "summary": "For DLBCL relapsing within 12 months, CD19 CAR T-cell therapy is superior to salvage chemotherapy with autologous transplant.",
+   "practice": "Split relapsed disease by timing. Early relapse or primary refractory: CAR T. Late relapse in a transplant-fit patient: salvage chemotherapy and autologous transplant remain reasonable.",
+   "red_flags": [
+    "Primary refractory disease",
+    "Relapse within 12 months",
+    "CNS relapse"
+   ],
+   "caveats": "One second-line CAR T trial was negative, and the differences between products and between trial designs matter more than the shared headline.",
+   "citations": [
+    {
+     "pmid": "35717989",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35717989",
+     "title": "Lisocabtagene maraleucel versus standard of care with salvage chemotherapy followed by autologous stem cell transplantation as second-line treatment in patients with relapsed or refractory large B-cell lymphoma (TRANSFORM): results from an interim analysis of an open-label, randomised, phase 3 trial",
+     "journal": "Lancet",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch47-u6",
+   "evidence_grade": "trial",
+   "summary": "Chemoimmunotherapy has been displaced in front-line CLL by continuous BTK inhibition and by fixed-duration venetoclax-obinutuzumab.",
+   "practice": "Test IGHV mutation status and TP53 aberration before treating. Choose between fixed-duration venetoclax-obinutuzumab and continuous BTK inhibition by comorbidity, cardiac risk and patient preference for a defined stopping point.",
+   "red_flags": [
+    "del(17p) or TP53 mutation",
+    "Richter transformation",
+    "Atrial fibrillation on BTK inhibitor"
+   ],
+   "caveats": "Second-generation BTK inhibitors reduced cardiac toxicity relative to ibrutinib but the trials are not powered for survival differences between them.",
+   "citations": [
+    {
+     "pmid": "31166681",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31166681",
+     "title": "Venetoclax and Obinutuzumab in Patients with CLL and Coexisting Conditions",
+     "journal": "N Engl J Med",
+     "year": "2019"
+    },
+    {
+     "pmid": "32305093",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32305093",
+     "title": "Acalabrutinib with or without obinutuzumab versus chlorambucil and obinutuzmab for treatment-naive chronic lymphocytic leukaemia (ELEVATE TN): a randomised, controlled, phase 3 trial",
+     "journal": "Lancet",
+     "year": "2020"
+    }
+   ]
+  },
+  {
+   "unit": "ch47-u7",
+   "evidence_grade": "trial",
+   "summary": "Fixed-duration venetoclax-rituximab beat bendamustine-rituximab in relapsed CLL, and non-covalent BTK inhibition with pirtobrutinib retains activity after covalent BTK inhibitor failure including BTK C481S.",
+   "practice": "At relapse, switch mechanism class rather than repeating it. Pirtobrutinib and BTK degraders are options after covalent BTK inhibitor failure; CAR T is reserved for double-refractory disease.",
+   "red_flags": [
+    "BTK C481S mutation",
+    "Richter transformation",
+    "Double-refractory disease"
+   ],
+   "caveats": "Pirtobrutinib was approved on single-arm response data; durability after covalent BTK failure is still being defined.",
+   "citations": [
+    {
+     "pmid": "30523712",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30523712",
+     "title": "Fixed Duration of Venetoclax-Rituximab in Relapsed/Refractory Chronic Lymphocytic Leukemia Eradicates Minimal Residual Disease and Prolongs Survival: Post-Treatment Follow-Up of the MURANO Phase III Study",
+     "journal": "J Clin Oncol",
+     "year": "2019"
+    },
+    {
+     "pmid": "37407001",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37407001",
+     "title": "Pirtobrutinib after a Covalent BTK Inhibitor in Chronic Lymphocytic Leukemia",
+     "journal": "N Engl J Med",
+     "year": "2023"
+    }
+   ]
+  },
+  {
+   "unit": "ch48-u14",
+   "evidence_grade": "trial",
+   "summary": "Adding an anti-CD38 antibody to bortezomib-lenalidomide-dexamethasone deepens response and prolongs progression-free survival, and autologous transplant still adds progression-free but not overall survival benefit.",
+   "practice": "Quadruplet induction with daratumumab or isatuximab is the standard for transplant-eligible patients, followed by autologous transplant and lenalidomide maintenance. Risk-adapt maintenance for high-risk cytogenetics.",
+   "red_flags": [
+    "Hypercalcemia with renal failure",
+    "Cord compression",
+    "Plasma cell leukemia"
+   ],
+   "caveats": "DETERMINATION found no overall survival gain from early transplant and more second primary malignancies, so deferring transplant to first relapse remains defensible.",
+   "citations": [
+    {
+     "pmid": "38084760",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38084760",
+     "title": "Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone for Multiple Myeloma",
+     "journal": "N Engl J Med",
+     "year": "2024"
+    },
+    {
+     "pmid": "35660812",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35660812",
+     "title": "Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma",
+     "journal": "N Engl J Med",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch48-u17",
+   "evidence_grade": "trial",
+   "summary": "BCMA-directed CAR T-cell therapy and bispecific antibodies have moved into earlier relapse, with ciltacabtagene autoleucel superior to standard triplets in lenalidomide-refractory disease.",
+   "practice": "In lenalidomide-refractory relapse, refer for BCMA CAR T where available. Bispecifics targeting BCMA or GPRC5D are off-the-shelf alternatives; both carry substantial infection risk requiring immunoglobulin support and prophylaxis.",
+   "red_flags": [
+    "Delayed neurotoxicity or parkinsonism after CAR T",
+    "Hypogammaglobulinemia with recurrent infection",
+    "Extramedullary disease"
+   ],
+   "caveats": "Manufacturing time and slot availability mean CAR T is not an option for rapidly progressing disease, which is precisely where it is most wanted.",
+   "citations": [
+    {
+     "pmid": "37272512",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37272512",
+     "title": "Cilta-cel or Standard Care in Lenalidomide-Refractory Multiple Myeloma",
+     "journal": "N Engl J Med",
+     "year": "2023"
+    },
+    {
+     "pmid": "35661166",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35661166",
+     "title": "Teclistamab in Relapsed or Refractory Multiple Myeloma",
+     "journal": "N Engl J Med",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "unit": "ch49-u4",
+   "evidence_grade": "trial",
+   "summary": "Adding daratumumab to cyclophosphamide-bortezomib-dexamethasone roughly doubled the hematologic complete response rate and improved organ response in AL amyloidosis.",
+   "practice": "Daratumumab-CyBorD is first-line for newly diagnosed AL amyloidosis. Stage by cardiac biomarkers, because early mortality is driven by cardiac involvement rather than by clonal burden.",
+   "red_flags": [
+    "NT-proBNP above 8500",
+    "Syncope",
+    "Autonomic failure with hypotension"
+   ],
+   "caveats": "ANDROMEDA excluded the highest-risk cardiac stage, exactly the group with the worst outcomes and the least evidence.",
+   "citations": [
+    {
+     "pmid": "34192431",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34192431",
+     "title": "Daratumumab-Based Treatment for Immunoglobulin Light-Chain Amyloidosis",
+     "journal": "N Engl J Med",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "unit": "ch49-u6",
+   "evidence_grade": "trial",
+   "summary": "Zanubrutinib showed fewer atrial fibrillation events than ibrutinib in Waldenstrom macroglobulinemia, and MYD88 and CXCR4 genotype predicts BTK inhibitor response.",
+   "practice": "Genotype MYD88 and CXCR4 before choosing therapy. BTK inhibitors are highly effective in MYD88-mutated disease; MYD88 wild-type responds poorly and favours chemoimmunotherapy.",
+   "red_flags": [
+    "Hyperviscosity syndrome",
+    "Bing-Neel syndrome",
+    "IgM flare after rituximab"
+   ],
+   "caveats": "ASPEN was designed around a MYD88-mutated population; the wild-type cohort was small and non-randomized.",
+   "citations": [
+    {
+     "pmid": "37478390",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37478390",
+     "title": "Zanubrutinib Versus Ibrutinib in Symptomatic Waldenström Macroglobulinemia: Final Analysis From the Randomized Phase III ASPEN Study",
+     "journal": "J Clin Oncol",
+     "year": "2023"
+    }
+   ]
+  }
+ ]
+}

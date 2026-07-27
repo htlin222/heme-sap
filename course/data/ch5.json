@@ -1,0 +1,221 @@
+{
+  "chapter": "CH5",
+  "title": "Hematopoietic growth factors",
+  "units": [
+    {
+      "id": "ch5-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 49,
+      "assessment": "Can you name the lineage each recombinant hematopoietic growth factor drives — G-CSF, GM-CSF, erythropoietin, thrombopoietin — and say where in the body each native hormone is produced?",
+      "lesson": {
+        "title": "History of Biology and Medicine Series: Cloned Haematopoetic Growth Factors",
+        "channel": "Hopkins Kimmel",
+        "url": "https://www.youtube.com/watch?v=NWr1k6ZpI_8",
+        "duration": "54:03",
+        "why": "A Hopkins academic lecture on how the colony-stimulating factors were cloned, which is the cleanest way into what each factor does and why recombinant versions exist at all."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch5-u2",
+      "type": "section",
+      "name": "Myeloid growth factors",
+      "ashsapPage": 50,
+      "assessment": "Can you contrast G-CSF with GM-CSF in terms of which lineages each expands, the receptor signaling involved, and the toxicity profile that separates them in clinical use?",
+      "lesson": {
+        "title": "The Evolving Value of Myeloid Growth Factors for the Prevention of Febrile Neutropenia",
+        "channel": "Hematology/Oncology Pharmacy Association (HOPA)",
+        "url": "https://www.youtube.com/watch?v=a8szRvunFB4",
+        "duration": "1:03:23",
+        "why": "An hour-long pharmacy-society CME that works systematically through the myeloid growth factor agents, their biology, biosimilars, and where each fits."
+      },
+      "drills": [
+        {
+          "name": "Oncologist's framing of the same agents",
+          "kind": "clinical",
+          "title": "Part 2 - Role of Myeloid Growth Factors - Dr Manish Singhal, Delhi",
+          "channel": "MICE IDEAS Pvt. Ltd.",
+          "url": "https://www.youtube.com/watch?v=Iz1IxfeY5jk",
+          "duration": "15:28"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u3",
+      "type": "section",
+      "name": "Clinical use of G-CSF",
+      "ashsapPage": 51,
+      "assessment": "At what anticipated rate of febrile neutropenia does primary prophylaxis with a myeloid growth factor become indicated, and which patient-level risk factors pull that threshold down?",
+      "lesson": {
+        "title": "Recommendations for the Use of Granulocyte Colony Stimulating Factor",
+        "channel": "SDSHP Clinical Pearls For Pharmacists",
+        "url": "https://www.youtube.com/watch?v=yDw4goaA71Q",
+        "duration": "32:20",
+        "why": "Walks through the guideline recommendations for G-CSF — primary vs secondary prophylaxis, risk-factor modifiers, timing and agent choice — which is exactly what this section tests."
+      },
+      "drills": [
+        {
+          "name": "Prophylaxis decisions in a real regimen",
+          "kind": "clinical",
+          "title": "Expert insight: Managing neutropenia in breast cancer patients",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=cFUHlzRNlmk",
+          "duration": "14:27"
+        },
+        {
+          "name": "G-CSF after CAR-T",
+          "kind": "clinical",
+          "title": "The impact of G-CSF on CAR-T therapy recipients",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=M69p5vQCdNw",
+          "duration": "3:50"
+        },
+        {
+          "name": "Biosimilar filgrastim",
+          "kind": "clinical",
+          "title": "Dr. Lyman on G-CSF Biosimilars and Potential Impact on the Market",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=trmHbrjHUGo",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u4",
+      "type": "section",
+      "name": "Treatment for febrile neutropenia",
+      "ashsapPage": 52,
+      "assessment": "Once a patient is already febrile and neutropenic, can you say whether adding a myeloid growth factor changes outcome, and which subgroups guidelines still single out for therapeutic use?",
+      "lesson": {
+        "title": "The Evolving Value of Myeloid Growth Factors for the Prevention of Febrile Neutropenia",
+        "channel": "Hematology/Oncology Pharmacy Association (HOPA)",
+        "url": "https://www.youtube.com/watch?v=a8szRvunFB4",
+        "duration": "1:03:23",
+        "why": "A pharmacy-society CE session that separates the evidence for prophylactic myeloid growth factors from the far thinner evidence for adding them once fever and neutropenia have already declared themselves, and reviews the subgroups guidelines still carve out for therapeutic use."
+      },
+      "drills": [
+        {
+          "name": "Society algorithm in five minutes",
+          "kind": "clinical",
+          "title": "How to manage febrile neutropaenia?",
+          "channel": "European Society for Medical Oncology (ESMO)",
+          "url": "https://www.youtube.com/watch?v=rnN9rlmL3s4",
+          "duration": "6:45"
+        },
+        {
+          "name": "Outpatient and ambulatory pathways",
+          "kind": "clinical",
+          "title": "Neutropenic Fever:Latest in Care Delivery",
+          "channel": "USF Internal Medicine",
+          "url": "https://www.youtube.com/watch?v=tGaq-Kkqoiw",
+          "duration": "55:24"
+        },
+        {
+          "name": "A guideline author on managing the episode",
+          "kind": "clinical",
+          "title": "Dr. Crawford on Managing Febrile Neutropenia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=fvlqA2s0Z00",
+          "duration": "2:00"
+        },
+        {
+          "name": "What an episode costs the patient",
+          "kind": "clinical",
+          "title": "Gary H. Lyman on the Immediate and Long-Term Effects of Febrile Neutropenia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=oRQRl7YMC38",
+          "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u5",
+      "type": "section",
+      "name": "Severe chronic neutropenia (idiopathic, cyclic, congenital)",
+      "ashsapPage": 54,
+      "assessment": "Can you separate cyclic, congenital and idiopathic severe chronic neutropenia by their ANC pattern, underlying genetics and long-term risk of MDS or AML, and describe how chronic G-CSF is titrated?",
+      "lesson": {
+        "title": "Neutropenia Specialist - Dr. David Dale",
+        "channel": "National Neutropenia Network",
+        "url": "https://www.youtube.com/watch?v=qlxHsGkIYh0",
+        "duration": "22:04",
+        "why": "David Dale ran the Severe Chronic Neutropenia International Registry; this is the closest thing on YouTube to hearing the diagnostic categories and long-term G-CSF experience from the source."
+      },
+      "drills": [
+        {
+          "name": "Where neutropenia sits among phagocyte defects",
+          "kind": "mechanism",
+          "title": "Phagocyte Disorders",
+          "channel": "Immune Deficiency Foundation",
+          "url": "https://www.youtube.com/watch?v=gLI01DO0R-4",
+          "duration": "45:11"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u6",
+      "type": "section",
+      "name": "Erythroid growth factors",
+      "ashsapPage": 55,
+      "assessment": "For which patients is an erythropoiesis-stimulating agent actually approved, what hemoglobin ceiling should be targeted, and what harms follow from driving hemoglobin above that ceiling?",
+      "lesson": {
+        "title": "Erythropoiesis Stimulating Agents and other Growth Factors in Low-risk MDS: An update",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=KH91hLbYxA4",
+        "duration": "23:17",
+        "why": "A clinician CME update on ESAs — dosing, predictors of response, iron requirements and when to abandon them — framed around lower-risk MDS, the setting where ESA decisions are hardest."
+      },
+      "drills": [
+        {
+          "name": "Quick expert recap of ESA use",
+          "kind": "clinical",
+          "title": "ESA and other growth factors for MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=VLgY8g3G6Gg",
+          "duration": "5:17"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u7",
+      "type": "section",
+      "name": "Platelet growth factors",
+      "ashsapPage": 58,
+      "assessment": "Can you list the approved indications for thrombopoietin receptor agonists and explain why their use for chemotherapy-induced thrombocytopenia and post-transplant cytopenias remains investigational?",
+      "lesson": {
+        "title": "Gerald A. Soff, MD: Examining a New Indication for Romiplostim",
+        "channel": "American Society of Hematology",
+        "url": "https://www.youtube.com/watch?v=RSnSp8a2KgU",
+        "duration": "7:22",
+        "why": "Gerald Soff led the randomized work on romiplostim for chemotherapy-induced thrombocytopenia, and here he explains why a thrombopoietin receptor agonist should work in that setting, what the trial showed, and why the indication remains outside the approved list."
+      },
+      "drills": [
+        {
+          "name": "TPO-RAs where they are approved: ITP",
+          "kind": "clinical",
+          "title": "Thrombopoietin receptor agonists in ITP: current status and future outlooks",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=wZ1UtdkJ9QU",
+          "duration": "3:17"
+        },
+        {
+          "name": "Eltrombopag in inherited marrow failure",
+          "kind": "trial",
+          "title": "FA Connect: Eltrombopag Clinical Trial Update 2022",
+          "channel": "Fanconi Cancer Foundation",
+          "url": "https://www.youtube.com/watch?v=5VfY1B7QwDg",
+          "duration": "17:14"
+        },
+        {
+          "name": "Switching between agents",
+          "kind": "trial",
+          "title": "Avatrombopag following switch from eltrombopag or romiplostim in patients with ITP",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=AJkKbtCq4Bw",
+          "duration": "1:10"
+        }
+      ]
+    }
+  ]
+}

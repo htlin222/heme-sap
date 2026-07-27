@@ -1,0 +1,206 @@
+{
+  "chapter": "CH22",
+  "title": "Hereditary hemorrhagic telangiectasia and other bleeding disorders",
+  "units": [
+    {
+      "id": "ch22-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 248,
+      "assessment": "Can you explain why hereditary hemorrhagic telangiectasia is a vascular malformation disorder rather than a coagulation defect, and how that distinction determines both the bleeding pattern and which treatments actually work?",
+      "lesson": {
+        "title": "An Overview of Hereditary Haemorrhagic Telangiectasia (HHT) by Prof Claire Shovlin",
+        "channel": "VASCERN ERN",
+        "url": "https://www.youtube.com/watch?v=z2gALD8xSNE",
+        "duration": "8:54",
+        "why": "Claire Shovlin, one of the leading HHT clinician-scientists, gives a compact and authoritative orientation to the disease."
+      },
+      "drills": [
+        {
+          "name": "Pulmonary AVMs and how they are managed",
+          "kind": "clinical",
+          "title": "Managing Hereditary Hemorrhagic Telangiectasia & Pulmonary AVMs w/ Dr. Clifford Weiss | 527",
+          "channel": "BackTable Vascular & Interventional",
+          "url": "https://www.youtube.com/watch?v=BVb9lz7xEkw",
+          "duration": "25:23"
+        },
+        {
+          "name": "Anticoagulating a patient who bleeds",
+          "kind": "clinical",
+          "title": "The role of anticoagulation and antiplatelet therapy in hereditary hemorrhagic telangiectasia",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=kf4WtwFz0Ss",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "id": "ch22-u2",
+      "type": "section",
+      "name": "Genetics, epidemiology, and clinical manifestations of HHT",
+      "ashsapPage": 248,
+      "assessment": "Can you list the four Curacao criteria, name the two genes most often mutated, and explain why a child carrying a pathogenic variant may still fail to meet the clinical criteria at the time you see them?",
+      "lesson": {
+        "title": "Genetic Testing in Hereditary Hemorrhagic Telangiectasia | Webinar | Ambry Genetics",
+        "channel": "Ambry Genetics",
+        "url": "https://www.youtube.com/watch?v=fzmJp4fZMCY",
+        "duration": "51:22",
+        "why": "A genetics-focused webinar covering the HHT genes, testing strategy and how molecular results interact with the clinical criteria."
+      },
+      "drills": [
+        {
+          "name": "An HHT scientist on disease biology",
+          "kind": "mechanism",
+          "title": "Insights from an Hereditary Hemorrhagic Telangiectasia (HHT) Scientist",
+          "channel": "Cure HHT Canada",
+          "url": "https://www.youtube.com/watch?v=WbF7CfFNXIw",
+          "duration": "48:25"
+        },
+        {
+          "name": "Epistaxis as the presenting manifestation",
+          "kind": "clinical",
+          "title": "Hereditary Hemorrhagic Telangiectasia (HHT) and Nosebleeds",
+          "channel": "Michigan Medicine",
+          "url": "https://www.youtube.com/watch?v=Qw5J10rLzQM",
+          "duration": "10:27"
+        },
+        {
+          "name": "Age-dependent manifestations in children",
+          "kind": "clinical",
+          "title": "Pediatrics, COVID-19 and Hereditary Hemorrhagic Telangiectasia (HHT)",
+          "channel": "Cure HHT Canada",
+          "url": "https://www.youtube.com/watch?v=Tmud_sJpv2I",
+          "duration": "56:40"
+        }
+      ]
+    },
+    {
+      "id": "ch22-u3",
+      "type": "section",
+      "name": "Diagnosis and management of HHT",
+      "ashsapPage": 251,
+      "assessment": "Can you set out the screening schedule for pulmonary, cerebral and hepatic arteriovenous malformations, and decide when to escalate a bleeding patient from tranexamic acid to systemic antiangiogenic therapy with bevacizumab?",
+      "lesson": {
+        "title": "Webinar: Hereditary Hemorrhagic Telangiectasia in 2021: Diagnosis and Advances in Treatment",
+        "channel": "Hemophilia Federation of America",
+        "url": "https://www.youtube.com/watch?v=SgwyDjsU3-g",
+        "duration": "59:48",
+        "why": "A diagnosis-and-treatment webinar from the antiangiogenic era covering both visceral AVM screening and the escalation of bleeding therapy."
+      },
+      "drills": [
+        {
+          "name": "Cerebral AVMs and when to intervene",
+          "kind": "clinical",
+          "title": "Brain Arteriovenous Malformations (AVMs) and Hereditary Hemorrhagic Telangiectasia (HHT)",
+          "channel": "Cure HHT Canada",
+          "url": "https://www.youtube.com/watch?v=sT95SK-hucE",
+          "duration": "34:47"
+        },
+        {
+          "name": "Iron deficiency and anemia management",
+          "kind": "clinical",
+          "title": "Managing Anemia and Iron Deficiency in Hereditary Hemorrhagic Telangiectasia (HHT)",
+          "channel": "Cure HHT Canada",
+          "url": "https://www.youtube.com/watch?v=5R6WryuQ3N0",
+          "duration": "36:07"
+        },
+        {
+          "name": "HHT in pregnancy",
+          "kind": "clinical",
+          "title": "Hereditary Hemorrhagic Telangiectasia (HHT) and Pregnancy",
+          "channel": "VASCERN ERN",
+          "url": "https://www.youtube.com/watch?v=gvf5pAXOD6A",
+          "duration": "1:17:59"
+        },
+        {
+          "name": "A haemophilia-society perspective on HHT care",
+          "kind": "clinical",
+          "title": "Hereditary Hemorrhagic Telangiectasia",
+          "channel": "EAHAD ",
+          "url": "https://www.youtube.com/watch?v=1ghXM32f4ZE",
+          "duration": "50:31"
+        }
+      ]
+    },
+    {
+      "id": "ch22-u4",
+      "type": "section",
+      "name": "Rare factor deficiencies and disorders of fibrinolysis",
+      "ashsapPage": 255,
+      "assessment": "Can you explain why bleeding severity correlates so poorly with measured factor level in the rare factor deficiencies, name the deficiencies that cause spontaneous intracranial hemorrhage, and say which of them have a specific concentrate available?",
+      "lesson": {
+        "title": "Current Treatments for Ultra-Rare Bleeding Disorders",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=NhOt-uwcBo4",
+        "duration": "1:01:00",
+        "why": "A dedicated session on current treatment of the ultra-rare bleeding disorders, the practical half of this section."
+      },
+      "drills": [
+        {
+          "name": "Factor VII deficiency in detail",
+          "kind": "clinical",
+          "title": "Basics of Factor 7 Deficiency",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=iyLRo-3VcwY",
+          "duration": "25:56"
+        },
+        {
+          "name": "Factor XIII deficiency in detail",
+          "kind": "clinical",
+          "title": "Basics of Factor 13 Deficiency",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=n9t83RbR7ZY",
+          "duration": "25:45"
+        },
+        {
+          "name": "Factor XI deficiency and its unpredictable bleeding",
+          "kind": "clinical",
+          "title": "Basics of Factor 11 Deficiency",
+          "channel": "National Bleeding Disorders Foundation",
+          "url": "https://www.youtube.com/watch?v=h52EoIq9g48",
+          "duration": "38:28"
+        },
+        {
+          "name": "Congenital fibrinogen disorders",
+          "kind": "clinical",
+          "title": "2016 04 05 15 00 Congenital Fibrinogen Deficiencies",
+          "channel": "Canadian Pediatric Thrombosis & Hemostasis Network",
+          "url": "https://www.youtube.com/watch?v=MXuZJ_iNZBM",
+          "duration": "1:03:59"
+        }
+      ]
+    },
+    {
+      "id": "ch22-u5",
+      "type": "section",
+      "name": "Disorders of fibrinolysis",
+      "ashsapPage": 256,
+      "assessment": "Can you say what clinical pattern should make you suspect a hyperfibrinolytic bleeding disorder, name the congenital causes such as alpha-2 antiplasmin and PAI-1 deficiency, and explain why the routine coagulation screen comes back normal?",
+      "lesson": {
+        "title": "HEMA2022 Disorders of Fibrinolysis",
+        "channel": "AML-Notes",
+        "url": "https://www.youtube.com/watch?v=mnAzTTdXITc",
+        "duration": "1:00:03",
+        "why": "A full lecture devoted to disorders of fibrinolysis, the least well covered of the bleeding diatheses and the exact subject of this section."
+      },
+      "drills": [
+        {
+          "name": "Nigel Key on why fibrinolysis is so hard to measure",
+          "kind": "clinical",
+          "title": "Why Is It So Hard to Measure Fibrinolysis? | Nigel Key, MB, ChB, FRCP",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=w-zgI88578Q",
+          "duration": "32:31"
+        },
+        {
+          "name": "The plasmin pathway",
+          "kind": "mechanism",
+          "title": "Direct Fibrinolysis: The Plasmin Pathway",
+          "channel": "Catalyst University",
+          "url": "https://www.youtube.com/watch?v=DAhJZMKzUso",
+          "duration": "6:41"
+        }
+      ]
+    }
+  ]
+}

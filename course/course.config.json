@@ -1,0 +1,734 @@
+{
+  "$schema": "../src/build/course.schema.json",
+  "site": {
+    "project": "heme-sap",
+    "name": "Heme SAP Companion",
+    "url": "https://heme-sap.pages.dev",
+    "locale": "en",
+    "ogLocale": "en_US",
+    "brandIcon": "droplet",
+    "title": "Heme SAP Companion — a video lecture for every section of ASH-SAP 9e",
+    "description": "Every one of the 449 sections of the ASH-SAP 9th edition mapped to the lecture that explains it. Built for hematology fellows: society and journal sources, no med-student review videos. Search a section you did not follow, get the video.",
+    "ogDescription": "449 ASH-SAP sections, each with the page number and the lecture that explains it. Fellowship level only — ASH, EHA, ESH, EBMT, VJHemOnc, journal and academic sources.",
+    "keywords": [
+      "hematology board review",
+      "ASH-SAP",
+      "hematology fellowship",
+      "hematology self-assessment",
+      "benign hematology",
+      "hematologic malignancy",
+      "hematology lectures"
+    ],
+    "audience": "Hematology fellows and hematologists preparing for board certification",
+    "educationalLevel": "Postgraduate medical training (hematology fellowship)",
+    "about": [
+      "Hematology",
+      "Board review",
+      "Graduate medical education",
+      "Hematologic malignancy"
+    ],
+    "learningResourceType": [
+      "Video lecture index",
+      "Board review companion",
+      "Self-assessment"
+    ]
+  },
+  "hero": {
+    "eyebrow": "ASH-SAP 9e companion",
+    "heading": "Every section of the book, mapped to the lecture that explains it",
+    "lede": "Nine parts, 49 chapters, {units} sections of the ASH-SAP 9th edition. For each one you get <strong>the page it is on</strong>, <strong>a lecture that teaches it</strong>, and <strong>the trials the recommendation rests on</strong>. Pitched at fellows — society, journal and academic sources only."
+  },
+  "ui": {
+    "searchPlaceholder": "Search a section, disease, drug or trial…",
+    "tabs": {
+      "course": "Sections",
+      "player": "Watch",
+      "stance": "What this is"
+    },
+    "progressLabel": "Progress",
+    "facetLabel": "Filter by theme",
+    "assessmentLabel": "Check yourself before moving on",
+    "tightLabel": "High-yield",
+    "weakLabel": "Common traps",
+    "lessonLabel": "Core lecture",
+    "drillEvidenceLabel": "Evidence behind this",
+    "unitEvidenceLabel": "Evidence base",
+    "stats": [
+      {
+        "icon": "book-open",
+        "field": "lesson_units",
+        "label": "book sections"
+      },
+      {
+        "icon": "layers",
+        "field": "video_unique",
+        "label": "distinct videos"
+      },
+      {
+        "icon": "clock",
+        "field": "duration",
+        "label": "total runtime"
+      },
+      {
+        "icon": "graduation-cap",
+        "field": "drill_units",
+        "label": "supplementary videos"
+      },
+      {
+        "icon": "microscope",
+        "field": "evidence_checked",
+        "label": "sections with cited evidence"
+      }
+    ],
+    "unitTypes": {
+      "section": "Book section",
+      "concept": "Concept"
+    },
+    "problemType": "section",
+    "evidenceRows": [
+      {
+        "field": "summary",
+        "label": "Where the evidence stands"
+      },
+      {
+        "field": "practice",
+        "label": "What it changes in practice"
+      },
+      {
+        "field": "red_flags",
+        "label": "Do not miss",
+        "type": "flags"
+      },
+      {
+        "field": "caveats",
+        "label": "Honest caveats"
+      }
+    ],
+    "facetClear": "Clear theme filter",
+    "facetPrefix": "Theme",
+    "emptyTitle": "Nothing matches",
+    "emptyHint": "Try another term, or clear the theme filter.",
+    "playlistSearch": "Search the playlist…",
+    "prevLabel": "Previous video",
+    "nextLabel": "Next video",
+    "doneLabel": "Done",
+    "openExternal": "Open on YouTube",
+    "moreLabel": "Why this video, and what to check",
+    "discussLabel": "Discussion",
+    "discussNote": "Comments are stored in this repository's GitHub Discussions and need a GitHub account. Each video has its own thread, shared across every section that uses it."
+  },
+  "kinds": [
+    {
+      "id": "mechanism",
+      "label": "Mechanism",
+      "tone": "accent"
+    },
+    {
+      "id": "clinical",
+      "label": "Clinical decision",
+      "tone": "success"
+    },
+    {
+      "id": "trial",
+      "label": "Trial & guideline",
+      "tone": "danger"
+    }
+  ],
+  "grades": [
+    {
+      "id": "guideline",
+      "label": "Guideline-backed",
+      "tone": "success"
+    },
+    {
+      "id": "trial",
+      "label": "Randomized evidence",
+      "tone": "accent"
+    },
+    {
+      "id": "evolving",
+      "label": "Evolving",
+      "tone": "attention"
+    },
+    {
+      "id": "contested",
+      "label": "Contested",
+      "tone": "danger"
+    }
+  ],
+  "nav": [
+    {
+      "title": "Consultative hematology",
+      "chapters": [
+        "CH1",
+        "CH2",
+        "CH3",
+        "CH4"
+      ]
+    },
+    {
+      "title": "Red cells and anemia",
+      "chapters": [
+        "CH5",
+        "CH6",
+        "CH7",
+        "CH8",
+        "CH9",
+        "CH10",
+        "CH11",
+        "CH12",
+        "CH13",
+        "CH14"
+      ]
+    },
+    {
+      "title": "Thrombosis",
+      "chapters": [
+        "CH15",
+        "CH16",
+        "CH17",
+        "CH18",
+        "CH19"
+      ]
+    },
+    {
+      "title": "Bleeding disorders",
+      "chapters": [
+        "CH20",
+        "CH21",
+        "CH22"
+      ]
+    },
+    {
+      "title": "Platelet disorders",
+      "chapters": [
+        "CH23",
+        "CH24",
+        "CH25",
+        "CH26"
+      ]
+    },
+    {
+      "title": "Laboratory and transfusion",
+      "chapters": [
+        "CH27",
+        "CH28",
+        "CH29"
+      ]
+    },
+    {
+      "title": "Transplantation and cellular therapy",
+      "chapters": [
+        "CH30",
+        "CH31",
+        "CH32",
+        "CH33"
+      ]
+    },
+    {
+      "title": "Myeloid disorders",
+      "chapters": [
+        "CH34",
+        "CH35",
+        "CH36",
+        "CH37",
+        "CH38",
+        "CH39",
+        "CH40",
+        "CH41"
+      ]
+    },
+    {
+      "title": "Lymphoid and plasma cell disorders",
+      "chapters": [
+        "CH42",
+        "CH43",
+        "CH44",
+        "CH45",
+        "CH46",
+        "CH47",
+        "CH48",
+        "CH49"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "code": "CH1",
+      "title": "Consultative hematology 1: perioperative management concepts",
+      "icon": "syringe",
+      "source": "ch1",
+      "units": 7,
+      "drills": 17
+    },
+    {
+      "code": "CH2",
+      "title": "Consultative hematology 2: outpatient hematology topics",
+      "icon": "stethoscope",
+      "source": "ch2",
+      "units": 7,
+      "drills": 9
+    },
+    {
+      "code": "CH3",
+      "title": "Consultative hematology 3: women's health issues",
+      "icon": "user-round",
+      "source": "ch3",
+      "units": 9,
+      "drills": 26
+    },
+    {
+      "code": "CH4",
+      "title": "Pediatric hematology: selected topics",
+      "icon": "baby",
+      "source": "ch4",
+      "units": 5,
+      "drills": 8
+    },
+    {
+      "code": "CH5",
+      "title": "Hematopoietic growth factors",
+      "icon": "sprout",
+      "source": "ch5",
+      "units": 7,
+      "drills": 13
+    },
+    {
+      "code": "CH6",
+      "title": "Iron physiology, iron overload, and the porphyrias",
+      "icon": "magnet",
+      "source": "ch6",
+      "units": 12,
+      "drills": 18
+    },
+    {
+      "code": "CH7",
+      "title": "Acquired underproduction anemias: anemias in the setting of vitamin and mineral deficiencies",
+      "icon": "apple",
+      "source": "ch7",
+      "units": 7,
+      "drills": 11
+    },
+    {
+      "code": "CH8",
+      "title": "Anemia of inflammation",
+      "icon": "flame",
+      "source": "ch8",
+      "units": 4,
+      "drills": 3
+    },
+    {
+      "code": "CH9",
+      "title": "Anemia in the setting of organ insult, systemic disease, and aging",
+      "icon": "heart-pulse",
+      "source": "ch9",
+      "units": 7,
+      "drills": 12
+    },
+    {
+      "code": "CH10",
+      "title": "Thalassemia syndromes and other hemoglobinopathies",
+      "icon": "dna",
+      "source": "ch10",
+      "units": 10,
+      "drills": 17
+    },
+    {
+      "code": "CH11",
+      "title": "Sickle cell disease",
+      "icon": "circle-dot",
+      "source": "ch11",
+      "units": 9,
+      "drills": 18
+    },
+    {
+      "code": "CH12",
+      "title": "Hemolytic anemia 1: autoimmune hemolysis",
+      "icon": "shield-alert",
+      "source": "ch12",
+      "units": 8,
+      "drills": 6
+    },
+    {
+      "code": "CH13",
+      "title": "Hemolytic anemia 2: membrane abnormalities and enzymopathies",
+      "icon": "hexagon",
+      "source": "ch13",
+      "units": 7,
+      "drills": 4
+    },
+    {
+      "code": "CH14",
+      "title": "Complement-related disorders",
+      "icon": "waves",
+      "source": "ch14",
+      "units": 9,
+      "drills": 15
+    },
+    {
+      "code": "CH15",
+      "title": "Introduction to venous thromboembolism and antithrombotic drugs",
+      "icon": "git-merge",
+      "source": "ch15",
+      "units": 10,
+      "drills": 22
+    },
+    {
+      "code": "CH16",
+      "title": "Atypical-site thrombosis",
+      "icon": "waypoints",
+      "source": "ch16",
+      "units": 11,
+      "drills": 23
+    },
+    {
+      "code": "CH17",
+      "title": "Antiphospholipid syndrome",
+      "icon": "spline",
+      "source": "ch17",
+      "units": 7,
+      "drills": 15
+    },
+    {
+      "code": "CH18",
+      "title": "Cancer-associated thrombosis",
+      "icon": "crosshair",
+      "source": "ch18",
+      "units": 10,
+      "drills": 21
+    },
+    {
+      "code": "CH19",
+      "title": "Inherited thrombophilias",
+      "icon": "git-fork",
+      "source": "ch19",
+      "units": 8,
+      "drills": 15
+    },
+    {
+      "code": "CH20",
+      "title": "von Willebrand disease",
+      "icon": "droplet",
+      "source": "ch20",
+      "units": 10,
+      "drills": 23
+    },
+    {
+      "code": "CH21",
+      "title": "Hemophilia A and B",
+      "icon": "droplets",
+      "source": "ch21",
+      "units": 6,
+      "drills": 13
+    },
+    {
+      "code": "CH22",
+      "title": "Hereditary hemorrhagic telangiectasia and other bleeding disorders",
+      "icon": "network",
+      "source": "ch22",
+      "units": 5,
+      "drills": 15
+    },
+    {
+      "code": "CH23",
+      "title": "Platelet disorders 1: immune thrombocytopenia",
+      "icon": "circle",
+      "source": "ch23",
+      "units": 7,
+      "drills": 15
+    },
+    {
+      "code": "CH24",
+      "title": "Platelet disorders 2: heparin-induced thrombocytopenia and other anti-PF4 disorders",
+      "icon": "link",
+      "source": "ch24",
+      "units": 5,
+      "drills": 12
+    },
+    {
+      "code": "CH25",
+      "title": "Platelet disorders 3: thrombotic thrombocytopenic purpura (immune and congenital)",
+      "icon": "filter",
+      "source": "ch25",
+      "units": 4,
+      "drills": 5
+    },
+    {
+      "code": "CH26",
+      "title": "Platelet disorders 4: hereditary thrombocytopenia and qualitative platelet disorders",
+      "icon": "grip",
+      "source": "ch26",
+      "units": 10,
+      "drills": 18
+    },
+    {
+      "code": "CH27",
+      "title": "Laboratory hematology",
+      "icon": "microscope",
+      "source": "ch27",
+      "units": 16,
+      "drills": 34
+    },
+    {
+      "code": "CH28",
+      "title": "Transfusion medicine",
+      "icon": "package",
+      "source": "ch28",
+      "units": 17,
+      "drills": 40
+    },
+    {
+      "code": "CH29",
+      "title": "Apheresis",
+      "icon": "recycle",
+      "source": "ch29",
+      "units": 5,
+      "drills": 11
+    },
+    {
+      "code": "CH30",
+      "title": "Hematopoietic cell transplantation and cellular therapy 1: the basics of transplantation",
+      "icon": "layers",
+      "source": "ch30",
+      "units": 6,
+      "drills": 12
+    },
+    {
+      "code": "CH31",
+      "title": "Hematopoietic cell transplantation and cellular therapy 2: autologous transplantation",
+      "icon": "repeat",
+      "source": "ch31",
+      "units": 17,
+      "drills": 41
+    },
+    {
+      "code": "CH32",
+      "title": "Hematopoietic cell transplantation and cellular therapy 3: allogeneic transplantation and graft-versus-host disease",
+      "icon": "users",
+      "source": "ch32",
+      "units": 11,
+      "drills": 35
+    },
+    {
+      "code": "CH33",
+      "title": "Hematopoietic cell transplantation and cellular therapy 4: adoptive cellular therapy",
+      "icon": "target",
+      "source": "ch33",
+      "units": 12,
+      "drills": 37
+    },
+    {
+      "code": "CH34",
+      "title": "Myeloid disorders: acquired and inherited white blood cell disorders",
+      "icon": "shield",
+      "source": "ch34",
+      "units": 10,
+      "drills": 17
+    },
+    {
+      "code": "CH35",
+      "title": "Inherited bone marrow failure syndromes",
+      "icon": "git-branch",
+      "source": "ch35",
+      "units": 11,
+      "drills": 31
+    },
+    {
+      "code": "CH36",
+      "title": "Chronic myeloid leukemia",
+      "icon": "shuffle",
+      "source": "ch36",
+      "units": 12,
+      "drills": 28
+    },
+    {
+      "code": "CH37",
+      "title": "Myeloproliferative neoplasms: polycythemia vera, essential thrombocythemia, and myelofibrosis",
+      "icon": "trending-up",
+      "source": "ch37",
+      "units": 9,
+      "drills": 20
+    },
+    {
+      "code": "CH38",
+      "title": "Beyond the classical Philadelphia chromosome–negative myeloproliferative neoplasms",
+      "icon": "star",
+      "source": "ch38",
+      "units": 3,
+      "drills": 9
+    },
+    {
+      "code": "CH39",
+      "title": "Acquired bone marrow failure syndromes, including aplastic anemia and pure red cell aplasia",
+      "icon": "battery-low",
+      "source": "ch39",
+      "units": 8,
+      "drills": 6
+    },
+    {
+      "code": "CH40",
+      "title": "Myelodysplastic syndromes and premalignant clonal hematopoiesis",
+      "icon": "grid-3x3",
+      "source": "ch40",
+      "units": 11,
+      "drills": 27
+    },
+    {
+      "code": "CH41",
+      "title": "Acute myeloid leukemia",
+      "icon": "zap",
+      "source": "ch41",
+      "units": 9,
+      "drills": 16
+    },
+    {
+      "code": "CH42",
+      "title": "Acute lymphoblastic leukemia",
+      "icon": "bolt",
+      "source": "ch42",
+      "units": 5,
+      "drills": 13
+    },
+    {
+      "code": "CH43",
+      "title": "Hodgkin lymphoma",
+      "icon": "ribbon",
+      "source": "ch43",
+      "units": 10,
+      "drills": 24
+    },
+    {
+      "code": "CH44",
+      "title": "Indolent non-Hodgkin B-cell lymphoma",
+      "icon": "leaf",
+      "source": "ch44",
+      "units": 15,
+      "drills": 36
+    },
+    {
+      "code": "CH45",
+      "title": "Aggressive non-Hodgkin and Burkitt lymphomas",
+      "icon": "flame-kindling",
+      "source": "ch45",
+      "units": 10,
+      "drills": 23
+    },
+    {
+      "code": "CH46",
+      "title": "T-cell lymphomas",
+      "icon": "shell",
+      "source": "ch46",
+      "units": 10,
+      "drills": 26
+    },
+    {
+      "code": "CH47",
+      "title": "Chronic lymphocytic leukemia/small lymphocytic lymphoma",
+      "icon": "snowflake",
+      "source": "ch47",
+      "units": 9,
+      "drills": 22
+    },
+    {
+      "code": "CH48",
+      "title": "Plasma cell disorders: monoclonal gammopathy of undetermined significance and multiple myeloma",
+      "icon": "boxes",
+      "source": "ch48",
+      "units": 25,
+      "drills": 58
+    },
+    {
+      "code": "CH49",
+      "title": "AL amyloidosis, Waldenström macroglobulinemia, and POEMS syndrome",
+      "icon": "atom",
+      "source": "ch49",
+      "units": 7,
+      "drills": 19
+    }
+  ],
+  "languages": {
+    "en": "English"
+  },
+  "audit": {
+    "duration": {
+      "lesson": {
+        "min": "1:30",
+        "max": "150:00"
+      },
+      "drill": {
+        "min": "0:20",
+        "max": "150:00"
+      }
+    },
+    "driftSeconds": 30,
+    "minViews": 25,
+    "metaCoverage": 1,
+    "drillsPerUnit": {
+      "min": 0,
+      "max": 6
+    },
+    "maxSharedVideos": 260,
+    "requireAssessment": [
+      "section"
+    ],
+    "minAssessmentChars": 80,
+    "minCitations": 2,
+    "allowMissingUrls": 140
+  },
+  "stance": {
+    "title": "What this is, and what it is not",
+    "intro": "This site is an index, not a course of its own. It takes the table of contents of the ASH-SAP 9th edition — 49 chapters, 449 sections — and attaches, to each section, the best lecture on the open web that teaches that specific thing. Three things follow from that, and you should know all three before you rely on it.",
+    "outroTitle": "How to use it without being misled",
+    "outro": "Read the book. When a section does not land, come here, find that section by its page number, and watch. Then go back to the book. <strong>The videos are not a substitute for ASH-SAP and they are not a source of truth</strong> — they are third-party recordings of varying age, and hematology practice moves faster than YouTube does. Anything that drives a treatment decision should be checked against the current ASH, NCCN or ESMO guideline, not against a lecture. Where a section had no video worth linking, the slot is left visibly empty with a note saying what was searched. That is deliberate: an empty slot is information, a padded one is not.",
+    "verdicts": {
+      "concept-1": "Curation narrows the quality spread on YouTube. It does not close it, and nothing here was reviewed for teaching.",
+      "concept-2": "On treatment questions this site decays. Check the current guideline, not the video.",
+      "concept-3": "Where the open web has nothing, the slot stays empty and says so."
+    }
+  },
+  "landing": {
+    "howTitle": "How to use it",
+    "steps": [
+      {
+        "icon": "book-open",
+        "title": "Find the section",
+        "body": "Search by section title, disease, drug or trial name. Every entry carries its ASH-SAP page number, so you can go straight back to the book."
+      },
+      {
+        "icon": "play",
+        "title": "Watch the lecture",
+        "body": "One core lecture per section, plus supplementary videos tagged mechanism, clinical decision, or trial and guideline. Watch mode embeds through youtube-nocookie.com and keeps a playlist beside the player."
+      },
+      {
+        "icon": "microscope",
+        "title": "Check the evidence",
+        "body": "Where a recommendation rests on specific trials, the PMIDs are listed and every one of them was fetched from the PubMed API, not recalled from memory."
+      }
+    ],
+    "stanceTitle": "Before you start",
+    "stanceLede": "An index of other people's videos has failure modes a textbook does not. Here are the three that matter.",
+    "chaptersTitle": "Forty-nine chapters, nine parts",
+    "ctaTitle": "Start with the part you find hardest",
+    "ctaLede": "{units} entries across {videos} videos, free, no account. Progress is kept in your own browser — there is no backend."
+  },
+  "footer": {
+    "disclaimer": "<strong>Not medical advice.</strong> This is a study aid for hematology trainees and does not establish standard of care. Videos are third-party recordings whose accuracy and currency this site does not control and cannot warrant; hematology practice changes faster than published lectures do. Verify anything that affects patient care against the current ASH, NCCN or ESMO guideline and the primary literature. Section titles and page numbers refer to the ASH-SAP 9th edition, published by the American Society of Hematology; this site is not affiliated with or endorsed by ASH, reproduces none of the book's text, and is not a substitute for it.",
+    "credits": "Videos remain the copyright of their YouTube channels; this site stores links and public metadata only, and neither rehosts nor mirrors any of them."
+  },
+  "llms": {
+    "summary": "A free index that maps all {units} sections of the ASH-SAP 9th edition (American Society of Hematology Self-Assessment Program, 9e, 2025) to freely available video lectures that teach each section. Aimed at hematology fellows, not medical students. Every video is a third-party YouTube work; this site provides curation and links only, and reproduces none of the book's text.",
+    "stanceIntro": "Limits worth stating plainly:",
+    "stanceConclusion": "Use it to unstick yourself on a section you did not follow, then return to the book. Do not use it as a source of truth for treatment decisions — check the current guideline instead.",
+    "disclaimer": "Not medical advice, and not affiliated with or endorsed by the American Society of Hematology."
+  },
+  "discussions": {
+    "provider": "giscus",
+    "repo": "htlin222/heme-sap",
+    "category": "General",
+    "mapping": "specific",
+    "termPrefix": "video",
+    "lang": "en",
+    "reactions": true,
+    "inputPosition": "top"
+  }
+}

@@ -1,0 +1,190 @@
+{
+ "chapter": "CH42",
+ "title": "Acute lymphoblastic leukemia",
+ "units": [
+  {
+   "id": "ch42-u1",
+   "type": "section",
+   "name": "Introduction",
+   "ashsapPage": 517,
+   "assessment": "Can you outline how acute lymphoblastic leukemia differs across children, adolescents and young adults, and older adults in incidence, biology and expected cure rate, and say roughly what fraction of adult cases are B-lineage rather than T-lineage?",
+   "lesson": {
+    "title": "Acute Lymphoblastic Leukemia (ALL) in Adults - Mayo Clinic",
+    "channel": "Mayo Clinic",
+    "url": "https://www.youtube.com/watch?v=nOTxdoDKRAI",
+    "duration": "6:33",
+    "why": "A compact clinician-facing orientation to adult ALL — presentation, diagnostic workup and how modern therapy is structured — which is exactly the scope of this opening section."
+   },
+   "drills": [
+    {
+     "name": "How adult ALL therapy is organised",
+     "kind": "clinical",
+     "title": "Introduction: Treating Acute Lymphoblastic Leukemia in Adult Patients",
+     "channel": "OncLive",
+     "url": "https://www.youtube.com/watch?v=KF2yn8rwqWg",
+     "duration": "7:34"
+    }
+   ]
+  },
+  {
+   "id": "ch42-u2",
+   "type": "section",
+   "name": "Diagnosis",
+   "ashsapPage": 517,
+   "assessment": "Given a marrow packed with blasts, which immunophenotypic markers let you call B-ALL versus T-ALL and identify early T-cell precursor disease, and which cytogenetic and molecular studies must be sent before frontline therapy is selected?",
+   "lesson": {
+    "title": "The evolving genomic landscape of ALL: molecular genetics, profiling and classification",
+    "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+    "url": "https://www.youtube.com/watch?v=pKQyDJRAeDM",
+    "duration": "11:57",
+    "why": "Sets out how acute lymphoblastic leukemia is now defined by genetics rather than morphology, which is the framework every diagnostic study sent at presentation exists to populate."
+   },
+   "drills": [
+    {
+     "name": "Testing that assigns a genetic subtype",
+     "kind": "clinical",
+     "title": "Latest concepts in the diagnosis of genetic ALL subtypes",
+     "channel": "ecancer",
+     "url": "https://www.youtube.com/watch?v=ZBj71Ewigc0",
+     "duration": "9:17"
+    },
+    {
+     "name": "Ph-like ALL and early T-cell precursor disease",
+     "kind": "mechanism",
+     "title": "Recent subtypes of ALL: Ph-like ALL and ETP ALL",
+     "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+     "url": "https://www.youtube.com/watch?v=SEK6wBG4XtM",
+     "duration": "10:31"
+    },
+    {
+     "name": "How Ph-like ALL is actually detected",
+     "kind": "clinical",
+     "title": "Diagnostic strategies for Ph-like ALL",
+     "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+     "url": "https://www.youtube.com/watch?v=LZxQ09QmKhE",
+     "duration": "4:58"
+    },
+    {
+     "name": "MRD in ALL: what the assay actually reports",
+     "kind": "clinical",
+     "title": "Minimal Residual Disease in Acute Lymphoblastic Leukemia",
+     "channel": "OncLive",
+     "url": "https://www.youtube.com/watch?v=tbopPhl8x-A",
+     "duration": "7:32"
+    }
+   ]
+  },
+  {
+   "id": "ch42-u3",
+   "type": "section",
+   "name": "Prognosis",
+   "ashsapPage": 519,
+   "assessment": "Which genetic subtypes and measurable residual disease thresholds move an adult ALL patient into the high-risk group, at what timepoints is MRD assessed, and how does MRD status override traditional presenting features such as white count and age?",
+   "lesson": {
+    "title": "Prognostic Factors in Acute Lymphoblastic Leukemia",
+    "channel": "OncLive",
+    "url": "https://www.youtube.com/watch?v=KxrizZTeTqE",
+    "duration": "6:56",
+    "why": "A focused clinician review of the presenting, cytogenetic and MRD-based prognostic variables that this section asks you to rank."
+   },
+   "drills": [
+    {
+     "name": "Age as an independent prognostic variable",
+     "kind": "clinical",
+     "title": "The impact of age on the prognosis of patients with ALL",
+     "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+     "url": "https://www.youtube.com/watch?v=mv4CXo39Hg8",
+     "duration": "1:25"
+    },
+    {
+     "name": "Building a risk index from ALL risk factors",
+     "kind": "clinical",
+     "title": "Defining ALL risk factors: the prognostic index",
+     "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+     "url": "https://www.youtube.com/watch?v=-a5rsdDfhBQ",
+     "duration": "2:32"
+    }
+   ]
+  },
+  {
+   "id": "ch42-u4",
+   "type": "section",
+   "name": "Management",
+   "ashsapPage": 520,
+   "assessment": "Can you lay out the blocks of frontline adult ALL therapy — induction, consolidation, CNS prophylaxis and maintenance — and state where pediatric-inspired regimens, TKIs for Ph-positive disease, blinatumomab and inotuzumab now enter the schedule?",
+   "lesson": {
+    "title": "Acute lymphoblastic leukemia (ALL): Changing treatment goals - 2024 Leukemia Conference, LLSC",
+    "channel": "The Leukemia & Lymphoma Society of Canada",
+    "url": "https://www.youtube.com/watch?v=CVOPKi4VDfw",
+    "duration": "56:28",
+    "why": "A 2024 conference session built entirely around how treatment goals in ALL have shifted with immunotherapy and MRD-directed decisions, which is the current shape of this management section."
+   },
+   "drills": [
+    {
+     "name": "Adult treatment framework in brief",
+     "kind": "clinical",
+     "title": "Treatment for Adults with Acute Lymphoblastic Leukemia",
+     "channel": "Dana-Farber Cancer Institute",
+     "url": "https://www.youtube.com/watch?v=QCgnLoxZ6AA",
+     "duration": "4:32"
+    },
+    {
+     "name": "Getting the most out of CAR T in ALL",
+     "kind": "clinical",
+     "title": "How to optimize CAR-T therapy for ALL",
+     "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+     "url": "https://www.youtube.com/watch?v=vyIZE7aPZhk",
+     "duration": "5:25"
+    },
+    {
+     "name": "Low-intensity chemo plus targeted agents in r/r Ph-negative ALL",
+     "kind": "trial",
+     "title": "Long-term follow-up of low-intensity chemotherapy with combination therapy for r/r Ph- acute lym...",
+     "channel": "ecancer",
+     "url": "https://www.youtube.com/watch?v=3agRELxHdPw",
+     "duration": "4:13"
+    }
+   ]
+  },
+  {
+   "id": "ch42-u5",
+   "type": "section",
+   "name": "Supportive care, toxicities, and late effects",
+   "ashsapPage": 522,
+   "assessment": "Which specific toxicities would you counsel an ALL patient about for asparaginase, vincristine, high-dose methotrexate, corticosteroids and CNS-directed therapy, and which late effects require lifelong survivorship surveillance after cure?",
+   "lesson": {
+    "title": "Long-term toxicities in paediatric ALL",
+    "channel": "ecancer",
+    "url": "https://www.youtube.com/watch?v=rwAa7d4rXxU",
+    "duration": "6:59",
+    "why": "Directly addresses the long-term toxicity burden of ALL therapy, the survivorship half of this section."
+   },
+   "drills": [
+    {
+     "name": "Metabolic and drug toxicity during ALL therapy",
+     "kind": "clinical",
+     "title": "Managing metabolism and drug toxicity in acute lymphoblastic leukaemia",
+     "channel": "ecancer",
+     "url": "https://www.youtube.com/watch?v=MfTI41mkY4A",
+     "duration": "8:45"
+    },
+    {
+     "name": "Anthracycline and treatment-related cardiovascular toxicity",
+     "kind": "clinical",
+     "title": "Cardiovascular toxicities from cancer treatment",
+     "channel": "ecancer",
+     "url": "https://www.youtube.com/watch?v=imzUFyUOeHE",
+     "duration": "4:02"
+    },
+    {
+     "name": "Running a survivorship clinic after lymphoid malignancy",
+     "kind": "clinical",
+     "title": "Late effects and lymphoma survivorship - Assoc Prof Kylie Mason",
+     "channel": "Lymphoma Australia",
+     "url": "https://www.youtube.com/watch?v=LR-dwtl1PjY",
+     "duration": "1:02:19"
+    }
+   ]
+  }
+ ]
+}

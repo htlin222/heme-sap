@@ -1,0 +1,178 @@
+{
+  "chapter": "CH12",
+  "title": "Hemolytic anemia 1: autoimmune hemolysis",
+  "units": [
+    {
+      "id": "ch12-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 140,
+      "assessment": "Can you assemble the laboratory picture that establishes hemolysis - reticulocytes, LDH, haptoglobin, bilirubin - and explain why a normal hemoglobin concentration does not exclude an underlying hemolytic disorder?",
+      "lesson": {
+        "title": "Autoimmune Hemolytic Anemia",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=9ElsDHA5BTE",
+        "duration": "6:52",
+        "why": "A concise orientation to autoimmune hemolysis from a laboratory educator, framing warm versus cold disease before the chapter goes into testing and treatment."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch12-u2",
+      "type": "section",
+      "name": "Testing",
+      "ashsapPage": 141,
+      "assessment": "Can you interpret a direct antiglobulin test reported as IgG positive versus C3d positive, and describe how you would proceed when the clinical picture is autoimmune hemolysis but the DAT is negative?",
+      "lesson": {
+        "title": "Blood Bank Evaluation of Autoimmune Hemolytic Anemia",
+        "channel": "Association for Diagnostics & Laboratory Medicine",
+        "url": "https://www.youtube.com/watch?v=BuIEMq9ffHg",
+        "duration": "14:41",
+        "why": "A blood-bank perspective on the serologic workup of AIHA - DAT, eluate, thermal amplitude - which is what this testing section is asking you to be able to interpret."
+      },
+      "drills": [
+        {
+          "name": "DAT in practice",
+          "kind": "clinical",
+          "title": "Dr. Rida Hasan, DAT testing in diagnosis autoimmune hemolytic anemias",
+          "channel": "wAIHA Warriors",
+          "url": "https://www.youtube.com/watch?v=Tt6f2_171q0",
+          "duration": "33:53"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u3",
+      "type": "section",
+      "name": "Causes",
+      "ashsapPage": 142,
+      "assessment": "Can you separate warm antibody AIHA from cold agglutinin disease using thermal amplitude, DAT pattern and the blood film, and list the secondary diseases that should prompt a hunt for a lymphoproliferative disorder?",
+      "lesson": {
+        "title": "Session 103: Approach to Autoimmune Hemolytic Anemia | Dr. Chandana Mareddy | KIMS Cuddles ONE",
+        "channel": "KIMS Cuddles",
+        "url": "https://www.youtube.com/watch?v=Z4jqoXYeCaI",
+        "duration": "40:58",
+        "why": "A structured diagnostic approach to autoimmune hemolytic anemia that works through the primary and secondary causes and how they are told apart."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch12-u4",
+      "type": "section",
+      "name": "Pathophysiology",
+      "ashsapPage": 143,
+      "assessment": "Can you explain why IgG-coated red cells are cleared largely by splenic macrophages while IgM-coated cells are destroyed by complement in the liver and intravascularly, and how that shapes therapy?",
+      "lesson": {
+        "title": "Autoimmune Hemolytic Anemias: From pathogenesis to novel therapies",
+        "channel": "Perfect Square",
+        "url": "https://www.youtube.com/watch?v=DaScYStADJw",
+        "duration": "2:15:00",
+        "why": "A long symposium that begins with pathogenesis before it reaches treatment: why warm IgG autoantibodies send red cells to splenic macrophages through Fc receptors while IgM fixes complement and destroys cells in the liver and in the circulation, and how each route dictates a different drug."
+      },
+      "drills": [
+        {
+          "name": "Complement in AIHA",
+          "kind": "mechanism",
+          "title": "Targeting the complement cascade in autoimmune hemolytic anemias",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=GelXze0g7K0",
+          "duration": "1:30"
+        },
+        {
+          "name": "The IgM, complement-driven form in detail",
+          "kind": "clinical",
+          "title": "Cold Agglutinin Disease  Laboratory Evaluation and Treatment Options",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=5bLdNNNR7Ww",
+          "duration": "49:35"
+        },
+        {
+          "name": "Warm and cold disease contrasted",
+          "kind": "clinical",
+          "title": "Autoimmune Hemolytic Anemia",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=9ElsDHA5BTE",
+          "duration": "6:52"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u5",
+      "type": "section",
+      "name": "Drug-induced immune hemolytic anemia",
+      "ashsapPage": 144,
+      "assessment": "Can you name the drug classes most often implicated in immune hemolytic anemia today, and say how you would support the diagnosis when reference serologic testing for drug-dependent antibodies is not available?",
+      "lesson": {
+        "title": "011: Drug-induced Hemolysis with Pat Arndt",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=b8iHa6YAdGg",
+        "duration": "53:56",
+        "why": "A long interview with a reference immunohematologist devoted entirely to drug-induced hemolysis: which drugs, which mechanisms, and what the serology can and cannot show."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch12-u6",
+      "type": "section",
+      "name": "Hapten or drug adsorption mechanism",
+      "ashsapPage": 145,
+      "assessment": "Can you contrast the hapten or drug-adsorption mechanism with the immune-complex and true-autoantibody mechanisms of drug-induced hemolysis, and predict the DAT pattern each of them produces?",
+      "lesson": {
+        "title": "011: Drug-induced Hemolysis with Pat Arndt",
+        "channel": "Blood Bank Guy (D. Joe Chaffin MD)",
+        "url": "https://www.youtube.com/watch?v=b8iHa6YAdGg",
+        "duration": "53:56",
+        "why": "Pat Arndt spent a career on drug-induced hemolysis in a reference immunohematology laboratory, and this interview separates the drug-adsorption (hapten) mechanism from immune-complex and true-autoantibody mechanisms by what each does to the direct antiglobulin test and to the eluate."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch12-u7",
+      "type": "section",
+      "name": "Nonimmunologic protein adsorption",
+      "ashsapPage": 146,
+      "assessment": "Can you explain how certain drugs cause plasma proteins to coat red cells without an immune reaction, why this makes the direct antiglobulin test positive, and why it seldom produces clinically important hemolysis?",
+      "lesson": {
+        "title": "When DAT Isn’t Enough: The Role of Enhanced DAT and Elution Studies in Hemolysis",
+        "channel": "UW Video",
+        "url": "https://www.youtube.com/watch?v=R9-IIhg9Efw",
+        "duration": "44:54",
+        "why": "An academic transfusion-medicine talk on what to do when the direct antiglobulin test is positive but the story does not fit - enhanced DAT, elution studies and the non-immune causes of coated red cells, which is exactly the territory nonimmunologic protein adsorption occupies."
+      },
+      "drills": [
+        {
+          "name": "What the antiglobulin tests actually detect",
+          "kind": "mechanism",
+          "title": "The Antiglobulin Tests",
+          "channel": "Mechanisms in Medicine",
+          "url": "https://www.youtube.com/watch?v=JWXC8yXe9dE",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u8",
+      "type": "section",
+      "name": "Treatment",
+      "ashsapPage": 147,
+      "assessment": "Can you set out first- and second-line therapy for warm AIHA, explain why cold agglutinin disease is treated with rituximab or sutimlimab rather than corticosteroids, and justify transfusing when no compatible unit exists?",
+      "lesson": {
+        "title": "The Evolving Landscape of Autoimmune Hemolytic Anemia with Special Update on Cold Agglutinin Disease",
+        "channel": "LurieCancerCenter",
+        "url": "https://www.youtube.com/watch?v=hVVjduC7Yp0",
+        "duration": "52:50",
+        "why": "An academic review of how AIHA management has changed, with a specific update on cold agglutinin disease and complement-directed therapy - the part of this section most likely to be out of date in older sources."
+      },
+      "drills": [
+        {
+          "name": "Targeting complement",
+          "kind": "mechanism",
+          "title": "Targeting the complement cascade in autoimmune hemolytic anemias",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=GelXze0g7K0",
+          "duration": "1:30"
+        }
+      ]
+    }
+  ]
+}

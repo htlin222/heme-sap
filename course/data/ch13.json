@@ -1,0 +1,143 @@
+{
+  "chapter": "CH13",
+  "title": "Hemolytic anemia 2: membrane abnormalities and enzymopathies",
+  "units": [
+    {
+      "id": "ch13-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 152,
+      "assessment": "Can you build a diagnostic pathway for nonimmune hereditary hemolysis that uses the film, biochemical assays and genetic testing, and say why an exact diagnosis changes monitoring and the decision to splenectomise?",
+      "lesson": {
+        "title": "PAGE- HM 03- “RBC membrane disorders & enzymopathies – Case based approach”",
+        "channel": "PGIMER Path Alumni Global Education Endeavour-PAGE",
+        "url": "https://www.youtube.com/watch?v=PKFuETZceG8",
+        "duration": "1:12:06",
+        "why": "A case-based postgraduate session that covers membrane disorders and enzymopathies together, which is exactly how this chapter asks you to approach an undiagnosed hereditary hemolytic anemia."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch13-u2",
+      "type": "section",
+      "name": "Red cell membrane disorders",
+      "ashsapPage": 153,
+      "assessment": "Can you link the vertical interaction proteins - ankyrin, spectrin, band 3, protein 4.2 - to a reduced surface-to-volume ratio, and state which confirmatory tests you would order for suspected hereditary spherocytosis?",
+      "lesson": {
+        "title": "(Webinar) Red Blood Cell Membrane Disorders: from diagnosis to clinical management",
+        "channel": "HORIBA for Healthcare",
+        "url": "https://www.youtube.com/watch?v=8sUCoSHyN0w",
+        "duration": "1:13:28",
+        "why": "A specialist webinar that runs from the molecular defect through EMA binding and osmotic gradient ektacytometry to clinical management of red cell membrane disorders."
+      },
+      "drills": [
+        {
+          "name": "Membrane structure and function",
+          "kind": "mechanism",
+          "title": "ASCP | MLS | MLT | Hematology | Erythrocyte Membrane Structure and Function",
+          "channel": "ASCP preparation camp",
+          "url": "https://www.youtube.com/watch?v=7t8Me9SAgzg",
+          "duration": "6:59"
+        }
+      ]
+    },
+    {
+      "id": "ch13-u3",
+      "type": "section",
+      "name": "Hereditary elliptocytosis syndromes",
+      "ashsapPage": 156,
+      "assessment": "Can you explain why defects in horizontal spectrin dimer-tetramer contacts produce elliptocytes rather than spherocytes, and recognise hereditary pyropoikilocytosis on a blood film?",
+      "lesson": {
+        "title": "Spherocyte/Spherocytosis, Elliptocyte/Elliptocytosis, Echinocyte (Burr Cell) Peripheral Blood Smears",
+        "channel": "Jerad Gardner, MD",
+        "url": "https://www.youtube.com/watch?v=WqjvE4QgPrc",
+        "duration": "8:07",
+        "why": "A hematopathologist's side-by-side tour of spherocytes, elliptocytes and related shapes down the microscope, which is how the elliptocytosis syndromes are first identified."
+      },
+      "drills": [
+        {
+          "name": "Pyropoikilocytosis",
+          "kind": "clinical",
+          "title": "What is Pyropoikilocytosis?: Peripheral Blood Smears with Dr. Jeanette Ramos",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=HudCpWEd5_8",
+          "duration": "2:35"
+        },
+        {
+          "name": "Naming red cell shapes precisely",
+          "kind": "clinical",
+          "title": "Red Cell Nomenclature Part 1",
+          "channel": "Gillian Rozenberg Microscopic Haematology",
+          "url": "https://www.youtube.com/watch?v=SF8f18lpmpc",
+          "duration": "37:36"
+        }
+      ]
+    },
+    {
+      "id": "ch13-u4",
+      "type": "section",
+      "name": "Cation permeability defects",
+      "ashsapPage": 157,
+      "assessment": "Can you say why splenectomy is contraindicated in hereditary stomatocytosis and dehydrated xerocytosis, and what findings on the film and on osmotic gradient ektacytometry point to a cation leak?",
+      "lesson": {
+        "url": null,
+        "note": "Re-searched on the disease names and genes rather than the word permeability - hereditary stomatocytosis, dehydrated hereditary xerocytosis, PIEZO1, KCNN4. Only two candidates came back: a four-minute clip from a channel with almost no audience, and a vendor webinar on automated patch-clamp methodology for red cells. Neither addresses the clinical points here - the overhydrated and dehydrated phenotypes, osmotic gradient ektacytometry, or the post-splenectomy thrombotic risk that makes splenectomy the wrong operation."
+      },
+      "drills": [
+        {
+          "name": "Where cation leaks sit",
+          "kind": "clinical",
+          "title": "(Webinar) Red Blood Cell Membrane Disorders: from diagnosis to clinical management",
+          "channel": "HORIBA for Healthcare",
+          "url": "https://www.youtube.com/watch?v=8sUCoSHyN0w",
+          "duration": "1:13:28"
+        }
+      ]
+    },
+    {
+      "id": "ch13-u5",
+      "type": "section",
+      "name": "Acanthocytic disorders",
+      "ashsapPage": 159,
+      "assessment": "Can you distinguish acanthocytes from echinocytes on a film, and list the inherited and acquired causes - abetalipoproteinemia, McLeod phenotype, advanced liver disease - that generate spiculated red cells?",
+      "lesson": {
+        "title": "Red Cell Nomenclature Part 1",
+        "channel": "Gillian Rozenberg Microscopic Haematology",
+        "url": "https://www.youtube.com/watch?v=SF8f18lpmpc",
+        "duration": "37:36",
+        "why": "A morphology expert works systematically through red cell shape nomenclature, which is the only reliable way to tell acanthocytes from echinocytes and other poikilocytes."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch13-u6",
+      "type": "section",
+      "name": "Red cell enzymopathies",
+      "ashsapPage": 159,
+      "assessment": "Can you explain why a G6PD assay drawn during an acute hemolytic episode can be falsely normal, and name the enzyme deficiency that now has an approved oral activator and what that drug does to red cell ATP?",
+      "lesson": {
+        "title": "Anaemias: Nutritional & Inherited Causes | Haematology FRCPath Part 1 Masterclass series (Week 2)",
+        "channel": "ClinHaem: Haematology Demystified",
+        "url": "https://www.youtube.com/watch?v=a5Wgf9-xEw8",
+        "duration": "1:46:42",
+        "why": "A haematology trainee masterclass on inherited anaemias covering the glycolytic and hexose monophosphate shunt defects, G6PD deficiency and pyruvate kinase deficiency."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch13-u7",
+      "type": "section",
+      "name": "Unstable hemoglobins",
+      "ashsapPage": 162,
+      "assessment": "Can you describe how an unstable hemoglobin variant precipitates as Heinz bodies and causes hemolysis, which tests identify it when electrophoresis is normal, and why splenectomy is approached cautiously?",
+      "lesson": {
+        "title": "Hb Philly, Hb Genova & Hb Koln- Unstable Hemoglobins: Medicine Masterclass: Dr. Sudhir K. Yadav",
+        "channel": "Dr. Sudhir MD ",
+        "url": "https://www.youtube.com/watch?v=BbXlqIzA-M4",
+        "duration": "6:39",
+        "why": "One of the few videos anywhere that names and works through the classic unstable variants such as Hb Koln and Hb Genova rather than treating them as a footnote."
+      },
+      "drills": []
+    }
+  ]
+}

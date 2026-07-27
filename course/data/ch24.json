@@ -1,0 +1,182 @@
+{
+  "chapter": "CH24",
+  "title": "Platelet disorders 2: heparin-induced thrombocytopenia and other anti-PF4 disorders",
+  "units": [
+    {
+      "id": "ch24-u1",
+      "type": "section",
+      "name": "Anti–platelet factor 4 disorders",
+      "ashsapPage": 271,
+      "assessment": "Can you explain how antibodies against platelet factor 4 complexes activate platelets through Fc gamma receptor IIa and generate thrombin, and say what separates classic heparin-dependent HIT from the heparin-independent anti-PF4 disorders?",
+      "lesson": {
+        "title": "Clotting Chaos: Anti-PF4 Disorders + Other Catastrophic Thrombosis Syndromes - Medical Grand Rounds",
+        "channel": "McMaster University - Department of Medicine",
+        "url": "https://www.youtube.com/watch?v=28qvGbD6W9I",
+        "duration": "56:23",
+        "why": "A McMaster medical grand rounds on the anti-PF4 disorders as a family, which is precisely the unifying framing this opening section uses."
+      },
+      "drills": [
+        {
+          "name": "Anti-PF4 antibodies and platelet activation in inflammation",
+          "kind": "mechanism",
+          "title": "Relevance of anti-PF4/H antibodies&platelet activation in systemic inflammatory diseases&thrombosis",
+          "channel": "ISTH",
+          "url": "https://www.youtube.com/watch?v=gM-5JedGdjA",
+          "duration": "36:14"
+        },
+        {
+          "name": "An author's perspective on the HIT evidence",
+          "kind": "clinical",
+          "title": "Author Voices: Lori Ann Linkins, MD",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=EIC2KOANMcs",
+          "duration": "4:52"
+        }
+      ]
+    },
+    {
+      "id": "ch24-u2",
+      "type": "section",
+      "name": "HIT clinical features",
+      "ashsapPage": 272,
+      "assessment": "Can you score the 4Ts for a patient whose platelet count falls on day six of heparin, state the typical timing and magnitude of that fall, and name the thrombotic, skin and systemic manifestations that argue for HIT rather than against it?",
+      "lesson": {
+        "title": "\"Rethinking the diagnosis & management of heparin induced thrombocytopenia at UAB\"-January 26, 2023",
+        "channel": "UAB Pathology",
+        "url": "https://www.youtube.com/watch?v=LSDinjOI0K0",
+        "duration": "1:00:46",
+        "why": "An academic grand rounds that reworks the clinical recognition of HIT, including the timing patterns and the pretest probability scoring this section turns on."
+      },
+      "drills": [
+        {
+          "name": "A whiteboard walk through the mechanism",
+          "kind": "mechanism",
+          "title": "Heparin Induced Thrombocytopenia: Whiteboard Explainer Video",
+          "channel": "Core IM",
+          "url": "https://www.youtube.com/watch?v=uLLMQkqW8yE",
+          "duration": "6:45"
+        },
+        {
+          "name": "Five clinical pearls on HIT",
+          "kind": "clinical",
+          "title": "#53 Heparin-Induced Thrombocytopenia: 5 Pearls Segment",
+          "channel": "Core IM",
+          "url": "https://www.youtube.com/watch?v=j8tpqZf38U4",
+          "duration": "48:47"
+        }
+      ]
+    },
+    {
+      "id": "ch24-u3",
+      "type": "section",
+      "name": "HIT laboratory testing",
+      "ashsapPage": 273,
+      "assessment": "Can you say what a negative PF4-heparin immunoassay does and does not exclude, how the magnitude of the optical density changes interpretation, and when a washed-platelet functional assay such as the serotonin release assay has to be sent?",
+      "lesson": {
+        "title": "Heparin Induced Thrombocytopenia (HIT) and the Role of Serotonin Release Assay (SRA)",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=3nDtF4sl00k",
+        "duration": "15:14",
+        "why": "A reference laboratory explains the serotonin release assay and how it relates to the screening immunoassay, which is the diagnostic algorithm this section describes."
+      },
+      "drills": [
+        {
+          "name": "How to think about anti-PF4 testing",
+          "kind": "clinical",
+          "title": "How I Think About Anti-heparin/PF4 Testing in HIT",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=44Cwh1MLN90",
+          "duration": "9:21"
+        },
+        {
+          "name": "Diagnosis, step by step",
+          "kind": "clinical",
+          "title": "Heparin-Induced Thrombocytopenia (HIT) Part 2: Diagnosis",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=eLVlsP9K5VY",
+          "duration": "6:02"
+        },
+        {
+          "name": "A longer update on HIT diagnosis",
+          "kind": "clinical",
+          "title": "Archive: Update on Heparin Induced Thrombocytopenia (HIT)",
+          "channel": "UW Video",
+          "url": "https://www.youtube.com/watch?v=ifuWECpfTGM",
+          "duration": "47:50"
+        }
+      ]
+    },
+    {
+      "id": "ch24-u4",
+      "type": "section",
+      "name": "Treatment of HIT",
+      "ashsapPage": 274,
+      "assessment": "Can you name the nonheparin anticoagulants used in acute HIT and choose between them by organ function, explain why warfarin must be withheld and reversed with vitamin K if already started, and state what platelet recovery justifies transition to an oral agent?",
+      "lesson": {
+        "title": "Treatment and Prevention of Heparin-induced Thrombocytopenia",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=sKQ-LiB6_qI",
+        "duration": "25:24",
+        "why": "A treatment-and-prevention session covering the nonheparin agents, their dosing and the warfarin pitfall this section warns about."
+      },
+      "drills": [
+        {
+          "name": "Diagnosis and management in one longer session",
+          "kind": "clinical",
+          "title": "Diagnosis and management of Heparin induced thrombocytopenia",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=CeE4L26XZOk",
+          "duration": "1:00:46"
+        },
+        {
+          "name": "A full symposium on HIT",
+          "kind": "clinical",
+          "title": "Heparin-Induced Thrombocytopenia(HIT)",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=t265QedJZcI",
+          "duration": "1:30:39"
+        }
+      ]
+    },
+    {
+      "id": "ch24-u5",
+      "type": "section",
+      "name": "Acute and chronic VITT",
+      "ashsapPage": 276,
+      "assessment": "Can you describe how VITT differs from HIT in trigger, antibody behaviour, heparin dependence and thrombotic site, and outline management with a nonheparin anticoagulant plus high-dose IVIG, including what chronic or relapsing VITT looks like?",
+      "lesson": {
+        "title": "Thursday Webinar - Vaccine-induced Immune Thrombocytopenia and Thrombosis (VITT)",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=BEZW7fJ0b5A",
+        "duration": "1:15:51",
+        "why": "A European reference network webinar devoted to VITT, covering pathogenesis, the cerebral venous sinus presentation and the treatment that emerged from the 2021 case series."
+      },
+      "drills": [
+        {
+          "name": "Reflections and unanswered questions",
+          "kind": "clinical",
+          "title": "Vaccine Induced Immune Thrombotic Thrombocytopenia: Reflections and Future Directions",
+          "channel": "ThrombosisCanada",
+          "url": "https://www.youtube.com/watch?v=iDHL7wwjOI0",
+          "duration": "26:07"
+        },
+        {
+          "name": "A dedicated VITT meeting",
+          "kind": "clinical",
+          "title": "Vaccine-induced Immune Thrombocytopenia and Thrombosis (VITT)",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=ekzR1orVvcQ",
+          "duration": "1:33:29"
+        },
+        {
+          "name": "The mechanism, briefly",
+          "kind": "mechanism",
+          "title": "Vaccine-Induced Immune Thrombotic Thrombocytopenia (VITT)",
+          "channel": "Demystifying Medicine McMaster",
+          "url": "https://www.youtube.com/watch?v=dB5AzSb_mXo",
+          "duration": "6:13"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "chapter": "CH30",
+  "title": "Hematopoietic cell transplantation and cellular therapy 1: the basics of transplantation",
+  "units": [
+    {
+      "id": "ch30-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 355,
+      "assessment": "Can you explain why an autologous graft is essentially a rescue from chemotherapy dose intensity while an allogeneic graft is itself the therapy, and can you name the phases the transplant process is divided into?",
+      "lesson": {
+        "title": "Hematopoietic Cell Transplantation",
+        "channel": "Fred Hutch",
+        "url": "https://www.youtube.com/watch?v=j5q6TP1oWeU",
+        "duration": "1:05:22",
+        "why": "A full transplant-service overview from the centre that invented the field, laying out autologous versus allogeneic biology and the sequence of steps a patient moves through."
+      },
+      "drills": [
+        {
+          "name": "Auto versus allo from first principles",
+          "kind": "clinical",
+          "title": "Stem Cell Transplant Basics",
+          "channel": "Aaron Goodman MD (\"Papa Heme\")",
+          "url": "https://www.youtube.com/watch?v=2f0PnCQTlWA",
+          "duration": "57:42"
+        },
+        {
+          "name": "Fellow-level allogeneic transplant lecture",
+          "kind": "clinical",
+          "title": "Allogeneic Transplants with Dr. Hillard M. Lazarus",
+          "channel": "UofL Internal Medicine Lecture Series",
+          "url": "https://www.youtube.com/watch?v=qiWbU0rxMY4",
+          "duration": "55:59"
+        }
+      ]
+    },
+    {
+      "id": "ch30-u2",
+      "type": "section",
+      "name": "HCT eligibility, stem cell collection, and donor evaluation",
+      "ashsapPage": 356,
+      "assessment": "Given a patient with a transplant-eligible disease, can you list the disease criteria and the separate fitness and psychosocial criteria a transplant centre weighs, and say why referral should happen before relapse rather than after it?",
+      "lesson": {
+        "title": "BMT 101 Lecture for APPs - NPs, PAs, Fellows and Jr Faculty",
+        "channel": "ASTCT",
+        "url": "https://www.youtube.com/watch?v=tErA1DDX-gY",
+        "duration": "53:33",
+        "why": "The ASTCT introductory lecture written for fellows and advanced practitioners walks through eligibility assessment, graft source and the donor work-up in one sitting."
+      },
+      "drills": [
+        {
+          "name": "Registry search and donor matching",
+          "kind": "clinical",
+          "title": "The Great Search - HLA Typing, Donor Selection and Beyond",
+          "channel": "ASTCT",
+          "url": "https://www.youtube.com/watch?v=wADOyZFzSgg",
+          "duration": "32:31"
+        },
+        {
+          "name": "Eligibility judged at the bedside",
+          "kind": "clinical",
+          "title": "Dr. Kebriaei on Stem Cell Transplantation Eligibility in ALL",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=cX_LboMdz04",
+          "duration": "0:57"
+        },
+        {
+          "name": "Who to refer, and when",
+          "kind": "clinical",
+          "title": "When and who to refer for hematopoietic cell transplantation HCT.",
+          "channel": "Global Resource for Advancing Cancer Education",
+          "url": "https://www.youtube.com/watch?v=khV74DdhwDc",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "id": "ch30-u3",
+      "type": "section",
+      "name": "HCT conditioning, stem cell infusion, and engraftment",
+      "ashsapPage": 358,
+      "assessment": "Can you distinguish myeloablative from reduced-intensity conditioning by what marrow recovery would happen without a graft, and state what actually counts as neutrophil and platelet engraftment?",
+      "lesson": {
+        "title": "BMT 101: The basics of allogeneic hematopoietic cell transplantation",
+        "channel": "The Aplastic Anemia & Myelodysplasia Association of Canada (AAMAC)",
+        "url": "https://www.youtube.com/watch?v=s7GtFNQWRD4",
+        "duration": "56:05",
+        "why": "A basics-of-allogeneic-transplant lecture that follows conditioning, the infusion itself and the engraftment window in the order they happen."
+      },
+      "drills": [
+        {
+          "name": "Choosing a conditioning regimen",
+          "kind": "clinical",
+          "title": "Dr. Scott on Conditioning Regiments for Stem Cell Transplants",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=ioocKec8Gzo",
+          "duration": "1:36"
+        },
+        {
+          "name": "Conditioning choice in AML and MDS",
+          "kind": "clinical",
+          "title": "Optimizing conditioning regimens for SCT in AML and MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=KJQ-8_ak9EY",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
+      "id": "ch30-u4",
+      "type": "section",
+      "name": "HCT complications",
+      "ashsapPage": 359,
+      "assessment": "Can you map the characteristic infections and organ complications of the pre-engraftment, early post-engraftment and late phases onto the transplant timeline, and say which immune defect drives each of them?",
+      "lesson": {
+        "title": "Phases of HCT Follow Up",
+        "channel": "ASTCT",
+        "url": "https://www.youtube.com/watch?v=x2DJH3ld8M8",
+        "duration": "43:13",
+        "why": "Organises post-transplant follow-up by phase, which is exactly the framework needed to predict which complication belongs to which part of the timeline."
+      },
+      "drills": [
+        {
+          "name": "Infections phase by phase",
+          "kind": "clinical",
+          "title": "Post-HCT infectious complications",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=AgDgtACTkus",
+          "duration": "1:00:33"
+        },
+        {
+          "name": "Viral infection management",
+          "kind": "clinical",
+          "title": "WBMT/ISBMT Webinar: Management of Viral Infections in Hematopoietic Stem-Cell Transplant - June 2022",
+          "channel": "WMDA Office",
+          "url": "https://www.youtube.com/watch?v=sYxogusv0SE",
+          "duration": "1:29:29"
+        },
+        {
+          "name": "CMV monitoring and prophylaxis",
+          "kind": "clinical",
+          "title": "Managing CMV Risk in HCT Recipients: Optimizing Transplant Outcomes Through Contemporary CMV Mana...",
+          "channel": "Decera Clinical Education",
+          "url": "https://www.youtube.com/watch?v=zQriHSGUFKw",
+          "duration": "14:48"
+        }
+      ]
+    },
+    {
+      "id": "ch30-u5",
+      "type": "section",
+      "name": "Specific organ toxicities",
+      "ashsapPage": 362,
+      "assessment": "Can you recognise sinusoidal obstruction syndrome at the bedside, name its risk factors and the drug licensed to treat it, and separate it from transplant-associated thrombotic microangiopathy?",
+      "lesson": {
+        "title": "IACH Webinar Series: Post-Transplant Complications: A Focus on Veno-Occlusive Disease (VOD)",
+        "channel": "International Academy for Clinical Hematology IACH",
+        "url": "https://www.youtube.com/watch?v=vlqvjCS9Nt8",
+        "duration": "43:50",
+        "why": "A dedicated webinar on hepatic veno-occlusive disease, the organ toxicity most likely to be tested and the one with a specific therapy."
+      },
+      "drills": [
+        {
+          "name": "Cardiac toxicity of transplant",
+          "kind": "clinical",
+          "title": "Cardiac Complications with Bone Marrow Transplant",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=rIc7ocIiNRs",
+          "duration": "59:22"
+        }
+      ]
+    },
+    {
+      "id": "ch30-u6",
+      "type": "section",
+      "name": "Survivorship and summary",
+      "ashsapPage": 362,
+      "assessment": "Can you list the late effects a transplant survivor should be screened for years out — second cancers, endocrine failure, bone loss, cardiovascular risk — and say who takes that screening over from the transplant centre?",
+      "lesson": {
+        "title": "Late Complications After Allogeneic Transplant: Diagnosis & Treatment",
+        "channel": "ASTCT",
+        "url": "https://www.youtube.com/watch?v=k5HROyBpW2s",
+        "duration": "47:07",
+        "why": "Covers the diagnosis and treatment of the late complications that define long-term survivorship care after transplant."
+      },
+      "drills": [
+        {
+          "name": "Second malignancies after transplant",
+          "kind": "clinical",
+          "title": "Secondary Cancers after Stem Cell Transplant",
+          "channel": "BMT InfoNet",
+          "url": "https://www.youtube.com/watch?v=Ct5_OakA8yM",
+          "duration": "58:20"
+        }
+      ]
+    }
+  ]
+}

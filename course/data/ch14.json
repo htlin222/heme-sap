@@ -1,0 +1,266 @@
+{
+  "chapter": "CH14",
+  "title": "Complement-related disorders",
+  "units": [
+    {
+      "id": "ch14-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 165,
+      "assessment": "Can you trace the classical, lectin and alternative pathways to the terminal C5b-9 complex, and name the regulatory proteins whose loss or inhibition produces complement-mediated hemolysis or microangiopathy?",
+      "lesson": {
+        "title": "Archive: The Role of Complement in Kidney Disease",
+        "channel": "UW Video",
+        "url": "https://www.youtube.com/watch?v=ya6GWoD3-Z8",
+        "duration": "53:18",
+        "why": "A full academic session on complement biology and how dysregulation causes disease, which is the mechanistic foundation the rest of this chapter builds on."
+      },
+      "drills": [
+        {
+          "name": "Complement in rare disease",
+          "kind": "mechanism",
+          "title": "The Complement System and Rare Diseases",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=G4dLXOHClgE",
+          "duration": "3:25"
+        },
+        {
+          "name": "Recognising MAHA",
+          "kind": "clinical",
+          "title": "Microangiopathic Hemolytic Anemia",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=v3Q3xYBSNek",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "id": "ch14-u2",
+      "type": "section",
+      "name": "Paroxysmal nocturnal hemoglobinuria",
+      "ashsapPage": 165,
+      "assessment": "Can you explain how a somatic PIGA mutation strips CD55 and CD59 from the cell surface, and how flow cytometry with FLAER quantifies the PNH clone in granulocytes, monocytes and red cells?",
+      "lesson": {
+        "title": "Paroxysmal Nocturnal Hemoglobinuria: A Review and an Appraisal of a Changing Treatment Landscape",
+        "channel": "LurieCancerCenter",
+        "url": "https://www.youtube.com/watch?v=R_uQIXyCfu4",
+        "duration": "55:34",
+        "why": "An academic review of PNH that covers the biology, the flow cytometric definition of the clone, and how the treatment landscape has changed beyond C5 inhibition."
+      },
+      "drills": [
+        {
+          "name": "Pathophysiology and diagnosis",
+          "kind": "mechanism",
+          "title": "Paroxysmal Nocturnal Hemoglobinuria (PNH) Pathophysiology, Symptoms, and Diagnosis",
+          "channel": "CheckRare",
+          "url": "https://www.youtube.com/watch?v=d3nrt5E-86g",
+          "duration": "5:06"
+        }
+      ]
+    },
+    {
+      "id": "ch14-u3",
+      "type": "section",
+      "name": "Clinical manifestations",
+      "ashsapPage": 166,
+      "assessment": "Can you account for the combination of intravascular hemolysis, thrombosis and marrow failure in PNH, and explain why thrombosis strikes unusual sites such as the hepatic and cerebral veins?",
+      "lesson": {
+        "title": "Paroxysmal Nocturnal Hemoglobinuria & Aplastic Anemia - Monika Oliver BSc MD FRCPC",
+        "channel": "The Aplastic Anemia & Myelodysplasia Association of Canada (AAMAC)",
+        "url": "https://www.youtube.com/watch?v=EK_McwMJLMI",
+        "duration": "44:33",
+        "why": "Presents PNH together with aplastic anemia, which is how the clinical syndrome actually appears - hemolysis, thrombosis and an underlying failing marrow."
+      },
+      "drills": [
+        {
+          "name": "Current management discussion",
+          "kind": "clinical",
+          "title": "Paroxysmal Nocturnal Hemoglobinuria | Oncology Today with Dr Neil Love: Management of Paroxysmal ...",
+          "channel": "Research To Practice",
+          "url": "https://www.youtube.com/watch?v=WQZqEgV6mkM",
+          "duration": "27:26"
+        }
+      ]
+    },
+    {
+      "id": "ch14-u4",
+      "type": "section",
+      "name": "Treatment",
+      "ashsapPage": 167,
+      "assessment": "Can you explain why C5 inhibition unmasks C3d-mediated extravascular hemolysis, what proximal inhibitors such as pegcetacoplan and iptacopan add, and what vaccination and antibiotic cover are required before starting?",
+      "lesson": {
+        "title": "Paroxysmal Nocturnal Hemoglobinuria | Oncology Today with Dr Neil Love: Management of Paroxysmal ...",
+        "channel": "Research To Practice",
+        "url": "https://www.youtube.com/watch?v=WQZqEgV6mkM",
+        "duration": "27:26",
+        "why": "A recent clinician-to-clinician discussion of how PNH is managed now that proximal complement inhibitors sit alongside eculizumab and ravulizumab."
+      },
+      "drills": [
+        {
+          "name": "Changing treatment landscape",
+          "kind": "clinical",
+          "title": "Paroxysmal Nocturnal Hemoglobinuria: A Review and an Appraisal of a Changing Treatment Landscape",
+          "channel": "LurieCancerCenter",
+          "url": "https://www.youtube.com/watch?v=R_uQIXyCfu4",
+          "duration": "55:34"
+        }
+      ]
+    },
+    {
+      "id": "ch14-u5",
+      "type": "section",
+      "name": "Prognosis",
+      "ashsapPage": 170,
+      "assessment": "Can you state what now determines long-term survival in PNH on complement inhibition, how breakthrough hemolysis is recognised and worked up, and which patients should still be referred for allogeneic transplant?",
+      "lesson": {
+        "url": null,
+        "note": "Re-searched on the prognostic questions themselves - survival on complement inhibition, breakthrough hemolysis, extravascular hemolysis on C5 blockade, and transplant indications in PNH. The search returned a single candidate, and it is about inebilizumab in neuromyelitis optica, an unrelated disease. Nothing usable exists in the pool for this section."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch14-u6",
+      "type": "section",
+      "name": "Thrombotic microangiopathies",
+      "ashsapPage": 171,
+      "assessment": "Can you list the entities that present with microangiopathic hemolytic anemia and thrombocytopenia, and outline the first-pass tests that separate TTP, Shiga toxin HUS, complement-mediated HUS and secondary TMA?",
+      "lesson": {
+        "title": "Rational Approach to Evaluation of Thrombotic Microangiopathy",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=Zf4TA8gVTG4",
+        "duration": "25:53",
+        "why": "A rational, test-by-test approach to the patient with a microangiopathy, which is exactly the triage this section is asking you to be able to perform."
+      },
+      "drills": [
+        {
+          "name": "Current complement framework",
+          "kind": "clinical",
+          "title": "KDIGO 2026 Complement Conference Plenary (1/5): Thrombotic Microangiopathy (TMA)",
+          "channel": "KDIGO",
+          "url": "https://www.youtube.com/watch?v=kTLGnpJZkbE",
+          "duration": "28:43"
+        },
+        {
+          "name": "Drug-associated TMA",
+          "kind": "clinical",
+          "title": "Topic on Focus on Thrombotic Microangiopathies: Drug-associated TMA",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=wt7dFQca98A",
+          "duration": "42:38"
+        },
+        {
+          "name": "Transplant-associated TMA",
+          "kind": "clinical",
+          "title": "Topic on Focus on Thrombotic Microangiopathies: HSCT-associated TMA",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=6H6K_HjVto4",
+          "duration": "47:00"
+        }
+      ]
+    },
+    {
+      "id": "ch14-u7",
+      "type": "section",
+      "name": "Clinical features",
+      "ashsapPage": 172,
+      "assessment": "Can you describe the organ involvement that distinguishes complement-mediated TMA from TTP at presentation, and the features that should make you suspect a drug-associated, pregnancy-associated or transplant-associated cause?",
+      "lesson": {
+        "title": "Diagnosis and Management of Thrombotic Microangiopathies – Jai Radhakrishnan, MD",
+        "channel": "NUGoKidney",
+        "url": "https://www.youtube.com/watch?v=IfZppmI1rLs",
+        "duration": "59:07",
+        "why": "Works through how the microangiopathies present and are told apart clinically, with the renal and neurologic patterns that point toward aHUS versus TTP."
+      },
+      "drills": [
+        {
+          "name": "TMA in pregnancy",
+          "kind": "clinical",
+          "title": "C-5 inhibition of Thrombotic Microangiopathy (TMA) in Pregnancy | Richard Burwick, MD, MPH",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=BKBklrFy8L0",
+          "duration": "37:50"
+        },
+        {
+          "name": "TMA after kidney transplant",
+          "kind": "clinical",
+          "title": "Thrombotic Microangiopathy in Kidney Transplantation: From Mechanisms to Management - Anuja Java, MD",
+          "channel": "NUGoKidney",
+          "url": "https://www.youtube.com/watch?v=JcLMSU2LTT0",
+          "duration": "1:00:19"
+        }
+      ]
+    },
+    {
+      "id": "ch14-u8",
+      "type": "section",
+      "name": "Pathogenesis",
+      "ashsapPage": 173,
+      "assessment": "Can you explain how ADAMTS13 deficiency generates platelet-rich microthrombi under high shear, and how loss-of-function variants in factor H, factor I or MCP allow uncontrolled alternative pathway activation in aHUS?",
+      "lesson": {
+        "title": "Thrombotic Microangiopathy - Unraveling the Genetics with Dr Anuja Java",
+        "channel": "Ottawa Nephrology",
+        "url": "https://www.youtube.com/watch?v=5Z2Mg1b0OY0",
+        "duration": "1:00:31",
+        "why": "Unpacks the complement genetics behind atypical HUS - which variants matter, what penetrance means here, and when genetic testing changes anything."
+      },
+      "drills": [
+        {
+          "name": "ADAMTS13 and TTP",
+          "kind": "mechanism",
+          "title": "Topic on Focus on Thrombotic Microangiopathies: ADAMTS13-related TTP pathophysiology",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=IoyGw1OkXAY",
+          "duration": "43:20"
+        },
+        {
+          "name": "Endothelial injury in TA-TMA",
+          "kind": "mechanism",
+          "title": "IACH 2023 ENDOTHELIAL dysfunction and TA-TMA Transplant associated thrombotic microangiopathy",
+          "channel": "hematology education",
+          "url": "https://www.youtube.com/watch?v=8uTwdUn42UY",
+          "duration": "46:54"
+        }
+      ]
+    },
+    {
+      "id": "ch14-u9",
+      "type": "section",
+      "name": "Management",
+      "ashsapPage": 174,
+      "assessment": "Can you justify starting daily plasma exchange before the ADAMTS13 result returns, say when you would switch to complement blockade instead, and how long complement inhibition should continue in aHUS?",
+      "lesson": {
+        "title": "Topic on Focus on Thrombotic Microangiopathies: Management of atypical HUS",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=30hvCAQh5ws",
+        "duration": "52:40",
+        "why": "A dedicated management talk on atypical HUS covering when to start complement blockade, response assessment and the question of stopping therapy."
+      },
+      "drills": [
+        {
+          "name": "How I treat aHUS",
+          "kind": "clinical",
+          "title": "How I diagnose and treat atypical hemolytic uremic syndrome?",
+          "channel": "Perfect Square",
+          "url": "https://www.youtube.com/watch?v=4lLwyYjDMMk",
+          "duration": "1:14:29"
+        },
+        {
+          "name": "Complement testing to guide therapy",
+          "kind": "clinical",
+          "title": "Complement Testing in the Diagnosis and Management of Thrombotic Microangiopathy",
+          "channel": "Mayo Clinic Laboratories",
+          "url": "https://www.youtube.com/watch?v=NpD5c5X4Ob0",
+          "duration": "58:04"
+        },
+        {
+          "name": "Eculizumab in complement-mediated TMA",
+          "kind": "trial",
+          "title": "Eric Luitweiler, MD - Complement-mediated TMA and Eculizumab",
+          "channel": "University of Washington Division of Nephrology",
+          "url": "https://www.youtube.com/watch?v=eWL7KebvbT4",
+          "duration": "30:23"
+        }
+      ]
+    }
+  ]
+}

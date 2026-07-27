@@ -1,0 +1,326 @@
+{
+  "chapter": "CH47",
+  "title": "Chronic lymphocytic leukemia/small lymphocytic lymphoma",
+  "units": [
+    {
+      "id": "ch47-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 581,
+      "assessment": "Can you say what separates chronic lymphocytic leukemia from small lymphocytic lymphoma and from monoclonal B lymphocytosis when the flow cytometry phenotype is identical in all three?",
+      "lesson": {
+        "title": "Diagnosis and Management of Chronic Lymphocytic Leukemia",
+        "channel": "JAMA Network",
+        "url": "https://www.youtube.com/watch?v=4HkHm2EidCo",
+        "duration": "17:34",
+        "why": "A journal-produced review that covers definition, workup and current treatment in under twenty minutes, which is the right orientation for the chapter opener."
+      },
+      "drills": [
+        {
+          "name": "Longer disease overview from a CLL specialist",
+          "kind": "clinical",
+          "title": "Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma (CLL/SLL) with Dr Graeme Fraser",
+          "channel": "LymphomaCanada",
+          "url": "https://www.youtube.com/watch?v=UOmQIJBvCPk",
+          "duration": "51:14"
+        },
+        {
+          "name": "Introductory lecture on what CLL is and how it behaves",
+          "kind": "clinical",
+          "title": "Dr Williams - An introduction to CLL",
+          "channel": "CLL Support Association (CLLSA)",
+          "url": "https://www.youtube.com/watch?v=TEsjNPqjltA",
+          "duration": "30:54"
+        }
+      ]
+    },
+    {
+      "id": "ch47-u2",
+      "type": "section",
+      "name": "Epidemiology",
+      "ashsapPage": 582,
+      "assessment": "Can you describe how CLL incidence varies with age, sex and ancestry, and quantify roughly how much risk a first-degree relative with CLL carries compared with the background population?",
+      "lesson": {
+        "title": "The epidemiology of CLL: What do we know about risk?",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=w70h6tOfqkM",
+        "duration": "24:24",
+        "why": "Devoted entirely to who gets CLL and why - incidence, age distribution and the epidemiologic risk signal - which is what this short section asks for."
+      },
+      "drills": [
+        {
+          "name": "Ethnic, environmental and familial risk factors",
+          "kind": "clinical",
+          "title": "Ethnic, environmental, genetic, and familial risk factors for CLL",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=bkY63tCYaJo",
+          "duration": "17:59"
+        }
+      ]
+    },
+    {
+      "id": "ch47-u3",
+      "type": "section",
+      "name": "Biology",
+      "ashsapPage": 582,
+      "assessment": "Can you explain why dependence on B-cell receptor signaling and on BCL2 makes CLL cells vulnerable to BTK and BCL2 inhibition, and rank del(13q), trisomy 12, del(11q) and del(17p) by biology rather than by memory?",
+      "lesson": {
+        "title": "Causes and Consequences of Genetic Abnormalities in Chronic Lymphocytic Leukemia",
+        "channel": "Yale Cancer Center",
+        "url": "https://www.youtube.com/watch?v=zNrY-WpAZFg",
+        "duration": "23:23",
+        "why": "An academic talk on the genetic lesions of CLL and what each of them does to the cell, which is the mechanistic core of this section."
+      },
+      "drills": [
+        {
+          "name": "Biology of the CLL clone explained by a hematologist",
+          "kind": "mechanism",
+          "title": "CLL Biology",
+          "channel": "LymphomaCanada",
+          "url": "https://www.youtube.com/watch?v=r_l_y2TeSCM",
+          "duration": "18:18"
+        },
+        {
+          "name": "Short primer on CLL cell biology",
+          "kind": "mechanism",
+          "title": "Dr. Graeme Fraser -  CLL Biology",
+          "channel": "The Leukemia & Lymphoma Society of Canada",
+          "url": "https://www.youtube.com/watch?v=4ImnGzcTnbU",
+          "duration": "5:48"
+        },
+        {
+          "name": "What the CLL clone looks like on a smear",
+          "kind": "clinical",
+          "title": "Chronic Lymphocytic Leukemia (CLL) Peripheral Blood Smear (Hemepath Hematology Pathology)",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=yf94oVc5muU",
+          "duration": "0:22"
+        }
+      ]
+    },
+    {
+      "id": "ch47-u4",
+      "type": "section",
+      "name": "Diagnosis and clinical evaluation",
+      "ashsapPage": 583,
+      "assessment": "Given persistent lymphocytosis, can you list the flow-cytometry markers that define the CLL immunophenotype, state the absolute B-cell threshold the iwCLL criteria require, and say when a marrow biopsy actually adds information?",
+      "lesson": {
+        "title": "Provider Connections: Dr. Neil Kay on Newly Diagnosed Chronic Lymphocytic Leukemia, Watch and Wait",
+        "channel": "Mayo Clinic",
+        "url": "https://www.youtube.com/watch?v=GrJXYZKdvzQ",
+        "duration": "12:34",
+        "why": "A 2026 clinician-to-clinician conversation about how a newly diagnosed patient is evaluated and why most are observed rather than treated."
+      },
+      "drills": [
+        {
+          "name": "Smear morphology of CLL in a board-review setting",
+          "kind": "clinical",
+          "title": "Hemepath & Hematology Board Review: Peripheral Blood Smears with Dr. Jeanette Ramos",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=kvI661vPmi8",
+          "duration": "1:40:08"
+        },
+        {
+          "name": "How the diagnosis is confirmed in practice",
+          "kind": "clinical",
+          "title": "Dr. Wierda on Diagnosing Chronic Lymphocytic Leukemia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=dXTPIzB_ICE",
+          "duration": "1:39"
+        }
+      ]
+    },
+    {
+      "id": "ch47-u5",
+      "type": "section",
+      "name": "Risk stratification",
+      "ashsapPage": 584,
+      "assessment": "Can you name the four variables in the CLL-IPI and explain why TP53 aberration and IGHV mutation status are rechecked before each line of therapy rather than measured once at diagnosis?",
+      "lesson": {
+        "title": "The Risk-Stratifying Factors in CLL",
+        "channel": "OncLive",
+        "url": "https://www.youtube.com/watch?v=NS8uUmRzr3U",
+        "duration": "8:28",
+        "why": "Runs through the individual risk-stratifying factors - stage, IGHV, FISH, TP53, beta-2 microglobulin - and how they combine into a prognostic index."
+      },
+      "drills": [
+        {
+          "name": "Which biomarkers matter most, as of 2026",
+          "kind": "clinical",
+          "title": "Key biomarkers for risk stratification in CLL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=jWyxI7AMl40",
+          "duration": "1:58"
+        },
+        {
+          "name": "Risk stratification tied to the treatment decision",
+          "kind": "clinical",
+          "title": "CLL Risk Stratification and Treatment Approach",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=pOUcqT7ipJ0",
+          "duration": "7:58"
+        },
+        {
+          "name": "Second pass over the same risk variables",
+          "kind": "clinical",
+          "title": "Risk Stratification in CLL",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=ELeMzojDyQQ",
+          "duration": "6:58"
+        }
+      ]
+    },
+    {
+      "id": "ch47-u6",
+      "type": "section",
+      "name": "Management",
+      "ashsapPage": 587,
+      "assessment": "Can you state the iwCLL indications for starting treatment rather than observing, and argue the case for continuous BTK inhibition versus fixed-duration venetoclax plus obinutuzumab in a fit patient with mutated IGHV?",
+      "lesson": {
+        "title": "Treating and Managing Chronic Lymphocytic Leukemia (CLL) in 2025: Dr. Mazyar Shadman",
+        "channel": "OncBrothers: Practice-Changing Cancer Discussions",
+        "url": "https://www.youtube.com/watch?v=1FV3MCpgm0s",
+        "duration": "24:35",
+        "why": "A 2025 practice-focused discussion with a CLL specialist covering when to treat and how covalent BTK inhibitors and fixed-duration venetoclax are chosen between."
+      },
+      "drills": [
+        {
+          "name": "2026 survey of new and emerging CLL therapy",
+          "kind": "clinical",
+          "title": "New & Emerging Treatments for CLL - 2026",
+          "channel": "Leukemia Research Foundation",
+          "url": "https://www.youtube.com/watch?v=N6eE38hFTLo",
+          "duration": "59:45"
+        },
+        {
+          "name": "Congress round-up of practice-changing CLL data",
+          "kind": "trial",
+          "title": "Chronic lymphocytic leukemia at ASH21: What's new?",
+          "channel": "International Academy for Clinical Hematology IACH",
+          "url": "https://www.youtube.com/watch?v=89HC8y31Bnk",
+          "duration": "1:01:22"
+        },
+        {
+          "name": "Delivering oral CLL therapy: interactions, adherence, toxicity",
+          "kind": "clinical",
+          "title": "Optimizing Chronic Lymphocytic Leukemia Care: The Pharmacist's Role",
+          "channel": "Oncology Data Advisor",
+          "url": "https://www.youtube.com/watch?v=uuy-Bxat1-Q",
+          "duration": "39:32"
+        }
+      ]
+    },
+    {
+      "id": "ch47-u7",
+      "type": "section",
+      "name": "Treatment of relapsed/refractory CLL",
+      "ashsapPage": 589,
+      "assessment": "For CLL progressing on a covalent BTK inhibitor, can you say what determines the next choice, and place noncovalent BTK inhibition, venetoclax-based therapy and CD19 CAR-T in a defensible sequence?",
+      "lesson": {
+        "title": "Relapsed/Refractory CLL Treatment Options",
+        "channel": "HealthTree Foundation for Blood Cancers",
+        "url": "https://www.youtube.com/watch?v=8Vcng1Oxqgk",
+        "duration": "59:54",
+        "why": "A 2024 session devoted to relapsed and refractory CLL, late enough to include noncovalent BTK inhibition and cellular therapy in the sequencing discussion."
+      },
+      "drills": [
+        {
+          "name": "Bispecific antibody data in relapsed CLL",
+          "kind": "trial",
+          "title": "EPCORE CLL-1: An Advance in Treating Relapsed/Refractory Chronic Lymphocytic Leukemia",
+          "channel": "Oncology Data Advisor",
+          "url": "https://www.youtube.com/watch?v=nnzpI7-_APw",
+          "duration": "10:45"
+        },
+        {
+          "name": "Earlier update on relapsed/refractory CLL and SLL",
+          "kind": "clinical",
+          "title": "Update on Relapsed Refractory Chronic Lymphocytic Leukemia Small Lymphocytic Lymphoma",
+          "channel": "Lymphoma Research Foundation",
+          "url": "https://www.youtube.com/watch?v=lpRBRHFvfhA",
+          "duration": "55:25"
+        }
+      ]
+    },
+    {
+      "id": "ch47-u8",
+      "type": "section",
+      "name": "Complications of CLL",
+      "ashsapPage": 591,
+      "assessment": "Can you explain why patients with untreated CLL are already infection-prone, and describe how you would work up a rapidly enlarging node with a rising LDH in a patient who has been stable on a BTK inhibitor?",
+      "lesson": {
+        "title": "CLL HORIZONS 2019 - ONGOING COMPLICATIONS OF CLL - MEDICAL, Nicole Lamanna MD, USA",
+        "channel": "CLL Advocates Network",
+        "url": "https://www.youtube.com/watch?v=rVxj43vJnNQ",
+        "duration": "22:31",
+        "why": "A CLL specialist working systematically through the medical complications of the disease - immune deficiency, cytopenias, autoimmunity and transformation."
+      },
+      "drills": [
+        {
+          "name": "Preventing and treating infection in CLL",
+          "kind": "clinical",
+          "title": "Infectious complications of CLL: prevention and treatment",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=5Hb9qxTD8BU",
+          "duration": "5:41"
+        },
+        {
+          "name": "Immunoglobulin replacement and supportive care",
+          "kind": "clinical",
+          "title": "Supportive care for infectious complications in CLL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=I7s0pCDpmOk",
+          "duration": "3:41"
+        },
+        {
+          "name": "Richter transformation as a clinical problem",
+          "kind": "clinical",
+          "title": "Challenges in CLL - Richter's transformation and acute leukemia",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=uXzNBshTecE",
+          "duration": "1:58"
+        }
+      ]
+    },
+    {
+      "id": "ch47-u9",
+      "type": "section",
+      "name": "Second malignancies",
+      "ashsapPage": 592,
+      "assessment": "Can you name the second cancers seen in excess in CLL, and say whether current evidence attributes that excess to the immune defect of the disease itself or to the drugs used to treat it?",
+      "lesson": {
+        "title": "Understanding the Risk of Secondary Cancers for Chronic Lymphocytic Leukemia Patients",
+        "channel": "HealthTree Foundation for Leukemia",
+        "url": "https://www.youtube.com/watch?v=pi_0laPE_nc",
+        "duration": "43:36",
+        "why": "The one candidate that treats second malignancy in CLL as its own subject rather than a footnote, including skin cancer surveillance."
+      },
+      "drills": [
+        {
+          "name": "Do novel agents increase second cancers?",
+          "kind": "clinical",
+          "title": "Novel Therapies Do Not Increase Second Cancers in CLL",
+          "channel": "CLL Society",
+          "url": "https://www.youtube.com/watch?v=1k7-GXnYM_8",
+          "duration": "8:58"
+        },
+        {
+          "name": "Second primary malignancy risk after first-line therapy",
+          "kind": "trial",
+          "title": "Evaluating the risk of secondary primary malignancies in patients with CLL receiving 1L therapy",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=ZYQ34EVXNLw",
+          "duration": "2:30"
+        },
+        {
+          "name": "Incidence figures for second malignancy in CLL",
+          "kind": "clinical",
+          "title": "Incidence and risk of secondary malignancy in patients with CLL",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=0x9A1IXbJcE",
+          "duration": "1:43"
+        }
+      ]
+    }
+  ]
+}

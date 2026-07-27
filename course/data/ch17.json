@@ -1,0 +1,238 @@
+{
+  "chapter": "CH17",
+  "title": "Antiphospholipid syndrome",
+  "units": [
+    {
+      "id": "ch17-u1",
+      "type": "section",
+      "name": "APLAs",
+      "ashsapPage": 202,
+      "assessment": "Can you name the three antiphospholipid antibodies that carry diagnostic weight, state the antigen each is directed against, and describe the proposed mechanisms - cell-surface signalling, complement activation, NETosis - by which they create a prothrombotic state?",
+      "lesson": {
+        "title": "Antiphospholipid syndrome in 2020: Is complement the key?",
+        "channel": "McMaster University - Department of Medicine",
+        "url": "https://www.youtube.com/watch?v=CASAad8oTqM",
+        "duration": "59:14",
+        "why": "A university grand-rounds hour on how antiphospholipid antibodies actually cause disease, with complement activation as the organising thread."
+      },
+      "drills": [
+        {
+          "name": "Is APS complement-mediated?",
+          "kind": "mechanism",
+          "title": "Session 7: Antiphospholipid Antibodies: Is APS a Complement-Mediated Autoimmune Disorder?",
+          "channel": "Foundation for Women & Girls With Blood Disorders",
+          "url": "https://www.youtube.com/watch?v=zH_HmtvzAMg",
+          "duration": "25:33"
+        },
+        {
+          "name": "Antibody profiles and patient stratification",
+          "kind": "clinical",
+          "title": "Antiphospholipid antibodies as tools for antiphospholipid syndrome patient stratification",
+          "channel": "GLADEL Latin America",
+          "url": "https://www.youtube.com/watch?v=mpEQJmJh_ts",
+          "duration": "18:35"
+        }
+      ]
+    },
+    {
+      "id": "ch17-u2",
+      "type": "section",
+      "name": "Diagnosis of APS",
+      "ashsapPage": 202,
+      "assessment": "Can you state which clinical and laboratory findings must coexist before you call a patient antiphospholipid syndrome, and explain how the 2023 ACR/EULAR weighted-domain criteria differ from the older Sydney consensus criteria?",
+      "lesson": {
+        "title": "2023 ACR/EULAR AntiPhospholipid Syndrome (APS) classification criteria",
+        "channel": "ERN ReCONNET",
+        "url": "https://www.youtube.com/watch?v=Wn1hRo7MQWg",
+        "duration": "48:01",
+        "why": "A full session on the 2023 ACR/EULAR classification criteria themselves - the entry criterion, the weighted clinical and laboratory domains, and the point threshold."
+      },
+      "drills": [
+        {
+          "name": "Diagnostic reasoning in APS",
+          "kind": "clinical",
+          "title": "Deep Dive into Antiphospholipid Syndrome Diagnostics",
+          "channel": "The Curbsiders Internal Medicine Podcast",
+          "url": "https://www.youtube.com/watch?v=1ILz59e-FxU",
+          "duration": "15:19"
+        },
+        {
+          "name": "Compact APS diagnostic summary",
+          "kind": "clinical",
+          "title": "Antiphospholipid Antibody Syndrome",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=nnoi58c1RTc",
+          "duration": "5:09"
+        }
+      ]
+    },
+    {
+      "id": "ch17-u3",
+      "type": "section",
+      "name": "Prevalence of APLAs and APS",
+      "ashsapPage": 202,
+      "assessment": "Can you estimate how common antiphospholipid antibodies are in healthy adults, in patients with lupus, and among unselected patients presenting with venous thrombosis, and explain why a single positive test in an acutely ill patient is usually not antiphospholipid syndrome?",
+      "lesson": {
+        "title": "Antiphospholipid Syndrome Management: Current Evidence",
+        "channel": "BC Thrombosis Network",
+        "url": "https://www.youtube.com/watch?v=7YCdcSG95cg",
+        "duration": "47:06",
+        "why": "A thrombosis-network talk that sets out how often antiphospholipid antibodies turn up without disease, why a single positive test during acute illness or infection usually reflects transient positivity, and what confirmation at twelve weeks and antibody profile add before anyone is labelled with the syndrome."
+      },
+      "drills": [
+        {
+          "name": "APS at its most severe",
+          "kind": "clinical",
+          "title": "The Antiphospholipid Syndrome: TMAs & pregnancy - Dr Karen Breen",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=VA9O92eDJRQ",
+          "duration": "17:54"
+        }
+      ]
+    },
+    {
+      "id": "ch17-u4",
+      "type": "section",
+      "name": "Laboratory testing of APS",
+      "ashsapPage": 203,
+      "assessment": "Can you walk through the three steps of lupus anticoagulant testing - prolongation of a phospholipid-sensitive screen, failure to correct on mixing, and correction with excess phospholipid - and explain why heparin, DOACs, warfarin and acute-phase states make the result uninterpretable?",
+      "lesson": {
+        "title": "Antiphospholipid Syndrome | Lupus Anticoagulant Testing: Fundamental Principles and Limitations",
+        "channel": "BC Thrombosis Network",
+        "url": "https://www.youtube.com/watch?v=w9IOEsBsGIM",
+        "duration": "52:13",
+        "why": "A thrombosis-network lecture devoted to lupus anticoagulant assay principles and, more usefully, to their limitations and interferences."
+      },
+      "drills": [
+        {
+          "name": "Full laboratory workup for APLAs",
+          "kind": "clinical",
+          "title": "Laboratory Role in Diagnosis of Antiphospholipid Antibodies and Antiphospholipid Syndrome",
+          "channel": "Labroots",
+          "url": "https://www.youtube.com/watch?v=I6tpj8Mjnnw",
+          "duration": "1:28:12"
+        },
+        {
+          "name": "Antibody testing in practice",
+          "kind": "clinical",
+          "title": "Antiphospholipid Antibody Testing",
+          "channel": "LouisvilleAPL",
+          "url": "https://www.youtube.com/watch?v=Kli23JevYRA",
+          "duration": "41:40"
+        },
+        {
+          "name": "New antibody specificities and what testing adds",
+          "kind": "clinical",
+          "title": "Laura Bertolaccini - New specificities in the antiphospholipid syndrome - The importance of testing",
+          "channel": "Labroots",
+          "url": "https://www.youtube.com/watch?v=XrDvwJWJajY",
+          "duration": "31:50"
+        }
+      ]
+    },
+    {
+      "id": "ch17-u5",
+      "type": "section",
+      "name": "Clinical consequences of APS",
+      "ashsapPage": 205,
+      "assessment": "Can you list the thrombotic, obstetric and non-criteria manifestations of APS - livedo racemosa, valve disease, nephropathy, thrombocytopenia - and describe how catastrophic APS presents and what its combination therapy consists of?",
+      "lesson": {
+        "title": "The Antiphospholipid Syndrome - Dr. Michael Linenberger",
+        "channel": "UW Video",
+        "url": "https://www.youtube.com/watch?v=XWBYyzLrSEo",
+        "duration": "55:53",
+        "why": "A haematologist's full-length lecture on the clinical face of APS, running from venous and arterial events through pregnancy morbidity to the non-criteria manifestations."
+      },
+      "drills": [
+        {
+          "name": "Grand rounds on APS presentation",
+          "kind": "clinical",
+          "title": "Antiphospholipid Syndrome",
+          "channel": "MedStar Georgetown Department of Medicine",
+          "url": "https://www.youtube.com/watch?v=YddjtfDFSh4",
+          "duration": "44:21"
+        },
+        {
+          "name": "Microangiopathy and pregnancy manifestations",
+          "kind": "clinical",
+          "title": "The Antiphospholipid Syndrome: TMAs & pregnancy - Dr Karen Breen",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=VA9O92eDJRQ",
+          "duration": "17:54"
+        }
+      ]
+    },
+    {
+      "id": "ch17-u6",
+      "type": "section",
+      "name": "Management",
+      "ashsapPage": 205,
+      "assessment": "Can you justify why a vitamin K antagonist rather than a DOAC is used in triple-positive or arterial APS, cite the trial evidence behind that, and describe how chromogenic factor X is used when a lupus anticoagulant makes the INR unreliable?",
+      "lesson": {
+        "title": "Updates in Evidence in the Management of Antiphospholipid Syndrome (APS)",
+        "channel": "Thrombosis UK",
+        "url": "https://www.youtube.com/watch?v=AoRtxoELCis",
+        "duration": "1:48:18",
+        "why": "A long evidence-update session on APS management that covers the DOAC-versus-warfarin question, intensity of anticoagulation and what to do after breakthrough thrombosis."
+      },
+      "drills": [
+        {
+          "name": "A haematologist talks through management",
+          "kind": "clinical",
+          "title": "#421 Antiphospholipid Syndrome with Dr. Arielle Langer",
+          "channel": "The Curbsiders Internal Medicine Podcast",
+          "url": "https://www.youtube.com/watch?v=rePD5OzwdY4",
+          "duration": "1:16:31"
+        },
+        {
+          "name": "DOACs vs VKAs in thrombotic APS",
+          "kind": "trial",
+          "title": "Direct Oral Anticoagulants vs Vitamin-K Antagonists in Thrombotic Antiphospholipid Syndrome",
+          "channel": "Anticoagulation Forum",
+          "url": "https://www.youtube.com/watch?v=_q5PnNSFCGU",
+          "duration": "1:00:06"
+        },
+        {
+          "name": "State-of-the-art management summary",
+          "kind": "clinical",
+          "title": "Antiphospholipid Syndrome: State of the Art Management | 24th ESR Annual Scientific Meeting",
+          "channel": "Michigan Medicine",
+          "url": "https://www.youtube.com/watch?v=Y50MAATuaqk",
+          "duration": "26:58"
+        }
+      ]
+    },
+    {
+      "id": "ch17-u7",
+      "type": "section",
+      "name": "Special populations",
+      "ashsapPage": 206,
+      "assessment": "Can you state the antithrombotic regimen for a pregnant patient with obstetric APS and no prior thrombosis, say how it changes for someone with previous thrombotic APS, and explain what happens to warfarin, aspirin and hydroxychloroquine across pregnancy?",
+      "lesson": {
+        "title": "Pregnancy and Antiphospholipid syndrome (APS)",
+        "channel": "ERN ReCONNET",
+        "url": "https://www.youtube.com/watch?v=L2DDGpPijdc",
+        "duration": "1:00:21",
+        "why": "A dedicated session on APS in pregnancy - who gets aspirin, who gets prophylactic versus therapeutic LMWH, and how refractory obstetric APS is approached."
+      },
+      "drills": [
+        {
+          "name": "Difficult cases, including catastrophic APS",
+          "kind": "clinical",
+          "title": "How we treat challenging cases of Antiphospholipid syndrome (APS)",
+          "channel": "ERN ReCONNET",
+          "url": "https://www.youtube.com/watch?v=JQtBE-qhjOE",
+          "duration": "1:00:53"
+        },
+        {
+          "name": "APS in the setting of lupus",
+          "kind": "clinical",
+          "title": "The Expert Series Season 5, Episode 4 - Lupus and Antiphospholipid Syndrome (APS)",
+          "channel": "Lupus Foundation of America",
+          "url": "https://www.youtube.com/watch?v=lU5wCRadZww",
+          "duration": "28:19"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "chapter": "CH25",
+  "title": "Platelet disorders 3: thrombotic thrombocytopenic purpura (immune and congenital)",
+  "units": [
+    {
+      "id": "ch25-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 278,
+      "assessment": "Can you define the triad that must be present before you call a thrombotic microangiopathy TTP, and name the ADAMTS13 activity threshold that separates TTP from every other TMA?",
+      "lesson": {
+        "title": "Thrombotic Thrombocytopenic Purpura (TTP) Part 1: Basics",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=kkEjO7GhBPo",
+        "duration": "6:17",
+        "why": "A compact orientation to the disease definition — thrombocytopenia, microangiopathic hemolysis and the ADAMTS13 defect — before the chapter goes into mechanism and therapy."
+      },
+      "drills": [
+        {
+          "name": "Where TTP sits among the thrombotic microangiopathies",
+          "kind": "clinical",
+          "title": "Thrombotic Microangiopathies with a Focus on TTP (Thrombotic Thrombocytopenic Purpura)",
+          "channel": "Icahn School of Medicine",
+          "url": "https://www.youtube.com/watch?v=q7ddA7Jr3hQ",
+          "duration": "56:01"
+        }
+      ]
+    },
+    {
+      "id": "ch25-u2",
+      "type": "section",
+      "name": "Pathogenesis",
+      "ashsapPage": 278,
+      "assessment": "Can you explain why loss of ADAMTS13 activity produces platelet-rich microvascular thrombi, and describe how the mechanism differs between autoantibody-mediated and biallelic-mutation disease?",
+      "lesson": {
+        "title": "ISTH Academy Presentation: Thrombotic Thrombocytopenic Purpura (TTP)",
+        "channel": "ISTH",
+        "url": "https://www.youtube.com/watch?v=5zejO8fR8OM",
+        "duration": "1:07:54",
+        "why": "An ISTH academy lecture that works through VWF multimer biology, ADAMTS13 cleavage and the autoantibody response in the depth this section demands."
+      },
+      "drills": [
+        {
+          "name": "Pathogenesis seen through a paediatric iTTP case",
+          "kind": "clinical",
+          "title": "IFCC Clinical Case 3：Immune mediated thrombotic thrombocytopenic purpura TTP in pediatrics — Argenti",
+          "channel": "MindrayInternational",
+          "url": "https://www.youtube.com/watch?v=0edNnl0r8V0",
+          "duration": "9:45"
+        }
+      ]
+    },
+    {
+      "id": "ch25-u3",
+      "type": "section",
+      "name": "Clinical features",
+      "ashsapPage": 279,
+      "assessment": "Given anemia, thrombocytopenia and schistocytes, can you list the features that favour TTP over complement-mediated HUS, DIC, HELLP or drug-induced TMA, and name a score that estimates the probability of severe ADAMTS13 deficiency?",
+      "lesson": {
+        "title": "Clinical Updates on Thrombotic Thrombocytopenic Purpura (TTP)",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=_Fe0-mQ_IVM",
+        "duration": "23:49",
+        "why": "Mayo Clinic Laboratories walks through the presenting features and the diagnostic laboratory sequence, which is exactly the discrimination problem this section poses."
+      },
+      "drills": [
+        {
+          "name": "Full differential of the thrombotic microangiopathies",
+          "kind": "clinical",
+          "title": "Thrombotic Microangiopathies with a Focus on TTP (Thrombotic Thrombocytopenic Purpura)",
+          "channel": "Icahn School of Medicine",
+          "url": "https://www.youtube.com/watch?v=q7ddA7Jr3hQ",
+          "duration": "56:01"
+        }
+      ]
+    },
+    {
+      "id": "ch25-u4",
+      "type": "section",
+      "name": "Management",
+      "ashsapPage": 282,
+      "assessment": "Can you state what must be started within hours of suspecting immune TTP before ADAMTS13 results return, say what caplacizumab adds and what it does not, and explain how congenital disease is treated differently?",
+      "lesson": {
+        "title": "Thrombotic Thrombocytopenic Purpura (TTP) Part 3: Management",
+        "channel": "Coag Coach",
+        "url": "https://www.youtube.com/watch?v=yLZy6f6Tpl4",
+        "duration": "5:24",
+        "why": "Covers the modern treatment stack — plasma exchange, corticosteroids, rituximab and caplacizumab — in the order it is actually applied."
+      },
+      "drills": [
+        {
+          "name": "TTP in pregnancy, from a TTP referral centre",
+          "kind": "clinical",
+          "title": "TTP diagnosis & management in pregnancy - Prof Marie Scully",
+          "channel": "Thrombosis UK",
+          "url": "https://www.youtube.com/watch?v=-c8BFywDGbs",
+          "duration": "15:52"
+        },
+        {
+          "name": "Extended lecture on diagnosis through long-term follow-up",
+          "kind": "clinical",
+          "title": "thrombotic thrombocytopenic purpura (TTP)",
+          "channel": "hematology education",
+          "url": "https://www.youtube.com/watch?v=CHosWaB5BPQ",
+          "duration": "49:18"
+        }
+      ]
+    }
+  ]
+}

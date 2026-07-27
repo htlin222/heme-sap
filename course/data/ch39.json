@@ -1,0 +1,179 @@
+{
+  "chapter": "CH39",
+  "title": "Acquired bone marrow failure syndromes, including aplastic anemia and pure red cell aplasia",
+  "units": [
+    {
+      "id": "ch39-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 472,
+      "assessment": "Can you explain why aplastic anemia is a diagnosis of exclusion, list the conditions that must be ruled out first — hypocellular MDS, PNH, inherited marrow failure syndromes and drug or viral marrow injury — and name the two specialised tests every new marrow-failure patient should have?",
+      "lesson": {
+        "title": "Aplastic Anemia and Overlapping Conditions",
+        "channel": "AAMDSIF",
+        "url": "https://www.youtube.com/watch?v=zO113nvLnUs",
+        "duration": "1:14:48",
+        "why": "Frames acquired marrow failure exactly the way this chapter does, by walking the overlap between aplastic anemia, PNH, hypocellular MDS and inherited syndromes rather than treating each in isolation."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch39-u2",
+      "type": "section",
+      "name": "Aplastic anemia",
+      "ashsapPage": 472,
+      "assessment": "Can you give the blood-count and marrow cellularity thresholds that define severe and very severe aplastic anemia, and say which karyotypic changes and somatic mutations can still be present without forcing a diagnosis of MDS instead?",
+      "lesson": {
+        "title": "Management of Aplastic Anemia - San Antonio P&FVC",
+        "channel": "AAMDSIF",
+        "url": "https://www.youtube.com/watch?v=ck6v1iNuSLM",
+        "duration": "1:15:54",
+        "why": "A 2025 hematologist-led session that covers the severity definitions, the exclusion workup and the current treatment algorithm in one pass, so it anchors the whole aplastic anemia part of the chapter."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch39-u3",
+      "type": "section",
+      "name": "Pathogenesis",
+      "ashsapPage": 473,
+      "assessment": "Can you describe the cytotoxic T-cell mechanism that destroys hematopoietic stem and progenitor cells in immune aplastic anemia, and explain why PNH clones and 6p uniparental disomy expand in this setting rather than in other causes of pancytopenia?",
+      "lesson": {
+        "title": "Paroxysmal Nocturnal Hemoglobinuria & Aplastic Anemia - Monika Oliver BSc MD FRCPC",
+        "channel": "The Aplastic Anemia & Myelodysplasia Association of Canada (AAMAC)",
+        "url": "https://www.youtube.com/watch?v=EK_McwMJLMI",
+        "duration": "44:33",
+        "why": "Takes the aplastic anemia–PNH axis seriously as pathophysiology, which is the only way to understand why GPI-deficient clones are found in most immune aplastic anemia patients at diagnosis."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch39-u4",
+      "type": "section",
+      "name": "Therapy",
+      "ashsapPage": 475,
+      "assessment": "For a newly diagnosed severe aplastic anemia patient, can you state how age and donor availability decide between upfront matched sibling transplant and immunosuppression, and say what supportive care and antifungal prophylaxis are owed to a patient with very severe disease?",
+      "lesson": {
+        "title": "Management of Aplastic Anemia - San Antonio P&FVC",
+        "channel": "AAMDSIF",
+        "url": "https://www.youtube.com/watch?v=ck6v1iNuSLM",
+        "duration": "1:15:54",
+        "why": "The same 2025 management session, watched for its treatment algorithm: who goes straight to transplant, who gets immunosuppression, and how quickly therapy must start once the workup is done."
+      },
+      "drills": [
+        {
+          "name": "Adding eltrombopag to standard immunosuppression",
+          "kind": "trial",
+          "title": "Exciting new immunosuppressive therapy treatment for aplastic anaemia",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=lk_Dn1fxkMY",
+          "duration": "5:35"
+        }
+      ]
+    },
+    {
+      "id": "ch39-u5",
+      "type": "section",
+      "name": "Hematopoietic stem cell transplantation",
+      "ashsapPage": 476,
+      "assessment": "Can you say why a matched sibling transplant is first-line for severe aplastic anemia under about 40 years of age, where matched unrelated and haploidentical donors currently sit in the algorithm, and why conditioning for marrow failure differs from conditioning for leukemia?",
+      "lesson": {
+        "title": "Stem Cell Transplant Basics",
+        "channel": "Aaron Goodman MD (\"Papa Heme\")",
+        "url": "https://www.youtube.com/watch?v=2f0PnCQTlWA",
+        "duration": "57:42",
+        "why": "A clinician-level primer on donor selection, conditioning intensity, GVHD and graft failure — the vocabulary needed before the aplastic-anemia-specific transplant decisions make sense."
+      },
+      "drills": [
+        {
+          "name": "Where transplant sits in the aplastic anemia algorithm",
+          "kind": "clinical",
+          "title": "Aplastic Anemia and Overlapping Conditions",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=zO113nvLnUs",
+          "duration": "1:14:48"
+        }
+      ]
+    },
+    {
+      "id": "ch39-u6",
+      "type": "section",
+      "name": "Immunosuppressive therapy",
+      "ashsapPage": 477,
+      "assessment": "Can you name the three components of modern first-line immunosuppression for severe aplastic anemia, explain why horse rather than rabbit ATG is used, and state roughly when response should be assessed and what response rate to expect?",
+      "lesson": {
+        "title": "Exciting new immunosuppressive therapy treatment for aplastic anaemia",
+        "channel": "ecancer",
+        "url": "https://www.youtube.com/watch?v=lk_Dn1fxkMY",
+        "duration": "5:35",
+        "why": "Short and directly on the point of this section: the trial evidence that added eltrombopag to horse ATG plus cyclosporine and made triplet immunosuppression the first-line standard."
+      },
+      "drills": [
+        {
+          "name": "The full immunosuppression regimen in context",
+          "kind": "clinical",
+          "title": "Management of Aplastic Anemia - San Antonio P&FVC",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=ck6v1iNuSLM",
+          "duration": "1:15:54"
+        }
+      ]
+    },
+    {
+      "id": "ch39-u7",
+      "type": "section",
+      "name": "Long-term complications after IST: Relapse and clonal evolution",
+      "ashsapPage": 478,
+      "assessment": "About a third of responders relapse and 10-20% evolve clonally after immunosuppression — can you say what to do for a relapse on tapering cyclosporine, and which cytogenetic finding at evolution demands transplant rather than continued medical therapy?",
+      "lesson": {
+        "title": "Aplastic Anemia and Overlapping Conditions",
+        "channel": "AAMDSIF",
+        "url": "https://www.youtube.com/watch?v=zO113nvLnUs",
+        "duration": "1:14:48",
+        "why": "Returns to the same overlap talk for its later material on late clonal events after immunosuppression: PNH expansion, MDS evolution and how monosomy 7 changes the plan."
+      },
+      "drills": [
+        {
+          "name": "Genetics of progression to acute leukemia",
+          "kind": "mechanism",
+          "title": "From MDS to AML: Genetics of Progression (featuring Prof Lars Bullinger)",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=iKzXbPRDSdI",
+          "duration": "20:33"
+        }
+      ]
+    },
+    {
+      "id": "ch39-u8",
+      "type": "section",
+      "name": "Acquired pure red cell aplasia",
+      "ashsapPage": 479,
+      "assessment": "Given a normocytic anemia with an absolute reticulocyte count under 10 000/µL and a marrow lacking erythroid precursors, can you list the secondary causes to hunt for — thymoma, T-LGL, parvovirus B19, drugs, anti-EPO antibodies — and state the first-line treatment for immune-mediated disease?",
+      "lesson": {
+        "title": "Pure Red Cell Aplasia | Robert Means, MD and Taha Bat, MD | HemeHub.org",
+        "channel": "HemeHub",
+        "url": "https://www.youtube.com/watch?v=DDyxeq2mGxg",
+        "duration": "47:07",
+        "why": "A 2025 fellow-directed teaching session by two authorities on pure red cell aplasia that covers the differential, the parvovirus and T-LGL associations, and the immunosuppressive sequence."
+      },
+      "drills": [
+        {
+          "name": "Disease mechanisms and clinical management",
+          "kind": "mechanism",
+          "title": "PRCA Disease Mechanisms, Diagnosis, and Clinical Management Webinar J. P. Maciejewski  =2016",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=eOJICG5BoPM",
+          "duration": "1:07:02"
+        },
+        {
+          "name": "Approach to the differential",
+          "kind": "clinical",
+          "title": "PURE RED CELL APLASIA=Differentials and approach",
+          "channel": "Neema Tiwari",
+          "url": "https://www.youtube.com/watch?v=AagaCck0czU",
+          "duration": "10:06"
+        }
+      ]
+    }
+  ]
+}

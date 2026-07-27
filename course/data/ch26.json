@@ -1,0 +1,310 @@
+{
+  "chapter": "CH26",
+  "title": "Platelet disorders 4: hereditary thrombocytopenia and qualitative platelet disorders",
+  "units": [
+    {
+      "id": "ch26-u1",
+      "type": "section",
+      "name": "Platelet function in hemostasis",
+      "ashsapPage": 287,
+      "assessment": "Can you trace the receptor-ligand steps from platelet tethering on von Willebrand factor through firm adhesion and aggregation, and name which receptor each inherited defect knocks out?",
+      "lesson": {
+        "title": "Hemostasis: Lesson 2 - Platelet Activation and Aggregation",
+        "channel": "Strong Medicine",
+        "url": "https://www.youtube.com/watch?v=ANXn3pUc9CA",
+        "duration": "17:47",
+        "why": "A structured walk through adhesion, activation, granule release and aggregation, which is the scaffold every later section of this chapter hangs on."
+      },
+      "drills": [
+        {
+          "name": "Animated view of adhesion and aggregation",
+          "kind": "mechanism",
+          "title": "Platelet Adhesion and Aggregation",
+          "channel": "Mechanisms in Medicine",
+          "url": "https://www.youtube.com/watch?v=0pnpoEy0eYE",
+          "duration": "4:42"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u2",
+      "type": "section",
+      "name": "Tests to evaluate platelet function abnormalities",
+      "ashsapPage": 288,
+      "assessment": "Can you explain why a normal PFA closure time does not exclude a platelet function defect, what light transmission aggregometry adds, and which test confirms a dense granule storage pool deficiency?",
+      "lesson": {
+        "title": "ISTH Academy Presentation:  Platelet Function Testing in the Clinic",
+        "channel": "ISTH",
+        "url": "https://www.youtube.com/watch?v=5rEE3hlCRu8",
+        "duration": "1:00:56",
+        "why": "An ISTH session on how platelet function testing is actually used and misused in clinic, including the limits of screening assays and the primacy of aggregometry."
+      },
+      "drills": [
+        {
+          "name": "Reading a platelet function assay report",
+          "kind": "clinical",
+          "title": "Platelet function assay",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=thbwHcmlMUE",
+          "duration": "3:19"
+        },
+        {
+          "name": "Diagnostic approach to a suspected platelet defect",
+          "kind": "clinical",
+          "title": "Approach to diagnosis of platelet defects",
+          "channel": "Amal Mohamed Ibrahim El Beshlawy",
+          "url": "https://www.youtube.com/watch?v=TRso_2CssnU",
+          "duration": "25:53"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u3",
+      "type": "section",
+      "name": "Hereditary thrombocytopenia",
+      "ashsapPage": 288,
+      "assessment": "Can you name the features of a thrombocytopenia that should make you doubt ITP and pursue germline testing, and explain how the genetic answer changes counseling, therapy and cancer surveillance?",
+      "lesson": {
+        "title": "Inherited Thrombocytopenia (ITP): What Is It, Whom To Test and How To Test?",
+        "channel": "RUNX1 Research Program",
+        "url": "https://www.youtube.com/watch?v=fmV-NSfxQ1o",
+        "duration": "58:20",
+        "why": "Frames the section's central question — whom to test for inherited thrombocytopenia and with what — rather than just cataloguing syndromes."
+      },
+      "drills": [
+        {
+          "name": "ETV6 and germline predisposition",
+          "kind": "clinical",
+          "title": "A new form of inherited thrombocytopenia: ETV6, never judge a book by its cover",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=i32g7a7clbA",
+          "duration": "3:47"
+        },
+        {
+          "name": "Clinician conversation on distinguishing ITP from inherited disease",
+          "kind": "clinical",
+          "title": "A Conversation: ITP & Inherited Platelet Function Disorders with Michele Lambert, MD, MSTR - Part 1",
+          "channel": "Biomedica Diagnostics Inc.",
+          "url": "https://www.youtube.com/watch?v=qrnbnmfAf30",
+          "duration": "25:51"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u4",
+      "type": "section",
+      "name": "Thrombocytopenia with large platelets (macrothrombocytopenia)",
+      "ashsapPage": 289,
+      "assessment": "Can you list the inherited causes of large-platelet thrombocytopenia, describe the extra-hematologic findings that point to MYH9-related disease, and explain why automated counters underestimate the count here?",
+      "lesson": {
+        "title": "LMP: Diagnosis of Hereditary Platelet Disorders - Doug Chen, M.D., Ph.D.",
+        "channel": "AHC. UMN",
+        "url": "https://www.youtube.com/watch?v=vZWnda0bvxs",
+        "duration": "1:06:57",
+        "why": "A laboratory medicine lecture on diagnosing hereditary platelet disorders that spends real time on platelet size, morphology and the macrothrombocytopenia syndromes."
+      },
+      "drills": [
+        {
+          "name": "Giant platelets on the film",
+          "kind": "clinical",
+          "title": "Giant Platelet on Peripheral Blood Smear (Hemepath, Hematology, Pathology)",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=Q5TDQpUKY_o",
+          "duration": "0:27"
+        },
+        {
+          "name": "Pseudothrombocytopenia, optical counts and immature platelet fraction",
+          "kind": "clinical",
+          "title": "CUBE Aspire 2021 | Dr. Ramon Lopez | Platelet Pseudothrombocytopenia, optical platelets, and IPF",
+          "channel": "Mindray India",
+          "url": "https://www.youtube.com/watch?v=hZTUfYsSV4E",
+          "duration": "34:09"
+        },
+        {
+          "name": "What persistent mild thrombocytopenia predicts",
+          "kind": "clinical",
+          "title": "Long-term risks associated with persistent isolated mild thrombocytopenia",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=lLdssNPap7g",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u5",
+      "type": "section",
+      "name": "Inherited disorders of platelet function",
+      "ashsapPage": 293,
+      "assessment": "Can you separate the inherited platelet function defects by which step of hemostasis each disrupts, and describe the bleeding phenotype and the hemostatic cover you would arrange for surgery?",
+      "lesson": {
+        "title": "Basics of Rare Platelet Disorders",
+        "channel": "National Bleeding Disorders Foundation",
+        "url": "https://www.youtube.com/watch?v=KOHy1zdcyp8",
+        "duration": "28:00",
+        "why": "A single overview of the rare inherited platelet disorders that maps each syndrome onto the defective step, which is how the following four sections are organised."
+      },
+      "drills": [
+        {
+          "name": "Genomic diagnosis of platelet disorders",
+          "kind": "clinical",
+          "title": "Genomics of Platelet Disorders",
+          "channel": "World Federation of Hemophilia",
+          "url": "https://www.youtube.com/watch?v=vdkZCZpsHxw",
+          "duration": "34:41"
+        },
+        {
+          "name": "Genetic testing for inherited platelet function disorders",
+          "kind": "clinical",
+          "title": "ERN-EuroBloodNet Topic on Focus on IPFD - Genetic testing for IPFD",
+          "channel": "ERN-EuroBloodNet's EDU",
+          "url": "https://www.youtube.com/watch?v=Aa4WQTGi97w",
+          "duration": "48:21"
+        },
+        {
+          "name": "Clinician conversation, part 2",
+          "kind": "clinical",
+          "title": "A Conversation: ITP & Inherited Platelet Function Disorders with Michele Lambert, MD, MSTR - Part 2",
+          "channel": "Biomedica Diagnostics Inc.",
+          "url": "https://www.youtube.com/watch?v=_-YuKlZya2M",
+          "duration": "27:48"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u6",
+      "type": "section",
+      "name": "Disorders of platelet adhesion",
+      "ashsapPage": 294,
+      "assessment": "Can you explain what is defective in Bernard-Soulier syndrome, how its aggregometry pattern differs from von Willebrand disease, and why platelet size and count are abnormal in one but not the other?",
+      "lesson": {
+        "title": "Von Willebrand Disease & Qualitative Platelet Disorders: Hemostasis - Lesson 10",
+        "channel": "Strong Medicine",
+        "url": "https://www.youtube.com/watch?v=fP6Q-iAAzdM",
+        "duration": "14:07",
+        "why": "Treats von Willebrand disease and the qualitative platelet disorders together, which is the comparison this adhesion section is built around."
+      },
+      "drills": [
+        {
+          "name": "Adhesion mechanics of platelet plug formation",
+          "kind": "mechanism",
+          "title": "Platelet Plug Formation - Mechanisms",
+          "channel": "PhysioPathoPharmaco",
+          "url": "https://www.youtube.com/watch?v=gZnjCT17bHM",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u7",
+      "type": "section",
+      "name": "Disorders of platelet aggregation",
+      "ashsapPage": 295,
+      "assessment": "Can you describe the aggregometry signature of Glanzmann thrombasthenia, explain why the ristocetin response is preserved, and say how alloimmunization against GPIIb-IIIa complicates transfusion support?",
+      "lesson": {
+        "title": "ERN-EuroBloodNet Topic on Focus on IPFD -  Glanzmann thrombasthenia: diagnosis and follow up",
+        "channel": "ERN-EuroBloodNet's EDU",
+        "url": "https://www.youtube.com/watch?v=qY8dFVEKK9s",
+        "duration": "1:01:28",
+        "why": "A dedicated expert session on Glanzmann thrombasthenia — diagnosis, aggregometry pattern and long-term follow-up — which is the prototype aggregation defect."
+      },
+      "drills": [
+        {
+          "name": "Reading aggregometry tracings",
+          "kind": "clinical",
+          "title": "Platelet Aggregometry",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=LEhA9sxs2M4",
+          "duration": "4:33"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u8",
+      "type": "section",
+      "name": "Disorders of platelet secretion and signal transduction",
+      "ashsapPage": 296,
+      "assessment": "Can you distinguish dense granule from alpha granule storage pool disease, name the syndromic associations of each, and say which laboratory methods confirm the diagnosis?",
+      "lesson": {
+        "title": "LMP: Diagnosis of Hereditary Platelet Disorders - Doug Chen, M.D., Ph.D.",
+        "channel": "AHC. UMN",
+        "url": "https://www.youtube.com/watch?v=vZWnda0bvxs",
+        "duration": "1:06:57",
+        "why": "A laboratory medicine grand rounds on how inherited platelet disorders are actually worked up — the order in which aggregometry, secretion studies and morphology are used, and how a secretion or signalling defect is separated from a receptor defect."
+      },
+      "drills": [
+        {
+          "name": "Reading an aggregometry tracing",
+          "kind": "clinical",
+          "title": "Platelet Aggregometry",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=LEhA9sxs2M4",
+          "duration": "4:33"
+        },
+        {
+          "name": "Congenital platelet dysfunction in depth",
+          "kind": "mechanism",
+          "title": "Congenital Platelet Disorders 3   Congenital Platelet Dysfunction",
+          "channel": "Abeer Mohammed",
+          "url": "https://www.youtube.com/watch?v=i715-_x3GCQ",
+          "duration": "58:49"
+        },
+        {
+          "name": "Platelet activation and its pharmacologic inhibition",
+          "kind": "mechanism",
+          "title": "Understanding the intricacies of platelet activation and inhibition",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=UnJTZ6mkNgw",
+          "duration": "5:58"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u9",
+      "type": "section",
+      "name": "Disorders of platelet procoagulant activities",
+      "ashsapPage": 297,
+      "assessment": "Can you explain how phosphatidylserine exposure on the activated platelet surface accelerates thrombin generation, and describe what happens clinically when that procoagulant response fails?",
+      "lesson": {
+        "title": "Procoagulant platelets: from thrombosis to future therapeutic opportunities",
+        "channel": "Amal Mohamed Ibrahim El Beshlawy",
+        "url": "https://www.youtube.com/watch?v=pr5Ko_pIAfk",
+        "duration": "17:15",
+        "why": "The only focused talk on procoagulant platelets themselves — how the phosphatidylserine-exposing subpopulation arises and what its loss or excess means."
+      },
+      "drills": [
+        {
+          "name": "Procoagulant platelets as a thrombotic biomarker",
+          "kind": "clinical",
+          "title": "Complement-bound procoagulant platelets predict thrombosis in antiphospholipid syndrome",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=R0lvkBiThRk",
+          "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "id": "ch26-u10",
+      "type": "section",
+      "name": "Acquired disorders of platelet function",
+      "ashsapPage": 298,
+      "assessment": "Can you name the drugs, supplements and systemic diseases that most often cause acquired platelet dysfunction, and describe how you would manage bleeding in uremia and in a myeloproliferative neoplasm?",
+      "lesson": {
+        "title": "Acquired Bleeding Disorders – Case Based Approach by Dr  MB Agarwal at Mindray Scientific Seminar",
+        "channel": "Mindray India",
+        "url": "https://www.youtube.com/watch?v=zOXzl0-1my4",
+        "duration": "43:43",
+        "why": "A case-based session on acquired bleeding disorders that covers the drug history, uremic platelet dysfunction and the acquired defects seen in myeloproliferative neoplasms."
+      },
+      "drills": [
+        {
+          "name": "Pharmacology of platelet aggregation and its inhibitors",
+          "kind": "mechanism",
+          "title": "Platelet Aggregation in Thrombosis: Clinical Essentials",
+          "channel": "This Is Why with Dr. Busti",
+          "url": "https://www.youtube.com/watch?v=e5VerK4eG4w",
+          "duration": "28:48"
+        }
+      ]
+    }
+  ]
+}

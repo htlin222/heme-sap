@@ -1,0 +1,422 @@
+{
+  "chapter": "CH36",
+  "title": "Chronic myeloid leukemia",
+  "units": [
+    {
+      "id": "ch36-u1",
+      "type": "section",
+      "name": "Epidemiology",
+      "ashsapPage": 425,
+      "assessment": "Can you state roughly how common CML is, at what age it is usually diagnosed, and why its prevalence keeps rising even though the incidence has not changed?",
+      "lesson": {
+        "title": "Chronic Myeloid Leukemia -2023 Best of Hematology Conference",
+        "channel": "Total Health Oncology",
+        "url": "https://www.youtube.com/watch?v=IPLP70Cfz-o",
+        "duration": "40:49",
+        "why": "A conference-summary hour that sets out who gets CML and how the natural history has been rewritten by TKIs — the framing this opening section provides."
+      },
+      "drills": [
+        {
+          "name": "How the treatment landscape got to where it is",
+          "kind": "clinical",
+          "title": "Strategies in Chronic Myeloid Leukemia: The Evolving Treatment Landscape",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=DgccpDy-vUg",
+          "duration": "32:30"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u2",
+      "type": "section",
+      "name": "Pathobiology",
+      "ashsapPage": 426,
+      "assessment": "Can you explain how the t(9;22) translocation produces a constitutively active tyrosine kinase, what downstream pathways it activates, and what mechanisms drive progression from chronic phase to blast crisis?",
+      "lesson": {
+        "title": "Mechanisms of disease progression in chronic myeloid leukemia",
+        "channel": "International CML Foundation",
+        "url": "https://www.youtube.com/watch?v=Fs0v4zwofgk",
+        "duration": "24:05",
+        "why": "The pool's one genuine pathobiology talk: what BCR::ABL1 does to the stem cell and what additional lesions convert a chronic-phase clone into blast phase."
+      },
+      "drills": [
+        {
+          "name": "Epigenetic dysregulation, resistance and transformation",
+          "kind": "mechanism",
+          "title": "The importance of epigenetic dysregulation in CML: drug resistance & transformation to blast crisis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=r-kyOOzcoEQ",
+          "duration": "4:13"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u3",
+      "type": "section",
+      "name": "Diagnosis",
+      "ashsapPage": 427,
+      "assessment": "Can you describe the blood-count and smear findings that suggest CML, name the two features besides leukocytosis that are almost always present, and list the tests needed to confirm and baseline the disease?",
+      "lesson": {
+        "title": "Chronic Myeloid Leukemia (CML) Peripheral Blood Smear (Hematopathology & Hematology)",
+        "channel": "Jerad Gardner, MD",
+        "url": "https://www.youtube.com/watch?v=n-e6oNUt21E",
+        "duration": "3:40",
+        "why": "Short but exact: a hematopathologist walking the CML smear — the full left-shifted spectrum, basophilia and the myelocyte bulge that make the diagnosis before the molecular test returns."
+      },
+      "drills": [
+        {
+          "name": "Smear review across the myeloid differential",
+          "kind": "clinical",
+          "title": "Hemepath & Hematology Board Review: Peripheral Blood Smears with Dr. Jeanette Ramos",
+          "channel": "Jerad Gardner, MD",
+          "url": "https://www.youtube.com/watch?v=kvI661vPmi8",
+          "duration": "1:40:08"
+        },
+        {
+          "name": "Atypical CML and how it differs genetically",
+          "kind": "mechanism",
+          "title": "Genetic Basis of Atypical Chronic Myeloid Leukemia (CML)",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=Iiz2TXhxASY",
+          "duration": "16:52"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u4",
+      "type": "section",
+      "name": "Prognosis",
+      "ashsapPage": 428,
+      "assessment": "Can you name the risk score currently recommended at diagnosis, and state the BCR::ABL1 transcript thresholds at 3, 6 and 12 months that separate an optimal response from treatment failure?",
+      "lesson": {
+        "title": "2025 ELN Recommendations on the Management of CML",
+        "channel": "International CML Foundation",
+        "url": "https://www.youtube.com/watch?v=Moi2gnDdWCo",
+        "duration": "44:08",
+        "why": "A section-by-section walk through the current ELN recommendations, which is where the risk score and the 3/6/12-month molecular milestones this section grades you on are defined."
+      },
+      "drills": [
+        {
+          "name": "Acting on the 3-month transcript level",
+          "kind": "clinical",
+          "title": "How Should Chronic-phase CML Management be Influenced by RT-PCR Results at 3 Months+",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=Nja0kHGQ6Pg",
+          "duration": "21:44"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u5",
+      "type": "section",
+      "name": "Overall treatment approach",
+      "ashsapPage": 429,
+      "assessment": "Can you choose between the available frontline TKIs for a given patient using comorbidities, risk score and treatment goal, and say what monitoring schedule you would put in place?",
+      "lesson": {
+        "title": "Chronic Myeloid Leukemia: Approaches to Optimizing Care in the Era of TKIs",
+        "channel": "HMP Global",
+        "url": "https://www.youtube.com/watch?v=7wVR7eae2EQ",
+        "duration": "20:24",
+        "why": "Organised the way this section is — goals of therapy, drug selection, monitoring intervals and what to do when a milestone is missed."
+      },
+      "drills": [
+        {
+          "name": "The newly diagnosed patient, start to finish",
+          "kind": "clinical",
+          "title": "Treating the Newly Diagnosed Patient With Chronic Myeloid Leukemia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=YEgNIBeuEJw",
+          "duration": "10:40"
+        },
+        {
+          "name": "Comorbidity-driven TKI selection",
+          "kind": "clinical",
+          "title": "CML: Factors in Selecting a BCR-ABL TKI",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=cF-jpSMqEK0",
+          "duration": "8:24"
+        },
+        {
+          "name": "Getting response depth and safety right together",
+          "kind": "clinical",
+          "title": "Faster, Better, Safer—Getting CML Treatment Right",
+          "channel": "PeerView Oncology",
+          "url": "https://www.youtube.com/watch?v=M62Yo2zk23I",
+          "duration": "26:40"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u6",
+      "type": "section",
+      "name": "Chronic-phase CML",
+      "ashsapPage": 432,
+      "assessment": "Can you justify a frontline TKI choice for a young patient hoping for treatment-free remission versus an older patient with cardiovascular disease, and say what each drug's characteristic toxicity is?",
+      "lesson": {
+        "title": "How to Treat Chronic Myeloid Leukemia (CML) - Dr. Jorge Cortes",
+        "channel": "OncBrothers: Practice-Changing Cancer Discussions",
+        "url": "https://www.youtube.com/watch?v=wyKWjNzqSPo",
+        "duration": "26:14",
+        "why": "A practical case-driven discussion of chronic-phase management with one of the field's principal investigators, weighing depth of response against toxicity."
+      },
+      "drills": [
+        {
+          "name": "Upfront therapy decisions",
+          "kind": "clinical",
+          "title": "Upfront Treatment in Chronic Myeloid Leukemia (CML)",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=j9gsXPT8gyw",
+          "duration": "7:39"
+        },
+        {
+          "name": "Which TKI, and on what grounds",
+          "kind": "clinical",
+          "title": "Current CML treatments: which TKI to choose?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=bWF_EMHFeyE",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u7",
+      "type": "section",
+      "name": "Chronic-phase CML resistant or intolerant to prior TKI",
+      "ashsapPage": 435,
+      "assessment": "Can you distinguish resistance from intolerance, say when a kinase-domain mutation analysis is indicated, and name the two agents that retain activity against the T315I mutation?",
+      "lesson": {
+        "title": "Treatment Selection for Resistant or Intolerant Chronic Myeloid Leukemia",
+        "channel": "OncLive",
+        "url": "https://www.youtube.com/watch?v=gmVGkC5GLfE",
+        "duration": "8:12",
+        "why": "Directly on the section's question — how to pick the next agent once a patient is resistant or intolerant, and what the mutation profile contributes to that choice."
+      },
+      "drills": [
+        {
+          "name": "OPTIC and response-adjusted ponatinib dosing",
+          "kind": "trial",
+          "title": "OPTIC: ponatinib in resistant chronic-phase CML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=fiV518xzBZw",
+          "duration": "4:19"
+        },
+        {
+          "name": "ASCEMBL: asciminib versus bosutinib",
+          "kind": "trial",
+          "title": "ASCEMBL: Asciminib for hard-to-treat chronic myeloid leukaemia",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=9Fnt_EnWCzU",
+          "duration": "6:40"
+        },
+        {
+          "name": "Debating T315I management",
+          "kind": "clinical",
+          "title": "Debate: Chronic-Phase CML Patient Develops a T315I Mutation - Experimental Therapy",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=ZBC07iiQ8uY",
+          "duration": "17:31"
+        },
+        {
+          "name": "Why an allosteric inhibitor behaves differently",
+          "kind": "mechanism",
+          "title": "Asciminib: overcoming TKI resistance and reducing toxicity in CML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=kOOuich-5e8",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u8",
+      "type": "section",
+      "name": "Accelerated-phase CML",
+      "ashsapPage": 437,
+      "assessment": "Can you state what defines accelerated-phase CML, say how management differs from chronic phase, and explain when transplant should enter the conversation?",
+      "lesson": {
+        "title": "CRHM 2016   CML Accelerated and Blast phase   G Saglio",
+        "channel": "SaudiLeukemiaNet",
+        "url": "https://www.youtube.com/watch?v=rj0okan-Lmo",
+        "duration": "28:50",
+        "why": "The only substantial talk in the pool on accelerated and blast phase; the phase definitions and the TKI-plus-transplant strategy still hold, though it predates asciminib."
+      },
+      "drills": [
+        {
+          "name": "Where chronic phase ends by definition",
+          "kind": "clinical",
+          "title": "What is the definition of chronic-phase CML?",
+          "channel": "MediCom Oncology",
+          "url": "https://www.youtube.com/watch?v=XbUYmupUCJ0",
+          "duration": "3:02"
+        },
+        {
+          "name": "How an expert panel frames advanced-phase care",
+          "kind": "clinical",
+          "title": "Chair's Overview - Management of Accelerated and Blast Phase CML",
+          "channel": "International CML Foundation",
+          "url": "https://www.youtube.com/watch?v=8VjM7nPiOmM",
+          "duration": "2:02"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u9",
+      "type": "section",
+      "name": "Blast-phase CML",
+      "ashsapPage": 438,
+      "assessment": "Can you say what blast percentage or extramedullary finding defines blast phase, how myeloid and lymphoid blast phase are treated differently, and what role transplant plays after a second chronic phase is achieved?",
+      "lesson": {
+        "title": "Treatment of Myeloid Blast Phase CML",
+        "channel": "International CML Foundation",
+        "url": "https://www.youtube.com/watch?v=swSMGsVAAys",
+        "duration": "17:12",
+        "why": "Myeloid blast phase treated as its own disease — combining a potent TKI with intensive chemotherapy and getting the patient to transplant."
+      },
+      "drills": [
+        {
+          "name": "Lymphoid blast phase and why it differs",
+          "kind": "clinical",
+          "title": "Lymphoid Blast Phase CML",
+          "channel": "International CML Foundation",
+          "url": "https://www.youtube.com/watch?v=hCINkyFT17w",
+          "duration": "20:41"
+        },
+        {
+          "name": "Where blast-phase therapy is heading",
+          "kind": "clinical",
+          "title": "Current and future treatment strategies for blast-phase CML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=GxO6c7VSuj0",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u10",
+      "type": "section",
+      "name": "Discontinuation of TKI therapy and TKI dose de-escalation",
+      "ashsapPage": 439,
+      "assessment": "Can you state the molecular-response depth and treatment duration required before attempting treatment-free remission, how often monitoring is done afterwards, and what molecular loss triggers restarting a TKI?",
+      "lesson": {
+        "title": "TFR With Nilotinib in CML: ENESTfreedom and ENESTop",
+        "channel": "OncLive",
+        "url": "https://www.youtube.com/watch?v=FBzVdt6mFQA",
+        "duration": "6:41",
+        "why": "Built on the two trials that set the eligibility rules for stopping — required response depth, duration, and the molecular threshold that mandates restarting."
+      },
+      "drills": [
+        {
+          "name": "De-escalating dose before stopping",
+          "kind": "trial",
+          "title": "Dose reduction of TKIs for CML patients with deep molecular response",
+          "channel": "ecancer",
+          "url": "https://www.youtube.com/watch?v=SMIu4zCd1nI",
+          "duration": "4:22"
+        },
+        {
+          "name": "DESTINY: halving the dose as a bridge to TFR",
+          "kind": "trial",
+          "title": "DESTINY update: achieving TFR by de-escalating TKI therapy in CML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=CFaBDx1T5_g",
+          "duration": "1:34"
+        },
+        {
+          "name": "Making more patients TFR-eligible",
+          "kind": "clinical",
+          "title": "Improving eligibility for treatment-free remission in CML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=jx4-XRizXZc",
+          "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u11",
+      "type": "section",
+      "name": "Stem cell transplantation for CML",
+      "ashsapPage": 440,
+      "assessment": "Can you say which CML patients still need allogeneic transplant in the TKI era, how the timing relates to disease phase, and what role TKIs play before and after the transplant?",
+      "lesson": {
+        "title": "When to consider allogenic transplantation in CML",
+        "channel": "International CML Foundation",
+        "url": "https://www.youtube.com/watch?v=UM0yySksbnc",
+        "duration": "14:07",
+        "why": "Answers the section's question directly: in a TKI era, which patients still get referred for allografting and at what point in their course."
+      },
+      "drills": [
+        {
+          "name": "Is transplant still relevant in CML",
+          "kind": "clinical",
+          "title": "Is hematopoietic cell transplantation in CML still relevant in 2022?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=EwjghqkF2ic",
+          "duration": "5:47"
+        },
+        {
+          "name": "Transplant argued against drug therapy for T315I",
+          "kind": "clinical",
+          "title": "Debate: Chronic-Phase CML Patient Develops a T315I Mutation - Transplant",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=qSyXqVozbXA",
+          "duration": "17:38"
+        },
+        {
+          "name": "Practicalities of transplant in CML",
+          "kind": "clinical",
+          "title": "Stem Cell Transplant in Chronic Myeloid Leukemia",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=s2Ta6TfYojU",
+          "duration": "9:04"
+        }
+      ]
+    },
+    {
+      "id": "ch36-u12",
+      "type": "section",
+      "name": "Management of CML during pregnancy",
+      "ashsapPage": 441,
+      "assessment": "Can you say which TKIs are unsafe in the first trimester, how a planned pregnancy is timed around molecular response, and what options exist for controlling counts when a patient must come off TKI?",
+      "lesson": {
+        "title": "Conversation on CML: CML and pregnancy",
+        "channel": "International CML Foundation",
+        "url": "https://www.youtube.com/watch?v=cWWwtqV_hbE",
+        "duration": "44:52",
+        "why": "A long expert conversation covering the whole problem — conception planning, TKI withdrawal, interferon and leukapheresis during pregnancy, and resuming therapy after delivery."
+      },
+      "drills": [
+        {
+          "name": "Treatment implications of pregnancy in CML",
+          "kind": "clinical",
+          "title": "CML during pregnancy: implications and considerations for treatment",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=C7uXRx2K9hk",
+          "duration": "9:13"
+        },
+        {
+          "name": "Scenarios that actually come up",
+          "kind": "clinical",
+          "title": "Situations that may arise with CML during pregnancy & management strategies",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=cliIxT2S_Xs",
+          "duration": "5:35"
+        },
+        {
+          "name": "Counselling patients and partners",
+          "kind": "clinical",
+          "title": "CML and pregnancy: Patient and partner considerations",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=VASGjQ9bBdw",
+          "duration": "20:42"
+        },
+        {
+          "name": "Early human data on asciminib exposure",
+          "kind": "trial",
+          "title": "Preliminary human data and clinical implications of asciminib administration during pregnancy in CML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=ldGMEflO7gQ",
+          "duration": "5:08"
+        }
+      ]
+    }
+  ]
+}

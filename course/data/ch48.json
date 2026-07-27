@@ -1,0 +1,859 @@
+{
+  "chapter": "CH48",
+  "title": "Plasma cell disorders: monoclonal gammopathy of undetermined significance and multiple myeloma",
+  "units": [
+    {
+      "id": "ch48-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 596,
+      "assessment": "Can you place MGUS, smoldering myeloma and active multiple myeloma on one continuum and state exactly what has to change - in the marrow, in the paraprotein, or in the organs - for a patient to move from one label to the next?",
+      "lesson": {
+        "title": "Multiple Myeloma 101 for 2025: Diagnosis, Prognosis, and Risk",
+        "channel": "Dana-Farber Cancer Institute",
+        "url": "https://www.youtube.com/watch?v=sjfurNsKQtE",
+        "duration": "35:16",
+        "why": "A 2025 academic-centre primer that introduces the whole plasma cell disease spectrum, from precursor states through diagnosis and prognosis."
+      },
+      "drills": [
+        {
+          "name": "What drives a precursor clone to become myeloma",
+          "kind": "mechanism",
+          "title": "Insights into the mechanisms leading to progression from MGUS and SMM to multiple myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=gdhmMD2B6P0",
+          "duration": "1:50"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u2",
+      "type": "section",
+      "name": "Normal plasma cell development",
+      "ashsapPage": 597,
+      "assessment": "Can you trace a plasma cell from the germinal centre reaction through class-switch recombination to the marrow niche, and name the survival signals - IL-6, APRIL, BCMA - that a malignant clone hijacks?",
+      "lesson": {
+        "url": null,
+        "note": "Searched for normal plasma cell ontogeny: the germinal centre reaction, class-switch recombination, the long-lived plasma cell niche and BCMA/APRIL survival signalling. The pool returned only myeloma overviews, a survival-statistics clip and a general leukocyte lecture. Nothing teaches normal B-cell-to-plasma-cell development, which is what this section is about, so the slot is left open."
+      }
+    },
+    {
+      "id": "ch48-u3",
+      "type": "section",
+      "name": "Detection of plasma cell disorders",
+      "ashsapPage": 597,
+      "assessment": "Given a suspected monoclonal gammopathy, can you say which combination of serum and urine studies you would order first, and explain why a serum free light chain assay does not remove the need for immunofixation?",
+      "lesson": {
+        "title": "Diagnosis and Risk Stratification of Plasma Cell Disorders (pt 1 of 5 - IMF ASH Satellite)",
+        "channel": "International Myeloma Foundation",
+        "url": "https://www.youtube.com/watch?v=KwkXdCxeiOI",
+        "duration": "28:51",
+        "why": "A congress satellite session for clinicians on how plasma cell disorders are detected and then risk-stratified, which is precisely this section's scope."
+      },
+      "drills": [
+        {
+          "name": "Masterclass on early detection of MGUS and smoldering myeloma",
+          "kind": "clinical",
+          "title": "MPE Masterclass 2021 | The early detection and diagnosis of MGUS and SMM",
+          "channel": "Myeloma Patients Europe",
+          "url": "https://www.youtube.com/watch?v=FXRP8-2BVAk",
+          "duration": "23:01"
+        },
+        {
+          "name": "Why the free light chain ratio matters",
+          "kind": "clinical",
+          "title": "Why is knowing your free light chain ratio important?",
+          "channel": "HealthTree Foundation for Multiple Myeloma",
+          "url": "https://www.youtube.com/watch?v=mTjbQwWGcJU",
+          "duration": "4:18"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u4",
+      "type": "section",
+      "name": "Disease definitions",
+      "ashsapPage": 598,
+      "assessment": "Can you state the paraprotein and marrow plasma-cell thresholds that separate MGUS, smoldering myeloma and multiple myeloma, and list the myeloma-defining events that make a patient treatable regardless of those thresholds?",
+      "lesson": {
+        "title": "How to Treat MGUS and Smoldering  Myeloma with Dr. S. Vincent Rajkumar",
+        "channel": "OncBrothers: Practice-Changing Cancer Discussions",
+        "url": "https://www.youtube.com/watch?v=KGmXoyKeGUA",
+        "duration": "22:44",
+        "why": "A discussion with the author of the diagnostic criteria themselves, working through where each boundary sits and why the SLiM biomarkers were added alongside CRAB."
+      },
+      "drills": [
+        {
+          "name": "How the definition of smoldering myeloma has shifted",
+          "kind": "clinical",
+          "title": "Smoldering multiple myeloma: what is the current definition & new screening programme",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=7yFvg1orqcA",
+          "duration": "1:59"
+        },
+        {
+          "name": "The MGUS-like phenotype and what it means clinically",
+          "kind": "clinical",
+          "title": "Definition and clinical significance of the MGUS-like phenotype in monoclonal gammopathies",
+          "channel": "Multiple Myeloma Hub",
+          "url": "https://www.youtube.com/watch?v=oEVkR64KhVQ",
+          "duration": "14:41"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u5",
+      "type": "section",
+      "name": "Monoclonal gammopathy of undetermined significance",
+      "ashsapPage": 599,
+      "assessment": "Can you name the three variables in the Mayo MGUS risk model, give the annual progression rate they predict, and say how often you would repeat testing in a low-risk versus a high-risk patient?",
+      "lesson": {
+        "title": "Monoclonal Gammopathy of Undetermined Significance (MGUS) [Hot Topic]",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=OG6ErDoAeUE",
+        "duration": "21:46",
+        "why": "A laboratory-medicine teaching session on MGUS - prevalence, the risk model and what follow-up testing actually accomplishes - none of which has been superseded."
+      },
+      "drills": [
+        {
+          "name": "Long-term follow-up data on MGUS progression",
+          "kind": "trial",
+          "title": "Monoclonal Gammopathy of Undetermined Significance Study",
+          "channel": "Mayo Proceedings",
+          "url": "https://www.youtube.com/watch?v=1U9503NDMe8",
+          "duration": "5:02"
+        },
+        {
+          "name": "Non-malignant complications associated with MGUS",
+          "kind": "clinical",
+          "title": "Are there medical issues linked to MGUS other than developing multiple myeloma?",
+          "channel": "International Myeloma Foundation",
+          "url": "https://www.youtube.com/watch?v=hai-ayhGsO4",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u6",
+      "type": "section",
+      "name": "Light-chain MGUS",
+      "ashsapPage": 600,
+      "assessment": "Can you state the criteria that define light-chain MGUS, and explain what you would do differently when the involved free light chain is raised and the ratio abnormal but no intact immunoglobulin is detectable?",
+      "lesson": {
+        "title": "Diagnostic and clinical impact of the revised definition of light chain MGUS",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=k8Jh1cPSQSE",
+        "duration": "1:38",
+        "why": "Short, but it is the only candidate that addresses light-chain MGUS as an entity and what the revised definition changed about who gets that label."
+      },
+      "drills": [
+        {
+          "name": "Predicting which light-chain clones turn amyloidogenic",
+          "kind": "trial",
+          "title": "Using AI to predict light chain amyloidosis in patients with MGUS and SMM",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=U0bs0E42esA",
+          "duration": "2:19"
+        },
+        {
+          "name": "Phenotypic overlap between MGUS and light-chain amyloidosis",
+          "kind": "mechanism",
+          "title": "Identifying MGUS-like phenotype in multiple myeloma and light-chain amyloidosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=3BxRvI9JOxc",
+          "duration": "5:52"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u7",
+      "type": "section",
+      "name": "Monoclonal gammopathy of clinical significance",
+      "ashsapPage": 601,
+      "assessment": "Can you give examples of small plasma cell clones that damage kidney, nerve or skin without meeting myeloma criteria, and justify why clone-directed treatment is offered even though the tumour burden is trivial?",
+      "lesson": {
+        "title": "Monoclonal Gammopathy of Renal Significance",
+        "channel": "USF Internal Medicine",
+        "url": "https://www.youtube.com/watch?v=v7yv4bSbjm8",
+        "duration": "57:42",
+        "why": "A full grand-rounds treatment of monoclonal gammopathy of renal significance, the largest and best-defined slice of the clinically significant gammopathies."
+      },
+      "drills": [
+        {
+          "name": "Concise clinician podcast on the MGCS concept",
+          "kind": "clinical",
+          "title": "What are Monoclonal Gammopathies of Clinical Significance (MGCS)?",
+          "channel": "Core IM",
+          "url": "https://www.youtube.com/watch?v=mFhhOzQ_Gd8",
+          "duration": "6:14"
+        },
+        {
+          "name": "The lecture that framed MGCS as a category",
+          "kind": "clinical",
+          "title": "COMy 2016 - Monoclonal Gammopathy of Clinical Significance: Fermand",
+          "channel": "Tetsuzan Benny Ron",
+          "url": "https://www.youtube.com/watch?v=Orqsn1wP2n4",
+          "duration": "22:39"
+        },
+        {
+          "name": "How common MGCS actually is among gammopathies",
+          "kind": "clinical",
+          "title": "Prevalence of MGCS among patients with monoclonal gammopathies",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=rrJW41U0qCs",
+          "duration": "0:56"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u8",
+      "type": "section",
+      "name": "Epidemiology",
+      "ashsapPage": 602,
+      "assessment": "Can you quantify how much more common myeloma is in Black populations than in White ones, and say at which point along the MGUS-to-myeloma continuum that disparity first becomes measurable?",
+      "lesson": {
+        "title": "Epidemiology of Multiple Myeloma and Related Precursor States - A Model for Early Detection",
+        "channel": "University of Colorado Anschutz Cancer Center",
+        "url": "https://www.youtube.com/watch?v=YBe32gqOreI",
+        "duration": "59:58",
+        "why": "An academic lecture on the epidemiology of myeloma and its precursor states, including population screening studies and how incidence is actually measured."
+      },
+      "drills": [
+        {
+          "name": "Racial disparity in myeloma incidence and outcome",
+          "kind": "clinical",
+          "title": "Multiple Myeloma in African Americans",
+          "channel": "Multiple Myeloma Research Foundation - MMRF",
+          "url": "https://www.youtube.com/watch?v=RYEyUFgLwqs",
+          "duration": "1:06:00"
+        },
+        {
+          "name": "Population data on MGUS incidence and lead time",
+          "kind": "trial",
+          "title": "Incidence of MGUS and Estimation of Duration Before First Clinical Recognition",
+          "channel": "Mayo Proceedings",
+          "url": "https://www.youtube.com/watch?v=RyXZoRFbNWA",
+          "duration": "7:01"
+        },
+        {
+          "name": "Contemporary look at progression from precursor states",
+          "kind": "clinical",
+          "title": "MGUS and Beyond - Unlocking the Mysteries of Progression | Adeel Khan, MD",
+          "channel": "HealthTree Foundation for Multiple Myeloma",
+          "url": "https://www.youtube.com/watch?v=Up8GPPqkYi4",
+          "duration": "33:03"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u9",
+      "type": "section",
+      "name": "Etiology",
+      "ashsapPage": 602,
+      "assessment": "Can you name the exposures and host factors linked to myeloma risk, and explain the observation that essentially every case is preceded by a detectable precursor clone years earlier?",
+      "lesson": {
+        "title": "Identifying high-risk patients with SMM & MGUS to prevent progression to active myeloma",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=kbKV7pZ1E4Q",
+        "duration": "3:04",
+        "why": "Addresses what makes a precursor clone dangerous - the host and clonal features that push MGUS and smoldering disease toward active myeloma."
+      },
+      "drills": [
+        {
+          "name": "Immune-mediated mechanisms of progression",
+          "kind": "mechanism",
+          "title": "Immune-mediated mechanisms of progression in MGUS and smouldering myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=XmlYs8oXpCQ",
+          "duration": "0:54"
+        },
+        {
+          "name": "Disparity as a window on aetiology",
+          "kind": "clinical",
+          "title": "Multiple Myeloma in African Americans",
+          "channel": "Multiple Myeloma Research Foundation - MMRF",
+          "url": "https://www.youtube.com/watch?v=RYEyUFgLwqs",
+          "duration": "1:06:00"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u10",
+      "type": "section",
+      "name": "IgH translocations",
+      "ashsapPage": 603,
+      "assessment": "Can you match the common IgH translocation partners - t(11;14), t(4;14), t(14;16), t(14;20) - to their prognostic groups, and explain why hyperdiploid and translocation-driven myeloma are treated as separate primary events?",
+      "lesson": {
+        "title": "Peter Voorhees, MD: Understanding Your Multiple Myeloma Genetics: MCRT Charlotte 2018",
+        "channel": "HealthTree Foundation",
+        "url": "https://www.youtube.com/watch?v=AHi-ZSrlx-E",
+        "duration": "34:39",
+        "why": "A myeloma specialist explaining the cytogenetics of the disease: primary translocations, hyperdiploidy, secondary events and what each does to prognosis."
+      },
+      "drills": [
+        {
+          "name": "How translocations are detected in the laboratory",
+          "kind": "clinical",
+          "title": "NGS Based Detection of Translocations in Plasma Cell Myeloma",
+          "channel": "Cancer Genomics Consortium",
+          "url": "https://www.youtube.com/watch?v=ZaUt0EReptA",
+          "duration": "16:10"
+        },
+        {
+          "name": "Genetic differences between MGUS, smoldering and active disease",
+          "kind": "mechanism",
+          "title": "The genetics of different stages of myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=DHlQGxTFLeY",
+          "duration": "3:02"
+        },
+        {
+          "name": "Chromosome 1 abnormalities as a prognostic modifier",
+          "kind": "trial",
+          "title": "Impact of Chromosome 1 Abnormalities Among Pts with NDMM: Subgroup Analysis from the ENDURANCE Trial",
+          "channel": "International Myeloma Foundation",
+          "url": "https://www.youtube.com/watch?v=SaZVbNYox3g",
+          "duration": "7:58"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u11",
+      "type": "section",
+      "name": "Clinical presentation and diagnostic considerations",
+      "ashsapPage": 604,
+      "assessment": "Given anemia, bone pain and renal impairment, can you say which CRAB features must be attributable to the clone before you call it myeloma, and name the imaging you would order to look for bone disease?",
+      "lesson": {
+        "title": "Understanding Multiple Myeloma Testing",
+        "channel": "Mayo Clinic Laboratories",
+        "url": "https://www.youtube.com/watch?v=24__7LAnnhk",
+        "duration": "18:37",
+        "why": "A laboratory-focused walk-through of the tests used to diagnose and monitor myeloma, tying each abnormal result back to the clinical presentation."
+      },
+      "drills": [
+        {
+          "name": "Interpreting the labs and knowing when to act",
+          "kind": "clinical",
+          "title": "Interpreting MGUS/Smoldering Myeloma Labs- What To Know and When To Take Action",
+          "channel": "HealthTree Foundation",
+          "url": "https://www.youtube.com/watch?v=su42h60wluw",
+          "duration": "1:02:06"
+        },
+        {
+          "name": "Symptoms and presentation in brief",
+          "kind": "clinical",
+          "title": "Multiple Myeloma: Symptoms, Treatment, and Patient Care - Ask Mayo Clinic Health System",
+          "channel": "Mayo Clinic",
+          "url": "https://www.youtube.com/watch?v=RoOE0CU7XaM",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u12",
+      "type": "section",
+      "name": "Staging and risk stratification prognostic factors",
+      "ashsapPage": 604,
+      "assessment": "Can you state which variables enter the Revised ISS, and explain what a high-risk cytogenetic profile adds to prognosis once stage and LDH are already known?",
+      "lesson": {
+        "title": "Multiple Myeloma: Diagnosis and Risk Assessment | Dana-Farber Cancer Institute",
+        "channel": "Dana-Farber Cancer Institute",
+        "url": "https://www.youtube.com/watch?v=Aqh5jYolsec",
+        "duration": "43:52",
+        "why": "An academic-centre session that works through diagnosis and then formal risk assessment - staging, cytogenetics, and how the two are combined."
+      },
+      "drills": [
+        {
+          "name": "The genomics that define high-risk disease",
+          "kind": "mechanism",
+          "title": "The genomics of high-risk myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=eHGHcnxK9P8",
+          "duration": "10:20"
+        },
+        {
+          "name": "What genetic testing changes in practice",
+          "kind": "clinical",
+          "title": "How does genetic testing help assess risk? Why is knowing risk stratification important?",
+          "channel": "HealthTree Foundation for Multiple Myeloma",
+          "url": "https://www.youtube.com/watch?v=hUSE9_8lHfw",
+          "duration": "12:50"
+        },
+        {
+          "name": "Circulating plasma cells as an independent risk factor",
+          "kind": "trial",
+          "title": "Elevated Plasma Cells in NDMM Pts Linked to Poor Prognosis Regardless of other Factors",
+          "channel": "International Myeloma Foundation",
+          "url": "https://www.youtube.com/watch?v=E1hOARYISfE",
+          "duration": "15:02"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u13",
+      "type": "section",
+      "name": "Treatment approaches for MM",
+      "ashsapPage": 606,
+      "assessment": "Can you state the goals of initial myeloma therapy, and explain the reasoning behind adding an anti-CD38 antibody to a proteasome-inhibitor plus immunomodulator backbone rather than saving it for relapse?",
+      "lesson": {
+        "title": "Current and Emerging Therapeutic Approaches for Multiple Myeloma (MM) — Robert Z Orlowski, MD, PhD",
+        "channel": "Research To Practice",
+        "url": "https://www.youtube.com/watch?v=doWTvY95fAA",
+        "duration": "27:53",
+        "why": "A 2025 review by a myeloma trialist of current and emerging therapy, covering the antibody-based induction platforms and the immune therapies now moving earlier."
+      },
+      "drills": [
+        {
+          "name": "Headline trial results from the most recent congress",
+          "kind": "trial",
+          "title": "Top 5 Multiple Myeloma Research Breakthroughs from ASH 2024: What Patients and Families Need to Know",
+          "channel": "International Myeloma Foundation",
+          "url": "https://www.youtube.com/watch?v=HavpCF6wWQ4",
+          "duration": "5:16"
+        },
+        {
+          "name": "Why monoclonal antibodies now anchor both settings",
+          "kind": "clinical",
+          "title": "The growing importance of monoclonal antibodies in transplant-eligible & ineligible myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=1SvnVAB-yYE",
+          "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u14",
+      "type": "section",
+      "name": "Treatment of transplantation-eligible patients",
+      "ashsapPage": 608,
+      "assessment": "For a fit newly diagnosed patient heading for transplant, can you name the four-drug induction now used before stem cell collection, say how many cycles you would give, and state what depth of response you expect before proceeding?",
+      "lesson": {
+        "title": "Frontline treatment of transplant eligible patients with myeloma: current approach & future changes",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=FgO2Tl1KXBE",
+        "duration": "2:13",
+        "why": "Short but current: a transplant-eligible frontline summary from a myeloma trialist, and the only candidate in this pool that reflects quadruplet induction rather than the doublet-versus- triplet debates of a decade ago."
+      },
+      "drills": [
+        {
+          "name": "Ongoing frontline trials in transplant-eligible disease",
+          "kind": "trial",
+          "title": "Exciting ongoing trials in frontline transplant-eligible patients with multiple myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=4JOnlJLR4ic",
+          "duration": "2:05"
+        },
+        {
+          "name": "Broader 2025 view of frontline and emerging therapy",
+          "kind": "clinical",
+          "title": "Current and Emerging Therapeutic Approaches for Multiple Myeloma (MM) — Robert Z Orlowski, MD, PhD",
+          "channel": "Research To Practice",
+          "url": "https://www.youtube.com/watch?v=doWTvY95fAA",
+          "duration": "27:53"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u15",
+      "type": "section",
+      "name": "Role of high-dose therapy and autologous stem cell transplantation",
+      "ashsapPage": 610,
+      "assessment": "Can you say what melphalan dose defines high-dose therapy, summarise what the randomised trials show about early versus delayed transplant in the novel-agent era, and state who should still have stem cells collected even if transplant is deferred?",
+      "lesson": {
+        "title": "Updates from the DETERMINATION trial: RVD vs. autoSCT in patients with multiple myeloma",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=Vgnigi6d4bU",
+        "duration": "3:05",
+        "why": "The DETERMINATION result is the evidence this section rests on - triplet induction with or without upfront transplant, and what the progression-free survival difference did and did not buy."
+      },
+      "drills": [
+        {
+          "name": "What the transplant admission actually involves",
+          "kind": "clinical",
+          "title": "Autologous Stem Cell Transplant: Timeline, Procedure, and Recovery",
+          "channel": "Moffitt Cancer Center",
+          "url": "https://www.youtube.com/watch?v=pgBXPJgX7-o",
+          "duration": "33:23"
+        },
+        {
+          "name": "Induction intensity in high-risk newly diagnosed disease",
+          "kind": "trial",
+          "title": "KRd vs VRd as Induction Therapy in Newly Diagnosed High-Risk Multiple Myeloma",
+          "channel": "International Myeloma Foundation",
+          "url": "https://www.youtube.com/watch?v=kUzuJOkpiRM",
+          "duration": "11:06"
+        },
+        {
+          "name": "Transplant eligibility at the upper end of the age range",
+          "kind": "clinical",
+          "title": "ASCT eligibility in myeloma patients aged ≥ 75",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=PddizJvWOkQ",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u16",
+      "type": "section",
+      "name": "Treatment of transplantation-ineligible patients",
+      "ashsapPage": 611,
+      "assessment": "For a frail 80-year-old with newly diagnosed myeloma and mild renal impairment, can you choose a regimen and specify which dose reductions and which drug omissions you would build in from the start?",
+      "lesson": {
+        "title": "New Options for Transplant-Ineligible or Deferred Multiple Myeloma Patients: Recent Trial Insights",
+        "channel": "HealthTree Foundation for Multiple Myeloma",
+        "url": "https://www.youtube.com/watch?v=R38gX_yr2rw",
+        "duration": "45:06",
+        "why": "A 2025 session built around the recent trials in transplant-ineligible and transplant-deferred patients, which is where this section's evidence now comes from."
+      },
+      "drills": [
+        {
+          "name": "Why antibody-based regimens matter most in this group",
+          "kind": "clinical",
+          "title": "The growing importance of monoclonal antibodies in transplant-eligible & ineligible myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=1SvnVAB-yYE",
+          "duration": "1:48"
+        },
+        {
+          "name": "The particular challenges of the non-transplant patient",
+          "kind": "clinical",
+          "title": "Challenges faced when treating transplant-ineligible patients with myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=RhW9im6Ifpg",
+          "duration": "1:34"
+        },
+        {
+          "name": "Recent advances in newly diagnosed disease",
+          "kind": "clinical",
+          "title": "Recent advances in newly diagnosed multiple myeloma and the importance of patient perspectives",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=dc4qSMoO5f0",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u17",
+      "type": "section",
+      "name": "Treatment of relapsed MM",
+      "ashsapPage": 611,
+      "assessment": "Can you list the factors that determine choice of therapy at relapse - prior exposure, refractoriness, duration of first remission, cytogenetics, fitness - and say when biochemical progression can be watched rather than treated?",
+      "lesson": {
+        "title": "Relapsed Refractory Multiple Myeloma - Krina Patel, MD, MSc | RT Irvine, CA Nov 5, 2022",
+        "channel": "HealthTree Foundation",
+        "url": "https://www.youtube.com/watch?v=FGP7F5rYtAE",
+        "duration": "19:59",
+        "why": "A myeloma specialist working through relapsed and refractory disease: when to treat, how prior therapy constrains the next choice, and where immune therapy enters."
+      },
+      "drills": [
+        {
+          "name": "Emerging options in relapsed and refractory disease",
+          "kind": "clinical",
+          "title": "New Horizons in the Treatment of Relapsed and Refractory Multiple Myeloma",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=jnBSI4Y5YKY",
+          "duration": "17:05"
+        },
+        {
+          "name": "Deciding the moment to start treatment at relapse",
+          "kind": "clinical",
+          "title": "When should we start treatment for relapsed multiple myeloma patients?",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=L3H1nVMjHMg",
+          "duration": "3:06"
+        },
+        {
+          "name": "Approach to later relapses specifically",
+          "kind": "clinical",
+          "title": "Treating later relapses in patients with multiple myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=wCtkTCMNSKA",
+          "duration": "4:24"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u18",
+      "type": "section",
+      "name": "Triplet combinations",
+      "ashsapPage": 614,
+      "assessment": "Can you construct a triplet at first relapse from a patient's prior exposure and refractoriness, and defend the choice of a triplet over a doublet in terms of the randomised evidence?",
+      "lesson": {
+        "url": null,
+        "note": "Searched for the relapse triplet backbones - daratumumab-Rd, daratumumab-Vd, isatuximab-Kd, carfilzomib-Rd, elotuzumab-Pd. Every substantial candidate is a 2016-2019 recording made before isatuximab combinations, belantamab, bispecific antibodies and CAR-T reshaped the relapse algorithm, and the recent candidates are one-to-four-minute congress clips. Nothing current teaches how a triplet is assembled, so the core slot is left open."
+      },
+      "drills": [
+        {
+          "name": "Adding a bispecific antibody to a daratumumab triplet",
+          "kind": "trial",
+          "title": "Teclistamab in Combination with Sub-Q Daratumumab and Lenalidomide in Myeloma Pts: MajesTEC-2",
+          "channel": "International Myeloma Foundation",
+          "url": "https://www.youtube.com/watch?v=X85_r2VvV14",
+          "duration": "6:59"
+        },
+        {
+          "name": "Cellular and bispecific therapy entering the relapse space",
+          "kind": "trial",
+          "title": "Highlights in multiple myeloma from ASH 2021: cilta-cel, bispecific antibodies & disease biology",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=PXhAPmsM2NQ",
+          "duration": "3:54"
+        },
+        {
+          "name": "Venetoclax in t(11;14) disease",
+          "kind": "trial",
+          "title": "t(11;14) translocation patients: venetoclax and triplet therapy",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=bR5nkSLhzYc",
+          "duration": "2:13"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u19",
+      "type": "section",
+      "name": "Agents used in early relapse",
+      "ashsapPage": 615,
+      "assessment": "Can you name the agent classes still available at early relapse, and explain precisely what lenalidomide-refractoriness and daratumumab-refractoriness each remove from the menu?",
+      "lesson": {
+        "title": "Using novel therapeutic agents in early treatment for relapsed and refractory multiple myeloma",
+        "channel": "Touch Medical Media",
+        "url": "https://www.youtube.com/watch?v=icZU3DfGczI",
+        "duration": "36:05",
+        "why": "A dedicated session on choosing among the novel agents at early relapse, organised by drug class and by what the patient has already failed."
+      },
+      "drills": [
+        {
+          "name": "2025 summary of emerging options at early and late relapse",
+          "kind": "clinical",
+          "title": "Promising New & Emerging Myeloma Treatments for Early and Late Relapse | #myeloma",
+          "channel": "HealthTree Foundation for Multiple Myeloma",
+          "url": "https://www.youtube.com/watch?v=kHIKjH5Nq6k",
+          "duration": "6:53"
+        },
+        {
+          "name": "Rescue options when relapse comes early",
+          "kind": "clinical",
+          "title": "Early relapse: options for rescue",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=FhAZkKUJpcA",
+          "duration": "2:26"
+        },
+        {
+          "name": "Trial data on what early relapse predicts",
+          "kind": "trial",
+          "title": "Myeloma XI: early relapse exploratory analysis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=_bDecqkP-hg",
+          "duration": "2:07"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u20",
+      "type": "section",
+      "name": "Late relapse",
+      "ashsapPage": 616,
+      "assessment": "For a patient refractory to a proteasome inhibitor, an immunomodulator and an anti-CD38 antibody, can you name the BCMA- and GPRC5D-directed options available and say how their toxicity profiles differ?",
+      "lesson": {
+        "title": "Promising New & Emerging Myeloma Treatments for Early and Late Relapse | #myeloma",
+        "channel": "HealthTree Foundation for Multiple Myeloma",
+        "url": "https://www.youtube.com/watch?v=kHIKjH5Nq6k",
+        "duration": "6:53",
+        "why": "A 2025 round-up of the agents used deep in the relapse sequence, and the only candidate recent enough to cover CAR-T and bispecific antibodies at all."
+      },
+      "drills": [
+        {
+          "name": "Congress highlights driving late-line practice",
+          "kind": "trial",
+          "title": "Top 5 Multiple Myeloma Research Breakthroughs from ASH 2024: What Patients and Families Need to Know",
+          "channel": "International Myeloma Foundation",
+          "url": "https://www.youtube.com/watch?v=HavpCF6wWQ4",
+          "duration": "5:16"
+        },
+        {
+          "name": "How progression is formally defined",
+          "kind": "clinical",
+          "title": "Defining Progression in Multiple Myeloma",
+          "channel": "OncLive",
+          "url": "https://www.youtube.com/watch?v=i8HtGm7StfI",
+          "duration": "7:02"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u21",
+      "type": "section",
+      "name": "Management of high-risk myeloma and risk-adapted therapy",
+      "ashsapPage": 616,
+      "assessment": "Can you define high-risk myeloma both cytogenetically and functionally, and say what evidence supports intensifying induction, using tandem transplant, or escalating maintenance in those patients?",
+      "lesson": {
+        "title": "Multiple Myeloma Round Table - Initial therapy, high risk, maintenance",
+        "channel": "Vinay Prasad MD MPH",
+        "url": "https://www.youtube.com/watch?v=0q0soRXeo-g",
+        "duration": "1:01:58",
+        "why": "A round-table among myeloma physicians arguing through initial therapy, high-risk disease and maintenance - the disagreements are the point in a section about risk-adapted therapy."
+      },
+      "drills": [
+        {
+          "name": "Quadruplet induction designed for high-risk disease",
+          "kind": "trial",
+          "title": "GMMG-CONCEPT: Isa-KRd in front-line treatment of high-risk myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=_V06z2rOdZk",
+          "duration": "5:17"
+        },
+        {
+          "name": "Maintenance in patients with high-risk cytogenetics",
+          "kind": "trial",
+          "title": "Lenalidomide maintenance therapy in patients with multiple myeloma and high-risk cytogenetics",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=yW32Btr83Kc",
+          "duration": "2:21"
+        },
+        {
+          "name": "A dedicated ultra-high-risk treatment protocol",
+          "kind": "trial",
+          "title": "Treating ultra high risk myeloma patients in a unique UK study | Martin Kaiser, MD | ASH 2021",
+          "channel": "HealthTree Foundation",
+          "url": "https://www.youtube.com/watch?v=Hv3n-NGbsa0",
+          "duration": "12:26"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u22",
+      "type": "section",
+      "name": "Individualizing treatment approaches",
+      "ashsapPage": 617,
+      "assessment": "Can you explain how frailty score, renal function, cytogenetic risk and patient preference each change the regimen you would choose, instead of applying one standard of care to every newly diagnosed patient?",
+      "lesson": {
+        "url": null,
+        "note": "Searched for frailty scoring (the IMWG frailty index and R-MCI), renal dose adjustment and preference-driven regimen selection in myeloma. The pool offers only sub-three-minute congress clips about myeloma risk models plus several videos on individualising treatment in unrelated diseases - Hodgkin lymphoma, AML, follicular lymphoma, EGPA and HER2-driven cancers. Nothing teaches individualised myeloma treatment selection at any depth."
+      },
+      "drills": [
+        {
+          "name": "Model-based personalisation of frontline choice",
+          "kind": "trial",
+          "title": "Novel AI model for personalized risk stratification & treatment in newly diagnosed multiple myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=qYLaUVUyDUM",
+          "duration": "2:25"
+        },
+        {
+          "name": "Minimally invasive staging of precursor disease",
+          "kind": "trial",
+          "title": "The MMyeRisk project: developing minimally invasive methods for staging MGUS and smoldering myeloma",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=pvuJRGM-mZ8",
+          "duration": "1:25"
+        },
+        {
+          "name": "Structural variants as treatment-relevant biology",
+          "kind": "mechanism",
+          "title": "Structural variants in multiple myeloma: impact on outcomes & potential drug targets",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=OWv6Q0yUAyU",
+          "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u23",
+      "type": "section",
+      "name": "Supportive care",
+      "ashsapPage": 618,
+      "assessment": "Can you say how long bone-directed therapy should continue and at what interval, which infection and thrombosis prophylaxis you would prescribe, and how you would manage cast nephropathy at presentation?",
+      "lesson": {
+        "title": "Supportive Care for Multiple Myeloma",
+        "channel": "International Myeloma Foundation",
+        "url": "https://www.youtube.com/watch?v=rYbhpai4mu0",
+        "duration": "40:39",
+        "why": "A full session on myeloma supportive care - skeletal protection, infection, renal issues and pain - which is the part of management this section isolates."
+      },
+      "drills": [
+        {
+          "name": "Pain management and palliative care in myeloma",
+          "kind": "clinical",
+          "title": "Multiple Myeloma Education Series   #1 Pain Management and Palliative Care  Dr  MacMillan",
+          "channel": "Saskatchewan Cancer Agency",
+          "url": "https://www.youtube.com/watch?v=n2AnpCJbeAk",
+          "duration": "1:01:51"
+        },
+        {
+          "name": "Toxicity management around high-dose therapy",
+          "kind": "clinical",
+          "title": "What are the main side effects of an autologous stem cell transplant & how are they managed? myeloma",
+          "channel": "HealthTree Foundation for Multiple Myeloma",
+          "url": "https://www.youtube.com/watch?v=gXm0HPxnm8U",
+          "duration": "9:29"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u24",
+      "type": "section",
+      "name": "Other plasma cell disorders",
+      "ashsapPage": 620,
+      "assessment": "Can you distinguish solitary plasmacytoma, plasma cell leukemia and POEMS syndrome from multiple myeloma, and say what workup is required before calling a bone lesion truly solitary?",
+      "lesson": {
+        "title": "Plasma Cell Disorders",
+        "channel": "Health4TheWorld Academy ",
+        "url": "https://www.youtube.com/watch?v=VC53pR-mVY4",
+        "duration": "1:04:54",
+        "why": "A long-form academic lecture that runs across the plasma cell disorders rather than stopping at myeloma, which is what this catch-all section needs."
+      },
+      "drills": [
+        {
+          "name": "Overview of the range of plasma cell disorders",
+          "kind": "clinical",
+          "title": "Key Insights: Plasma Cell Disorders",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=wLuLGhg0T-I",
+          "duration": "7:04"
+        },
+        {
+          "name": "Where light-chain amyloidosis sits relative to myeloma",
+          "kind": "mechanism",
+          "title": "Identifying MGUS-like phenotype in multiple myeloma and light-chain amyloidosis",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=3BxRvI9JOxc",
+          "duration": "5:52"
+        }
+      ]
+    },
+    {
+      "id": "ch48-u25",
+      "type": "section",
+      "name": "Nonsecretory MM",
+      "ashsapPage": 621,
+      "assessment": "For nonsecretory or oligosecretory myeloma, can you say how disease burden is tracked when there is no measurable paraprotein, and which response criteria you would apply instead of the usual M-protein thresholds?",
+      "lesson": {
+        "title": "How is nonsecretory multiple myeloma diagnosed?",
+        "channel": "MediCom Oncology",
+        "url": "https://www.youtube.com/watch?v=PQzH51__b9I",
+        "duration": "1:28",
+        "why": "Brief, but the only candidate that directly answers how nonsecretory myeloma is recognised when serum and urine studies are unrevealing."
+      },
+      "drills": [
+        {
+          "name": "How the IMWG response categories are defined",
+          "kind": "clinical",
+          "title": "The International Myeloma Working Group (IMWG) Response Criteria -Treatment Responses Explained",
+          "channel": "HealthTree Foundation for Multiple Myeloma",
+          "url": "https://www.youtube.com/watch?v=JN_6k24tsh4",
+          "duration": "13:47"
+        },
+        {
+          "name": "Monitoring for recurrence in practice",
+          "kind": "clinical",
+          "title": "Monitoring for Disease Recurrence in Multiple Myeloma",
+          "channel": "curetoday",
+          "url": "https://www.youtube.com/watch?v=kY5yHrbe6T0",
+          "duration": "3:46"
+        }
+      ]
+    }
+  ]
+}

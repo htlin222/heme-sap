@@ -1,0 +1,338 @@
+{
+  "chapter": "CH6",
+  "title": "Iron physiology, iron overload, and the porphyrias",
+  "units": [
+    {
+      "id": "ch6-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 62,
+      "assessment": "Can you account for the 1 to 2 mg of iron absorbed each day against total body iron stores and daily erythropoietic demand, and explain why humans have no regulated route of iron excretion?",
+      "lesson": {
+        "title": "Iron Pathway In Human Body. Regulation of Iron absorption. Role of Ferritin and Transferrin",
+        "channel": "Foxterrier",
+        "url": "https://www.youtube.com/watch?v=5Eoz_Dzd0tI",
+        "duration": "9:27",
+        "why": "A compact orientation to the whole iron circuit — absorption, transferrin transport, ferritin storage, macrophage recycling — which is all this one-page introduction needs to set up."
+      },
+      "drills": [
+        {
+          "name": "Heme handling alongside iron",
+          "kind": "mechanism",
+          "title": "Heme Metabolism",
+          "channel": "Daniel Robinson",
+          "url": "https://www.youtube.com/watch?v=EgVoKovQor8",
+          "duration": "30:28"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u2",
+      "type": "section",
+      "name": "Regulation of iron homeostasis",
+      "ashsapPage": 63,
+      "assessment": "Can you explain how hepcidin binding to ferroportin changes iron egress from enterocytes and macrophages, and name the stimuli — iron stores, inflammation, erythroferrone, hypoxia — that raise or suppress hepcidin?",
+      "lesson": {
+        "title": "Iron homeostasis and its disorders: from iron-deficiency anemia to hereditary hemochromatosis",
+        "channel": "UWDeptMedicine",
+        "url": "https://www.youtube.com/watch?v=51aQeancUWQ",
+        "duration": "1:00:08",
+        "why": "A university department-of-medicine lecture that builds the hepcidin–ferroportin axis from first principles and then uses it to explain both iron deficiency and hemochromatosis."
+      },
+      "drills": [
+        {
+          "name": "Full lecture on iron regulation",
+          "kind": "mechanism",
+          "title": "REGULATION OF IRON HOMEOSTASIS",
+          "channel": "Hematology and blood transfusion science lecture",
+          "url": "https://www.youtube.com/watch?v=L266rTK5-zE",
+          "duration": "47:23"
+        },
+        {
+          "name": "Intracellular IRE/IRP control",
+          "kind": "mechanism",
+          "title": "Regulation of Intracellular Iron Homeostasis",
+          "channel": "agNS",
+          "url": "https://www.youtube.com/watch?v=KyPDyziSetg",
+          "duration": "2:29"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u3",
+      "type": "section",
+      "name": "Intestinal iron absorption",
+      "ashsapPage": 64,
+      "assessment": "Can you trace a dietary ferric iron atom from the duodenal lumen into plasma transferrin, naming the brush-border reductase, the apical and basolateral transporters, and the ferroxidase involved?",
+      "lesson": {
+        "title": "Iron | Dr. Tony Talebi lectures on Iron metabolism in Hematology",
+        "channel": "Tony Talebi",
+        "url": "https://www.youtube.com/watch?v=bsCMwg67FHg",
+        "duration": "12:20",
+        "why": "A hematologist's tour of iron handling aimed at trainees, covering absorption, transport and storage in the sequence this section uses."
+      },
+      "drills": [
+        {
+          "name": "Enterocyte transport step by step",
+          "kind": "mechanism",
+          "title": "Intestinal Iron Absorption",
+          "channel": "agNS",
+          "url": "https://www.youtube.com/watch?v=9JJDOf6h1ig",
+          "duration": "3:56"
+        },
+        {
+          "name": "Deep physiology of iron and heme",
+          "kind": "mechanism",
+          "title": "Iron and heme metabolism",
+          "channel": "fblt.cz",
+          "url": "https://www.youtube.com/watch?v=868pL54nZuk",
+          "duration": "1:24:24"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u4",
+      "type": "section",
+      "name": "Hereditary hemochromatosis and other iron overload disorders",
+      "ashsapPage": 67,
+      "assessment": "Which HFE genotype accounts for most clinical iron overload, why is its clinical penetrance so low, and how do non-HFE hereditary forms and transfusional iron overload differ mechanistically?",
+      "lesson": {
+        "title": "Medical Grand Rounds - The Hereditary Hemochromatosis Clinic at Mayo Clinic",
+        "channel": "Mayo Clinic",
+        "url": "https://www.youtube.com/watch?v=rg33GknIqK0",
+        "duration": "32:52",
+        "why": "A Mayo grand rounds from a dedicated hemochromatosis clinic: genotype–phenotype discordance, penetrance, family screening and who actually needs treatment."
+      },
+      "drills": [
+        {
+          "name": "Short clinical primer on HH",
+          "kind": "clinical",
+          "title": "Mayo Clinic: William Palmer, M.D. - Hereditary Hemochromatosis",
+          "channel": "Mayo Clinic",
+          "url": "https://www.youtube.com/watch?v=y5h4DnYxFRc",
+          "duration": "9:42"
+        },
+        {
+          "name": "Full CME lecture on hemochromatosis",
+          "kind": "clinical",
+          "title": "“Hemochromatosis: Too Much of a Good Thing,” Robert T. Means M.D.",
+          "channel": "ETSU CME Grand Rounds",
+          "url": "https://www.youtube.com/watch?v=TZm-b_LgWnE",
+          "duration": "57:14"
+        },
+        {
+          "name": "Laboratory workup of iron overload",
+          "kind": "clinical",
+          "title": "Iron Overload Disorders",
+          "channel": "Association for Diagnostics & Laboratory Medicine",
+          "url": "https://www.youtube.com/watch?v=d_iAdNy9vh8",
+          "duration": "11:50"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u5",
+      "type": "section",
+      "name": "Clinical presentation and diagnosis",
+      "ashsapPage": 70,
+      "assessment": "Which test comes first when iron overload is suspected, what transferrin saturation threshold should prompt HFE genotyping, and when do liver MRI or biopsy still add information about fibrosis?",
+      "lesson": {
+        "title": "Iron Overload Part II ADULT HEMOCHROMATOSIS",
+        "channel": "Ayman Alsebaey",
+        "url": "https://www.youtube.com/watch?v=dtYPFzblK3Q",
+        "duration": "1:10:32",
+        "why": "A long hepatology lecture devoted to adult hemochromatosis that spends most of its time on presentation, iron studies, imaging and the diagnostic algorithm."
+      },
+      "drills": [
+        {
+          "name": "Lab-medicine view of the iron panel",
+          "kind": "clinical",
+          "title": "Chapter 20- Disorders of Iron and Heme Metabolism",
+          "channel": "Becky Smith",
+          "url": "https://www.youtube.com/watch?v=PtiNl4cE2-Y",
+          "duration": "14:43"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u6",
+      "type": "section",
+      "name": "Treatment",
+      "ashsapPage": 71,
+      "assessment": "Can you state the phlebotomy schedule and ferritin target used to de-iron hemochromatosis, say which complications reverse and which do not, and name the settings where chelation replaces phlebotomy?",
+      "lesson": {
+        "title": "Chapter 4 Iron Overload",
+        "channel": "Israa University",
+        "url": "https://www.youtube.com/watch?v=FLgk5xi1EU8",
+        "duration": "37:50",
+        "why": "A university lecture on iron overload management that covers both arms of treatment — therapeutic phlebotomy for the non-anemic patient and chelation for transfusional overload."
+      },
+      "drills": [
+        {
+          "name": "Treatment discussion in the hemochromatosis lecture",
+          "kind": "clinical",
+          "title": "Iron Overload Part II ADULT HEMOCHROMATOSIS",
+          "channel": "Ayman Alsebaey",
+          "url": "https://www.youtube.com/watch?v=dtYPFzblK3Q",
+          "duration": "1:10:32"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u7",
+      "type": "section",
+      "name": "The porphyrias",
+      "ashsapPage": 72,
+      "assessment": "Can you place each porphyria at its blocked enzyme in the heme biosynthesis pathway and predict from that position whether the patient presents with neurovisceral attacks, blistering skin lesions, or non-blistering painful photosensitivity?",
+      "lesson": {
+        "title": "APFCB Masterclass: Porphyrias",
+        "channel": "APFCB",
+        "url": "https://www.youtube.com/watch?v=yMjItazBYJ0",
+        "duration": "41:40",
+        "why": "A professional-society masterclass that lays out the whole pathway, the enzyme block behind each porphyria, and the laboratory pattern each one produces."
+      },
+      "drills": [
+        {
+          "name": "Pathway-to-phenotype in six minutes",
+          "kind": "mechanism",
+          "title": "Porphyria Visually Explained",
+          "channel": "TownsendTeaching",
+          "url": "https://www.youtube.com/watch?v=thcuFwecltM",
+          "duration": "6:39"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u8",
+      "type": "section",
+      "name": "Clinical features of acute porphyria",
+      "ashsapPage": 75,
+      "assessment": "Which first-line urine tests establish an acute hepatic porphyria attack, and can you name the drugs, hormonal states and caloric conditions that precipitate attacks by inducing ALA synthase 1?",
+      "lesson": {
+        "title": "The Acute Porphyrias: Diagnosis, Management and Beyond",
+        "channel": "Icahn School of Medicine",
+        "url": "https://www.youtube.com/watch?v=_nzLOLYZX24",
+        "duration": "41:06",
+        "why": "A porphyria-centre lecture on the acute hepatic porphyrias: attack presentation, spot urine PBG testing, hemin and the newer RNAi therapy, plus long-term complications."
+      },
+      "drills": [
+        {
+          "name": "Which assay, which specimen",
+          "kind": "clinical",
+          "title": "Porphyrias",
+          "channel": "Association for Diagnostics & Laboratory Medicine",
+          "url": "https://www.youtube.com/watch?v=W23nPzy61AU",
+          "duration": "12:53"
+        },
+        {
+          "name": "AIP in clinical practice",
+          "kind": "clinical",
+          "title": "Exploration Health: Acute Intermittent Porphyria (AIP)",
+          "channel": "PorphyriaFoundation",
+          "url": "https://www.youtube.com/watch?v=mb6Rr4sPAbo",
+          "duration": "12:12"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u9",
+      "type": "section",
+      "name": "Blistering cutaneous porphyrias",
+      "ashsapPage": 76,
+      "assessment": "How would you separate porphyria cutanea tarda from variegate porphyria and hereditary coproporphyria using plasma fluorescence emission, urine porphyrin fractionation and stool porphyrins?",
+      "lesson": {
+        "title": "Porphyrias",
+        "channel": "Chemical Pathology",
+        "url": "https://www.youtube.com/watch?v=OFtib1dmpZo",
+        "duration": "58:15",
+        "why": "A chemical-pathology lecture that works through the blistering porphyrias and, crucially, the biochemical patterns that tell PCT apart from VP and HCP."
+      },
+      "drills": [
+        {
+          "name": "Dermatology view of photosensitivity",
+          "kind": "clinical",
+          "title": "Lecture-114: Cutaneous Photosensitivity diseases, Part-I. Rook's chapter 127.",
+          "channel": "Dermatology online by Prof Asher",
+          "url": "https://www.youtube.com/watch?v=3lelgbxdSjc",
+          "duration": "27:50"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u10",
+      "type": "section",
+      "name": "Treatment of PCT",
+      "ashsapPage": 78,
+      "assessment": "Can you name the two accepted treatments for porphyria cutanea tarda, the biochemical endpoint each is titrated to, and the susceptibility factors — hepatitis C, alcohol, estrogen, HFE variants — that should be removed first?",
+      "lesson": {
+        "url": null,
+        "note": "Re-searched on the treatments themselves - phlebotomy, low-dose hydroxychloroquine, ferritin endpoints - rather than on the ambiguous abbreviation PCT. The pool is still only board-preparation dermatology, a self-described beginner's guide, a student presentation, a Wikipedia audio reading and an Urdu-language hydroxychloroquine pharmacy clip, plus a library lecture on the history of bloodletting. The previous pick has been withdrawn because it is exam-prep content; nothing at specialist level on titrating phlebotomy or low-dose hydroxychloroquine in porphyria cutanea tarda exists in the pool."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch6-u11",
+      "type": "section",
+      "name": "Congenital erythropoietic porphyria",
+      "ashsapPage": 79,
+      "assessment": "Which enzyme deficiency causes congenital erythropoietic porphyria, and can you explain how it produces mutilating photosensitivity, hemolytic anemia, splenomegaly and erythrodontia in the same patient?",
+      "lesson": {
+        "title": "Porphyrias | Dr. Tony Talebi lectures on Porphyrias",
+        "channel": "Tony Talebi",
+        "url": "https://www.youtube.com/watch?v=RCx9bIbukfE",
+        "duration": "12:07",
+        "why": "A hematology-directed lecture on the porphyrias that places the erythropoietic forms, including Gunther disease, against the hepatic ones."
+      },
+      "drills": [
+        {
+          "name": "The enzyme block itself",
+          "kind": "mechanism",
+          "title": "Congenital erythropoietin porphyria || Biochemistry",
+          "channel": "Creative Medicine",
+          "url": "https://www.youtube.com/watch?v=-2eYjk35r4w",
+          "duration": "6:24"
+        },
+        {
+          "name": "Porphyrin testing patterns",
+          "kind": "clinical",
+          "title": "Porphyrias",
+          "channel": "Association for Diagnostics & Laboratory Medicine",
+          "url": "https://www.youtube.com/watch?v=W23nPzy61AU",
+          "duration": "12:53"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u12",
+      "type": "section",
+      "name": "Erythropoietic protoporphyria",
+      "ashsapPage": 80,
+      "assessment": "Can you explain why erythropoietic protoporphyria causes burning photosensitivity without blistering, which single test makes the diagnosis, and which patients are at risk of protoporphyric liver failure?",
+      "lesson": {
+        "title": "Porphyria pathology",
+        "channel": "Mike Birkhead",
+        "url": "https://www.youtube.com/watch?v=qLYBV6P-09A",
+        "duration": "19:45",
+        "why": "A pathology lecture that covers the protoporphyrias alongside the rest of the group, including why free protoporphyrin accumulation gives pain rather than blisters."
+      },
+      "drills": [
+        {
+          "name": "Genetics behind EPP",
+          "kind": "mechanism",
+          "title": "The etiology of erythropoietic protoporphyria",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=8DjzG8DQ0sg",
+          "duration": "0:50"
+        },
+        {
+          "name": "Disease overview for clinicians",
+          "kind": "clinical",
+          "title": "Erythropoietic Protoporphyria",
+          "channel": "Rare Disease Report",
+          "url": "https://www.youtube.com/watch?v=SVW49RFUi2o",
+          "duration": "3:13"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "chapter": "CH7",
+  "title": "Acquired underproduction anemias: anemias in the setting of vitamin and mineral deficiencies",
+  "units": [
+    {
+      "id": "ch7-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 82,
+      "assessment": "Can you define underproduction anemia by its reticulocyte response and list the substrates, hormones and marrow conditions whose deficiency produces it?",
+      "lesson": {
+        "title": "Anemia: General Workup and Updates",
+        "channel": "USF Internal Medicine",
+        "url": "https://www.youtube.com/watch?v=vDi338vVxKM",
+        "duration": "48:48",
+        "why": "An internal medicine department update that starts where this section starts - classifying an anemia by the reticulocyte response before anything else - and then walks the underproduction branch through the substrate, hormone and marrow causes the rest of the chapter takes up one at a time."
+      },
+      "drills": [
+        {
+          "name": "The same ground from a grand rounds",
+          "kind": "clinical",
+          "title": "Medicine Grand Rounds: Updates on Anemia Management for Internists",
+          "channel": "EVMS Medicine",
+          "url": "https://www.youtube.com/watch?v=T9pYA797Wio",
+          "duration": "58:21"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u2",
+      "type": "section",
+      "name": "Iron deficiency anemia",
+      "ashsapPage": 83,
+      "assessment": "Can you name the dominant cause of iron deficiency in each demographic group, and say when a patient with a normal hemoglobin but low ferritin still warrants iron repletion?",
+      "lesson": {
+        "title": "Iron homeostasis and its disorders: from iron-deficiency anemia to hereditary hemochromatosis",
+        "channel": "UWDeptMedicine",
+        "url": "https://www.youtube.com/watch?v=51aQeancUWQ",
+        "duration": "1:00:08",
+        "why": "A full academic hour on iron homeostasis that runs the whole range from deficiency to overload, so the causes of iron deficiency are taught against the absorption, recycling and hepcidin physiology that decides who becomes deficient and why."
+      },
+      "drills": [
+        {
+          "name": "Iron deficiency in pregnancy",
+          "kind": "clinical",
+          "title": "\"Anemia in Pregnancy,\" Robert Means Jr. , M. D .",
+          "channel": "ETSU CME Grand Rounds",
+          "url": "https://www.youtube.com/watch?v=R3NN71w5juY",
+          "duration": "1:00:42"
+        },
+        {
+          "name": "Ferritin, transferrin saturation and what they mean",
+          "kind": "clinical",
+          "title": "Transferrin Saturation Explained",
+          "channel": "Vernon Louw",
+          "url": "https://www.youtube.com/watch?v=AKnTG2wVbHs",
+          "duration": "18:31"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u3",
+      "type": "section",
+      "name": "Stages of iron deficiency and clinical manifestations",
+      "ashsapPage": 84,
+      "assessment": "Can you put the laboratory changes of evolving iron deficiency in order — storage depletion, iron-deficient erythropoiesis, frank anemia — and name the non-hematologic features such as pica, restless legs and koilonychia?",
+      "lesson": {
+        "title": "Transferrin Saturation Explained",
+        "channel": "Vernon Louw",
+        "url": "https://www.youtube.com/watch?v=AKnTG2wVbHs",
+        "duration": "18:31",
+        "why": "A haematologist works through transferrin saturation alongside ferritin and total iron-binding capacity, which is how the sequence of iron depletion is actually detected: stores fall first, saturation and iron-restricted erythropoiesis follow, and anemia arrives last."
+      },
+      "drills": [
+        {
+          "name": "Reading an iron panel quickly",
+          "kind": "clinical",
+          "title": "Interpreting Iron Studies",
+          "channel": "Core IM",
+          "url": "https://www.youtube.com/watch?v=52qtX9TaFUY",
+          "duration": "5:39"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u4",
+      "type": "section",
+      "name": "Diagnosis",
+      "ashsapPage": 85,
+      "assessment": "What ferritin threshold confirms iron deficiency in an uninflamed patient, and how should that threshold change when CRP is raised or the patient has heart failure, CKD or obesity?",
+      "lesson": {
+        "title": "Iron Deficiency in Adults: Advances in Diagnosis and Treatment",
+        "channel": "JAMA Network",
+        "url": "https://www.youtube.com/watch?v=Efz_P2GRNJw",
+        "duration": "16:46",
+        "why": "A JAMA review presentation on iron deficiency in adults that is explicit about the diagnostic thresholds - which ferritin value confirms deficiency, how much that value has to be raised when inflammation is present, and why transferrin saturation carries the diagnosis when ferritin cannot."
+      },
+      "drills": [
+        {
+          "name": "Why inflammation moves the threshold",
+          "kind": "mechanism",
+          "title": "Hepcidin's Role in Diagnosing Anemia and other Iron Related Disorders",
+          "channel": "Intrinsic LifeSciences",
+          "url": "https://www.youtube.com/watch?v=EZRsbyjmWmM",
+          "duration": "11:10"
+        },
+        {
+          "name": "Iron studies at the bedside",
+          "kind": "clinical",
+          "title": "Interpreting Iron Studies",
+          "channel": "Core IM",
+          "url": "https://www.youtube.com/watch?v=52qtX9TaFUY",
+          "duration": "5:39"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u5",
+      "type": "section",
+      "name": "Treatment",
+      "ashsapPage": 87,
+      "assessment": "Can you state a modern oral iron regimen and the hepcidin physiology behind alternate-day dosing, and list the situations that make intravenous iron the better first choice?",
+      "lesson": {
+        "title": "Pumping Iron: Which IV Iron Formulation Is Right for Your Patient?",
+        "channel": "Medscape",
+        "url": "https://www.youtube.com/watch?v=Wz3HuENJjU0",
+        "duration": "9:51",
+        "why": "A clinician-directed comparison of the intravenous iron formulations - dose per infusion, infusion time, the hypersensitivity signal and the hypophosphatemia that separates them - which is the decision this section asks you to make once oral iron is not the right answer."
+      },
+      "drills": [
+        {
+          "name": "Ferric carboxymaltose in depth",
+          "kind": "clinical",
+          "title": "A to Z of CV Pharmacotherapy | Ferric Carboxymaltose",
+          "channel": "Radcliffe Cardiology",
+          "url": "https://www.youtube.com/watch?v=X-wO_8qh7K8",
+          "duration": "1:02:27"
+        },
+        {
+          "name": "Why iron nanoparticles trigger reactions",
+          "kind": "mechanism",
+          "title": "Hypersensitivity to Iron‐containing Nanoparticles: Clinical Information and Modeling in Pigs",
+          "channel": "TAUVOD",
+          "url": "https://www.youtube.com/watch?v=2BUgCxsB8Bg",
+          "duration": "17:25"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u6",
+      "type": "section",
+      "name": "Megaloblastic anemias",
+      "ashsapPage": 88,
+      "assessment": "Can you explain how impaired DNA synthesis produces macro-ovalocytes, hypersegmented neutrophils and intramedullary hemolysis with a high LDH and low haptoglobin despite an underproduction anemia?",
+      "lesson": {
+        "title": "MEGALOBLASTIC ANAEMIA",
+        "channel": "Hematology and blood transfusion science lecture",
+        "url": "https://www.youtube.com/watch?v=TQ9y2dfxXcA",
+        "duration": "57:40",
+        "why": "A full-length hematology lecture on megaloblastic anemia covering the biochemistry of the B12 and folate blocks, the morphology, and the diagnostic sequence."
+      },
+      "drills": [
+        {
+          "name": "Macrocytic anemias in the lab",
+          "kind": "clinical",
+          "title": "Macrocytic Anemias-Hematology Lecture Series",
+          "channel": "The Lab Rat",
+          "url": "https://www.youtube.com/watch?v=9mYTo7nurqA",
+          "duration": "16:44"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u7",
+      "type": "section",
+      "name": "Folate deficiency",
+      "ashsapPage": 91,
+      "assessment": "How do methylmalonic acid and homocysteine separate folate deficiency from cobalamin deficiency, and why must B12 deficiency be excluded before folate is replaced?",
+      "lesson": {
+        "title": "FOLATE METABOLISM   #Vitamin B9, #Folic acid Metabolism, #B9 Metabolism",
+        "channel": "Hematology and blood transfusion science lecture",
+        "url": "https://www.youtube.com/watch?v=bwhUC-5h1sg",
+        "duration": "48:12",
+        "why": "A full lecture on folate metabolism from the same hematology teaching series used earlier in this chapter, covering the folate cycle, its intersection with the methionine synthase step that requires cobalamin, and why the two deficiencies overlap biochemically but not neurologically."
+      },
+      "drills": [
+        {
+          "name": "Methylmalonic acid versus homocysteine",
+          "kind": "mechanism",
+          "title": "Vit B12 Deficiency, Homocysteine, & Methylmalonic Acid",
+          "channel": "Thomas Fordham Brewer MD MPH",
+          "url": "https://www.youtube.com/watch?v=ky-Mu5yVyuU",
+          "duration": "3:37"
+        },
+        {
+          "name": "Both deficiencies side by side",
+          "kind": "clinical",
+          "title": "Megaloblastic Anemia (Including B12 and folate deficiency)",
+          "channel": "Coag Coach",
+          "url": "https://www.youtube.com/watch?v=pxhXneBxaOI",
+          "duration": "6:02"
+        }
+      ]
+    }
+  ]
+}

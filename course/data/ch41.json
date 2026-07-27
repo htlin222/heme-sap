@@ -1,0 +1,277 @@
+{
+  "chapter": "CH41",
+  "title": "Acute myeloid leukemia",
+  "units": [
+    {
+      "id": "ch41-u1",
+      "type": "section",
+      "name": "Introduction",
+      "ashsapPage": 503,
+      "assessment": "Can you explain why AML is now defined genomically rather than morphologically, and name the mutations that must be sent at diagnosis because they change either prognosis or the drug you choose (NPM1, CEBPA, TP53, ASXL1, FLT3, IDH1/2, KMT2A)?",
+      "lesson": {
+        "title": "Molecular Profile of Acute Myeloid Leukemia (AML)",
+        "channel": "The Society for Translational Oncology",
+        "url": "https://www.youtube.com/watch?v=zHcQIrU7Ktk",
+        "duration": "43:51",
+        "why": "Sets up the whole chapter the way modern practice does, by treating AML as a collection of genetically distinct diseases rather than one morphologic entity."
+      },
+      "drills": [
+        {
+          "name": "Clonal hematopoiesis as the origin of AML",
+          "kind": "mechanism",
+          "title": "Clonal hematopoiesis in AML & insights into a novel CHIP risk stratification score being explored",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=HZRFvvYgD6g",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "id": "ch41-u2",
+      "type": "section",
+      "name": "Clinical manifestations",
+      "ashsapPage": 503,
+      "assessment": "Can you list the presenting features of AML that constitute emergencies — hyperleukocytosis with leukostasis, DIC in a suspected APL, tumor lysis, neutropenic sepsis — and say what you would do in the first hour for each?",
+      "lesson": {
+        "title": "Acute Myeloid Leukemia | Clinical Presentation",
+        "channel": "Medscape",
+        "url": "https://www.youtube.com/watch?v=j0ruBn1XM24",
+        "duration": "10:15",
+        "why": "A concise clinician-facing run through how AML presents, from the marrow-failure symptoms to the organ-infiltration and leukostasis findings that force urgent action."
+      },
+      "drills": []
+    },
+    {
+      "id": "ch41-u3",
+      "type": "section",
+      "name": "Diagnosis",
+      "ashsapPage": 503,
+      "assessment": "Can you state the blast threshold for diagnosing AML and the genetic abnormalities that make the diagnosis regardless of blast count, and describe how morphology, flow cytometry, karyotype and NGS each contribute to the diagnostic package?",
+      "lesson": {
+        "title": "WHO Classification of Acute Myeloid Leukaemia and Related Precursor Neoplasms",
+        "channel": "Gillian Rozenberg Microscopic Haematology",
+        "url": "https://www.youtube.com/watch?v=iNGDl9spQzs",
+        "duration": "1:44:51",
+        "why": "A long, careful morphology-plus-genetics teaching session on how AML and its precursor neoplasms are diagnosed; it predates the 2022 WHO 5th edition and ICC, so take the current blast-threshold rules from the classification unit."
+      },
+      "drills": [
+        {
+          "name": "Measurable residual disease at baseline and after",
+          "kind": "clinical",
+          "title": "MRD in AML: What is it and what do I do about it?",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=GgpVyCMY66w",
+          "duration": "24:36"
+        }
+      ]
+    },
+    {
+      "id": "ch41-u4",
+      "type": "section",
+      "name": "Subtype classification",
+      "ashsapPage": 503,
+      "assessment": "Can you name the recurrent genetic abnormalities that define AML entities under WHO 5th edition and ICC, and explain what myelodysplasia-related AML means now that a defined set of secondary-type mutations (ASXL1, BCOR, EZH2, RUNX1, SF3B1, SRSF2, STAG2, U2AF1, ZRSR2) assigns it?",
+      "lesson": {
+        "title": "WHO Classification of Acute Myeloid Leukaemia and Related Precursor Neoplasms",
+        "channel": "Gillian Rozenberg Microscopic Haematology",
+        "url": "https://www.youtube.com/watch?v=iNGDl9spQzs",
+        "duration": "1:44:51",
+        "why": "The only systematic walk through the WHO subtypes in the pool, entity by entity with the morphology and genetics of each; it predates the 2022 revisions, so treat its blast-threshold and MDS-related rules as the older framework the current schemes rebuilt."
+      },
+      "drills": [
+        {
+          "name": "Genetics behind the myelodysplasia-related category",
+          "kind": "mechanism",
+          "title": "From MDS to AML: Genetics of Progression (featuring Prof Lars Bullinger)",
+          "channel": "European Hematology Association",
+          "url": "https://www.youtube.com/watch?v=iKzXbPRDSdI",
+          "duration": "20:33"
+        },
+        {
+          "name": "Molecular profiling that assigns subtype",
+          "kind": "mechanism",
+          "title": "Molecular Profile of Acute Myeloid Leukemia (AML)",
+          "channel": "The Society for Translational Oncology",
+          "url": "https://www.youtube.com/watch?v=zHcQIrU7Ktk",
+          "duration": "43:51"
+        }
+      ]
+    },
+    {
+      "id": "ch41-u5",
+      "type": "section",
+      "name": "Prognosis",
+      "ashsapPage": 505,
+      "assessment": "Using ELN 2022, can you sort a case into favourable, intermediate or adverse risk — where do NPM1 with and without FLT3-ITD, CEBPA bZIP, core binding factor, complex karyotype and TP53 fall — and say how MRD after induction modifies that assignment?",
+      "lesson": {
+        "title": "Molecular Profile of Acute Myeloid Leukemia (AML)",
+        "channel": "The Society for Translational Oncology",
+        "url": "https://www.youtube.com/watch?v=zHcQIrU7Ktk",
+        "duration": "43:51",
+        "why": "Watched a second time for its prognostic content: which cytogenetic and molecular lesions drive outcome, and why the mutation panel is a prognostic instrument and not just a diagnostic one."
+      },
+      "drills": [
+        {
+          "name": "TP53-mutant AML",
+          "kind": "clinical",
+          "title": "Targeting tumor protein 53 (p53): Is there anything we can do therapeutically?",
+          "channel": "HMP Global",
+          "url": "https://www.youtube.com/watch?v=gsJJBjDsUWM",
+          "duration": "17:46"
+        },
+        {
+          "name": "Pre-leukemic clones and relapse risk",
+          "kind": "trial",
+          "title": "Pre-leukemic clones that survive chemotherapy are linked to a higher risk of leukemia recurrence",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=NwWJqQFFYl8",
+          "duration": "4:12"
+        }
+      ]
+    },
+    {
+      "id": "ch41-u6",
+      "type": "section",
+      "name": "Treatment",
+      "ashsapPage": 507,
+      "assessment": "For a fit adult with newly diagnosed AML, can you state the standard induction backbone, say when midostaurin or quizartinib, gemtuzumab ozogamicin and high-dose cytarabine consolidation are added, and give the criteria that send a patient to allogeneic transplant in first remission?",
+      "lesson": {
+        "title": "Acute Myeloid Leukemia: Treatment Advances",
+        "channel": "Leukemia Research Foundation",
+        "url": "https://www.youtube.com/watch?v=oq9VIF7ebRg",
+        "duration": "56:58",
+        "why": "A 2025 update covering the current treatment architecture — intensive induction, the FLT3, IDH and CD33-directed additions, consolidation and transplant — rather than pre-2020 regimens."
+      },
+      "drills": [
+        {
+          "name": "How AML is actually treated in practice",
+          "kind": "clinical",
+          "title": "How to Approach to Acute Myeloid Leukemia (AML) from Community Oncology Perspective",
+          "channel": "OncBrothers: Practice-Changing Cancer Discussions",
+          "url": "https://www.youtube.com/watch?v=u8fm4oCCm0s",
+          "duration": "22:21"
+        },
+        {
+          "name": "Venetoclax with low-dose cytarabine",
+          "kind": "trial",
+          "title": "For Older AML Patients, Venetoclax With Low-Dose Cytarabine is Safe and “Promising”",
+          "channel": "American Society of Hematology",
+          "url": "https://www.youtube.com/watch?v=lsF_gWJRbf4",
+          "duration": "4:49"
+        },
+        {
+          "name": "QUAZAR: oral azacitidine maintenance",
+          "kind": "trial",
+          "title": "The QUAZAR AML-001 Maintenance Trial (Oral Formulation of Azacitidine in AML First Remission",
+          "channel": "Oncoletter",
+          "url": "https://www.youtube.com/watch?v=6ChUANqRhIU",
+          "duration": "8:30"
+        }
+      ]
+    },
+    {
+      "id": "ch41-u7",
+      "type": "section",
+      "name": "Treatment for medically less-fit patients",
+      "ashsapPage": 511,
+      "assessment": "Can you define what makes a patient medically unfit for intensive induction, state the response rate and median survival expected from venetoclax plus azacitidine, and say when ivosidenib plus azacitidine is preferred instead?",
+      "lesson": {
+        "title": "Treating elderly or unfit patients with AML: current approach and future directions",
+        "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+        "url": "https://www.youtube.com/watch?v=LIwfgt-Jmsk",
+        "duration": "19:54",
+        "why": "A 2025 review of the unfit and elderly AML pathway, built around venetoclax combinations and the mutation-directed alternatives that now define this population's care."
+      },
+      "drills": [
+        {
+          "name": "AML in older adults, start to finish",
+          "kind": "clinical",
+          "title": "Treating Acute Myeloid Leukemia (AML) in Older Adults",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=IBao5911hNw",
+          "duration": "52:41"
+        },
+        {
+          "name": "How the unfit paradigm has shifted",
+          "kind": "clinical",
+          "title": "The evolving treatment paradigm for unfit patients with AML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=R2wBtZPNLIQ",
+          "duration": "4:50"
+        },
+        {
+          "name": "10-day decitabine versus 3+7 before transplant",
+          "kind": "trial",
+          "title": "10-day decitabine vs 3+7 chemotherapy followed by alloHSCT in older & fit patients with AML",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=kTv52EamvoY",
+          "duration": "5:24"
+        }
+      ]
+    },
+    {
+      "id": "ch41-u8",
+      "type": "section",
+      "name": "Special populations",
+      "ashsapPage": 512,
+      "assessment": "Can you say which AML subtypes menin inhibitors target and why, what differentiation syndrome looks like with menin, IDH and ATRA-based therapy, and how you would approach relapsed or refractory disease and therapy-related AML differently from de novo disease?",
+      "lesson": {
+        "title": "Menin Inhibitors to Treat Acute Myeloid Leukemia (AML)",
+        "channel": "European Hematology Association",
+        "url": "https://www.youtube.com/watch?v=Gv4SAZf9u2Q",
+        "duration": "19:42",
+        "why": "Covers the newest targeted class in AML — menin inhibitors for KMT2A-rearranged and NPM1-mutated disease — which is where the special-population questions are currently being written."
+      },
+      "drills": [
+        {
+          "name": "Relapsed and refractory combinations",
+          "kind": "clinical",
+          "title": "Combination Therapies for Relapsed or Refractory AML",
+          "channel": "AAMDSIF",
+          "url": "https://www.youtube.com/watch?v=8VkEuSnwirY",
+          "duration": "59:54"
+        },
+        {
+          "name": "Therapy-related myeloid neoplasms",
+          "kind": "mechanism",
+          "title": "Etiology and genetic profile of t-MDS",
+          "channel": "VJHemOnc – Video Journal of Hematology & HemOnc",
+          "url": "https://www.youtube.com/watch?v=e7GeTvPPNjQ",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "id": "ch41-u9",
+      "type": "section",
+      "name": "Pediatric AML",
+      "ashsapPage": 514,
+      "assessment": "Can you name the ways pediatric AML differs from adult disease — the commoner fusions, the risk-adapted MRD-driven cooperative group protocols, the role of transplant in first remission, and the anthracycline late effects that shape long-term follow-up?",
+      "lesson": {
+        "title": "Challenges and opportunities in the management of pediatric Acute Myeloid Leukemia",
+        "channel": "Perfect Square",
+        "url": "https://www.youtube.com/watch?v=2UQq97WlST8",
+        "duration": "2:05:52",
+        "why": "A full session on childhood AML: the fusions that dominate in children, the risk-adapted MRD-driven cooperative group protocols, where transplant sits in first remission, and the toxicity that shapes survivorship."
+      },
+      "drills": [
+        {
+          "name": "How childhood AML differs from adult disease",
+          "kind": "clinical",
+          "title": "Pediatric vs. Adult AML: Confronting the Age-Related Challenges of Acute Myeloid Leukemia",
+          "channel": "AbbVie",
+          "url": "https://www.youtube.com/watch?v=ulEBMpIL3Cw",
+          "duration": "4:22"
+        },
+        {
+          "name": "Where outcomes have and have not improved",
+          "kind": "clinical",
+          "title": "Children and Adolescents With Acute Myeloid Leukemia: Progress and Opportunities",
+          "channel": "Engage Health Media",
+          "url": "https://www.youtube.com/watch?v=Sn8fDwcXlmY",
+          "duration": "6:46"
+        }
+      ]
+    }
+  ]
+}
