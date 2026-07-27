@@ -70,6 +70,27 @@ the plain-language summary, and "ZUMA-7" returns the patient-reported-outcomes p
 `@N Engl J Med` to a query to pin it to a journal. **Read the printed titles.** Anything that
 resolved to the wrong paper must have its query fixed or be dropped.
 
+## Task: check the discussion threads still work
+
+Each video has its own giscus thread, keyed `video/<id>`, shared across every section that uses
+that video. Two failure modes look identical in the browser — an empty panel — so distinguish
+them from the API rather than by staring at it:
+
+```bash
+curl -sS "https://giscus.app/api/discussions?repo=htlin222/heme-sap&term=video/<id>\
+&category=General&repoId=R_kgDOTkdqgw&categoryId=DIC_kwDOTkdqg84DCCe3&number=0&strict=1&last=15"
+```
+
+- `{"error":"Discussion not found"}` — **healthy.** giscus reached the repo; the thread is
+  created lazily on the first comment.
+- `{"error":"giscus is not installed on this repository"}` — the app lost access, or `repoId`
+  and `categoryId` drifted from the repo. Re-fetch them:
+
+```bash
+gh api graphql -f query='{repository(owner:"htlin222",name:"heme-sap"){id
+  discussionCategories(first:10){nodes{id name}}}}'
+```
+
 ## Task: a new ASH-SAP edition
 
 ```bash
