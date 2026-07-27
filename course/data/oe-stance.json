@@ -8,7 +8,7 @@
    "practice": "Treat a video as a way to get unstuck on a section, then return to the book. The book is the authority here; the video is a teaching aid.",
    "key_findings": [
     "Videos were selected from real search results by a fellowship-level bar: society, journal and academic sources preferred; med-student, exam-prep and patient-education channels excluded.",
-    "1,229 distinct videos across 449 sections, from 2,240 candidate channels narrowed by an explicit channel policy.",
+    "1,291 distinct videos across 449 sections, chosen from 10,942 real search results spanning 2,240 channels, narrowed by an explicit channel policy.",
     "No video was produced, edited or fact-checked by this project; links and public metadata only."
    ],
    "caveats": "A channel-level policy is a proxy for quality, not a measurement of it. A society channel can still post a weak talk, and an unknown channel can post an excellent one.",
@@ -38,13 +38,14 @@
   },
   {
    "unit": "concept-3",
-   "name": "Coverage is uneven, and 38 sections are simply blank",
+   "name": "Coverage is uneven, and 11 sections are simply blank",
    "evidence_grade": "evolving",
    "summary": "YouTube's coverage of hematology is wildly uneven. Sickle cell disease and multiple myeloma have more video than anyone could watch, most of it aimed at patients. Nonsecretory myeloma, cation permeability defects, the T-follicular-helper immunophenotype and salvage chemotherapy for germ cell tumours have essentially nothing at fellowship level. Those sections are left visibly empty with a note saying what was searched.",
    "practice": "An empty slot is information: it says the open web does not teach this and the book is your only source. Padding it with a related-but-wrong video would have been worse.",
    "key_findings": [
-    "38 of 449 sections have no core lecture; each carries a note naming what was searched and why nothing qualified.",
-    "Some blanks were artefacts of search rather than of the world — 'CAT' returned veterinary videos, 'permeability' soil mechanics, 'PCT' bodybuilding post-cycle therapy — and those units were re-searched with drug names and eponyms.",
+    "11 of 449 sections have no core lecture; each carries a note naming what was searched and why nothing qualified.",
+    "The first curation pass left 38 blank, but most of those turned out to be artefacts of search rather than of the world — 'CAT' returned veterinary videos, 'permeability' soil mechanics, 'PCT' bodybuilding post-cycle therapy, 'APLAs' Polish Minecraft. A second pass re-searched 54 units on drug names and eponyms and filled 27 of them.",
+    "One section moved the other way: a first-pass pick for the treatment of porphyria cutanea tarda was withdrawn on review as exam-prep dermatology, below the bar this site sets.",
     "Supplementary videos are weighted toward high-yield topics rather than spread evenly, so section counts do not reflect exam weight."
    ],
    "caveats": "Coverage reflects what exists on YouTube in English, which is not the same as what matters on the boards. Do not read the density of videos as a signal of importance.",
