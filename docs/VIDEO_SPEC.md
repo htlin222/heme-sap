@@ -1,94 +1,103 @@
-# 影片策展規格（所有搜尋 agent 共用）
+# Curation spec
 
-## 任務本質
+The brief every curation pass follows. It is written down because "pick good videos" is not
+an instruction anyone can check, and because the same judgement has to hold across 449
+sections curated by different passes months apart.
 
-為體態矯正課程的每個單元，挑選 **YouTube 上現存最佳的示範影片**。你不是在生成內容，
-你是在策展 —— 每一條連結都必須是真實存在、且你已確認過的影片。
+## The one rule that cannot be broken
 
-## 語言
+**Only video IDs that appear in a stored candidate pool may be used.**
 
-繁體中文或英文皆可。同等品質下優先繁中。
+Pools live in `pools/` and were produced by real `yt-dlp` searches. A curator — human or
+agent — reads a shortlist and picks from it. Nobody types an ID from memory, reconstructs one
+they think they remember, or "corrects" one that looks wrong. `tools/validate.py` re-checks
+every ID against the pools and fails on anything it cannot trace, so this is enforced rather
+than trusted.
 
-## 頻道品質門檻（由高到低優先）
+Copy `id`, `seconds`, `channel` and `title` verbatim out of the candidate object. Durations
+are compared against YouTube's own figure and fail on more than 30 seconds of drift, which
+catches transcription errors.
 
-**英文 — 物理治療 / 運動科學背景**
-- E3 Rehab、Precision Movement、Bob & Brad、Squat University、Tom Merrick
-- Upright Health、Conor Harris、Movement by David、GMB Fitness、Low Back Ability
+## Audience: hematology fellows
 
-**繁中 / 華語 — 具專業背景**
-- 三個字 SunGuts、好痛痛、史考特醫師、Hunter 物理治療、阿舜、Peeta 葛格
-- 一分鐘健身教室、KFIT 健身俱樂部、筋肉媽媽
+This is the decision that shapes everything else. The reader has finished residency and is
+studying for boards. Content pitched below that is not merely unhelpful, it is misleading —
+it implies the topic is simpler than the book is treating it.
 
-**排除**
-- 純內容農場、無專業背景的健身網紅、標題殺人（「7 天矯正駝背」）
-- 播放數 < 5,000 的影片（除非是稀有動作且頻道專業）
-- 已下架 / 私人 / 地區封鎖的影片
+**Reject outright**
 
-## 選片準則
+- Med-student and exam-prep channels: Osmosis, Ninja Nerd, Medicosis Perfectionalis, Armando
+  Hasudungan, Dirty Medicine, Zero To Finals, Dr. Najeeb, Khan Academy, anything branded
+  USMLE / NCLEX / NEET / PANCE.
+- Patient-facing content: patient journeys, survivor stories, "what is X?" explainers,
+  awareness and fundraising videos. Note this is a judgement about *content*, not channel —
+  disease foundations (HealthTree, the International Myeloma Foundation, AAMDSIF, Lymphoma
+  Research Foundation) post both patient education and genuine clinician-to-clinician
+  sessions, and the scientific sessions are welcome.
+- Conference teasers under about two minutes that announce a result without explaining it,
+  unless the result itself is the whole section.
+- Treatment content overtaken by practice change. See below.
 
-1. **示範清楚** — 看得到完整動作，有正面/側面角度更佳
-2. **有講解重點** — 說明常見錯誤、代償、感受部位
-3. **長度適中** — 跟練影片 1–8 分鐘；主課單元教學影片 5–20 分鐘
-4. **單一動作優先** — Part 2 的跟練影片盡量一支對一個動作，不要用 30 分鐘合輯充數
+**Prefer, roughly in this order**
 
-## 驗證要求（重要）
+1. Societies: ASH, EHA, ESH, EBMT, ISTH, AABB, ASTCT.
+2. Journals: NEJM, Lancet, JAMA, Blood, JCI, Mayo Clinic Proceedings.
+3. VJHemOnc, ecancer, and similar clinician-interview series.
+4. Academic centres: MD Anderson, Dana-Farber, Mayo, Hopkins, Stanford, Fred Hutch, and
+   university grand rounds generally.
+5. Disease-foundation scientific sessions: MDS Foundation, AAMDSIF, WFH, NBDF.
+6. CME publishers: OncLive, HMP Global, PeerView, Clinical Care Options, Medscape.
 
-每一個 YouTube URL 都必須實際驗證存在。做法：
-- 用 WebSearch 找到影片後，用 WebFetch 打開 `https://www.youtube.com/watch?v=<id>` 確認
-  標題與頻道，且頁面不是「Video unavailable」
-- 影片 ID 是 11 碼。**絕對不要憑記憶或推測拼湊 video ID** —— 捏造的連結比缺漏更糟
-- 若某個動作實在找不到合格影片，把 `url` 設為 `null` 並在 `note` 說明，不要硬塞
+`tools/channels.json` encodes this as data. The `tier` it produces is a crude channel-name
+match and is wrong in both directions — "Blood Bank Guy" scores `unknown` and is the best
+transfusion-medicine source in the pool; a society channel can still have posted a patient
+story. **Judge the video, not the tier.**
 
-## 輸出格式
+## Currency
 
-寫入你被指定的 JSON 檔案路徑。結構：
+Treatment recommendations expire; biology does not.
 
-```json
-{
-  "chapter": "CH5",
-  "title": "胸椎",
-  "units": [
-    {
-      "id": "ch5-u1",
-      "name": "駝背",
-      "type": "posture",
-      "assessment": "靠牆站立，後腦杓、上背、臀部三點貼牆，若後腦杓需刻意後仰才能貼牆即為陽性",
-      "tight": ["胸大肌", "胸小肌", "上斜方肌", "枕下肌群"],
-      "weak": ["中/下斜方肌", "菱形肌", "頸深屈肌"],
-      "lesson": {
-        "title": "影片標題",
-        "channel": "頻道名",
-        "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-        "duration": "12:34",
-        "why": "一句話說明為何選這支"
-      },
-      "drills": [
-        {
-          "name": "胸小肌按摩球放鬆",
-          "en": "Pec Minor Ball Release",
-          "kind": "release",
-          "target": "胸小肌",
-          "dose": "每側 60 秒",
-          "title": "影片標題",
-          "channel": "頻道名",
-          "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-          "duration": "3:21"
-        }
-      ]
-    }
-  ]
-}
+Apply a recency filter to anything that tells the reader what to give. Between ASH-SAP 9e and
+now: MDS classification was rewritten twice and IPSS-M replaced IPSS-R; CAR-T moved to second
+line in large B-cell lymphoma; quadruplet induction became standard in myeloma; momelotinib,
+pirtobrutinib, asciminib and the menin inhibitors arrived. A lecture recorded before those is
+not dated, it is wrong.
+
+Apply no recency filter to mechanism, physiology, morphology, classification or
+pathophysiology. A 2014 lecture on the complement cascade is still correct.
+
+Where the best available video predates the current standard, say so in the `why` field
+rather than quietly shipping it.
+
+## Empty is a legitimate answer
+
+If nothing in the pool clears the bar, set `"url": null` and write a `note` saying what was
+searched and why it did not qualify. Do not pad. A related-but-wrong video costs the reader
+more time than a blank does, and it hides the finding that the open web does not cover this.
+
+Eleven sections currently ship blank. Many more were blank until a second pass found that the
+first search had been defeated by an ambiguous section title — "CAT" returns veterinary
+videos, "permeability" returns soil mechanics, "PCT" returns bodybuilding post-cycle therapy,
+"APLAs" returns Polish Minecraft. Before accepting a blank, check that the query actually
+described the topic: search on drug names, eponyms and gene symbols rather than the book's
+section heading.
+
+## Per-unit shape
+
+- `assessment` — required, at least 80 characters. A question the reader can answer to test
+  whether the section landed, not a description of the topic. **Write it from scratch.**
+  ASH-SAP's KEY POINTS are copyrighted and none of that text may appear here.
+- `lesson` — the single best video for the section, with a one-sentence `why` explaining what
+  it does for *this* section specifically.
+- `drills` — 0 to 4 supplementary videos, each tagged `mechanism`, `clinical` or `trial`.
+  Weight by exam yield, not evenly: a high-yield topic earns four, a narrow one earns none.
+- Never use the same video twice inside one unit. Reuse across units is allowed and sometimes
+  right — one good overview can serve three adjacent sections.
+
+## Gates
+
+```bash
+python3 tools/check_picks.py packet.json course/data/ch*.json   # during a curation pass
+python3 tools/validate.py pools/*.json                          # whole course, any time
+make check                                                      # lint + build + audit + validate
 ```
-
-`kind` 三選一：`release`(🔵放鬆) / `stretch`(🟢拉伸) / `train`(🔴訓練)
-
-## 動作設計原則
-
-你要自己設計每個單元的動作清單（名稱、目標肌群、劑量），再去找對應影片。原則：
-
-- **放鬆** 針對「緊繃側」肌群 — 滾筒、按摩球、徒手放鬆
-- **拉伸** 針對同樣的緊繃側，但用主動/被動伸展
-- **訓練** 針對「無力側」肌群 — 由簡入難，最後一兩個動作要接近功能性/整合性
-
-動作之間不要重複。跨單元可以有少量重疊（例如胸小肌放鬆同時出現在圓肩與駝背），
-但同一單元內不可重複。

@@ -14,13 +14,13 @@ const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 
 const STORE = {
-  done: "bc:done",
-  theme: "bc:theme",
-  open: "bc:open",
-  tab: "bc:tab",
-  playing: "bc:playing",
-  wide: "bc:wide",
-  listW: "bc:listW",
+  done: "heme:done",
+  theme: "heme:theme",
+  open: "heme:open",
+  tab: "heme:tab",
+  playing: "heme:playing",
+  wide: "heme:wide",
+  listW: "heme:listW",
 };
 
 /** playlist 的 url -> index，讓課程內容的影片連結能導向站內播放 */

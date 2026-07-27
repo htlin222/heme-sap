@@ -48,10 +48,7 @@
     "progressLabel": "Progress",
     "facetLabel": "Filter by theme",
     "assessmentLabel": "Check yourself before moving on",
-    "tightLabel": "High-yield",
-    "weakLabel": "Common traps",
     "lessonLabel": "Core lecture",
-    "drillEvidenceLabel": "Evidence behind this",
     "unitEvidenceLabel": "Evidence base",
     "stats": [
       {

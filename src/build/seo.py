@@ -13,6 +13,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 from datetime import date
 from pathlib import Path
 
@@ -154,10 +155,15 @@ def render_template(meta: dict) -> None:
             node = node[part]
         return node
 
+    unresolved: list[str] = []
+
     def sub(m):
         val = lookup(m.group(1))
         if val is None:
-            return m.group(0)
+            # 設定檔沒有這個鍵，代表這門課用不到這塊 UI；留下 {{token}} 會直接
+            # 出現在使用者眼前，所以清成空字串，另外印出來讓人知道
+            unresolved.append(m.group(1))
+            return ""
         # {units} 指主要單元數（本課＝書的節數），與 app.js 的替換保持一致
         return (
             str(val)
@@ -168,8 +174,44 @@ def render_template(meta: dict) -> None:
 
     html, n = re.subn(r"\{\{([\w.]+)\}\}", sub, html)
     path.write_text(html)
-    left = re.findall(r"\{\{[\w.]+\}\}", html)
-    print(f"   index.html  文案注入 {n} 處" + (f"，未解析 {left}" if left else ""))
+    print(
+        f"   index.html  {n - len(unresolved)} placeholders filled"
+        + (f", {len(unresolved)} blanked (not in config): {', '.join(unresolved)}" if unresolved else "")
+    )
+
+
+def inject_favicon() -> None:
+    """把 site.brandIcon 畫成 favicon，免得換主題後分頁還掛著上一門課的圖示。
+
+    圖示本體從打包好的 sprite 取，所以 favicon 與 header 的品牌圖示保證同一個。
+    """
+    name = SITE_CFG.get("brandIcon")
+    if not name:
+        return
+    sprite_js = (ROOT / "src" / "web" / "js" / "icons.js").read_text()
+    m = re.search(r"export const ICON_SPRITE =\s*(\".*?\");", sprite_js, re.S)
+    if not m:
+        return
+    sprite = json.loads(m.group(1))
+    sym = re.search(rf'<symbol id="i-{re.escape(name)}"[^>]*>(.*?)</symbol>', sprite, re.S)
+    if not sym:
+        print(f"   ⚠ brandIcon {name!r} is not in the sprite; favicon left as-is")
+        return
+
+    svg = (
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' "
+        "stroke='#0969da' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'>"
+        + sym.group(1).replace('"', "'")
+        + "</svg>"
+    )
+    # 單引號與斜線留著方便讀，其餘（含 < > # 空白）一律轉義，才不會提早結束屬性
+    href = "data:image/svg+xml," + urllib.parse.quote(svg, safe="'=:/.,-")
+    path = PUB / "index.html"
+    html, n = re.subn(
+        r'<link rel="icon" href="[^"]*"\s*/>', f'<link rel="icon" href="{href}" />', path.read_text()
+    )
+    path.write_text(html)
+    print(f"   index.html  favicon ← {name}" if n else "   ⚠ favicon link not found")
 
 
 def inject_schema(schema: dict) -> None:
@@ -334,6 +376,7 @@ def main() -> int:
     course = json.loads(course_path.read_text())
     print("SEO 資產：")
     render_template(course["meta"])
+    inject_favicon()
     inject_meta(course)
     inject_schema(build_schema(course))
     write_sitemap()

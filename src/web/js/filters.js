@@ -1,6 +1,6 @@
 // filters.js — 搜尋、動作類型、肌群篩選
 import { icon } from "./icons.js";
-import { esc, UI } from "./render.js";
+import { esc, UI, KIND } from "./render.js";
 
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
@@ -104,9 +104,14 @@ export function applyFilters(state, course) {
   if (q) parts.push(`“${state.query.trim()}”`);
   if (sel.size) parts.push(`${UI.facetPrefix || ""}: ${[...sel].join(", ")}`);
 
+  // 沒有搜尋也沒有篩選時，章節是收合的，可見數必然是 0——顯示 "0 / 959" 會被讀成壞掉，
+  // 所以這種情況直接報總數
+  const kindLabel = (KIND[state.filter] || {}).label;
   $("#filterCount").textContent = parts.length
     ? `${visibleUnits} units · ${visibleDrills} videos match ${parts.join(" + ")}`
-    : `Showing ${visibleDrills} / ${totalDrills} supplementary videos`;
+    : kindLabel
+      ? `${visibleDrills} of ${totalDrills} supplementary videos are ${kindLabel.toLowerCase()}`
+      : `${totalDrills} supplementary videos across ${course.meta.lesson_units} sections`;
 
   toggleBlankslate(visibleUnits);
   return { visibleUnits, visibleDrills };
